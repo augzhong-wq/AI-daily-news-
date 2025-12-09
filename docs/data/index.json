@@ -1,0 +1,29 @@
+{
+  "last_updated": "2025-12-09 18:00:30",
+  "dates": [
+    "2025-12-10",
+    "2025-12-09"
+  ],
+  "statistics": {
+    "total_days": 2,
+    "total_domestic": 50,
+    "total_international": 52,
+    "by_date": [
+      {
+        "date": "2025-12-10",
+        "domestic": 10,
+        "international": 12
+      },
+      {
+        "date": "2025-12-09",
+        "domestic": 40,
+        "international": 40
+      }
+    ],
+    "by_importance": {
+      "高": 94,
+      "中": 8,
+      "低": 0
+    }
+  }
+}
