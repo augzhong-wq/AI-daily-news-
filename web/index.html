@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI每日动态 - Dashboard</title>
+    <link rel="stylesheet" href="css/style.css">
+    <!-- Chart.js for visualizations -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- 使用阿里巴巴图标库 -->
+    <link rel="stylesheet" href="https://at.alicdn.com/t/c/font_4383134_x8k0y3ueqxd.css">
+</head>
+<body>
+    <div class="container">
+        <!-- 顶部导航 -->
+        <header class="header">
+            <div class="logo">
+                <span class="logo-icon">🤖</span>
+                <h1>AI每日动态</h1>
+            </div>
+            <div class="header-info">
+                <span id="last-updated">最后更新：加载中...</span>
+            </div>
+        </header>
+
+        <!-- 统计卡片 -->
+        <section class="stats-section">
+            <div class="stat-card">
+                <div class="stat-icon domestic">📰</div>
+                <div class="stat-content">
+                    <h3>国内动态</h3>
+                    <p class="stat-number" id="stat-domestic">0</p>
+                </div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon international">🌍</div>
+                <div class="stat-content">
+                    <h3>国际动态</h3>
+                    <p class="stat-number" id="stat-international">0</p>
+                </div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon total">📊</div>
+                <div class="stat-content">
+                    <h3>累计天数</h3>
+                    <p class="stat-number" id="stat-days">0</p>
+                </div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon hot">🔥</div>
+                <div class="stat-content">
+                    <h3>高优先级</h3>
+                    <p class="stat-number" id="stat-high">0</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- 日期选择器 -->
+        <section class="date-selector">
+            <button class="nav-btn" id="prev-date">◀ 上一天</button>
+            <select id="date-select">
+                <option value="">选择日期</option>
+            </select>
+            <button class="nav-btn" id="next-date">下一天 ▶</button>
+        </section>
+
+        <!-- 主要内容区 -->
+        <main class="main-content">
+            <!-- 左侧：新闻列表 -->
+            <div class="news-panel">
+                <!-- 国内动态 -->
+                <div class="news-section">
+                    <h2 class="section-title">
+                        <span class="title-icon">🇨🇳</span>
+                        国内动态
+                    </h2>
+                    <div class="news-list" id="domestic-news">
+                        <div class="loading">加载中...</div>
+                    </div>
+                </div>
+
+                <!-- 国际动态 -->
+                <div class="news-section">
+                    <h2 class="section-title">
+                        <span class="title-icon">🌐</span>
+                        国际动态
+                    </h2>
+                    <div class="news-list" id="international-news">
+                        <div class="loading">加载中...</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 右侧：图表区 -->
+            <div class="chart-panel">
+                <!-- 每日趋势图 -->
+                <div class="chart-section">
+                    <h3>📈 每日动态趋势</h3>
+                    <canvas id="trend-chart"></canvas>
+                </div>
+
+                <!-- 重要性分布 -->
+                <div class="chart-section">
+                    <h3>🎯 重要性分布</h3>
+                    <canvas id="importance-chart"></canvas>
+                </div>
+
+                <!-- 今日摘要 -->
+                <div class="summary-section">
+                    <h3>📋 今日摘要</h3>
+                    <p id="daily-summary">暂无摘要</p>
+                </div>
+            </div>
+        </main>
+
+        <!-- 页脚 -->
+        <footer class="footer">
+            <p>AI Daily News Dashboard | 每天16:00自动更新</p>
+            <p>Powered by GitHub Actions & OpenAI</p>
+        </footer>
+    </div>
+
+    <script src="js/app.js"></script>
+</body>
+</html>

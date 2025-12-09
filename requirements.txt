@@ -1,0 +1,17 @@
+# AI Daily News System Dependencies
+# 数据采集
+requests==2.31.0
+beautifulsoup4==4.12.2
+feedparser==6.0.10
+aiohttp==3.9.1
+
+# LLM处理
+openai==1.6.1
+
+# 数据处理
+pandas==2.1.4
+
+# 工具
+python-dotenv==1.0.0
+schedule==1.2.1
+pytz==2023.3
