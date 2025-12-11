@@ -6,7 +6,7 @@ feedparser==6.0.10
 aiohttp==3.9.1
 
 # LLM处理
-openai==1.6.1
+openai>=1.30.0
 
 # 数据处理
 pandas==2.1.4
