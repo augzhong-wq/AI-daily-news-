@@ -1,0 +1,490 @@
+{
+  "date": "2025-12-17",
+  "generated_at": "2025-12-17 08:37:11",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "负债35亿元！扫地机器人巨头宣布破产，被中国代工厂收购；麦当劳回应涨价，网友：谁允许了；我国首批L3级自动驾驶车型进入准入目录",
+      "summary": "12月17日消息，中国国家相关部门批准了首批L3级自动驾驶车型进入准入目录，长安汽车和北汽蓝谷率先获批，这标志着中国高级别自动驾驶汽车商业化落地迈出关键一步，为相关产业链发展提供了明确的政策指引和市场预期。",
+      "importance": "高",
+      "reason": "重大政策与法规：属于国家级自动驾驶准入政策，对产业发展具有里程碑意义。",
+      "tags": [
+        "政策",
+        "自动驾驶",
+        "准入目录"
+      ],
+      "url": "https://www.leiphone.com/category/chips/kmXZSK3LA7JsSgdV.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2025-12-16 08:29:00",
+      "impact_score": 425.0
+    },
+    {
+      "index": 2,
+      "title": "市场监管总局：平台要求商家“全网最低价”可能构成垄断",
+      "summary": "12月17日消息，中国国家市场监管总局在新闻发布会上明确表示，平台要求商家提供“全网最低价”的行为，可能构成滥用市场支配地位或垄断协议，此举旨在规范平台经济竞争秩序，为互联网平台企业提供了清晰的反垄断合规指引。",
+      "importance": "高",
+      "reason": "重大政策与法规：涉及中国反垄断监管机构对平台经济核心竞争行为的定性，影响广泛。",
+      "tags": [
+        "政策",
+        "反垄断",
+        "市场监管"
+      ],
+      "url": "https://36kr.com/p/3592016259956741?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-16 00:23:50",
+      "impact_score": 372.5
+    },
+    {
+      "index": 3,
+      "title": "独家｜昆仑芯完成股改，有望在2026年上半年港股上市",
+      "summary": "12月17日消息，百度旗下AI芯片公司昆仑芯已完成股份制改造，企业名称变更为股份有限公司，此举是其赴港上市进程中的关键一步，市场预计其最快将于2026年上半年登陆港股，这将是中国AI芯片领域的重要资本事件。",
+      "importance": "高",
+      "reason": "重大商业动态：涉及中国头部AI芯片公司（百度系）的上市进程，属于重大资本运作。",
+      "tags": [
+        "上市",
+        "AI芯片",
+        "资本运作"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/VxK2LIrNE0xLUH1f.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2025-12-16 01:09:00",
+      "impact_score": 315.0
+    },
+    {
+      "index": 4,
+      "title": "36氪晚报｜阿里发布电影级视频模型万相2.6；福特汽车在美召回32160辆E-Transit；AMD苏姿丰到访联想集团全球总部",
+      "summary": "12月17日消息，阿里巴巴发布了新一代电影级视频生成模型“万相2.6”，该模型面向专业影视制作场景，支持角色扮演、音画同步、多镜头生成及声音驱动等功能，并已同步上线阿里云百炼平台，旨在提升中国在视频生成AI领域的技术竞争力。",
+      "importance": "高",
+      "reason": "重大产品发布：中国科技巨头阿里巴巴发布旗舰级视频生成模型，属于重要技术产品发布。",
+      "tags": [
+        "产品发布",
+        "视频生成模型",
+        "阿里巴巴"
+      ],
+      "url": "https://36kr.com/p/3598869706146049?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-17 00:00:54",
+      "impact_score": 307.5
+    },
+    {
+      "index": 5,
+      "title": "商汤小浣熊3.0重磅发布！百万级数据分析，一键生成高质量PPT",
+      "summary": "12月17日消息，商汤科技正式发布AI办公智能体“小浣熊3.0”，该产品实现了从生成草稿到交付成果的跃迁，具备长链条任务理解能力，支持百万级数据秒级处理与多模态分析，并能一键生成高质量PPT，标志着中国AI应用向深度工作流自动化迈进。",
+      "importance": "高",
+      "reason": "重大产品发布：中国头部AI公司商汤科技发布重要的办公AI智能体产品，具有应用突破性。",
+      "tags": [
+        "产品发布",
+        "AI办公",
+        "商汤科技"
+      ],
+      "url": "https://36kr.com/newsflashes/3599343914319878?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-17 08:01:58",
+      "impact_score": 290.0
+    },
+    {
+      "index": 6,
+      "title": "上市AI芯片公司落地数个千卡集群；国内有万卡经验的公司不超过3个；拆机DDR4半公开售卖；智算中心建设遇到「死结」",
+      "summary": "12月17日消息，一家已在科创板上市的国产AI芯片公司严格把控品控，并与运营商等合作方成功落地数个千卡级别算力集群项目，其新一代旗舰产品单卡算力约0.5P，显示出国产AI芯片在规模化部署和应用上取得实质性进展。",
+      "importance": "中",
+      "reason": "重大商业动态/产品进展：涉及中国上市AI芯片公司的规模化商业落地，是产业发展的关键信号。",
+      "tags": [
+        "AI芯片",
+        "算力集群",
+        "商业化"
+      ],
+      "url": "https://www.jiqizhixin.com/articles/2025-12-17-10",
+      "source": "机器之心",
+      "original_pub_date": "2025-12-17 06:33:48",
+      "impact_score": 285.0
+    },
+    {
+      "index": 7,
+      "title": "AI4S理解疾病机制，「哲源科技」获亿元A1轮融资 | 36氪首发",
+      "summary": "12月17日消息，中国AI4S（科学智能）企业哲源科技近日完成亿元级A1轮融资，由国科投资领投，资金将用于借助AI技术挖掘疾病新机制、评估新靶点，以破解新药开发在靶点发现和临床试验环节的困境，反映了AI制药赛道回归理性后的新方向。",
+      "importance": "中",
+      "reason": "重大商业动态：中国AI制药公司获得亿元级融资，属于该领域的重要资本动向。",
+      "tags": [
+        "融资",
+        "AI制药",
+        "科学智能"
+      ],
+      "url": "https://36kr.com/p/3598032388079879?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-16 11:11:34",
+      "impact_score": 279.0
+    },
+    {
+      "index": 8,
+      "title": "刘方明教授：即便没有海外GPU，也能训出国产大模型丨GAIR 2025",
+      "summary": "12月17日消息，在GAIR 2025大会上，中国学者刘方明教授阐述了在国产算力基础设施上训练大模型所面临的体系化挑战与可行路径，其观点强调了摆脱对海外GPU依赖的可能性，为中国AI算力自主发展提供了重要的学术与产业思考。",
+      "importance": "中",
+      "reason": "重大学术/产业观点：中国顶尖学者在重要行业会议上发表关于国产算力与大模型发展的关键论述，具有政策和技术指引意义。",
+      "tags": [
+        "国产算力",
+        "大模型",
+        "学术观点"
+      ],
+      "url": "https://36kr.com/newsflashes/3599356094251009?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-17 08:14:21",
+      "impact_score": 260.0
+    },
+    {
+      "index": 9,
+      "title": "人车家全生态持续破圈，小米宣布对开发者开放小米MiMo大模型、CarIoT硬件生态",
+      "summary": "12月17日消息，小米公司宣布向开发者开放其自研的“小米MiMo”大模型以及CarIoT汽车物联网硬件生态，此举旨在加速其“人车家全生态”战略的落地，吸引更多开发者基于小米的AI和硬件平台进行创新应用开发。",
+      "importance": "中",
+      "reason": "重大产品/生态动态：中国头部科技公司小米开放其核心AI模型和硬件生态，属于重要的平台化战略举措。",
+      "tags": [
+        "生态开放",
+        "大模型",
+        "小米"
+      ],
+      "url": "https://36kr.com/p/3599212471206152?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-17 06:39:30",
+      "impact_score": 251.0
+    },
+    {
+      "index": 10,
+      "title": "SIGGRAPH Asia 2025：摩尔线程赢图形顶会3DGS挑战赛大奖，自研LiteGS全面开源",
+      "summary": "12月17日消息，中国GPU公司摩尔线程在计算机图形学顶会SIGGRAPH Asia 2025的3DGS挑战赛中赢得大奖，并宣布将其自研的3DGS基础库LiteGS全面开源，该库在训练速度和模型质量上均表现出显著优势，推动了中国在图形计算与AI融合领域的技术进步与生态建设。",
+      "importance": "中",
+      "reason": "重大学术突破与开源：中国公司在国际顶级学术会议上获奖并开源重要技术，兼具学术荣誉和生态影响力。",
+      "tags": [
+        "学术获奖",
+        "技术开源",
+        "摩尔线程"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/8VCIwuoBCOkG8amz.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2025-12-16 08:11:00",
+      "impact_score": 245.0
+    },
+    {
+      "index": 11,
+      "title": "摩尔线程宣布开源3DGS基础库LiteGS",
+      "summary": "12月17日消息，摩尔线程宣布全面开源其自研的3D高斯泼溅（3DGS）基础库LiteGS，该库在达到同等质量时可获得高达10.8倍的训练加速，且参数量大幅减少，此举将有助于降低3D内容生成门槛并推动中国在相关开源生态中的影响力。",
+      "importance": "中",
+      "reason": "重大学术突破/开源：中国公司开源一项在3D内容生成领域具有显著性能优势的基础技术。",
+      "tags": [
+        "技术开源",
+        "3D生成",
+        "摩尔线程"
+      ],
+      "url": "https://www.leiphone.com/category/chips/dVSDZV4m2b6NA7zf.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2025-12-17 02:37:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 12,
+      "title": "全球最大规模！如视开源室内三维数据集Realsee3D",
+      "summary": "12月17日消息，中国空间数字化企业如视开源了全球最大规模的室内三维数据集Realsee3D，该数据集将为三维视觉、AI重建等领域的研发提供高质量、大规模的数据基础，显著促进中国乃至全球在相关技术方向上的创新进程。",
+      "importance": "中",
+      "reason": "重大学术资源开源：中国公司开源关键基础数据集，对AI和三维视觉研究社区有重要贡献。",
+      "tags": [
+        "数据集开源",
+        "三维视觉",
+        "如视"
+      ],
+      "url": "https://www.leiphone.com/category/chips/0gJnX617mdpdFb48.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2025-12-16 06:00:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 13,
+      "title": "爱诗科技与阿里云达成全栈AI合作 AI视频全球化再启航",
+      "summary": "12月17日消息，中国AI视频生成公司爱诗科技与阿里云达成全栈AI合作，双方将在算力、模型、平台等方面深度协同，共同推动AI视频技术的全球化应用与发展，标志着中国AI产业链上下游协同的进一步加强。",
+      "importance": "低",
+      "reason": "重大商业动态：中国AI初创公司与云巨头的战略合作，属于产业内重要合作。",
+      "tags": [
+        "战略合作",
+        "AI视频",
+        "阿里云"
+      ],
+      "url": "https://www.leiphone.com/category/chips/pvKdN9j8Zj4svYJO.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2025-12-16 06:12:00",
+      "impact_score": 180.0
+    },
+    {
+      "index": 14,
+      "title": "薪酬惊人！苹果库克7小时收入超普通工人年薪；帮周鸿祎做数十亿假账？360集团回应：完全失实；昆仑芯完成股改，或明年上半年港股上市",
+      "summary": "12月17日消息，针对网络上前高管指控其财务造假的传闻，360集团发布严正声明予以完全否认，称相关言论极端失实，该事件引发了市场对中国头部网络安全公司治理与声誉的关注。",
+      "importance": "低",
+      "reason": "安全与伦理/商业动态：涉及中国知名上市公司（360）的重大声誉争议与回应，属于企业风险事件。",
+      "tags": [
+        "企业声誉",
+        "争议回应",
+        "360集团"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/BZFWc91ekbX3aYT6.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2025-12-17 01:17:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 15,
+      "title": "8点1氪丨周鸿祎回应前高管称帮其做假账几十亿；俞敏洪做PPT回应南极游；全球五大PC厂商都将涨价",
+      "summary": "12月17日消息，360集团创始人周鸿祎发布声明，强烈否认前高管关于其财务造假的指控，并表示集团已启动法律程序维权，此事凸显了中国科技企业在快速发展过程中面临的内部治理与舆论挑战。",
+      "importance": "低",
+      "reason": "安全与伦理/商业动态：中国科技企业核心人物卷入财务造假争议并正式回应，属于企业级风险事件。",
+      "tags": [
+        "财务争议",
+        "企业回应",
+        "360集团"
+      ],
+      "url": "https://36kr.com/p/3599321472024836?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-17 08:00:00",
+      "impact_score": 160.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Amazon in talks to invest more than $10bn in OpenAI",
+      "summary": "12月17日消息，亚马逊正与OpenAI进行初步谈判，计划投资超过100亿美元，此举可能将OpenAI的估值推高至5000亿美元以上，并涉及OpenAI使用亚马逊的AI芯片，标志着云巨头在AI领域的重大战略布局。",
+      "importance": "高",
+      "reason": "重大商业动态：涉及全球顶尖AI公司OpenAI与科技巨头亚马逊之间潜在的超百亿美元战略投资与合作，对AI产业格局和芯片竞争有深远影响。",
+      "tags": [
+        "重大商业动态",
+        "OpenAI",
+        "亚马逊",
+        "战略投资",
+        "芯片"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2025-12-16/databricks-ceo-on-4b-funding-round-ipo-plans-and-ai-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2025-12-16 21:59:19",
+      "impact_score": 367.5
+    },
+    {
+      "index": 2,
+      "title": "Waymo Seeking Over $15 Billion Near $100 Billion Valuation",
+      "summary": "12月17日消息，Alphabet旗下的自动驾驶公司Waymo正在洽谈新一轮融资，计划筹集超过150亿美元，估值接近1000亿美元，本轮融资由其母公司Alphabet领投，旨在支持其向包括伦敦和纽约在内的数十个城市扩张。",
+      "importance": "高",
+      "reason": "重大商业动态：涉及全球领先的自动驾驶公司，融资额巨大，估值极高，是AI在自动驾驶领域商业化进程中的重要里程碑。",
+      "tags": [
+        "重大商业动态",
+        "Waymo",
+        "Alphabet",
+        "自动驾驶",
+        "巨额融资"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2025-12-16/not-selling-existing-bitcoin-on-balance-sheet-mallers-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2025-12-16 21:04:06",
+      "impact_score": 367.5
+    },
+    {
+      "index": 3,
+      "title": "Databricks CEO on $4B Funding Round, IPO Plans and AI",
+      "summary": "12月17日消息，数据智能公司Databricks宣布完成超过40亿美元的新一轮融资，公司估值达到1340亿美元，较三个月前增长34%，其CEO同时谈及了公司的IPO计划，显示出其AI业务的强劲增长势头。",
+      "importance": "高",
+      "reason": "重大商业动态：美国AI与数据领域独角兽完成巨额融资，估值飙升，是AI基础设施领域的重要资本事件，且涉及未来IPO预期。",
+      "tags": [
+        "重大商业动态",
+        "Databricks",
+        "巨额融资",
+        "高估值",
+        "IPO"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2025-12-17/flutter-s-paddy-power-betfair-fined-2-million-by-uk-regulator",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2025-12-17 08:08:47",
+      "impact_score": 315.0
+    },
+    {
+      "index": 4,
+      "title": "Evaluating Frontier LLMs on PhD-Level Mathematical Reasoning: A Benchmark on a Textbook in Theoretical Computer Science about Randomized Algorithms",
+      "summary": "12月17日消息，一项发布于arXiv的新研究提出了一项针对前沿大语言模型的博士级数学推理基准测试，基于理论计算机科学中关于随机算法的教科书内容，旨在评估AI系统在高级科学发现和复杂数学推理方面的能力突破。",
+      "importance": "高",
+      "reason": "重大学术突破：提出了评估前沿大语言模型（如GPT-5）在高级数学和科学推理能力的新基准，属于AI核心能力评估的重要学术进展。",
+      "tags": [
+        "重大学术突破",
+        "大语言模型",
+        "数学推理",
+        "基准测试",
+        "arXiv"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2025-12-17/crypto-exchange-hashkey-makes-hong-kong-trading-debut-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2025-12-17 02:02:03",
+      "impact_score": 255.0
+    },
+    {
+      "index": 5,
+      "title": "Zoom says it aced AI’s hardest exam. Critics say it copied off its neighbors.",
+      "summary": "12月17日消息，Zoom公司宣布其AI模型在一项最严苛的AI测试中取得了有史以来的最高分，但这一声明引发了业界的广泛惊讶、怀疑和关于其方法是否涉及抄袭的争议，突显了AI性能竞争中的伦理与真实性挑战。",
+      "importance": "中",
+      "reason": "安全与伦理：涉及知名上市公司（Zoom）在AI核心能力测试上的重大声明及其引发的真实性、伦理争议，属于AI安全与伦理范畴的重要事件。",
+      "tags": [
+        "安全与伦理",
+        "Zoom",
+        "AI测试",
+        "性能争议",
+        "伦理"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2025-12-16/bloomberg-tech-12-16-2025-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2025-12-16 22:32:15",
+      "impact_score": 255.0
+    },
+    {
+      "index": 6,
+      "title": "Zencoder drops Zenflow, a free AI orchestration tool that pits Claude against OpenAI’s models to catch coding errors",
+      "summary": "12月17日消息，硅谷AI编程初创公司Zencoder发布了一款免费的AI编排工具Zenflow，该工具通过让Anthropic的Claude模型与OpenAI的模型相互对抗来捕捉代码错误，旨在推动软件开发从“氛围编程”向更严谨、可验证的模式转变。",
+      "importance": "中",
+      "reason": "重大产品发布：涉及海外AI初创公司发布的重要工具产品，该产品整合了多个顶尖AI模型（Claude, OpenAI），旨在解决AI编程的可靠性和验证问题，具有创新性。",
+      "tags": [
+        "重大产品发布",
+        "Zencoder",
+        "AI编程工具",
+        "模型编排",
+        "Claude"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2025-12-16/waymo-seeks-to-raise-funds-at-valuation-near-100-billion",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2025-12-16 22:33:18",
+      "impact_score": 240.0
+    },
+    {
+      "index": 7,
+      "title": "Vibe coding startup Lovable's latest funding round values it at $6.6 billion, sources say",
+      "summary": "12月17日消息，据知情人士透露，AI编程初创公司Lovable在新一轮融资中估值达到66亿美元，较其7月份的上轮融资估值增长超过两倍，投资方包括Accel等知名风投机构。",
+      "importance": "中",
+      "reason": "重大商业动态：海外AI编程领域初创公司获得高额融资，估值在短时间内大幅跃升，反映了资本市场对AI应用层（编程辅助）的高度关注。",
+      "tags": [
+        "重大商业动态",
+        "Lovable",
+        "AI编程",
+        "融资",
+        "高估值"
+      ],
+      "url": "https://arxiv.org/abs/2512.13978",
+      "source": "arXiv AI",
+      "original_pub_date": "2025-12-17 05:00:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 8,
+      "title": "LoopBench: Discovering Emergent Symmetry Breaking Strategies with LLM Swarms",
+      "summary": "12月17日消息，研究人员在arXiv上发布了LoopBench基准测试，旨在评估大语言模型在分布式系统协调中的推理能力，特别是发现涌现的对称性破缺策略，这对于理解LLM作为自主智能体在复杂环境中的行为至关重要。",
+      "importance": "中",
+      "reason": "重大学术突破：提出了一个评估LLM智能体在分布式系统中协调与策略涌现能力的新基准，属于AI智能体研究和多智能体系统领域的前沿学术工作。",
+      "tags": [
+        "重大学术突破",
+        "大语言模型",
+        "智能体",
+        "基准测试",
+        "多智能体系统"
+      ],
+      "url": "https://techcrunch.com/2025/12/16/databricks-raises-4b-at-134b-valuation-as-its-ai-business-heats-up/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2025-12-16 14:39:20",
+      "impact_score": 210.0
+    },
+    {
+      "index": 9,
+      "title": "Incentivizing Tool-augmented Thinking with Images for Medical Image Analysis",
+      "summary": "12月17日消息，一项新的医学AI研究提出了一种方法，通过图像激励工具增强思维，以改善多模态大语言模型在医学图像分析中对细粒度视觉区域的动态、迭代聚焦能力，从而提升复杂诊断任务的精确性。",
+      "importance": "低",
+      "reason": "重大学术突破：属于AI在医疗影像分析领域的学术研究进展，涉及多模态大语言模型和工具增强推理，具有应用潜力但尚处研究阶段。",
+      "tags": [
+        "重大学术突破",
+        "医疗AI",
+        "多模态大模型",
+        "医学影像",
+        "arXiv"
+      ],
+      "url": "https://arxiv.org/abs/2512.14157",
+      "source": "arXiv AI",
+      "original_pub_date": "2025-12-17 05:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 10,
+      "title": "Intention Chain-of-Thought Prompting with Dynamic Routing for Code Generation",
+      "summary": "12月17日消息，研究人员提出了一种用于代码生成的“意图链式思维”提示方法，并引入动态路由机制，以解决现有方法在推理路径僵化和错误传播方面的问题，旨在提升大语言模型的代码生成质量和可靠性。",
+      "importance": "低",
+      "reason": "重大学术突破：属于提升大语言模型代码生成能力的提示工程与推理方法研究，是AI for Code领域的学术进展。",
+      "tags": [
+        "重大学术突破",
+        "代码生成",
+        "提示工程",
+        "推理",
+        "arXiv"
+      ],
+      "url": "https://arxiv.org/abs/2512.14048",
+      "source": "arXiv AI",
+      "original_pub_date": "2025-12-17 05:00:00",
+      "impact_score": 185.0
+    }
+  ],
+  "summary": "今日从164条原始信息中精选出15条国内动态和10条国际动态，其中9条为高重要性。 重点关注：负债35亿元！扫地机器人巨头宣布破产，被中国代工厂收购；麦当劳回应涨价，网友：谁允许了；我国首批L3级自动驾驶车型进入准入目录；市场监管总局：平台要求商家“全网最低价”可能构成垄断；独家｜昆仑芯完成股改，有望在2026年上半年港股上市。",
+  "statistics": {
+    "raw_domestic": 41,
+    "raw_international": 123,
+    "raw_total": 164,
+    "final_domestic": 15,
+    "final_international": 10
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "12月17日消息，中国国家相关部门批准了首批L3级自动驾驶车型进入准入目录，长安汽车和北汽蓝谷率先获批，这标志着中国高级别自动驾驶汽车商业化落地迈出关键一步，为相关产业链发展提供了明确的政策指引和市场预期。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "12月17日消息，中国国家市场监管总局在新闻发布会上明确表示，平台要求商家提供“全网最低价”的行为，可能构成滥用市场支配地位或垄断协议，此举旨在规范平台经济竞争秩序，为互联网平台企业提供了清晰的反垄断合规指引。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "12月17日消息，百度旗下AI芯片公司昆仑芯已完成股份制改造，企业名称变更为股份有限公司，此举是其赴港上市进程中的关键一步，市场预计其最快将于2026年上半年登陆港股，这将是中国AI芯片领域的重要资本事件。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "12月17日消息，阿里巴巴发布了新一代电影级视频生成模型“万相2.6”，该模型面向专业影视制作场景，支持角色扮演、音画同步、多镜头生成及声音驱动等功能，并已同步上线阿里云百炼平台，旨在提升中国在视频生成AI领域的技术竞争力。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "12月17日消息，商汤科技正式发布AI办公智能体“小浣熊3.0”，该产品实现了从生成草稿到交付成果的跃迁，具备长链条任务理解能力，支持百万级数据秒级处理与多模态分析，并能一键生成高质量PPT，标志着中国AI应用向深度工作流自动化迈进。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "12月17日消息，亚马逊正与OpenAI进行初步谈判，计划投资超过100亿美元，此举可能将OpenAI的估值推高至5000亿美元以上，并涉及OpenAI使用亚马逊的AI芯片，标志着云巨头在AI领域的重大战略布局。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "12月17日消息，Alphabet旗下的自动驾驶公司Waymo正在洽谈新一轮融资，计划筹集超过150亿美元，估值接近1000亿美元，本轮融资由其母公司Alphabet领投，旨在支持其向包括伦敦和纽约在内的数十个城市扩张。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "12月17日消息，数据智能公司Databricks宣布完成超过40亿美元的新一轮融资，公司估值达到1340亿美元，较三个月前增长34%，其CEO同时谈及了公司的IPO计划，显示出其AI业务的强劲增长势头。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "12月17日消息，一项发布于arXiv的新研究提出了一项针对前沿大语言模型的博士级数学推理基准测试，基于理论计算机科学中关于随机算法的教科书内容，旨在评估AI系统在高级科学发现和复杂数学推理方面的能力突破。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "12月17日消息，Zoom公司宣布其AI模型在一项最严苛的AI测试中取得了有史以来的最高分，但这一声明引发了业界的广泛惊讶、怀疑和关于其方法是否涉及抄袭的争议，突显了AI性能竞争中的伦理与真实性挑战。",
+      "importance": "中"
+    }
+  ]
+}
