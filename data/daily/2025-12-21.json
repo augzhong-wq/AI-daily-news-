@@ -1,0 +1,374 @@
+{
+  "date": "2025-12-21",
+  "generated_at": "2025-12-21 08:32:06",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "王晓刚和他的“世界模型”：一人管十狗，先让四足机器人上街干活｜智能涌现专访",
+      "summary": "12月21日消息，商汤科技联合创始人王晓刚创立的大晓机器人发布其具身智能产品，展示了由一人远程控制十台机器狗执行城市巡查、违停拍照、无人机信号排查等复杂任务的能力，并宣布正与徐州等地方政府合作推进机器狗“城管”的落地应用。",
+      "importance": "高",
+      "reason": "属于国内动态（中国公司/创始人），涉及重大产品发布（具身智能机器人）与商业落地，是AI技术（世界模型、具身智能）在实体机器人领域的重要进展。",
+      "tags": [
+        "具身智能",
+        "产品发布",
+        "商业落地"
+      ],
+      "url": "https://36kr.com/p/3603183524054025?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-20 01:08:06",
+      "impact_score": 327.5
+    },
+    {
+      "index": 2,
+      "title": "具身智能老炮再获数亿融资，移动多臂机器人已批量工业落地｜36氪首发",
+      "summary": "12月21日消息，上海具身智能机器人公司飒智智能连续完成A++轮及A+++轮融资，累计金额达数亿元，由海通开元和国元直投领投，资金将主要用于技术研发、海外市场拓展及智能制造产线建设，其自主研发的SAGE-OS操作系统与一体化控制器已实现批量工业落地。",
+      "importance": "高",
+      "reason": "属于国内动态（中国公司），涉及重大商业动态（数亿元融资）和AI技术（具身智能、机器人操作系统），符合“重大商业动态”筛选标准。",
+      "tags": [
+        "具身智能",
+        "融资",
+        "机器人"
+      ],
+      "url": "https://36kr.com/p/3604613279237380?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-21 01:23:00",
+      "impact_score": 245.0
+    },
+    {
+      "index": 3,
+      "title": "国内唯一专注量子基础软件产业化团队，中科院技术转化，曾牵头科技部重大专项｜36氪首发",
+      "summary": "12月21日消息，依托于中国科学院软件研究所的北京中科弧光量子软件技术有限公司完成数千万元A轮融资，由北京信息产业发展投资基金独家投资，资金将用于扩大团队、研发适配分布式芯片的量子软件解决方案及建设高效量子计算算法库，推动量子计算软件产业化。",
+      "importance": "高",
+      "reason": "属于国内动态（中国研究机构技术转化公司），涉及重大商业动态（融资）和前沿技术（量子软件），且与国家级科研项目（科技部重大专项）相关。",
+      "tags": [
+        "量子计算",
+        "融资",
+        "中科院"
+      ],
+      "url": "https://36kr.com/newsflashes/3604997684380933?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-21 08:22:09",
+      "impact_score": 210.0
+    },
+    {
+      "index": 4,
+      "title": "布局控制+身份一致：浙大提出ContextGen，实现布局锚定多实例生成新SOTA",
+      "summary": "12月21日消息，浙江大学研究团队提出名为ContextGen的新方法，在布局锚定多实例生成任务上取得了新的SOTA（State-of-the-Art）性能，该技术通过改进布局控制和身份一致性，提升了AI生成内容的质量与可控性。",
+      "importance": "高",
+      "reason": "属于国内动态（中国研究机构），涉及重大学术突破（新SOTA性能、重要论文），符合“重大学术突破”筛选标准。",
+      "tags": [
+        "学术突破",
+        "SOTA",
+        "AIGC"
+      ],
+      "url": "https://36kr.com/newsflashes/3604867276964864?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-21 06:36:27",
+      "impact_score": 195.0
+    },
+    {
+      "index": 5,
+      "title": "9点1氪丨字节跳动面向全球员工涨薪；飞天茅台价格暴跌，黄牛半个月亏损超30万元；上海电信回应“罗永浩吐槽网速”",
+      "summary": "12月21日消息，中国科技公司字节跳动发布内部邮件，宣布面向全球员工实施大规模涨薪计划，包括将2025年奖金投入提升35%、大幅增加调薪投入并提高所有职级薪酬总包的上限与下限，以提升人才竞争力。",
+      "importance": "中",
+      "reason": "属于国内动态（中国公司），涉及重大商业动态（公司重大人才战略投入），反映了头部AI/互联网公司的人力资源策略。",
+      "tags": [
+        "字节跳动",
+        "商业动态",
+        "人才战略"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/O2gBvBVRnlbYFPBt.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2025-12-20 08:37:00",
+      "impact_score": 135.0
+    },
+    {
+      "index": 6,
+      "title": "追觅科技俞浩荣膺中国新闻周刊“2025 封面人物”",
+      "summary": "12月21日消息，中国智能清洁机器人公司追觅科技的创始人兼CEO俞浩荣获《中国新闻周刊》“2025封面人物影响力行业创新奖”，以表彰其领导公司在全球化与高端技术创新方面的成就，体现了中国AI硬件公司的行业影响力。",
+      "importance": "中",
+      "reason": "属于国内动态（中国公司及创始人），反映了中国AI硬件（服务机器人）领域领军人物获得的权威社会认可，属于重要的行业声誉事件。",
+      "tags": [
+        "服务机器人",
+        "行业荣誉",
+        "全球化"
+      ],
+      "url": "https://36kr.com/newsflashes/3604964792501510?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-21 07:37:43",
+      "impact_score": 132.0
+    },
+    {
+      "index": 7,
+      "title": "湖南：前11个月规模以上工业增加值同比增长6.1%",
+      "summary": "12月21日消息，湖南省统计局发布经济运行数据，1至11月全省规模以上工业增加值同比增长6.1%，其中装备制造业、电子及通信设备制造业增长显著，服务机器人、传感器等智能产品产量分别实现33.4%和21.8%的高速增长。",
+      "importance": "中",
+      "reason": "属于国内动态（中国地方政府经济数据），其中明确包含了服务机器人、传感器等AI相关智能产品的产量高速增长数据，反映了AI产业在区域经济中的活跃度。",
+      "tags": [
+        "经济数据",
+        "智能制造",
+        "机器人产量"
+      ],
+      "url": "https://36kr.com/newsflashes/3604830464967944?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-21 05:38:04",
+      "impact_score": 132.0
+    },
+    {
+      "index": 8,
+      "title": "中信建投：继续看好AI算力板块",
+      "summary": "12月21日消息，中国头部券商中信建投发布研报，指出AI大模型迭代持续推高算力需求，在看好北美产业链的同时，也建议重视国内AI算力板块，认为国产GPU能力提升及H200芯片供应放开将加速国内AI算力基础设施的部署。",
+      "importance": "中",
+      "reason": "属于国内动态（中国金融机构观点），其核心内容聚焦于中国AI算力产业链的发展机遇与投资前景，与国内AI基础设施建设的政策与商业趋势紧密相关。",
+      "tags": [
+        "AI算力",
+        "投资观点",
+        "国产GPU"
+      ],
+      "url": "https://36kr.com/newsflashes/3604732368930054?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-21 04:58:16",
+      "impact_score": 132.0
+    },
+    {
+      "index": 9,
+      "title": "玩到崩溃，《青椒模拟器》游戏爆火，我在AI世界一路升级做院士",
+      "summary": "12月21日消息，一款名为《青椒模拟器》的AI相关游戏近期爆火，玩家在游戏中模拟青年科研人员（“青椒”）的成长路径，最终目标是成为院士，该游戏因巧妙结合AI生成内容与科研生态模拟而引发广泛关注与讨论。",
+      "importance": "低",
+      "reason": "属于国内动态（推测为中国开发的游戏/文化现象），涉及AI技术（AIGC）在文化娱乐领域的应用与产生的社会影响，属于AI泛化应用的关注点。",
+      "tags": [
+        "AIGC",
+        "AI应用",
+        "文化现象"
+      ],
+      "url": "https://36kr.com/p/3604788158448905?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-21 04:34:49",
+      "impact_score": 132.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "New York Governor Kathy Hochul signs RAISE Act to regulate AI safety",
+      "summary": "12月21日消息，美国纽约州州长凯西·霍楚签署了《RAISE法案》，该法案将强制要求大型AI开发商公开其安全协议信息，并在72小时内向州政府报告安全事件，标志着美国州一级对AI安全监管迈出重要一步。",
+      "importance": "高",
+      "reason": "属于【重大政策与法规】。这是美国州政府层面出台的具有强制性的AI安全监管法案，对在纽约州运营的大型AI公司（如OpenAI、谷歌等）将产生直接影响，是国际AI治理领域的重要动态。",
+      "tags": [
+        "AI安全",
+        "监管",
+        "美国政策"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2025-12-20/ex-nvidia-billionaire-unveils-new-ai-chips-after-china-ipo-debut",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2025-12-20 05:41:17",
+      "impact_score": 255.0
+    },
+    {
+      "index": 2,
+      "title": "Ex-Nvidia Billionaire Unveils New AI Chips After China IPO Debut",
+      "summary": "12月21日消息，由前英伟达高管创立的中国公司摩尔线程发布新一代AI芯片，旨在降低开发者对英伟达硬件的依赖，此举正值该公司在完成近年来最成功的中国IPO之一后不久。",
+      "importance": "高",
+      "reason": "属于【重大产品发布】。新闻主体是海外公司（英伟达）的前高管，且核心内容是发布旨在挑战英伟达主导地位的新AI芯片，属于国际AI硬件竞争的关键动态。",
+      "tags": [
+        "AI芯片",
+        "英伟达",
+        "竞争"
+      ],
+      "url": "https://techcrunch.com/2025/12/19/ex-splunk-execs-startup-resolve-ai-hits-1-billion-valuation-with-series-a/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2025-12-20 00:58:42",
+      "impact_score": 210.0
+    },
+    {
+      "index": 3,
+      "title": "Ex-Splunk execs’ startup Resolve AI hits $1 billion valuation with Series A",
+      "summary": "12月21日消息，由前Splunk高管创立的AI初创公司Resolve AI在A轮融资后估值达到10亿美元，本轮融资由光速创投领投，显示出资本市场对AI初创企业的高度热情。",
+      "importance": "高",
+      "reason": "属于【重大商业动态】。这是一家海外初创公司获得巨额融资并达到独角兽估值，符合“大额融资”的筛选标准，反映了国际AI投资市场的风向。",
+      "tags": [
+        "融资",
+        "独角兽",
+        "初创公司"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2025-12-20/africa-s-tech-disruptors-bloomberg-next-africa",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2025-12-20 06:00:10",
+      "impact_score": 142.5
+    },
+    {
+      "index": 4,
+      "title": "Australia’s biggest pension fund to cut global stocks allocation on AI concerns",
+      "summary": "12月21日消息，澳大利亚最大的养老基金AustralianSuper计划削减全球股票配置，原因是担忧美国科技股周期“成熟”及AI相关公司估值过高，此举可能影响全球科技股资金流向。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】。作为重要的国际机构投资者，其基于对AI行业估值泡沫的担忧而调整资产配置，是影响全球AI产业资本环境的重要信号。",
+      "tags": [
+        "投资",
+        "估值",
+        "养老基金"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2025-12-20/telecom-italia-said-to-win-final-ruling-to-recover-1-billion",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2025-12-20 14:11:09",
+      "impact_score": 127.5
+    },
+    {
+      "index": 5,
+      "title": "Inside Tencent’s deal to use Nvidia’s best AI chips in Japan",
+      "summary": "12月21日消息，腾讯通过与日本数据中心公司Datasection的合作，在日本获取并使用英伟达最先进的AI芯片，这一安排使Datasection迅速成为亚洲最大的“新云”服务商之一。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】。新闻主体涉及海外公司（英伟达、日本Datasection）以及发生在海外的商业合作（日本），核心是围绕受管制的尖端AI芯片（英伟达产品）的获取与部署策略。",
+      "tags": [
+        "英伟达芯片",
+        "地缘政治",
+        "云计算"
+      ],
+      "url": "https://www.ft.com/content/4be26ef3-3f06-44c0-8878-60370336581c",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2025-12-20 04:00:08",
+      "impact_score": 127.5
+    },
+    {
+      "index": 6,
+      "title": "AI was behind over 50,000 layoffs in 2025 — here are the top firms to cite it for job cuts",
+      "summary": "12月21日消息，2025年全球有超过5万个裁员岗位被归因于AI，多家世界顶级科技公司在裁员和重组战略中引用了AI因素，凸显了AI技术对全球就业市场的冲击。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】与【安全与伦理】的交集。这反映了AI技术在全球范围内引发的重大社会经济影响和伦理争议，涉及多家国际科技巨头。",
+      "tags": [
+        "裁员",
+        "社会影响",
+        "就业"
+      ],
+      "url": "https://techcrunch.com/2025/12/20/new-york-governor-kathy-hochul-signs-raise-act-to-regulate-ai-safety/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2025-12-20 18:20:34",
+      "impact_score": 93.0
+    },
+    {
+      "index": 7,
+      "title": "Google was at risk of losing its dominance — until it promoted this AI executive",
+      "summary": "12月21日消息，谷歌为应对在生成式AI市场的竞争压力，提拔了资深高管乔什·伍德沃德负责Gemini应用，旨在与OpenAI正面对抗，以稳固其市场主导地位。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】。反映了国际AI巨头（谷歌）为应对核心竞争对手（OpenAI）而进行的关键人事与战略调整，是行业竞争格局变化的重要体现。",
+      "tags": [
+        "谷歌",
+        "竞争",
+        "人事变动"
+      ],
+      "url": "https://venturebeat.com/ai/hiring-specialists-made-sense-before-ai-now-generalists-win",
+      "source": "VentureBeat AI",
+      "original_pub_date": "2025-12-20 19:00:00",
+      "impact_score": 86.5
+    },
+    {
+      "index": 8,
+      "title": "OpenAI allows users to directly adjust ChatGPT’s enthusiasm level",
+      "summary": "12月21日消息，OpenAI为其ChatGPT推出了新功能，允许用户直接调整聊天机器人的热情程度、温暖感和表情符号使用量，以提供更个性化的交互体验。",
+      "importance": "低",
+      "reason": "属于【重大产品发布】的细节更新。虽然非颠覆性发布，但这是国际领先AI公司（OpenAI）对其旗舰产品进行的重要功能迭代，涉及用户体验和AI行为定制。",
+      "tags": [
+        "ChatGPT",
+        "产品更新",
+        "用户体验"
+      ],
+      "url": "https://www.ft.com/content/d22867d6-af87-4727-84d7-1571d951347d",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2025-12-21 05:00:19",
+      "impact_score": 45.0
+    },
+    {
+      "index": 9,
+      "title": "Looking back on a year of AI blunders",
+      "summary": "12月21日消息，媒体回顾了过去一年中AI技术在全球多个行业被误用或引发问题的案例，指出几乎没有行业能免受这项棘手技术被笨拙使用所带来的影响。",
+      "importance": "低",
+      "reason": "属于【安全与伦理】。这是一篇对全球范围内AI应用失误和伦理问题的综述性报道，符合国际动态中关于AI安全与伦理争议的范畴。",
+      "tags": [
+        "AI伦理",
+        "应用失误",
+        "综述"
+      ],
+      "url": "https://www.ft.com/content/9b47c335-9633-4560-9f57-5736c9d04bef",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2025-12-21 05:00:11",
+      "impact_score": 45.0
+    },
+    {
+      "index": 10,
+      "title": "SpyGPT will shake James Bond’s world",
+      "summary": "12月21日消息，分析指出，开源数据和机器学习工具（如潜在的“SpyGPT”）正在改变情报领域，挑战已从信息稀缺转变为信息过载，将对传统间谍世界产生冲击。",
+      "importance": "低",
+      "reason": "属于【安全与伦理】及学术/技术前瞻。讨论了AI（特别是生成式AI和机器学习）在国际安全与情报领域可能引发的颠覆性影响和伦理挑战。",
+      "tags": [
+        "AI安全",
+        "情报",
+        "开源"
+      ],
+      "url": "https://www.ft.com/content/39259536-db7b-4daf-9081-4402c0dd5ce7",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2025-12-20 05:00:35",
+      "impact_score": 45.0
+    }
+  ],
+  "summary": "今日从39条原始信息中精选出9条国内动态和10条国际动态，其中7条为高重要性。 重点关注：王晓刚和他的“世界模型”：一人管十狗，先让四足机器人上街干活｜智能涌现专访；具身智能老炮再获数亿融资，移动多臂机器人已批量工业落地｜36氪首发；国内唯一专注量子基础软件产业化团队，中科院技术转化，曾牵头科技部重大专项｜36氪首发。",
+  "statistics": {
+    "raw_domestic": 20,
+    "raw_international": 19,
+    "raw_total": 39,
+    "final_domestic": 9,
+    "final_international": 10
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "12月21日消息，商汤科技联合创始人王晓刚创立的大晓机器人发布其具身智能产品，展示了由一人远程控制十台机器狗执行城市巡查、违停拍照、无人机信号排查等复杂任务的能力，并宣布正与徐州等地方政府合作推进机器狗“城管”的落地应用。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "12月21日消息，上海具身智能机器人公司飒智智能连续完成A++轮及A+++轮融资，累计金额达数亿元，由海通开元和国元直投领投，资金将主要用于技术研发、海外市场拓展及智能制造产线建设，其自主研发的SAGE-OS操作系统与一体化控制器已实现批量工业落地。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "12月21日消息，依托于中国科学院软件研究所的北京中科弧光量子软件技术有限公司完成数千万元A轮融资，由北京信息产业发展投资基金独家投资，资金将用于扩大团队、研发适配分布式芯片的量子软件解决方案及建设高效量子计算算法库，推动量子计算软件产业化。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "12月21日消息，浙江大学研究团队提出名为ContextGen的新方法，在布局锚定多实例生成任务上取得了新的SOTA（State-of-the-Art）性能，该技术通过改进布局控制和身份一致性，提升了AI生成内容的质量与可控性。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "12月21日消息，中国科技公司字节跳动发布内部邮件，宣布面向全球员工实施大规模涨薪计划，包括将2025年奖金投入提升35%、大幅增加调薪投入并提高所有职级薪酬总包的上限与下限，以提升人才竞争力。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "12月21日消息，美国纽约州州长凯西·霍楚签署了《RAISE法案》，该法案将强制要求大型AI开发商公开其安全协议信息，并在72小时内向州政府报告安全事件，标志着美国州一级对AI安全监管迈出重要一步。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "12月21日消息，由前英伟达高管创立的中国公司摩尔线程发布新一代AI芯片，旨在降低开发者对英伟达硬件的依赖，此举正值该公司在完成近年来最成功的中国IPO之一后不久。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "12月21日消息，由前Splunk高管创立的AI初创公司Resolve AI在A轮融资后估值达到10亿美元，本轮融资由光速创投领投，显示出资本市场对AI初创企业的高度热情。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "12月21日消息，澳大利亚最大的养老基金AustralianSuper计划削减全球股票配置，原因是担忧美国科技股周期“成熟”及AI相关公司估值过高，此举可能影响全球科技股资金流向。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "12月21日消息，腾讯通过与日本数据中心公司Datasection的合作，在日本获取并使用英伟达最先进的AI芯片，这一安排使Datasection迅速成为亚洲最大的“新云”服务商之一。",
+      "importance": "中"
+    }
+  ]
+}
