@@ -1,0 +1,347 @@
+{
+  "date": "2025-12-28",
+  "generated_at": "2025-12-28 08:33:05",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "证监会科技司刘铁斌：构建规范、健康的资本市场人工智能生态体系",
+      "summary": "12月28日消息，中国证监会科技监管司副司长刘铁斌表示，将坚持促进创新与规范监管并重，从行业生态、机构生态和严守监管要求三方面协同发力，努力构建“合规有序、创新赋能、风险可控”的资本市场人工智能发展新格局。",
+      "importance": "高",
+      "reason": "属于【重大政策与法规】。这是中国金融监管高层关于AI在资本市场应用的官方定调，明确了未来监管思路和发展方向，对AI金融科技行业具有顶层指导意义。",
+      "tags": [
+        "政策法规",
+        "监管",
+        "金融科技"
+      ],
+      "url": "https://36kr.com/p/3613581871416328?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-28 01:30:00",
+      "impact_score": 357.5
+    },
+    {
+      "index": 2,
+      "title": "闪极科技完成近亿元A+轮融资，新款AI眼镜计划一年内出货超十万台｜硬氪独家",
+      "summary": "12月28日消息，中国AI硬件公司闪极科技完成近亿元A+轮融资，资金将用于新一代AI眼镜柔性定制产线落地、存算一体服务器集群开发及全球市场拓展，其新款AI眼镜计划一年内出货超十万台。",
+      "importance": "高",
+      "reason": "属于【重大商业动态】。作为中国AI硬件领域的代表公司，获得近亿元大额融资并规划大规模出货，体现了资本对AI消费级硬件的看好和该赛道的商业化进展。",
+      "tags": [
+        "融资",
+        "AI硬件",
+        "消费电子"
+      ],
+      "url": "https://36kr.com/p/3614932106740996?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-28 08:30:00",
+      "impact_score": 337.5
+    },
+    {
+      "index": 3,
+      "title": "1600亿 , 宜春首富要IPO了",
+      "summary": "12月28日消息，乘AI算力东风市值破千亿的天孚通信计划发行H股并在香港上市，其创始人邹支农凭借光通信核心器件打破外企垄断，公司作为AI算力基础设施关键供应商，此次IPO备受市场关注。",
+      "importance": "高",
+      "reason": "属于【重大商业动态】。天孚通信是AI算力产业链（光模块/光器件）的核心中国供应商，其千亿市值和赴港IPO计划是AI基础设施领域资本化的重要事件，反映了产业热度。",
+      "tags": [
+        "IPO",
+        "算力",
+        "光通信"
+      ],
+      "url": "https://36kr.com/p/3614509135086857?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-28 01:18:17",
+      "impact_score": 322.5
+    },
+    {
+      "index": 4,
+      "title": "前沃尔沃、集度团队再集结，以汽车机器人技术重塑农业机械｜36氪首发",
+      "summary": "12月28日消息，中国农业AI机器人公司“奚仲智造”完成数千万元Pre-A轮融资，由枣庄高新区政府基金领投，资金将用于团队建设和首款搭载端侧AI模型与自动驾驶能力的电动智能拖拉机平台的开发与量产。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】。该新闻展示了AI与机器人技术向传统农业渗透的典型案例，且获得地方政府基金支持，符合产业升级和AI赋能实体经济的趋势。",
+      "tags": [
+        "融资",
+        "农业AI",
+        "机器人"
+      ],
+      "url": "https://36kr.com/p/3614562932032519?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-28 02:04:27",
+      "impact_score": 271.0
+    },
+    {
+      "index": 5,
+      "title": "中国完全自主研制首款6吨级倾转旋翼飞行器成功首飞",
+      "summary": "12月28日消息，由联合飞机集团自主研制的全球首款6吨级倾转旋翼飞行器镧影R6000在四川成功完成首次飞行，标志着我国在倾转旋翼这一融合飞行器设计与智能控制的关键技术上实现重大突破。",
+      "importance": "中",
+      "reason": "属于【重大学术/技术突破】。倾转旋翼技术是航空领域的尖端方向，其成功首飞体现了中国在高端智能装备与复杂系统控制方面的自主创新能力，对低空经济与特种物流有重要意义。",
+      "tags": [
+        "技术突破",
+        "高端制造",
+        "低空经济"
+      ],
+      "url": "https://36kr.com/p/3614548332365058?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-28 01:57:56",
+      "impact_score": 240.0
+    },
+    {
+      "index": 6,
+      "title": "鸿蒙押注新未来：用AI重写数字世界交互逻辑",
+      "summary": "12月28日消息，华为鸿蒙操作系统正致力于用人工智能技术重构操作系统底层，旨在重写数字世界的交互逻辑，这代表了国产操作系统面向AI时代的一次重大战略演进。",
+      "importance": "中",
+      "reason": "属于【重大产品/技术方向】。鸿蒙作为中国核心的基础软件生态，其将AI深度融入操作系统底层的战略，对未来中国AI应用生态和终端体验具有深远影响。",
+      "tags": [
+        "操作系统",
+        "华为",
+        "AI原生"
+      ],
+      "url": "https://36kr.com/p/3614775089038341?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-28 05:49:30",
+      "impact_score": 234.0
+    },
+    {
+      "index": 7,
+      "title": "国足缺席世界杯，但中国大模型们集体参赛",
+      "summary": "12月28日消息，全球首个人机对决的AlphaGoal预测杯正式开启，中国多个大模型团队将集体参与这项国际赛事，标志着中国AI技术在全球性竞技舞台上的一次集中展示与交流。",
+      "importance": "中",
+      "reason": "属于【重大商业/学术动态】。中国大模型团队集体参与国际顶级AI赛事，是检验技术实力、扩大国际影响力的重要活动，属于产业界的标志性事件。",
+      "tags": [
+        "大模型",
+        "国际竞赛",
+        "AI体育"
+      ],
+      "url": "https://36kr.com/newsflashes/3614828433753088?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-28 07:02:31",
+      "impact_score": 221.0
+    },
+    {
+      "index": 8,
+      "title": "首个全车规级无人物流车将于明年初上市",
+      "summary": "12月28日消息，白犀牛智达（北京）科技有限公司在2025中国新能源无人车生态大会上透露，全行业首个全车规级无人物流车即将于2026年初上市，这标志着无人驾驶物流车在合规性与可靠性方面迈入新阶段。",
+      "importance": "中",
+      "reason": "属于【重大产品发布】。“全车规级”意味着产品达到了汽车行业的严格安全与可靠性标准，其上市是中国自动驾驶技术在特定商用场景落地的重要里程碑。",
+      "tags": [
+        "自动驾驶",
+        "无人物流",
+        "商用落地"
+      ],
+      "url": "https://36kr.com/newsflashes/3614655223727365?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-28 04:16:23",
+      "impact_score": 221.0
+    },
+    {
+      "index": 9,
+      "title": "汾酒联合美团闪购共建保真机制，头部酒企扎根即时零售高质量发展",
+      "summary": "12月28日消息，山西汾酒联合美团闪购与山西省公安厅环食药侦总队，三方合作共建即时零售行业首个白酒保真机制，通过平台治理、品牌溯源与公安打假协作，旨在构建让消费者安心的白酒即时零售生态。",
+      "importance": "低",
+      "reason": "属于【重大商业动态】。虽然主体是传统酒企，但合作涉及平台经济与AI溯源技术应用，是AI及数字技术赋能传统消费品渠道治理与高质量发展的典型案例。",
+      "tags": [
+        "平台合作",
+        "AI治理",
+        "新零售"
+      ],
+      "url": "https://36kr.com/newsflashes/3614897918084354?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-28 08:25:13",
+      "impact_score": 210.0
+    },
+    {
+      "index": 10,
+      "title": "钧达股份：与尚翼光电相关合作事项不会对公司当期经营业绩产生重大影响",
+      "summary": "12月28日消息，钧达股份发布公告澄清，公司与尚翼光电签署的《战略合作框架协议》仅为初步合作意向，对合作内容不具有法律约束力，具体产品联合研发、股权战略投资等内容尚未最终确定，不会对公司当期业绩产生重大影响。",
+      "importance": "低",
+      "reason": "属于【商业动态】。涉及AI产业链（可能为光伏或光电领域）上市公司的战略合作澄清，反映了资本市场对AI相关概念的高度关注以及公司对此的审慎态度。",
+      "tags": [
+        "上市公司",
+        "战略合作",
+        "澄清公告"
+      ],
+      "url": "https://36kr.com/p/3614562833958147?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2025-12-28 02:30:31",
+      "impact_score": 210.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Sam Altman is hiring someone to worry about the dangers of AI",
+      "summary": "12月28日消息，OpenAI首席执行官Sam Altman宣布公司正在招聘“准备主管”一职，其核心职责是系统性地评估和应对AI模型快速发展可能带来的各类严重风险与挑战，这标志着领先的AI公司在治理与安全框架建设上迈出了关键一步。",
+      "importance": "高",
+      "reason": "重大安全与伦理动态。OpenAI作为全球AI领军企业，设立专门的高级职位来应对AI风险，是行业安全治理的重要举措，符合【安全与伦理】筛选标准。",
+      "tags": [
+        "OpenAI",
+        "AI安全",
+        "治理"
+      ],
+      "url": "https://www.wired.com/story/expired-tired-wired-gpt-5/",
+      "source": "Wired AI",
+      "original_pub_date": "2025-12-27 11:00:00",
+      "impact_score": 132.0
+    },
+    {
+      "index": 2,
+      "title": "Europe is at a 'fork in the road' between AI competition and climate, fund managers say",
+      "summary": "12月28日消息，欧洲基金经理指出，随着AI数据中心等耗能基础设施的快速扩张和电力需求激增，欧洲正面临在推动AI产业竞争与实现气候目标之间做出抉择的关键路口，两者间的矛盾日益凸显。",
+      "importance": "中",
+      "reason": "重大政策与法规相关动态。涉及欧盟在AI发展与气候政策之间的宏观战略权衡，反映了政策制定者面临的核心挑战，属于【国际动态】。",
+      "tags": [
+        "欧盟",
+        "AI政策",
+        "气候目标",
+        "基础设施"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2025-12-28/why-ai-in-africa-depends-on-telecom-infrastructure",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2025-12-28 06:00:16",
+      "impact_score": 105.0
+    },
+    {
+      "index": 3,
+      "title": "One year on from the UK's grand AI plan: Has its infrastructure buildout been a success?",
+      "summary": "12月28日消息，在英国公布其宏大的AI发展计划一年后，尽管科技巨头们做出了巨额投资承诺，但分析指出，英国在实现其AI雄心方面仍面临重大挑战，其基础设施建设的成效有待观察。",
+      "importance": "中",
+      "reason": "重大政策与法规动态。评估英国政府AI战略的执行情况，涉及国家层面的产业政策与基础设施建设，属于【国际动态】。",
+      "tags": [
+        "英国",
+        "AI政策",
+        "基础设施",
+        "投资"
+      ],
+      "url": "https://www.ft.com/content/b60de1e1-6a54-4db6-b846-ed8369415520",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2025-12-27 05:00:25",
+      "impact_score": 105.0
+    },
+    {
+      "index": 4,
+      "title": "Why AI in Africa Depends on Telecom Infrastructure",
+      "summary": "12月28日消息，非洲Axian集团创始人Hassanein Hiridjee指出，电信基础设施是非洲人工智能发展的基石，非洲大陆需要建设更强大的网络设施才能充分释放其AI潜力。",
+      "importance": "中",
+      "reason": "重大商业动态。涉及非洲地区AI发展的核心基础设施挑战，主体为海外公司及人物，属于【国际动态】。",
+      "tags": [
+        "非洲",
+        "基础设施",
+        "电信",
+        "AI发展"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2025-12-27/china-issues-draft-rules-to-govern-use-of-human-like-ai-systems",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2025-12-27 08:40:31",
+      "impact_score": 90.0
+    },
+    {
+      "index": 5,
+      "title": "Data centres turn to aircraft engines to avoid grid connection delays",
+      "summary": "12月28日消息，为应对供应链短缺并满足AI算力激增带来的电力需求，全球数据中心开发商正转向使用飞机发动机等规模较小、效率较低的备用电源方案，以避免因接入公共电网的漫长等待而延误项目。",
+      "importance": "中",
+      "reason": "重大商业动态。反映了全球AI算力需求激增对基础设施（数据中心）的直接影响和行业应对策略，属于【国际动态】。",
+      "tags": [
+        "数据中心",
+        "基础设施",
+        "电力",
+        "供应链"
+      ],
+      "url": "https://www.theverge.com/news/850537/sam-altman-openai-head-of-preparedness",
+      "source": "The Verge AI",
+      "original_pub_date": "2025-12-27 19:00:35",
+      "impact_score": 86.5
+    },
+    {
+      "index": 6,
+      "title": "Global hotel groups bet on customer loyalty to beat online and AI agents",
+      "summary": "12月28日消息，万豪、希尔顿等全球酒店集团正通过提升会员福利和推动直接预订，押注客户忠诚度计划，以应对在线旅行平台和AI预订代理日益激烈的竞争。",
+      "importance": "低",
+      "reason": "重大商业动态。展示了传统行业（国际酒店集团）如何应对AI技术带来的商业模式挑战，属于【国际动态】。",
+      "tags": [
+        "酒店业",
+        "AI应用",
+        "商业策略",
+        "竞争"
+      ],
+      "url": "https://www.ft.com/content/f3658db4-0bd5-4a0e-af9f-8f7a14f05603",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2025-12-28 05:00:13",
+      "impact_score": 45.0
+    },
+    {
+      "index": 7,
+      "title": "Why your AI companion is not your friend",
+      "summary": "12月28日消息，评论文章指出，科技公司正在重新定义“陪伴”的含义，但AI伴侣并非真正的朋友，这引发了关于技术对人类社交关系本质影响的深层伦理与社会思考。",
+      "importance": "低",
+      "reason": "安全与伦理动态。探讨AI伴侣技术的伦理与社会影响，属于行业普遍关注的伦理议题，来源为国际媒体。",
+      "tags": [
+        "AI伦理",
+        "社交",
+        "技术批判"
+      ],
+      "url": "https://www.ft.com/content/8deb1518-b650-4a21-b7d1-3e6180560056",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2025-12-27 05:00:16",
+      "impact_score": 45.0
+    }
+  ],
+  "summary": "今日从39条原始信息中精选出10条国内动态和7条国际动态，其中4条为高重要性。 重点关注：证监会科技司刘铁斌：构建规范、健康的资本市场人工智能生态体系；闪极科技完成近亿元A+轮融资，新款AI眼镜计划一年内出货超十万台｜硬氪独家；1600亿 , 宜春首富要IPO了。",
+  "statistics": {
+    "raw_domestic": 28,
+    "raw_international": 11,
+    "raw_total": 39,
+    "final_domestic": 10,
+    "final_international": 7
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "12月28日消息，中国证监会科技监管司副司长刘铁斌表示，将坚持促进创新与规范监管并重，从行业生态、机构生态和严守监管要求三方面协同发力，努力构建“合规有序、创新赋能、风险可控”的资本市场人工智能发展新格局。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "12月28日消息，中国AI硬件公司闪极科技完成近亿元A+轮融资，资金将用于新一代AI眼镜柔性定制产线落地、存算一体服务器集群开发及全球市场拓展，其新款AI眼镜计划一年内出货超十万台。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "12月28日消息，乘AI算力东风市值破千亿的天孚通信计划发行H股并在香港上市，其创始人邹支农凭借光通信核心器件打破外企垄断，公司作为AI算力基础设施关键供应商，此次IPO备受市场关注。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "12月28日消息，中国农业AI机器人公司“奚仲智造”完成数千万元Pre-A轮融资，由枣庄高新区政府基金领投，资金将用于团队建设和首款搭载端侧AI模型与自动驾驶能力的电动智能拖拉机平台的开发与量产。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "12月28日消息，由联合飞机集团自主研制的全球首款6吨级倾转旋翼飞行器镧影R6000在四川成功完成首次飞行，标志着我国在倾转旋翼这一融合飞行器设计与智能控制的关键技术上实现重大突破。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "12月28日消息，OpenAI首席执行官Sam Altman宣布公司正在招聘“准备主管”一职，其核心职责是系统性地评估和应对AI模型快速发展可能带来的各类严重风险与挑战，这标志着领先的AI公司在治理与安全框架建设上迈出了关键一步。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "12月28日消息，欧洲基金经理指出，随着AI数据中心等耗能基础设施的快速扩张和电力需求激增，欧洲正面临在推动AI产业竞争与实现气候目标之间做出抉择的关键路口，两者间的矛盾日益凸显。",
+      "importance": "中"
+    },
+    {
+      "index": 3,
+      "summary": "12月28日消息，在英国公布其宏大的AI发展计划一年后，尽管科技巨头们做出了巨额投资承诺，但分析指出，英国在实现其AI雄心方面仍面临重大挑战，其基础设施建设的成效有待观察。",
+      "importance": "中"
+    },
+    {
+      "index": 4,
+      "summary": "12月28日消息，非洲Axian集团创始人Hassanein Hiridjee指出，电信基础设施是非洲人工智能发展的基石，非洲大陆需要建设更强大的网络设施才能充分释放其AI潜力。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "12月28日消息，为应对供应链短缺并满足AI算力激增带来的电力需求，全球数据中心开发商正转向使用飞机发动机等规模较小、效率较低的备用电源方案，以避免因接入公共电网的漫长等待而延误项目。",
+      "importance": "中"
+    }
+  ]
+}
