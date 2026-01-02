@@ -1,0 +1,385 @@
+{
+  "date": "2026-01-02",
+  "generated_at": "2026-01-02 08:35:56",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "「北京版幻方」冷不丁开源SOTA代码大模型！一张3090就能跑，40B参数掀翻Opus-4.5和GPT-5.2",
+      "summary": "1月2日消息，一家中国量化公司开源了其SOTA代码大模型，该模型拥有400亿参数，据称性能超越GPT-5.2和Opus-4.5，且仅需一张RTX 3090显卡即可运行，标志着国内在高效能、低成本大模型领域取得重要突破。",
+      "importance": "高",
+      "reason": "重大学术/技术突破。中国公司发布声称性能超越国际顶级模型的开源大模型，属于重大产品发布和学术突破，且具有显著的开源和低成本特性，影响力巨大。",
+      "tags": [
+        "SOTA",
+        "开源",
+        "大模型",
+        "突破"
+      ],
+      "url": "https://36kr.com/p/3620865484637190?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-01 13:00:40",
+      "impact_score": 440.0
+    },
+    {
+      "index": 2,
+      "title": "摆脱“投流噩梦”，月之暗面的100亿元与杨植麟的信心",
+      "summary": "1月2日消息，中国AI公司月之暗面（Kimi）于2025年底完成约5亿美元的新一轮融资，由IDG领投，阿里、腾讯等老股东超额认购，投后估值达43亿美元，资金将用于支持其大模型研发与商业化进程。",
+      "importance": "高",
+      "reason": "重大商业动态。中国头部大模型创业公司完成大额融资，涉及腾讯、阿里等国内巨头，是AI产业资本流向的重要风向标，对国内AI竞争格局有重大影响。",
+      "tags": [
+        "AI",
+        "融资",
+        "大模型",
+        "投资"
+      ],
+      "url": "https://www.qbitai.com/2026/01/366408.html",
+      "source": "量子位",
+      "original_pub_date": "2026-01-02 03:51:34",
+      "impact_score": 435.0
+    },
+    {
+      "index": 3,
+      "title": "36氪首发 | 消费科技品牌「xTool」递表港交所，腾讯领投 2 亿美元 Pre-IPO 融资",
+      "summary": "1月2日消息，中国消费科技品牌xTool正式向港交所递交上市申请，并披露其在2025年完成了由腾讯领投的约2亿美元Pre-IPO融资，募集资金将主要用于AI驱动的个人创意工具研发及全球市场拓展。",
+      "importance": "高",
+      "reason": "重大商业动态。中国AI应用领域公司启动IPO并获腾讯等国内资本大额投资，是AI技术与消费级产品结合的重要商业案例，标志着相关赛道走向成熟。",
+      "tags": [
+        "IPO",
+        "AI",
+        "融资",
+        "投资"
+      ],
+      "url": "https://36kr.com/p/3620347860862209?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-01 04:09:16",
+      "impact_score": 435.0
+    },
+    {
+      "index": 4,
+      "title": "恒生指数收涨2.76%，恒生科技指数涨4%",
+      "summary": "1月2日消息，港股市场大幅上涨，其中“港股GPU第一股”壁仞科技上市首日暴涨超75%，华虹半导体、中芯国际等国内半导体公司股价也显著走高，反映出市场对中国AI算力产业链的强烈关注。",
+      "importance": "中",
+      "reason": "重大商业动态。新闻核心是中国AI芯片公司壁仞科技的成功上市及股价表现，属于国内AI硬件领域的重要资本事件，对产业有标志性意义。",
+      "tags": [
+        "上市",
+        "半导体",
+        "GPU"
+      ],
+      "url": "https://36kr.com/newsflashes/3621909470856456?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-02 07:11:44",
+      "impact_score": 195.0
+    },
+    {
+      "index": 5,
+      "title": "中国LED影厅数量全球第一",
+      "summary": "1月2日消息，国家电影局发布数据显示，2025年中国电影票房达518.32亿元，其中国产影片占比近80%，同时截至2025年底，中国LED影厅数量已稳居全球第一，显示科技对文化产业的有力支撑。",
+      "importance": "低",
+      "reason": "国内动态。虽然不直接是AI核心新闻，但涉及国家数据发布和“硬核科技”对产业的支撑，属于广义的国内科技产业成就，可作为背景信息关注。",
+      "tags": [
+        "发布",
+        "科技",
+        "文化产业"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/ND0qGuU0z4SlWy2x.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-01 14:36:00",
+      "impact_score": 170.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "SpaceX, OpenAI and Anthropic prepare to launch landmark IPOs",
+      "summary": "1月2日消息，美国三大顶尖科技公司SpaceX、OpenAI和Anthropic计划最早于今年启动首次公开募股，这标志着生成式AI浪潮下的里程碑事件，有望为投行、律所和投资者带来巨额回报，并重塑全球科技资本市场格局。",
+      "importance": "高",
+      "reason": "重大商业动态。涉及OpenAI、Anthropic等全球AI领军企业的IPO计划，属于高影响力资本事件，对行业格局有深远影响。",
+      "tags": [
+        "IPO",
+        "商业动态",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-02/ceo-s-unusual-samsung-is-back-remark-fuels-korea-tech-rally",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-02 07:23:50",
+      "impact_score": 180.0
+    },
+    {
+      "index": 2,
+      "title": "Dust to data centers: The year AI tech giants, and billions in debt, began remaking the American landscape",
+      "summary": "1月2日消息，以美国科技巨头为主导的AI产业正以前所未有的数据中心建设规模和债务融资重塑美国地理与经济版图，这反映了行业对算力规模扩张的坚定信念，同时也带来了电力紧张等基础设施挑战。",
+      "importance": "高",
+      "reason": "重大商业动态与产业趋势。揭示了美国AI巨头（如谷歌、微软、亚马逊等）通过大规模基础设施投资重塑国家经济地理的战略，涉及巨额资本和能源政策，影响深远。",
+      "tags": [
+        "数据中心",
+        "基础设施",
+        "产业趋势",
+        "美国"
+      ],
+      "url": "https://www.wired.com/story/expired-tired-wired-sexy-chatbots/",
+      "source": "Wired AI",
+      "original_pub_date": "2026-01-01 11:00:00",
+      "impact_score": 145.0
+    },
+    {
+      "index": 3,
+      "title": "Europe has ‘lost the internet’, warns Belgium’s cyber security chief",
+      "summary": "1月2日消息，比利时网络安全负责人警告称，欧盟在数字基础设施上过度依赖美国科技公司，导致其“失去了互联网”的主导权，这凸显了欧盟在数字主权和网络安全领域面临的严峻挑战及对美科技巨头的担忧。",
+      "importance": "高",
+      "reason": "重大政策与安全议题。涉及欧盟数字主权、网络安全及对美科技依赖的核心政策辩论，属于高层级的地缘科技动态。",
+      "tags": [
+        "欧盟",
+        "数字主权",
+        "网络安全",
+        "政策"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-02/baidu-s-ai-chip-unit-kunlunxin-confidentially-files-for-hong-kong-ipo",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-02 01:53:29",
+      "impact_score": 127.5
+    },
+    {
+      "index": 4,
+      "title": "The US-EU Rift Over Social Media Rules Will Only Get Wider in 2026",
+      "summary": "1月2日消息，分析指出，美国和欧盟在社交媒体监管规则上的根本分歧在2026年将进一步加剧，这反映了双方在科技治理、言论自由与平台责任等核心议题上难以调和的政策与价值观冲突。",
+      "importance": "高",
+      "reason": "重大政策与法规趋势。预测了美欧两大经济体在关键数字治理规则上的分歧扩大，对全球科技公司的合规运营和战略布局有重大影响。",
+      "tags": [
+        "美欧关系",
+        "科技治理",
+        "政策分歧",
+        "社交媒体"
+      ],
+      "url": "https://www.ft.com/content/bf607829-dca5-497d-b1a1-ca945d32a8c6",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-01-01 05:00:19",
+      "impact_score": 127.5
+    },
+    {
+      "index": 5,
+      "title": "How Nokia went from iPhone victim to $1bn Nvidia deal",
+      "summary": "1月2日消息，昔日手机巨头诺基亚通过与英伟达达成价值10亿美元的合作协议，成功转型投身AI革命，这标志着传统电信设备商正利用其专利与基础设施优势，在AI时代寻找新的增长点。",
+      "importance": "中",
+      "reason": "重大商业动态（战略合作）。涉及英伟达（国际公司）与诺基亚（欧洲公司）的巨额合作，是传统产业借助AI转型的典型案例。",
+      "tags": [
+        "诺基亚",
+        "英伟达",
+        "战略合作",
+        "产业转型"
+      ],
+      "url": "https://www.cnbc.com/2025/12/31/ai-data-centers-debt-sam-altman-elon-musk-mark-zuckerberg.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-01-02 02:49:50",
+      "impact_score": 90.0
+    },
+    {
+      "index": 6,
+      "title": "Chip shortages threaten 20% rise in consumer electronics prices",
+      "summary": "1月2日消息，由于AI数据中心建设挤占了大量半导体产能，制造商和分析师警告称，芯片短缺可能导致消费电子产品价格在2026年上涨高达20%，这凸显了AI算力需求激增对全球供应链的溢出效应。",
+      "importance": "中",
+      "reason": "重大产业影响。揭示了AI热潮（主要由国际巨头驱动）对全球半导体供应链和消费市场的广泛影响，属于重要的宏观经济和产业动态。",
+      "tags": [
+        "芯片短缺",
+        "供应链",
+        "产业影响",
+        "消费电子"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-02/deepseek-touts-new-training-method-as-china-pushes-ai-efficiency",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-02 00:38:28",
+      "impact_score": 90.0
+    },
+    {
+      "index": 7,
+      "title": "European banks plan to cut 200,000 jobs as AI takes hold",
+      "summary": "1月2日消息，随着人工智能技术的深入应用，欧洲银行业计划削减多达20万个工作岗位，裁员将主要集中在后台运营、风险管理和合规部门，这标志着AI对传统金融就业结构开始产生大规模实质性影响。",
+      "importance": "中",
+      "reason": "重大商业与社会影响。展示了AI技术在欧洲关键行业（银行业）引发的结构性变革和劳动力市场冲击，具有重要的社会和经济意义。",
+      "tags": [
+        "银行业",
+        "就业影响",
+        "自动化",
+        "欧洲"
+      ],
+      "url": "https://techcrunch.com/2025/12/31/college-dropout-has-become-the-most-coveted-startup-founder-credential/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-01-01 02:44:02",
+      "impact_score": 86.5
+    },
+    {
+      "index": 8,
+      "title": "OpenAI bets big on audio as Silicon Valley declares war on screens",
+      "summary": "1月2日消息，OpenAI正大力押注音频交互技术，硅谷普遍认为音频将成为未来的核心人机界面，这场“去屏幕化”运动旨在将汽车、家居乃至可穿戴设备都转化为新的AI交互入口。",
+      "importance": "中",
+      "reason": "重大产品与技术方向。揭示了OpenAI等硅谷巨头在下一代人机交互范式上的战略布局，属于重要的技术趋势动态。",
+      "tags": [
+        "OpenAI",
+        "人机交互",
+        "音频技术",
+        "产品战略"
+      ],
+      "url": "https://www.ft.com/content/854fcad0-0d39-438b-975b-adf9d8b89827",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-01-02 05:00:07",
+      "impact_score": 82.5
+    },
+    {
+      "index": 9,
+      "title": "Bernie Sanders and Ron DeSantis speak out against data center boom. It's a bad sign for AI industry",
+      "summary": "1月2日消息，美国参议员桑德斯呼吁暂停数据中心建设，州长德桑蒂斯也对AI产业在佛罗里达州的扩张表示反对，这表明AI基础设施的急速发展在美国本土开始面临来自两党政治人物的监管与环保压力。",
+      "importance": "中",
+      "reason": "重大政策与法规动向。反映了美国国内对AI基础设施扩张引发的能源、环境等问题的政治反弹，可能影响未来产业布局和政策环境。",
+      "tags": [
+        "美国政治",
+        "数据中心",
+        "监管压力",
+        "环保"
+      ],
+      "url": "https://www.cnbc.com/2026/01/02/baidus-semiconductor-kunlunxin-hong-kong-ipo-ai-chips-listing-china.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-01-02 06:46:39",
+      "impact_score": 60.0
+    },
+    {
+      "index": 10,
+      "title": "CEO’s ‘Samsung is Back’ Remark Fuels Korea Tech Rally",
+      "summary": "1月2日消息，三星电子联席CEO引用客户评价称“三星回来了”，此番言论推动公司股价创下六个月来最大涨幅，并进一步带动了周五亚洲科技股的广泛上涨，显示出市场对这家韩国科技巨头在AI等关键领域复苏的乐观情绪。",
+      "importance": "中",
+      "reason": "重要商业动态。涉及韩国核心科技公司三星电子的市场信心与股价表现，反映了其在全球AI产业链（如存储芯片）中地位的变化，对行业有指示意义。",
+      "tags": [
+        "三星",
+        "韩国",
+        "市场动态",
+        "半导体"
+      ],
+      "url": "https://www.zdnet.com/article/how-to-disable-acr-on-tv-why/",
+      "source": "ZDNet AI",
+      "original_pub_date": "2026-01-01 01:00:45",
+      "impact_score": 60.0
+    },
+    {
+      "index": 11,
+      "title": "AI Labor Is Boring. AI Lust Is Big Business",
+      "summary": "1月2日消息，在经过多年关于生成式AI提升生产力的炒作后，2025年情色聊天机器人定义了AI的叙事，这表明AI技术的商业化应用正在向满足人类情感与感官需求的细分领域快速渗透，并催生了巨大的市场。",
+      "importance": "低",
+      "reason": "商业与伦理动态。揭示了AI应用的一个新兴且具有争议的商业化方向（情色聊天机器人），涉及伦理和市场需求，属于值得关注的行业现象。",
+      "tags": [
+        "商业化",
+        "伦理",
+        "生成式AI",
+        "应用趋势"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-02/european-stocks-track-global-gains-to-start-2026-at-record-highs",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-02 08:19:10",
+      "impact_score": 45.0
+    },
+    {
+      "index": 12,
+      "title": "‘College dropout’ has become the most coveted startup founder credential",
+      "summary": "1月2日消息，在硅谷著名孵化器Y Combinator的路演中，“大学辍学生”正成为AI初创公司创始人最令人向往的标签之一，这反映了AI创业领域对颠覆传统、敢于冒险的极客文化的推崇，以及对快速迭代和产品市场契合度的极致追求。",
+      "importance": "低",
+      "reason": "行业文化与趋势。描述了美国AI创业生态（以YC为代表）中的一种文化现象，虽非硬性新闻，但能反映硅谷的创业风向和人才观。",
+      "tags": [
+        "创业文化",
+        "硅谷",
+        "YC",
+        "人才"
+      ],
+      "url": "https://www.ft.com/content/260d0d3b-e72c-4f4f-9897-90e38483f4c5",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-01-01 12:30:08",
+      "impact_score": 45.0
+    },
+    {
+      "index": 13,
+      "title": "How to disable ACR on your TV (and why doing so makes such a big difference)",
+      "summary": "1月2日消息，报道指出三星、LG和索尼等品牌的智能电视内置的自动内容识别功能存在显著的隐私风险，并提供了关闭该功能的步骤，这引发了消费者对主流消费电子设备数据收集行为的关注。",
+      "importance": "低",
+      "reason": "安全与隐私议题。涉及三星、LG（韩国）、索尼（日本）等国际消费电子巨头的产品隐私问题，属于消费者权益和AI伦理的应用层面关注点。",
+      "tags": [
+        "隐私",
+        "消费电子",
+        "三星",
+        "LG"
+      ],
+      "url": "https://www.bloomberg.com/news/newsletters/2026-01-01/the-us-eu-rift-over-social-media-rules-will-only-get-wider-in-2026",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-01 12:02:08",
+      "impact_score": 45.0
+    },
+    {
+      "index": 14,
+      "title": "European Stocks Track Global Gains to Start 2026 at Record Highs",
+      "summary": "1月2日消息，欧洲股市在2026年伊始创下历史新高，跟随全球股市的普遍上涨势头，这主要得益于对经济增长的持续乐观情绪，而矿业股也因大宗商品价格上涨而走强，反映了宏观市场对AI等科技驱动的增长前景的看好。",
+      "importance": "低",
+      "reason": "宏观市场动态。虽然不直接是AI新闻，但欧洲股市创新高部分反映了市场对包括AI在内的科技增长前景的乐观预期，可作为背景参考。",
+      "tags": [
+        "欧洲股市",
+        "宏观经济",
+        "市场情绪"
+      ],
+      "url": "https://www.science.org/content/article/blood-cleansing-method-faces-its-first-test-cancer-vaccine",
+      "source": "Science Magazine",
+      "original_pub_date": "2026-01-01 11:00:00",
+      "impact_score": 45.0
+    }
+  ],
+  "summary": "今日从43条原始信息中精选出5条国内动态和14条国际动态，其中7条为高重要性。 重点关注：「北京版幻方」冷不丁开源SOTA代码大模型！一张3090就能跑，40B参数掀翻Opus-4.5和GPT-5.2；摆脱“投流噩梦”，月之暗面的100亿元与杨植麟的信心；36氪首发 | 消费科技品牌「xTool」递表港交所，腾讯领投 2 亿美元 Pre-IPO 融资。",
+  "statistics": {
+    "raw_domestic": 21,
+    "raw_international": 22,
+    "raw_total": 43,
+    "final_domestic": 5,
+    "final_international": 14
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "1月2日消息，一家中国量化公司开源了其SOTA代码大模型，该模型拥有400亿参数，据称性能超越GPT-5.2和Opus-4.5，且仅需一张RTX 3090显卡即可运行，标志着国内在高效能、低成本大模型领域取得重要突破。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "1月2日消息，中国AI公司月之暗面（Kimi）于2025年底完成约5亿美元的新一轮融资，由IDG领投，阿里、腾讯等老股东超额认购，投后估值达43亿美元，资金将用于支持其大模型研发与商业化进程。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "1月2日消息，中国消费科技品牌xTool正式向港交所递交上市申请，并披露其在2025年完成了由腾讯领投的约2亿美元Pre-IPO融资，募集资金将主要用于AI驱动的个人创意工具研发及全球市场拓展。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "1月2日消息，港股市场大幅上涨，其中“港股GPU第一股”壁仞科技上市首日暴涨超75%，华虹半导体、中芯国际等国内半导体公司股价也显著走高，反映出市场对中国AI算力产业链的强烈关注。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "1月2日消息，美国三大顶尖科技公司SpaceX、OpenAI和Anthropic计划最早于今年启动首次公开募股，这标志着生成式AI浪潮下的里程碑事件，有望为投行、律所和投资者带来巨额回报，并重塑全球科技资本市场格局。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "1月2日消息，以美国科技巨头为主导的AI产业正以前所未有的数据中心建设规模和债务融资重塑美国地理与经济版图，这反映了行业对算力规模扩张的坚定信念，同时也带来了电力紧张等基础设施挑战。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "1月2日消息，比利时网络安全负责人警告称，欧盟在数字基础设施上过度依赖美国科技公司，导致其“失去了互联网”的主导权，这凸显了欧盟在数字主权和网络安全领域面临的严峻挑战及对美科技巨头的担忧。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "1月2日消息，分析指出，美国和欧盟在社交媒体监管规则上的根本分歧在2026年将进一步加剧，这反映了双方在科技治理、言论自由与平台责任等核心议题上难以调和的政策与价值观冲突。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "1月2日消息，昔日手机巨头诺基亚通过与英伟达达成价值10亿美元的合作协议，成功转型投身AI革命，这标志着传统电信设备商正利用其专利与基础设施优势，在AI时代寻找新的增长点。",
+      "importance": "中"
+    }
+  ]
+}
