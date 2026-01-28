@@ -1,0 +1,471 @@
+{
+  "date": "2026-01-28",
+  "generated_at": "2026-01-28 08:39:46",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "马化腾回应「腾讯春节分10亿」：希望重现当年微信红包盛况；理想内部会曝光：重启人形机器人，要招最好的人；印奇出任阶跃星辰董事长",
+      "summary": "1月28日消息，阶跃星辰完成超50亿元B+轮融资，并由旷视科技联合创始人印奇出任董事长，标志着这家中国AI大模型初创公司获得巨额资本支持并迎来重要人事调整，以加速其技术研发与商业化进程。",
+      "importance": "高",
+      "reason": "重大商业动态：涉及中国AI大模型初创公司阶跃星辰的超50亿元巨额融资，属于重大资本事件。",
+      "tags": [
+        "融资",
+        "大模型",
+        "商业动态"
+      ],
+      "url": "https://36kr.com/p/3658516751197060?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-28 03:16:38",
+      "impact_score": 376.5
+    },
+    {
+      "index": 2,
+      "title": "蚂蚁灵波开源具身大模型LingBot-VLA，跨本体跨任务泛化能力创新高",
+      "summary": "1月28日消息，蚂蚁集团旗下灵波实验室开源其具身智能大模型LingBot-VLA，该模型在跨本体和跨任务泛化能力上取得创新高，旨在推动中国机器人行业在视觉-语言-动作协同方面的技术进步与应用生态发展。",
+      "importance": "高",
+      "reason": "重大产品发布：中国科技巨头蚂蚁集团开源重要的具身智能大模型，属于AI核心技术产品发布。",
+      "tags": [
+        "大模型",
+        "开源",
+        "具身智能"
+      ],
+      "url": "https://www.leiphone.com/category/robot/WLbcczGYl2IMAebH.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-28 03:31:00",
+      "impact_score": 335.0
+    },
+    {
+      "index": 3,
+      "title": "刚刚，杨植麟亲自开源Kimi K2.5！国产大模型打架的一天",
+      "summary": "1月28日消息，月之暗面创始人杨植麟亲自宣布开源其长文本大模型Kimi的最新版本K2.5，此举加剧了国内大模型市场的竞争态势，旨在通过开源策略扩大开发者生态和技术影响力。",
+      "importance": "高",
+      "reason": "重大产品发布：中国头部大模型公司月之暗面开源其核心模型Kimi的新版本，是重要的产品与生态策略。",
+      "tags": [
+        "开源",
+        "大模型",
+        "产品发布"
+      ],
+      "url": "https://36kr.com/p/3657541274575750?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-27 11:43:24",
+      "impact_score": 307.5
+    },
+    {
+      "index": 4,
+      "title": "曦望发布推理GPU S3：All-in推理的国产GPU，开始算单位Token成本",
+      "summary": "1月28日消息，中国GPU芯片公司曦望发布其专注于AI推理场景的S3 GPU，主打计算单位Token成本效益，标志着国产AI芯片在特定应用场景下的产品化与商业化迈出新一步。",
+      "importance": "高",
+      "reason": "重大产品发布：中国公司发布重要的AI推理GPU芯片，属于核心硬件产品发布。",
+      "tags": [
+        "GPU",
+        "芯片",
+        "产品发布"
+      ],
+      "url": "https://36kr.com/p/3653542332948608?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-28 02:00:54",
+      "impact_score": 294.0
+    },
+    {
+      "index": 5,
+      "title": "独家丨前毫末智行CEO顾维灏创业，成立机器人新公司",
+      "summary": "1月28日消息，前百度自动驾驶子公司毫末智行CEO顾维灏离职创业，成立了一家专注于酒店服务机器人的新公司，其核心团队主要来自百度和Momenta，目前正积极接触投资方进行融资。",
+      "importance": "中",
+      "reason": "重大商业动态：中国AI及自动驾驶领域知名高管创业，涉及新公司成立和融资活动。",
+      "tags": [
+        "创业",
+        "机器人",
+        "融资"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/9tUHxAlGKniPZMyI.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-27 03:28:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 6,
+      "title": "姚欣获聘“光谷全球产业合伙人”，PPIO以普惠算力助力武汉AI创新",
+      "summary": "1月28日消息，PPIO边缘云联合创始人姚欣获聘为武汉“光谷全球产业合伙人”，其公司PPIO将通过提供普惠算力方案，支持武汉东湖高新区在人工智能领域的创新与产业发展。",
+      "importance": "中",
+      "reason": "重大商业动态：中国AI算力公司与地方政府达成重要战略合作，推动区域AI产业发展。",
+      "tags": [
+        "算力",
+        "合作",
+        "区域发展"
+      ],
+      "url": "https://www.qbitai.com/2026/01/373101.html",
+      "source": "量子位",
+      "original_pub_date": "2026-01-27 09:34:26",
+      "impact_score": 270.0
+    },
+    {
+      "index": 7,
+      "title": "38亿到595亿！年轻人的 “人机恋” 正在疯狂生长",
+      "summary": "1月28日消息，报告显示中国AI情感陪伴市场规模在2025年已达38.66亿元，并预计将在2028年突破595亿元，反映了AI与情感需求结合所引发的巨大市场潜力和相关的社会伦理讨论。",
+      "importance": "中",
+      "reason": "安全与伦理：涉及中国AI情感陪伴市场的快速增长及其引发的社会伦理议题。",
+      "tags": [
+        "AI应用",
+        "伦理",
+        "市场趋势"
+      ],
+      "url": "https://36kr.com/p/3658490547692424?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-28 03:04:54",
+      "impact_score": 266.0
+    },
+    {
+      "index": 8,
+      "title": "腾讯元宝飙升至应用商城榜首位",
+      "summary": "1月28日消息，腾讯旗下AI助手“元宝”凭借新推出的AI社交玩法“元宝派”内测及春节10亿红包营销活动，在华为、苹果等主流应用商店的下载排名迅速飙升，登上多个榜单前列。",
+      "importance": "中",
+      "reason": "重大商业动态：中国互联网巨头腾讯的AI产品通过创新玩法和营销取得显著市场反响。",
+      "tags": [
+        "AI应用",
+        "产品推广",
+        "市场表现"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/cQGxKBxrdND1KF5H.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-27 03:32:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 9,
+      "title": "海舟智能：决定对部分产品价格上调10%-30%",
+      "summary": "1月28日消息，苏州科达旗下AI公司海舟智能发布通知，宣布将于3月1日起对其存储产品、服务器、大模型一体机等系列产品价格上调10%-30%，以应对成本压力并确保产品质量与稳定供应。",
+      "importance": "中",
+      "reason": "重大商业动态：中国AI硬件与解决方案提供商进行大规模价格调整，反映行业成本与供需变化。",
+      "tags": [
+        "价格调整",
+        "AI硬件",
+        "商业策略"
+      ],
+      "url": "https://36kr.com/newsflashes/3658826014040713?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-28 08:30:17",
+      "impact_score": 221.0
+    },
+    {
+      "index": 10,
+      "title": "俞浩慈善基金会「天空工场」计划启动，支持全球青年创新领袖人才突破创新",
+      "summary": "1月28日消息，由追觅科技创始人俞浩设立的慈善基金会正式启动“天空工场”全球青年创新领袖人才计划，旨在通过资金、资源和平台支持，助力在人工智能、机器人等领域已有卓越表现的国内外高校学生加速成长。",
+      "importance": "低",
+      "reason": "商业动态：中国企业家设立的基金会推出AI人才支持计划，属于产业生态建设的一部分。",
+      "tags": [
+        "人才培养",
+        "公益",
+        "生态建设"
+      ],
+      "url": "https://36kr.com/p/3658744522711944?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-28 07:08:34",
+      "impact_score": 210.0
+    },
+    {
+      "index": 11,
+      "title": "重塑海上出行：当船舶装上 “电动心脏” 与 “AI 大脑”｜OpenTalk直播预告",
+      "summary": "1月28日消息，随着海洋科技被纳入国家顶层设计，人工智能、大数据等技术与海洋产业深度融合，正推动中国海洋作业模式向无人化、集群化、智能化演进，以提升海洋开发的效率与可持续性。",
+      "importance": "低",
+      "reason": "国内动态：报道提及中国海洋产业与AI技术融合的国家战略背景和发展趋势，但主体为行业综述，非具体事件。",
+      "tags": [
+        "产业融合",
+        "智能化",
+        "政策赋能"
+      ],
+      "url": "https://36kr.com/p/3658332721030022?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-28 00:12:34",
+      "impact_score": 210.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "SoftBank Is in Talks to Invest $30 Billion More in OpenAI",
+      "summary": "1月28日消息，日本软银集团正与OpenAI进行谈判，计划追加高达300亿美元的投资，此举反映了创始人孙正义希望在人工智能发展中扮演核心角色的雄心，标志着全球AI领域可能迎来新一轮巨额资本注入。",
+      "importance": "高",
+      "reason": "重大商业动态。涉及全球顶级AI公司OpenAI和日本科技投资巨头软银，投资额巨大（300亿美元），对全球AI产业格局和资本流向有重大影响。",
+      "tags": [
+        "融资",
+        "OpenAI",
+        "软银"
+      ],
+      "url": "https://arxiv.org/abs/2601.19193",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-28 05:00:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 2,
+      "title": "Anthropic reportedly upped its latest raise to $20B",
+      "summary": "1月28日消息，美国AI公司Anthropic据报计划以超过3000亿美元的估值筹集200亿美元资金，若成功，这将使其成为全球估值最高的AI初创公司之一，并加剧与OpenAI等巨头的竞争。",
+      "importance": "高",
+      "reason": "重大商业动态。涉及美国顶级AI公司Anthropic，融资额巨大（200亿美元），估值极高（超3000亿美元），是衡量AI初创公司市场热度与估值泡沫的关键指标。",
+      "tags": [
+        "融资",
+        "Anthropic",
+        "估值"
+      ],
+      "url": "https://arxiv.org/abs/2601.19151",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-28 05:00:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 3,
+      "title": "‘Humanity needs to wake up’ to dangers of AI, says Anthropic chief",
+      "summary": "1月28日消息，Anthropic联合创始人兼CEO达里奥·阿莫代发布了一篇长达2万字的文章，详细阐述了未来几年强大AI技术可能带来的灾难性风险，呼吁人类警醒，这引发了业界对AI安全与治理的深度讨论。",
+      "importance": "高",
+      "reason": "安全与伦理。来自美国头部AI公司CEO的公开警告，内容涉及AI的灾难性风险，属于重大的AI安全与伦理议题，可能影响公众认知和政策讨论。",
+      "tags": [
+        "AI安全",
+        "Anthropic",
+        "伦理"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-28/dangote-appoints-mtn-ceo-to-fertilizer-unit-board-with-ipo-plans",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-28 04:00:00",
+      "impact_score": 262.5
+    },
+    {
+      "index": 4,
+      "title": "Google’s more affordable AI Plus plan rolls out to all markets, including the US",
+      "summary": "1月28日消息，谷歌将其包含Gemini 3 Pro等AI工具的AI Plus订阅计划推广至包括美国在内的全球所有市场，月费为7.99美元，此举旨在降低AI服务门槛，与OpenAI等对手在全球范围内展开更激烈的用户争夺。",
+      "importance": "高",
+      "reason": "重大产品发布。涉及美国科技巨头谷歌的核心AI产品（Gemini 3）和全球商业化策略，是其AI服务普及和货币化的重要一步，影响市场竞争格局。",
+      "tags": [
+        "产品发布",
+        "谷歌",
+        "Gemini 3"
+      ],
+      "url": "https://www.ft.com/content/0ee356cb-5c77-4686-9392-260520369122",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-01-28 05:00:25",
+      "impact_score": 255.0
+    },
+    {
+      "index": 5,
+      "title": "Google Search now lets you ask AI Overviews follow-up questions",
+      "summary": "1月28日消息，谷歌升级其AI搜索功能，将Gemini 3模型集成到AI概览中，并允许用户无缝提出后续问题，使搜索体验更接近与AI助手对话，这标志着搜索引擎向AI原生体验的进一步转型。",
+      "importance": "高",
+      "reason": "重大产品发布。涉及谷歌核心搜索产品的AI化升级，使用其旗舰模型Gemini 3，直接影响全球数十亿用户的搜索体验，是AI重塑传统互联网入口的关键动态。",
+      "tags": [
+        "产品发布",
+        "谷歌搜索",
+        "Gemini 3"
+      ],
+      "url": "https://techcrunch.com/2026/01/27/anthropic-and-openai-ceos-condemn-ice-violence-praise-trump/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-01-27 18:19:19",
+      "impact_score": 229.5
+    },
+    {
+      "index": 6,
+      "title": "Google now lets users jump from AI Overviews into AI Mode conversations",
+      "summary": "1月28日消息，谷歌宣布在全球范围内将Gemini 3设为AI概览的新默认模型，并允许用户从AI概览直接跳转至AI对话模式，旨在打造更连贯、深入的AI辅助搜索与交互体验。",
+      "importance": "高",
+      "reason": "重大产品发布。进一步强化了谷歌搜索的AI功能整合，确立Gemini 3的核心地位，是其构建统一AI用户体验战略的重要组成部分。",
+      "tags": [
+        "产品发布",
+        "谷歌",
+        "Gemini 3"
+      ],
+      "url": "https://techcrunch.com/2026/01/27/anthropic-reportedly-upped-its-latest-raise-to-20b/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-01-27 21:16:10",
+      "impact_score": 210.0
+    },
+    {
+      "index": 7,
+      "title": "OpenAI launches Prism, a new AI workspace for scientists",
+      "summary": "1月28日消息，OpenAI推出名为Prism的新科学工作空间项目，该项目将AI工具深度集成到现有的科研论文撰写标准流程中，旨在为全球科学家提供一个专门优化、用于辅助科研工作的AI协作平台。",
+      "importance": "高",
+      "reason": "重大产品发布。来自全球AI领导者OpenAI针对垂直领域（科研）的新产品发布，拓展了AI的应用边界，对科学研究范式可能产生深远影响。",
+      "tags": [
+        "产品发布",
+        "OpenAI",
+        "垂直应用"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-01-27/china-drove-crypto-crime-in-2025-chainalysis-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-27 19:39:18",
+      "impact_score": 195.0
+    },
+    {
+      "index": 8,
+      "title": "UAE launches ‘sovereign’ open AI model to counter Chinese rivals",
+      "summary": "1月28日消息，阿联酋大学发布了名为K2 Think的“主权”开源AI模型，研究人员称其性能可与中美最好的开源模型媲美，此举旨在减少对外国技术的依赖，并在全球AI竞赛中提升国家竞争力。",
+      "importance": "中",
+      "reason": "重大产品发布。涉及主权AI和地缘政治竞争，由一个国家（阿联酋）的研究机构发布对标中美技术的开源模型，属于国际AI格局中的新兴力量动态。",
+      "tags": [
+        "产品发布",
+        "开源模型",
+        "主权AI"
+      ],
+      "url": "https://arxiv.org/abs/2601.19306",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-28 05:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 9,
+      "title": "Driverless Trucking Firm Gatik Signs Major $600M Deal",
+      "summary": "1月28日消息，美国自动驾驶卡车公司Gatik宣布已获得超过6亿美元的合同收入，该公司CEO兼联合创始人高塔姆·纳兰讨论了公司未来计划，这表明自动驾驶货运的商业化落地正在取得实质性进展。",
+      "importance": "中",
+      "reason": "重大商业动态。涉及美国自动驾驶领域的重要公司和大额商业合同（6亿美元），反映了AI在物流和交通领域商业化应用的规模和速度。",
+      "tags": [
+        "商业合作",
+        "自动驾驶",
+        "Gatik"
+      ],
+      "url": "https://arxiv.org/abs/2601.19337",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-28 05:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 10,
+      "title": "ASML Looking at 'Record Quarter,' CEO Says",
+      "summary": "1月28日消息，荷兰光刻机巨头ASML的CEO克里斯托夫·富凯表示，公司第四季度订单远超分析师预期，正迎来“创纪录的季度和创纪录的年度”，这预示着全球半导体制造设备需求，特别是用于AI芯片生产的高端设备需求依然强劲。",
+      "importance": "中",
+      "reason": "重大商业动态。ASML是全球半导体产业链最上游和最关键的公司，其业绩是AI芯片产能和全球半导体行业景气的先行指标，对AI硬件基础有重要影响。",
+      "tags": [
+        "业绩",
+        "半导体",
+        "ASML"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-01-27/bloomberg-crypto-1-27-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-27 18:52:48",
+      "impact_score": 180.0
+    },
+    {
+      "index": 11,
+      "title": "Anthropic and OpenAI CEOs condemn ICE violence, praise Trump",
+      "summary": "1月28日消息，Anthropic的达里奥·阿莫代和OpenAI的山姆·奥特曼就明尼阿波利斯暴力事件后的ICE执法策略公开发表言论，其中一人公开表达关切，另一人则在内部传达信息，这显示了美国AI巨头领袖卷入社会政治议题的趋势。",
+      "importance": "中",
+      "reason": "安全与伦理/商业动态。虽然涉及社会事件，但主体是美国两大AI公司的CEO，他们的公开表态反映了科技领袖的社会影响力及其公司可能面临的外部环境变化。",
+      "tags": [
+        "CEO",
+        "社会议题",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "url": "https://www.ft.com/content/c3098552-7204-4a93-844c-1b8569c9dcb2",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-01-27 00:49:08",
+      "impact_score": 180.0
+    },
+    {
+      "index": 12,
+      "title": "TikTok Joins Snap Settling Youth Addiction Suit Before Trial",
+      "summary": "1月28消息，TikTok正寻求与一名指控该公司及其他社交媒体巨头设计成瘾性平台以吸引年轻用户的女性达成和解，这是首例进入审判阶段的此类案件，可能为后续类似诉讼和平台责任认定树立先例。",
+      "importance": "中",
+      "reason": "安全与伦理/法规。虽然TikTok是中国公司，但作为在美国运营并面临诉讼的主体，此事件属于发生在美国本土的、涉及AI/算法推荐伦理与法律责任的重大案件，对全球社交媒体和AI应用监管有参考意义。",
+      "tags": [
+        "法律诉讼",
+        "算法伦理",
+        "社交媒体"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-01-28/asml-looking-at-record-quarter-ceo-says-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-28 08:26:31",
+      "impact_score": 165.0
+    },
+    {
+      "index": 13,
+      "title": "SpaceX weighs June IPO timed to planetary alignment and Musk’s birthday",
+      "summary": "1月28日消息，据报道，SpaceX正考虑在6月进行IPO，计划筹集高达500亿美元，这可能是史上规模最大的上市之一，且上市时间点可能与行星排列及马斯克的生日相关，反映了其创始人强烈的个人风格对公司重大决策的影响。",
+      "importance": "中",
+      "reason": "重大商业动态。涉及马斯克旗下另一家前沿科技公司SpaceX的巨额IPO计划（500亿美元），虽然不直接是AI公司，但其融资动态对科技资本市场和马斯克的AI布局（如xAI）有间接影响。",
+      "tags": [
+        "IPO",
+        "SpaceX",
+        "马斯克"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-01-27/bloomberg-tech-1-27-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-27 21:48:18",
+      "impact_score": 165.0
+    },
+    {
+      "index": 14,
+      "title": "Tech Stocks Lead Charge Toward Record | Bloomberg Tech 1/27/2026",
+      "summary": "1月28日消息，科技股在财报季前夕推动美股逼近历史高点，同时，太空基础设施公司Northwood的CEO兼联合创始人布丽吉特·门德勒讨论了其公司1亿美元的B轮融资，以现代化地球上的太空基础设施。",
+      "importance": "低",
+      "reason": "重大商业动态。反映了以AI为代表的科技板块对全球资本市场的引领作用，同时包含一家美国太空科技公司的融资信息，属于广义的科技产业动态。",
+      "tags": [
+        "资本市场",
+        "科技股",
+        "融资"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-01-27/driverless-trucking-firm-gatik-signs-major-600m-deal-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-27 18:55:46",
+      "impact_score": 165.0
+    }
+  ],
+  "summary": "今日从184条原始信息中精选出11条国内动态和14条国际动态，其中11条为高重要性。 重点关注：马化腾回应「腾讯春节分10亿」：希望重现当年微信红包盛况；理想内部会曝光：重启人形机器人，要招最好的人；印奇出任阶跃星辰董事长；蚂蚁灵波开源具身大模型LingBot-VLA，跨本体跨任务泛化能力创新高；刚刚，杨植麟亲自开源Kimi K2.5！国产大模型打架的一天。",
+  "statistics": {
+    "raw_domestic": 48,
+    "raw_international": 136,
+    "raw_total": 184,
+    "final_domestic": 11,
+    "final_international": 14
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "1月28日消息，阶跃星辰完成超50亿元B+轮融资，并由旷视科技联合创始人印奇出任董事长，标志着这家中国AI大模型初创公司获得巨额资本支持并迎来重要人事调整，以加速其技术研发与商业化进程。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "1月28日消息，蚂蚁集团旗下灵波实验室开源其具身智能大模型LingBot-VLA，该模型在跨本体和跨任务泛化能力上取得创新高，旨在推动中国机器人行业在视觉-语言-动作协同方面的技术进步与应用生态发展。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "1月28日消息，月之暗面创始人杨植麟亲自宣布开源其长文本大模型Kimi的最新版本K2.5，此举加剧了国内大模型市场的竞争态势，旨在通过开源策略扩大开发者生态和技术影响力。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "1月28日消息，中国GPU芯片公司曦望发布其专注于AI推理场景的S3 GPU，主打计算单位Token成本效益，标志着国产AI芯片在特定应用场景下的产品化与商业化迈出新一步。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "1月28日消息，前百度自动驾驶子公司毫末智行CEO顾维灏离职创业，成立了一家专注于酒店服务机器人的新公司，其核心团队主要来自百度和Momenta，目前正积极接触投资方进行融资。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "1月28日消息，日本软银集团正与OpenAI进行谈判，计划追加高达300亿美元的投资，此举反映了创始人孙正义希望在人工智能发展中扮演核心角色的雄心，标志着全球AI领域可能迎来新一轮巨额资本注入。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "1月28日消息，美国AI公司Anthropic据报计划以超过3000亿美元的估值筹集200亿美元资金，若成功，这将使其成为全球估值最高的AI初创公司之一，并加剧与OpenAI等巨头的竞争。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "1月28日消息，Anthropic联合创始人兼CEO达里奥·阿莫代发布了一篇长达2万字的文章，详细阐述了未来几年强大AI技术可能带来的灾难性风险，呼吁人类警醒，这引发了业界对AI安全与治理的深度讨论。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "1月28日消息，谷歌将其包含Gemini 3 Pro等AI工具的AI Plus订阅计划推广至包括美国在内的全球所有市场，月费为7.99美元，此举旨在降低AI服务门槛，与OpenAI等对手在全球范围内展开更激烈的用户争夺。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "1月28日消息，谷歌升级其AI搜索功能，将Gemini 3模型集成到AI概览中，并允许用户无缝提出后续问题，使搜索体验更接近与AI助手对话，这标志着搜索引擎向AI原生体验的进一步转型。",
+      "importance": "高"
+    }
+  ]
+}
