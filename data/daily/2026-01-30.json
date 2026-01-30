@@ -1,0 +1,618 @@
+{
+  "date": "2026-01-30",
+  "generated_at": "2026-01-30 08:48:49",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "性能超越DeepSeek-OCR2，百度发布并开源新一代SOTA OCR模型",
+      "summary": "1月30日消息，百度发布并开源新一代SOTA OCR模型，该模型全球首次实现OCR模型的“异形框定位”能力，在性能上超越了DeepSeek-OCR2，标志着中国在文档智能识别领域取得重要突破。",
+      "importance": "高",
+      "reason": "重大产品发布：中国顶尖科技公司（百度）发布并开源了具有突破性能力（异形框定位）的SOTA模型，属于重大学术与产品突破。",
+      "tags": [
+        "发布",
+        "超越",
+        "SOTA",
+        "开源",
+        "首次"
+      ],
+      "url": "https://www.qbitai.com/2026/01/374455.html",
+      "source": "量子位",
+      "original_pub_date": "2026-01-30 06:10:24",
+      "impact_score": 397.5
+    },
+    {
+      "index": 2,
+      "title": "开源新标杆！商汤 SenseNova-MARS超 Gemini-3-Pro，模型代码数据全开放",
+      "summary": "1月30日消息，商汤科技正式开源多模态自主推理模型SenseNova-MARS，其在多项核心基准测试中以69.74分超越谷歌Gemini-3-Pro和GPT-5.2，成为首个支持动态视觉推理与图文搜索深度融合的Agentic VLM模型。",
+      "importance": "高",
+      "reason": "重大产品发布与学术突破：中国AI领军企业商汤开源了在多模态推理上超越国际顶级闭源模型（Gemini-3-Pro, GPT-5.2）的SOTA模型，具有里程碑意义。",
+      "tags": [
+        "超越",
+        "AI",
+        "开放",
+        "开源",
+        "领先"
+      ],
+      "url": "https://www.leiphone.com/category/ai/lowNorcChLxWMV64.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-29 03:32:00",
+      "impact_score": 345.0
+    },
+    {
+      "index": 3,
+      "title": "阿里AI芯片露真容 “通云哥”黄金三角浮出水面",
+      "summary": "1月30日消息，阿里巴巴旗下平头哥正式上线高端AI芯片“真武810E”，标志着由通义实验室、阿里云和平头哥组成的“通云哥”AI黄金三角战略首次完整亮相，旨在打造全栈自研的AI超级计算机。",
+      "importance": "高",
+      "reason": "重大产品发布：中国科技巨头阿里巴巴正式推出自研高端AI芯片，并公布其“模型-云-芯片”协同的顶层战略，是AI基础设施领域的重大进展。",
+      "tags": [
+        "上线",
+        "发布",
+        "首次",
+        "AI",
+        "开源"
+      ],
+      "url": "https://36kr.com/p/3657372223103109?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-29 05:03:01",
+      "impact_score": 322.5
+    },
+    {
+      "index": 4,
+      "title": "阿里发布QoderWork，人人都能拥有能办事的桌面AI助理",
+      "summary": "1月30日消息，阿里巴巴发布旗下首个桌面Agent工具QoderWork，用户可通过自然语言指令让其调用授权的本地应用，完成文件整理、数据处理等任务，旨在让每个用户在个人终端上拥有一个能办事的AI助理。",
+      "importance": "中",
+      "reason": "重大产品发布：阿里发布其首个桌面AI Agent产品，是AI应用落地到个人终端的重要一步，属于重要的商业产品动态。",
+      "tags": [
+        "发布",
+        "AI",
+        "全面开放",
+        "开放",
+        "大模型"
+      ],
+      "url": "https://www.leiphone.com/category/academic/PBcDro6PmN9rI6yK.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-30 03:18:00",
+      "impact_score": 300.0
+    },
+    {
+      "index": 5,
+      "title": "豆包手机卷土重来：从“被围剿”，到“反围剿”丨智能涌现独家",
+      "summary": "1月30日消息，字节跳动旗下豆包手机在遭遇主流互联网应用联合封锁后，正通过推出“豆包手机助手”应用等方式寻求突破，其AI Agent功能引发的数据与流量之争，揭示了国内AI原生硬件与现有生态的激烈冲突。",
+      "importance": "中",
+      "reason": "重大商业动态与安全伦理：涉及中国头部公司（字节跳动）的AI硬件产品与国内互联网生态的激烈竞争与数据安全争议，具有行业代表性。",
+      "tags": [
+        "发布",
+        "马化腾",
+        "AI",
+        "合作",
+        "开放"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/bz7GcGd3iKzKeN3x.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-29 02:03:00",
+      "impact_score": 300.0
+    },
+    {
+      "index": 6,
+      "title": "独家｜智元成立灵巧手子公司「临界点」，前腾讯Robotics X 熊坤带队",
+      "summary": "1月30日消息，智元机器人已完成对灵巧手业务的拆分，成立了名为“临界点”的独立子公司并由前腾讯Robotics X专家熊坤带队，且已于近期完成首轮融资，标志着其在具身智能核心部件领域的战略深化。",
+      "importance": "中",
+      "reason": "重大商业动态：中国明星机器人公司智元进行业务拆分并成立独立子公司融资，是具身智能产业链专业化发展的重要信号。",
+      "tags": [
+        "CEO",
+        "AI",
+        "融资",
+        "投资",
+        "上市"
+      ],
+      "url": "https://36kr.com/p/3660039929160576?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-29 05:06:06",
+      "impact_score": 299.0
+    },
+    {
+      "index": 7,
+      "title": "具身智能生态大会现场实录：以人机交互为中心，探索脑机接口与具身智能康复解决方案",
+      "summary": "1月30日消息，在上海举办的具身智能生态大会上，傅利叶智能等中国企业与研究机构共同探讨并展示了以主动式人机交互为核心的具身智能技术，特别是在医疗康复等领域的应用解决方案与产学研合作。",
+      "importance": "中",
+      "reason": "重大商业与学术动态：国内具身智能领域的重要行业会议，汇集了顶尖企业和学者，展示了中国在该领域的技术路线和落地探索。",
+      "tags": [
+        "CEO",
+        "首次",
+        "合作",
+        "投资",
+        "创新"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/syuujrJBtP5xGmSL.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-29 03:38:00",
+      "impact_score": 290.0
+    },
+    {
+      "index": 8,
+      "title": "对标 Genie 3，蚂蚁灵波开源世界模型 LingBot-World，10分钟长视频无损生成",
+      "summary": "1月30日消息，蚂蚁集团旗下的灵波科技开源发布世界模型LingBot-World，该模型在视频生成质量、动态程度和长时一致性等关键指标上媲美谷歌Genie 3，并能实现近10分钟长视频的无损生成。",
+      "importance": "中",
+      "reason": "重大产品发布与学术突破：中国科技巨头蚂蚁集团的开源模型在视频生成（世界模型）领域达到国际顶尖水平（对标谷歌Genie 3），属于重要技术发布。",
+      "tags": [
+        "发布",
+        "开源"
+      ],
+      "url": "https://36kr.com/p/3654915542130816?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-30 01:30:00",
+      "impact_score": 286.0
+    },
+    {
+      "index": 9,
+      "title": "让世界模型直接控制机器人动作，蚂蚁灵波开源具身世界模型LingBot-VA",
+      "summary": "1月30日消息，蚂蚁灵波科技开源了具身世界模型LingBot-VA，该模型能够使机器人像人类一样进行“边推演、边行动”，实现了世界模型对机器人动作的直接控制，推动了具身智能的发展。",
+      "importance": "中",
+      "reason": "重大产品发布与学术突破：蚂蚁再次开源关键模型，聚焦具身智能核心的“世界模型-动作控制”一体化，技术方向前沿。",
+      "tags": [
+        "开源"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/RqSzE6GDM01WiEzq.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-30 06:03:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 10,
+      "title": "纳米漫剧流水线公测上线，开启漫剧工业化生产时代",
+      "summary": "1月30日消息，国内首个工业级AI漫剧智能体生产平台“纳米漫剧流水线”正式公测上线，该平台旨在利用AI技术实现漫剧内容的工业化、自动化生产，标志着AI在数字内容创作领域的应用进入新阶段。",
+      "importance": "低",
+      "reason": "重大产品发布：国内首个该类型平台上线，属于AI在垂直应用领域（内容生成）的重要商业化尝试。",
+      "tags": [
+        "AI",
+        "上线"
+      ],
+      "url": "https://www.leiphone.com/category/ai/bq4IevdlesVN1iLL.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-29 02:34:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 11,
+      "title": "千问语音识别模型Qwen3-ASR开源！饶舌RAP歌曲也能轻松识别",
+      "summary": "1月30日消息，通义千问团队开源了语音识别模型Qwen3-ASR，该模型能够识别包括多种方言在内的52种语言与方言，即使在识别高难度的饶舌RAP歌曲方面也表现出色，降低了语音AI的应用门槛。",
+      "importance": "低",
+      "reason": "重大产品发布：阿里通义千问团队开源语音识别模型，支持多语言方言，是AI基础能力建设的一部分。",
+      "tags": [
+        "开源"
+      ],
+      "url": "https://www.leiphone.com/category/industrycloud/hvuzU1RGLKt6PRMW.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-01-30 03:22:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 12,
+      "title": "一家AI玩具公司获数千万元融资，核心产品销量翻五倍｜硬氪首发",
+      "summary": "1月30日消息，专注于AI陪伴玩具的上海喜梨信息科技有限公司（FoloToy）近日完成数千万元Pre-A轮融资，由深创投等机构投资，其核心产品销量实现五倍增长，资金将用于技术研发与市场交付。",
+      "importance": "低",
+      "reason": "重大商业动态：中国AI+消费硬件（玩具）公司获得知名机构投资，反映了AI在泛娱乐消费领域的应用获得资本关注。",
+      "tags": [
+        "AI",
+        "大模型",
+        "隐私",
+        "融资",
+        "投资"
+      ],
+      "url": "https://36kr.com/p/3660312420180864?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-29 23:30:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 13,
+      "title": "刚刚，菜鸟无人车队并入九识！",
+      "summary": "1月30日消息，菜鸟的无人车队（RoboVan）已并入自动驾驶公司九识，其车队规模突破2万辆并跑通商业化闭环，此举意味着阿里在自动驾驶物流领域的资源整合与商业化进程加速。",
+      "importance": "低",
+      "reason": "重大商业动态：涉及中国物流巨头菜鸟与自动驾驶公司的业务整合，是AI在智慧物流领域商业化落地的重要进展。",
+      "tags": [
+        "突破"
+      ],
+      "url": "https://36kr.com/p/3661162161234566?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-30 00:10:16",
+      "impact_score": 225.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Elon Musk’s SpaceX Said to Consider Merger With Tesla or xAI",
+      "summary": "1月30日消息，据知情人士透露，SpaceX正考虑与特斯拉的潜在合并方案，同时也在评估与人工智能公司xAI的替代性合并选项。此举显示出亿万富翁埃隆·马斯克旗下企业间的战略整合动向。",
+      "importance": "高",
+      "reason": "影响力评分: 255.0",
+      "tags": [
+        "Elon Musk",
+        "merger",
+        "artificial intelligence",
+        "AI",
+        "billion"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-29/elon-musk-s-spacex-is-said-to-consider-merger-with-tesla-or-xai",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-29 22:15:55",
+      "impact_score": 255.0
+    },
+    {
+      "index": 2,
+      "title": "Delta Electronics Surges to $100 Billion Valuation, Tops Foxconn",
+      "summary": "1月30日消息，台达电子自4月以来市值增长超四倍，这家AI服务器零部件制造商已成为台湾第二大上市公司，目前市值突破1000亿美元。",
+      "importance": "高",
+      "reason": "影响力评分: 240.0",
+      "tags": [
+        "billion",
+        "valuation",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-30/delta-electronics-surges-to-100-billion-valuation-tops-foxconn",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-30 00:14:06",
+      "impact_score": 240.0
+    },
+    {
+      "index": 3,
+      "title": "Elon Musk might merge SpaceX with Tesla or xAI",
+      "summary": "1月30日消息，埃隆·马斯克旗下的SpaceX公司可能与其领导的另一家企业合并。路透社周四报道称，在SpaceX计划进行首次公开募股之前，该公司正与xAI就合并事宜进行洽谈。",
+      "importance": "高",
+      "reason": "影响力评分: 225.0",
+      "tags": [
+        "IPO",
+        "Elon Musk",
+        "merger",
+        "AI"
+      ],
+      "url": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-01-29 19:47:58",
+      "impact_score": 225.0
+    },
+    {
+      "index": 4,
+      "title": "Apple’s second biggest acquisition ever is an AI company that listens to ‘silent speech’",
+      "summary": "1月30日消息，苹果史上最大收购案仍是2014年以30亿美元收购Beats，而如今其第二大收购案锁定成立四年的AI音频初创公司Q.ai。苹果未披露具体交易条款，但",
+      "importance": "高",
+      "reason": "影响力评分: 225.0",
+      "tags": [
+        "billion",
+        "AI",
+        "acquisition",
+        "beats"
+      ],
+      "url": "https://www.theverge.com/news/870353/apple-q-ai-acquisition-silent-speech",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-01-29 19:22:27",
+      "impact_score": 225.0
+    },
+    {
+      "index": 5,
+      "title": "Concise Geometric Description as a Bridge: Unleashing the Potential of LLM for Plane Geometry Problem Solving",
+      "summary": "1月30日消息，arXiv平台发布新论文（编号2601.21164v1），提出平面几何解题（PGPS）多模态推理任务。该任务要求基于几何图形与问题描述，通过多模态推理解决平面几何问题。",
+      "importance": "高",
+      "reason": "影响力评分: 200.0",
+      "tags": [
+        "AI",
+        "multimodal",
+        "reasoning",
+        "LLM",
+        "fine"
+      ],
+      "url": "https://arxiv.org/abs/2601.21164",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-30 05:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 6,
+      "title": "Do Reasoning Models Enhance Embedding Models?",
+      "summary": "1月30日消息，arXiv平台发布新论文（编号2601.21192v1）摘要指出：当前最先进的嵌入模型正越来越多地基于仅解码器架构的大语言模型，通过对比学习进行适应性改进。",
+      "importance": "高",
+      "reason": "影响力评分: 200.0",
+      "tags": [
+        "state-of-the-art",
+        "AI",
+        "reasoning",
+        "LLM",
+        "valuation"
+      ],
+      "url": "https://arxiv.org/abs/2601.21192",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-30 05:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 7,
+      "title": "Multi-modal Imputation for Alzheimer's Disease Classification",
+      "summary": "1月30日消息，arXiv平台发布新论文（编号2601.21076v1）摘要指出：深度学习技术已能通过磁共振成像成功预测阿尔茨海默病等神经退行性疾病。研究通过整合",
+      "importance": "高",
+      "reason": "影响力评分: 185.0",
+      "tags": [
+        "AI",
+        "AGI",
+        "multimodal",
+        "deep learning"
+      ],
+      "url": "https://arxiv.org/abs/2601.21076",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-30 05:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 8,
+      "title": "Satya Nadella insists people are using Microsoft’s Copilot AI a lot",
+      "summary": "1月30日消息，微软斥资数百亿美元建设数据中心之际，针对其人工智能服务无人问津的传言，首席执行官萨提亚·纳德拉公布了相关使用数据。",
+      "importance": "高",
+      "reason": "影响力评分: 173.0",
+      "tags": [
+        "billion",
+        "Satya Nadella",
+        "AI",
+        "CEO"
+      ],
+      "url": "https://techcrunch.com/2026/01/29/satya-nadella-insists-people-are-using-microsofts-copilot-ai-a-lot/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-01-29 20:06:56",
+      "impact_score": 173.0
+    },
+    {
+      "index": 9,
+      "title": "Apple Sales Trounce Estimates After iPhone Fuels Record Quarter",
+      "summary": "1月30日消息，彭博社全球消费科技主编马克·古尔曼指出，得益于假日季营收超出华尔街预期，苹果本财季业绩或创历史最佳纪录。",
+      "importance": "高",
+      "reason": "影响力评分: 172.5",
+      "tags": [
+        "billion",
+        "AGI",
+        "AI",
+        "chief"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-01-29/apple-sales-trounce-estimates-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-29 21:54:49",
+      "impact_score": 172.5
+    },
+    {
+      "index": 10,
+      "title": "Siri Co-Founder Says Apple Is in a 'Pretty Good Position'",
+      "summary": "1月30日消息，Siri联合创始人兼前CEO达格·基特劳斯表示，苹果在Siri的开发过程中曾出现一些失误，但对当前进展持乐观态度。他在彭博社节目\"The Close\"中发表了上述观点。",
+      "importance": "高",
+      "reason": "影响力评分: 165.0",
+      "tags": [
+        "founder",
+        "CEO"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-01-29/siri-co-founder-says-apple-is-in-pretty-good-position-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-29 22:06:20",
+      "impact_score": 165.0
+    },
+    {
+      "index": 11,
+      "title": "Sen. Warren pushes Altman for guarantee OpenAI isn’t seeking government bailout",
+      "summary": "1月30日消息，美国马萨诸塞州民主党参议员伊丽莎白·沃伦正敦促OpenAI公司作出保证，若无法实现盈利将不会寻求政府救助。在致首席执行官萨姆·阿尔特曼的信函中，沃伦表示她担忧该公司",
+      "importance": "高",
+      "reason": "影响力评分: 158.0",
+      "tags": [
+        "CEO",
+        "Sam Altman",
+        "AI"
+      ],
+      "url": "https://www.theverge.com/news/869983/elizabeth-warren-openai-sam-altman-bailout-letter",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-01-29 15:00:00",
+      "impact_score": 158.0
+    },
+    {
+      "index": 12,
+      "title": "Llama-3.1-FoundationAI-SecurityLLM-Reasoning-8B Technical Report",
+      "summary": "1月30日消息，arXiv平台发布编号2601.21051v1的新论文《Foundation-Sec-8B-Reasoning》，这是首个面向网络安全领域的开源原生推理模型。该模型基于此前发布的Foundation-Se基础架构构建。",
+      "importance": "高",
+      "reason": "影响力评分: 145.0",
+      "tags": [
+        "AI",
+        "valuation",
+        "reasoning",
+        "LLM",
+        "fine"
+      ],
+      "url": "https://arxiv.org/abs/2601.21051",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-30 05:00:00",
+      "impact_score": 145.0
+    },
+    {
+      "index": 13,
+      "title": "Music publishers sue Anthropic for $3B over ‘flagrant piracy’ of 20,000 works",
+      "summary": "1月30日消息，多家音乐出版商此前因Anthropic使用了约500部受版权保护的作品而对其提起诉讼。",
+      "importance": "高",
+      "reason": "影响力评分: 145.0",
+      "tags": [
+        "AI",
+        "lawsuit"
+      ],
+      "url": "https://techcrunch.com/2026/01/29/music-publishers-sue-anthropic-for-3b-over-flagrant-piracy-of-20000-works/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-01-29 16:30:29",
+      "impact_score": 145.0
+    },
+    {
+      "index": 14,
+      "title": "M12's Cheng: Health Care One of The Fastest AI Adopters",
+      "summary": "1月30日消息，微软旗下风投基金M12的董事总经理Cheryl Cheng表示，医疗行业已从技术应用缓慢的领域转变为人工智能应用最快的领域之一。她与Romaine分享了这一观点。",
+      "importance": "高",
+      "reason": "影响力评分: 142.5",
+      "tags": [
+        "AGI",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-01-29/m12-s-cheng-health-care-one-of-the-fastest-ai-adopters-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-29 23:13:40",
+      "impact_score": 142.5
+    },
+    {
+      "index": 15,
+      "title": "Tesla scraps models in pivot to AI as annual revenue falls for first time",
+      "summary": "1月30日消息，埃隆·马斯克的电动汽车制造商向这位亿万富翁旗下的人工智能公司xAI投资20亿美元。",
+      "importance": "高",
+      "reason": "影响力评分: 142.5",
+      "tags": [
+        "billion",
+        "Elon Musk",
+        "AI"
+      ],
+      "url": "https://www.ft.com/content/78d53ce6-a731-496c-8d8b-e53bc35f49a8",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-01-29 14:31:17",
+      "impact_score": 142.5
+    },
+    {
+      "index": 16,
+      "title": "A Yann LeCun–Linked Startup Charts a New Path to AGI",
+      "summary": "1月30日消息，在全球各大企业斥资数千亿美元投入大语言模型研发之际，总部位于旧金山的Logical Intelligence公司正另辟蹊径，致力于开发能够模拟人类思维过程的AI系统。",
+      "importance": "高",
+      "reason": "影响力评分: 140.5",
+      "tags": [
+        "billion",
+        "AGI",
+        "AI",
+        "large language model"
+      ],
+      "url": "https://www.wired.com/story/logical-intelligence-yann-lecun-startup-chart-new-course-agi/",
+      "source": "Wired AI",
+      "original_pub_date": "2026-01-29 19:00:00",
+      "impact_score": 140.5
+    },
+    {
+      "index": 17,
+      "title": "Amazon could invest up to $50 billion in OpenAI in coming weeks, source says",
+      "summary": "1月30日消息，据知情人士透露，OpenAI首席执行官萨姆·奥尔特曼与亚马逊首席执行官安迪·贾西近期已展开直接对话。",
+      "importance": "高",
+      "reason": "影响力评分: 140.0",
+      "tags": [
+        "billion",
+        "CEO",
+        "Sam Altman",
+        "AI"
+      ],
+      "url": "https://www.cnbc.com/2026/01/29/amazon-openai-investment-jassy-altman.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-01-29 23:11:50",
+      "impact_score": 140.0
+    },
+    {
+      "index": 18,
+      "title": "Mercedes-Benz Unveils New S-Class Built on NVIDIA DRIVE AV, Which Enables an L4-Ready Architecture",
+      "summary": "1月30日消息，梅赛德斯-奔驰为庆祝汽车创新140周年，推出专为人工智能时代打造的全新S级轿车。该车型融合汽车安全技术与英伟达先进自动驾驶平台，实现L3级自动驾驶功能。",
+      "importance": "高",
+      "reason": "影响力评分: 132.0",
+      "tags": [
+        "AI",
+        "unveils"
+      ],
+      "url": "https://blogs.nvidia.com/blog/mercedes-benz-l4-s-class-drive-av-platform/",
+      "source": "NVIDIA AI",
+      "original_pub_date": "2026-01-29 18:00:31",
+      "impact_score": 132.0
+    },
+    {
+      "index": 19,
+      "title": "OpenAI’s Sora app is struggling after its stellar launch",
+      "summary": "1月30日消息，最新数据显示，随着人工智能视频社交网络的早期热潮消退，该应用的下载量和用户消费支出均出现下滑。",
+      "importance": "高",
+      "reason": "影响力评分: 132.0",
+      "tags": [
+        "AI",
+        "Sora"
+      ],
+      "url": "https://techcrunch.com/2026/01/29/openais-sora-app-is-struggling-after-its-stellar-launch/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-01-29 16:48:44",
+      "impact_score": 132.0
+    },
+    {
+      "index": 20,
+      "title": "Bayesian-LoRA: Probabilistic Low-Rank Adaptation of Large Language Models",
+      "summary": "1月30日消息，arXiv平台发布新论文（编号2601.21003v1）指出，大语言模型通常更注重准确性，因此即使在预测不确定时也会进行猜测，这种现象尤为明显。",
+      "importance": "高",
+      "reason": "影响力评分: 130.0",
+      "tags": [
+        "AI",
+        "reasoning",
+        "LLM",
+        "fine",
+        "large language model"
+      ],
+      "url": "https://arxiv.org/abs/2601.21003",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-01-30 05:00:00",
+      "impact_score": 130.0
+    }
+  ],
+  "summary": "今日从177条原始信息中精选出13条国内动态和20条国际动态，其中23条为高重要性。 重点关注：性能超越DeepSeek-OCR2，百度发布并开源新一代SOTA OCR模型；开源新标杆！商汤 SenseNova-MARS超 Gemini-3-Pro，模型代码数据全开放；阿里AI芯片露真容 “通云哥”黄金三角浮出水面。",
+  "statistics": {
+    "raw_domestic": 46,
+    "raw_international": 131,
+    "raw_total": 177,
+    "final_domestic": 13,
+    "final_international": 20
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "1月30日消息，百度发布并开源新一代SOTA OCR模型，该模型全球首次实现OCR模型的“异形框定位”能力，在性能上超越了DeepSeek-OCR2，标志着中国在文档智能识别领域取得重要突破。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "1月30日消息，商汤科技正式开源多模态自主推理模型SenseNova-MARS，其在多项核心基准测试中以69.74分超越谷歌Gemini-3-Pro和GPT-5.2，成为首个支持动态视觉推理与图文搜索深度融合的Agentic VLM模型。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "1月30日消息，阿里巴巴旗下平头哥正式上线高端AI芯片“真武810E”，标志着由通义实验室、阿里云和平头哥组成的“通云哥”AI黄金三角战略首次完整亮相，旨在打造全栈自研的AI超级计算机。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "1月30日消息，阿里巴巴发布旗下首个桌面Agent工具QoderWork，用户可通过自然语言指令让其调用授权的本地应用，完成文件整理、数据处理等任务，旨在让每个用户在个人终端上拥有一个能办事的AI助理。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "1月30日消息，字节跳动旗下豆包手机在遭遇主流互联网应用联合封锁后，正通过推出“豆包手机助手”应用等方式寻求突破，其AI Agent功能引发的数据与流量之争，揭示了国内AI原生硬件与现有生态的激烈冲突。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "1月30日消息，据知情人士透露，SpaceX正考虑与特斯拉的潜在合并方案，同时也在评估与人工智能公司xAI的替代性合并选项。此举显示出亿万富翁埃隆·马斯克旗下企业间的战略整合动向。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "1月30日消息，台达电子自4月以来市值增长超四倍，这家AI服务器零部件制造商已成为台湾第二大上市公司，目前市值突破1000亿美元。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "1月30日消息，埃隆·马斯克旗下的SpaceX公司可能与其领导的另一家企业合并。路透社周四报道称，在SpaceX计划进行首次公开募股之前，该公司正与xAI就合并事宜进行洽谈。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "1月30日消息，苹果史上最大收购案仍是2014年以30亿美元收购Beats，而如今其第二大收购案锁定成立四年的AI音频初创公司Q.ai。苹果未披露具体交易条款，但",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "1月30日消息，arXiv平台发布新论文（编号2601.21164v1），提出平面几何解题（PGPS）多模态推理任务。该任务要求基于几何图形与问题描述，通过多模态推理解决平面几何问题。",
+      "importance": "高"
+    }
+  ]
+}
