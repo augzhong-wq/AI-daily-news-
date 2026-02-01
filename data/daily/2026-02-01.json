@@ -1,0 +1,361 @@
+{
+  "date": "2026-02-01",
+  "generated_at": "2026-02-01 08:39:18",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "华为推出首个服务基层医院端云协同智慧病理解决方案",
+      "summary": "2月1日消息，华为云在医疗人工智能协同创新论坛上发布行业AI“梦工厂”的首个专区——智慧医疗专区，并推出业界首个服务基层医院的端云协同智慧病理解决方案，同时与瑞金医院联合发布预集成AI模型的RuiPath智慧病理一体机，旨在加速医疗AI在基层的普惠应用。",
+      "importance": "高",
+      "reason": "属于【重大产品发布】。主体为中国公司华为，发布了面向医疗行业的旗舰级AI解决方案及产品，具有明确的行业创新和普惠意义。",
+      "tags": [
+        "发布",
+        "AI",
+        "创新",
+        "人工智能",
+        "医疗"
+      ],
+      "url": "https://36kr.com/p/3660098751538053?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-01 01:30:00",
+      "impact_score": 327.5
+    },
+    {
+      "index": 2,
+      "title": "蚂蚁用8B小模型构建用户“话”像，跨任务跨模型通用且SOTA",
+      "summary": "2月1日消息，蚂蚁集团发布了一项基于8B参数小模型的创新技术，能够构建跨任务、跨模型的通用用户画像，并在相关评测中取得了SOTA（当前最优）性能，旨在为每个用户提供个性化的AI助理服务。",
+      "importance": "高",
+      "reason": "属于【重大学术/技术突破】。主体为中国公司蚂蚁集团，其研发的小模型技术在通用性和性能上取得突破性进展（SOTA），具有重要的技术影响力。",
+      "tags": [
+        "大模型",
+        "SOTA",
+        "技术突破"
+      ],
+      "url": "https://36kr.com/newsflashes/3664226892833664?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-01 04:30:15",
+      "impact_score": 221.0
+    },
+    {
+      "index": 3,
+      "title": "一家深低温技术公司完成近5亿元融资，已获得核聚变等领域客户数亿元订单｜硬氪首发",
+      "summary": "2月1日消息，河南中科清能科技有限公司完成近5亿元PreA++轮融资，由鼎晖百孚等多家知名机构投资，资金将用于液氢系统、核聚变制冷系统等前沿技术的研发与交付，该公司已获得核聚变等领域数亿元订单。",
+      "importance": "高",
+      "reason": "属于【重大商业动态】。主体为中国科技公司中科清能，获得近5亿元大额融资，且其技术（深低温）与AI基础设施（如量子计算、大科学装置）紧密相关，属于AI产业链上游的重要支撑领域。",
+      "tags": [
+        "融资",
+        "投资",
+        "硬科技",
+        "核聚变"
+      ],
+      "url": "https://36kr.com/newsflashes/3664403283092099?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-01 07:44:44",
+      "impact_score": 195.0
+    },
+    {
+      "index": 4,
+      "title": "锋龙股份：优必选承诺36个月内不注入资产",
+      "summary": "2月1日消息，锋龙股份公告披露，收购方优必选（中国领先的机器人公司）已承诺在交易完成后的36个月内，不存在向上市公司注入其持有资产的计划，此次交易尚需履行多项程序，存在不确定性。",
+      "importance": "中",
+      "理由": "属于【重大商业动态】。涉及中国AI与机器人明星公司优必选的资本运作（收购上市公司），虽然目前是限制性承诺，但反映了AI头部企业的战略布局动向，对市场有指示意义。",
+      "tags": [
+        "上市",
+        "收购",
+        "机器人",
+        "资本运作"
+      ],
+      "url": "https://36kr.com/newsflashes/3664442523918981?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-01 07:43:42",
+      "impact_score": 195.0
+    },
+    {
+      "index": 5,
+      "title": "汇川技术董事长朱兴明3小时深度反省：我们这两年最大的问题，不是战略，而是“人”",
+      "summary": "2月1日消息，中国工业自动化龙头汇川技术董事长朱兴明在年度演讲中进行了深度反思，指出公司在新能源与AI产业浪潮下面临的最大挑战并非战略方向，而是组织与人才问题，揭示了AI时代传统科技企业转型的普遍困境。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】中的高层战略反思。主体为中国核心工业自动化与AI技术应用公司汇川技术，其领导人对AI产业变革下企业组织能力的深刻剖析，对行业具有重要参考价值。",
+      "tags": [
+        "AI",
+        "战略",
+        "管理",
+        "转型"
+      ],
+      "url": "https://36kr.com/newsflashes/3664185894462088?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-01 03:39:32",
+      "impact_score": 162.0
+    },
+    {
+      "index": 6,
+      "title": "中信证券：维持保险板块处于重大机遇期判断",
+      "summary": "2月1日消息，中信证券发布研报认为，证监会拟扩大战略投资者类型，险资作为耐心资本主力将成为重大受益者，预计将积极参与战略投资，并维持保险板块处于重大机遇期的判断。",
+      "importance": "低",
+      "reason": "属于【国内动态】中的金融市场政策解读。主体为中国金融机构中信证券，其观点涉及资本市场政策对“耐心资本”（包括可能投资AI等科技领域的险资）的引导，间接关联AI产业资本环境。",
+      "tags": [
+        "投资",
+        "政策解读",
+        "金融"
+      ],
+      "url": "https://www.jiqizhixin.com/articles/2026-02-01",
+      "source": "机器之心",
+      "original_pub_date": "2026-02-01 08:35:44",
+      "impact_score": 150.0
+    },
+    {
+      "index": 7,
+      "title": "陈茂波：海外企业和投资者对投资香港的信心加强",
+      "summary": "2月1日消息，香港特区政府财政司司长陈茂波表示，海外企业和投资者对投资香港的信心正在加强，去年驻港公司及初创企业数量均增长超一成，香港将继续加快融入国家发展大局，以金融赋能科技创新。",
+      "importance": "低",
+      "reason": "属于【国内动态】中的区域政策与营商环境声明。主体为中国香港特区政府官员，内容强调香港作为国际金融中心对科技创新（包括AI）的赋能作用，与AI产业发展环境相关。",
+      "tags": [
+        "投资",
+        "政策",
+        "香港",
+        "创新"
+      ],
+      "url": "https://36kr.com/p/3662644247323264?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-01-31 01:17:50",
+      "impact_score": 145.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Nvidia CEO Supports All Developers Amid DeepSeek Claims",
+      "summary": "2月1日消息，英伟达CEO黄仁勋回应美国议员指控，强调公司支持所有使用其软件的开发者，包括中国的深度求索，此举涉及中美技术关系与出口管制合规的敏感议题。",
+      "importance": "高",
+      "reason": "重大政策与法规：涉及美国对华技术出口管制及AI芯片巨头英伟达的合规立场，具有显著的地缘政治和产业政策影响。",
+      "tags": [
+        "英伟达",
+        "出口管制",
+        "中美关系"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-01-31/nvidia-ceo-supports-all-developers-amid-deepseek-claims-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-31 16:47:35",
+      "impact_score": 262.5
+    },
+    {
+      "index": 2,
+      "title": "Nvidia CEO Says New OpenAI Investment May Be Largest Yet",
+      "summary": "2月1日消息，英伟达CEO黄仁勋确认公司将参与OpenAI新一轮融资，并表示这可能是其有史以来规模最大的单笔投资，凸显了AI基础设施巨头与前沿模型公司的深度资本绑定。",
+      "importance": "高",
+      "reason": "重大商业动态：全球AI芯片龙头计划对顶级AI模型公司进行创纪录的巨额投资，将深刻影响全球AI产业格局和资本流向。",
+      "tags": [
+        "英伟达",
+        "OpenAI",
+        "巨额融资",
+        "战略投资"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-31/nvidia-ceo-say-it-supports-all-developers-amid-deepseek-claims",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-31 13:33:13",
+      "impact_score": 262.5
+    },
+    {
+      "index": 3,
+      "title": "Waymo Seeking About $16 Billion Near $110 Billion Valuation",
+      "summary": "2月1日消息，谷歌母公司Alphabet旗下自动驾驶公司Waymo计划融资约160亿美元，估值接近1100亿美元，这将是自动驾驶领域规模空前的融资，旨在加速全球业务扩张。",
+      "importance": "高",
+      "reason": "重大商业动态：自动驾驶领军企业寻求超大规模融资，估值极高，标志着该领域进入新一轮资本密集型竞争阶段。",
+      "tags": [
+        "Waymo",
+        "自动驾驶",
+        "巨额融资",
+        "Alphabet"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-31/nvidia-to-join-openai-s-current-funding-round-huang-says",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-31 12:26:02",
+      "impact_score": 262.5
+    },
+    {
+      "index": 4,
+      "title": "Elon Musk’s Relentless AI Pursuit Has Him on the Hunt for Capital",
+      "summary": "2月1日消息，埃隆·马斯克为支撑其宏大的AI野心，正积极寻求资本，甚至引发关于合并特斯拉与SpaceX以整合资源的讨论，凸显其AI战略的激进与高成本。",
+      "importance": "高",
+      "reason": "重大商业动态：涉及全球科技领袖的跨公司资本运作与战略调整，对AI、电动汽车和航天多个前沿领域有潜在深远影响。",
+      "tags": [
+        "埃隆·马斯克",
+        "特斯拉",
+        "SpaceX",
+        "AI战略",
+        "资本运作"
+      ],
+      "url": "https://www.bloomberg.com/news/features/2026-01-31/elon-musk-s-ai-push-has-him-considering-mergers-in-search-for-capital",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-31 00:31:57",
+      "impact_score": 255.0
+    },
+    {
+      "index": 5,
+      "title": "Artificial intelligence researchers hit by flood of ‘slop’",
+      "summary": "2月1日消息，国际学术会议正面临低质量AI生成论文和评审的泛滥，迫使多个会议组织者开始限制大语言模型的使用，以维护学术研究的严谨性与诚信。",
+      "importance": "高",
+      "reason": "重大学术突破/安全与伦理：揭示了AI技术对学术生态的负面冲击，属于重要的AI伦理与治理议题，已引发学术界的实质性应对措施。",
+      "tags": [
+        "学术诚信",
+        "AI伦理",
+        "大语言模型",
+        "学术会议"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-01-31/waymo-seeking-about-16-billion-near-110-billion-valuation",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-31 19:14:37",
+      "impact_score": 240.0
+    },
+    {
+      "index": 6,
+      "title": "Waymo finalises $16bn funding round at $110bn valuation",
+      "summary": "2月1日消息，谷歌旗下自动驾驶公司Waymo已完成160亿美元的融资轮，估值达1100亿美元，并引入了新的投资者，以应对与特斯拉等对手的全球竞争。",
+      "importance": "高",
+      "reason": "重大商业动态：确认了Waymo巨额融资的完成，标志着自动驾驶行业一个关键里程碑，资金将直接用于全球市场拓展和技术竞争。",
+      "tags": [
+        "Waymo",
+        "自动驾驶",
+        "融资完成",
+        "高估值",
+        "谷歌"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-01-31/jensen-huang-speaks-on-openai-financing-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-31 16:27:53",
+      "impact_score": 180.0
+    },
+    {
+      "index": 7,
+      "title": "ChatGPT isn’t the only chatbot pulling answers from Elon Musk’s Grokipedia",
+      "summary": "2月1日消息，包括ChatGPT、谷歌AI Overviews在内的多个主流AI聊天工具，被发现频繁引用埃隆·马斯克旗下AI生成的百科全书Grok作为信息来源，引发了关于信息准确性和虚假信息传播的担忧。",
+      "importance": "中",
+      "reason": "安全与伦理：涉及多个主流AI产品的信息源质量问题，直接关系到AI生成内容的可靠性与潜在 misinformation 风险，属于重要的AI安全与伦理议题。",
+      "tags": [
+        "AI安全",
+        "信息准确性",
+        "ChatGPT",
+        "谷歌",
+        "Grok"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-01-31/jensen-huang-speaks-on-openai-investment-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-01-31 16:15:12",
+      "impact_score": 180.0
+    },
+    {
+      "index": 8,
+      "title": "Indonesia Permits Elon Musk’s Grok to Resume Service After Ban",
+      "summary": "2月1日消息，印度尼西亚政府在埃隆·马斯克的X公司做出保证后，已允许其AI工具Grok恢复服务。此前该工具因生成性化内容被禁，此事涉及AI内容监管与国际合规。",
+      "importance": "中",
+      "reason": "安全与伦理/国际动态：展示了主权国家如何对海外AI公司的产品进行内容监管，以及公司如何通过承诺进行调整以满足当地法规，是AI全球治理的典型案例。",
+      "tags": [
+        "内容监管",
+        "Grok",
+        "印度尼西亚",
+        "AI治理",
+        "埃隆·马斯克"
+      ],
+      "url": "https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-01-31 23:37:56",
+      "impact_score": 173.0
+    },
+    {
+      "index": 9,
+      "title": "A peek inside Physical Intelligence, the startup building Silicon Valley’s buzziest robot brains",
+      "summary": "2月1日消息，硅谷初创公司Physical Intelligence正致力于开发机器人“大脑”，其团队由深耕该领域数十年的专家组成，并认为当前时机已经成熟，吸引了行业高度关注。",
+      "importance": "中",
+      "reason": "重大商业动态/学术突破：聚焦于具身智能和机器人前沿领域的明星初创公司，代表了AI与物理世界交互的重要发展方向。",
+      "tags": [
+        "机器人",
+        "具身智能",
+        "硅谷初创",
+        "Physical Intelligence"
+      ],
+      "url": "https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-01-31 17:54:12",
+      "impact_score": 158.0
+    },
+    {
+      "index": 10,
+      "title": "AI Boom Is Triggering a Loan Meltdown for Software Companies: Credit Weekly",
+      "summary": "2月1日消息，在信贷市场普遍乐观的背景下，AI热潮正导致软件公司的一类债务面临日益增长的担忧和潜在的贷款危机，揭示了AI繁荣背后的金融风险。",
+      "importance": "中",
+      "reason": "重大商业动态：从金融风险角度分析AI产业过热可能带来的负面影响，对投资者和行业参与者具有重要的警示和参考价值。",
+      "tags": [
+        "AI泡沫",
+        "金融风险",
+        "信贷市场",
+        "软件公司"
+      ],
+      "url": "https://www.ft.com/content/54e274c5-de86-4b3e-96a9-95a46b5e48a0",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-02-01 05:00:03",
+      "impact_score": 135.0
+    }
+  ],
+  "summary": "今日从49条原始信息中精选出7条国内动态和10条国际动态，其中9条为高重要性。 重点关注：华为推出首个服务基层医院端云协同智慧病理解决方案；蚂蚁用8B小模型构建用户“话”像，跨任务跨模型通用且SOTA；一家深低温技术公司完成近5亿元融资，已获得核聚变等领域客户数亿元订单｜硬氪首发。",
+  "statistics": {
+    "raw_domestic": 20,
+    "raw_international": 29,
+    "raw_total": 49,
+    "final_domestic": 7,
+    "final_international": 10
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "2月1日消息，华为云在医疗人工智能协同创新论坛上发布行业AI“梦工厂”的首个专区——智慧医疗专区，并推出业界首个服务基层医院的端云协同智慧病理解决方案，同时与瑞金医院联合发布预集成AI模型的RuiPath智慧病理一体机，旨在加速医疗AI在基层的普惠应用。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "2月1日消息，蚂蚁集团发布了一项基于8B参数小模型的创新技术，能够构建跨任务、跨模型的通用用户画像，并在相关评测中取得了SOTA（当前最优）性能，旨在为每个用户提供个性化的AI助理服务。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "2月1日消息，河南中科清能科技有限公司完成近5亿元PreA++轮融资，由鼎晖百孚等多家知名机构投资，资金将用于液氢系统、核聚变制冷系统等前沿技术的研发与交付，该公司已获得核聚变等领域数亿元订单。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "2月1日消息，锋龙股份公告披露，收购方优必选（中国领先的机器人公司）已承诺在交易完成后的36个月内，不存在向上市公司注入其持有资产的计划，此次交易尚需履行多项程序，存在不确定性。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "2月1日消息，中国工业自动化龙头汇川技术董事长朱兴明在年度演讲中进行了深度反思，指出公司在新能源与AI产业浪潮下面临的最大挑战并非战略方向，而是组织与人才问题，揭示了AI时代传统科技企业转型的普遍困境。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "2月1日消息，英伟达CEO黄仁勋回应美国议员指控，强调公司支持所有使用其软件的开发者，包括中国的深度求索，此举涉及中美技术关系与出口管制合规的敏感议题。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "2月1日消息，英伟达CEO黄仁勋确认公司将参与OpenAI新一轮融资，并表示这可能是其有史以来规模最大的单笔投资，凸显了AI基础设施巨头与前沿模型公司的深度资本绑定。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "2月1日消息，谷歌母公司Alphabet旗下自动驾驶公司Waymo计划融资约160亿美元，估值接近1100亿美元，这将是自动驾驶领域规模空前的融资，旨在加速全球业务扩张。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "2月1日消息，埃隆·马斯克为支撑其宏大的AI野心，正积极寻求资本，甚至引发关于合并特斯拉与SpaceX以整合资源的讨论，凸显其AI战略的激进与高成本。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "2月1日消息，国际学术会议正面临低质量AI生成论文和评审的泛滥，迫使多个会议组织者开始限制大语言模型的使用，以维护学术研究的严谨性与诚信。",
+      "importance": "高"
+    }
+  ]
+}
