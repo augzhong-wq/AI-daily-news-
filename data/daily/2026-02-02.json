@@ -1,0 +1,530 @@
+{
+  "date": "2026-02-02",
+  "generated_at": "2026-02-02 08:52:45",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "蚂蚁推出“AI Credit”特别激励方案，推动业务和组织“全面AI化”",
+      "summary": "2月2日消息，蚂蚁集团CEO韩歆毅宣布推出“AI Credit”特别激励方案，对在AI方向做出开创性贡献的团队和个人给予额外激励，旨在推动公司业务和组织全面AI化，并将健康作为重点突破领域，构建未来十年的战略新支点。",
+      "importance": "高",
+      "reason": "重大商业动态：中国头部科技公司（蚂蚁集团）发布核心AI战略与组织变革方案，涉及大规模激励和未来十年发展方向，对国内AI产业生态有重要影响。",
+      "tags": [
+        "重大商业动态",
+        "战略发布",
+        "AGI"
+      ],
+      "url": "https://36kr.com/p/3664711869850499?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-02 00:00:23",
+      "impact_score": 767.0
+    },
+    {
+      "index": 2,
+      "title": "逐际动力完成2亿美元B轮融资",
+      "summary": "2月2日消息，中国具身智能与人形机器人公司逐际动力宣布完成2亿美元B轮融资，由阿联酋磊石资本、东方富海、京东、上汽集团、蔚来资本等多家国内外知名机构及产业资本参与，资金将用于加大研发和市场投入，加速全栈技术落地。",
+      "importance": "高",
+      "reason": "重大商业动态：中国具身智能领域头部公司获得大额融资（2亿美元），涉及国内外知名资本和重要产业方（京东、上汽、蔚来），标志着该赛道进入规模化发展关键阶段。",
+      "tags": [
+        "重大商业动态",
+        "大额融资",
+        "具身智能"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/HEnTXDsNSvALTBhx.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-02 00:59:00",
+      "impact_score": 480.0
+    },
+    {
+      "index": 3,
+      "title": "想做制药届的AGI，「深度智耀」再获6000万美元融资｜36氪首发",
+      "summary": "2月2日消息，中国AI制药独角兽企业深度智耀近期完成6000万美元新一轮融资，由信宸资本、金镒资本等投资，两个月内累计融资超1亿美元，资金将用于核心技术升级，为全球药企提供从研发到上市的全栈式智能解决方案。",
+      "importance": "高",
+      "reason": "重大商业动态：中国AI+制药领域公司获得大额融资（6000万美元），短期内融资额巨大（超1亿美元），业务模式具有全球竞争力，属于AI在垂直行业应用的重要进展。",
+      "tags": [
+        "重大商业动态",
+        "大额融资",
+        "AI制药"
+      ],
+      "url": "https://36kr.com/p/3664481484333700?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-02 00:00:00",
+      "impact_score": 455.0
+    },
+    {
+      "index": 4,
+      "title": "开源炸场！优必选具身智能大模型Thinker再次狂揽9项全球第一！",
+      "summary": "2月2日消息，优必选宣布对其具身智能大模型Thinker进行架构升级，聚焦“小参数、高性能、全开源”，在多项基准测试中取得9项全球第一，旨在为工业人形机器人提供快速反应与精准空间感知的下一代智能大脑。",
+      "importance": "高",
+      "reason": "重大学术突破/重大产品发布：中国机器人龙头企业（优必选）发布其具身智能大模型的重要升级，并在多项评测中获得SOTA性能（9项全球第一），同时坚持开源策略，具有重要技术和产业影响。",
+      "tags": [
+        "重大学术突破",
+        "开源模型",
+        "具身智能"
+      ],
+      "url": "https://36kr.com/newsflashes/3665853061161606?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-02 07:38:34",
+      "impact_score": 376.5
+    },
+    {
+      "index": 5,
+      "title": "阶跃星辰发布最强开源基座模型 Step 3.5 Flash，多家头部芯片厂商已完成适配",
+      "summary": "2月2日消息，中国AI公司阶跃星辰发布了其开源基座模型Step 3.5 Flash，该模型在性能上表现强劲，并已获得多家头部芯片厂商的适配支持，进一步丰富了国内开源大模型生态。",
+      "importance": "高",
+      "reason": "重大产品发布：中国AI公司发布重要的开源基座模型，并获得产业链关键环节（芯片厂商）的广泛适配，属于国内大模型领域的重要产品动态。",
+      "tags": [
+        "重大产品发布",
+        "开源模型",
+        "大模型"
+      ],
+      "url": "https://www.qbitai.com/2026/02/375340.html",
+      "source": "量子位",
+      "original_pub_date": "2026-02-02 02:12:00",
+      "impact_score": 352.5
+    },
+    {
+      "index": 6,
+      "title": "Kimi海外收入已超国内，要做“Anthropic + Manus”｜智能涌现独家",
+      "summary": "2月2日消息，中国AI公司月之暗面旗下Kimi模型在发布K2.5后，全球付费用户实现4倍增长，其海外收入已超过国内收入，在OpenRouter平台排名升至第三，显示出强劲的国际商业化势头。",
+      "importance": "高",
+      "reason": "重大商业动态：中国头部大模型公司（月之暗面）的核心产品Kimi在商业化上取得关键突破，海外收入反超国内，并在国际第三方平台上排名靠前，是中国AI模型出海的重要标志。",
+      "tags": [
+        "重大商业动态",
+        "模型商业化",
+        "出海"
+      ],
+      "url": "https://36kr.com/p/3660098751538053?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-01 01:30:00",
+      "impact_score": 327.5
+    },
+    {
+      "index": 7,
+      "title": "何小鹏内部分享：智能座舱和智能驾驶会技术合流，组成“超级智能体”｜36氪独家",
+      "summary": "2月2日消息，小鹏汽车董事长何小鹏在公司年会上提出，智能座舱与智能驾驶将技术合流组成“超级智能体”，并将2026年定为物理AI商业化落地关键年，公司目标是抓住自动驾驶的“DeepSeek时刻”。",
+      "importance": "高",
+      "reason": "重大商业动态/技术路线：中国头部智能电动汽车公司（小鹏汽车）发布重要的AI技术融合战略与商业化路线图，对汽车产业与AI结合的方向有引领性判断。",
+      "tags": [
+        "重大商业动态",
+        "技术战略",
+        "自动驾驶"
+      ],
+      "url": "https://www.leiphone.com/category/ai/tzyDcW4dg7W7Zai3.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-02 03:50:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 8,
+      "title": "卓世科技完成数亿元Pre-IPO轮融资，国泰君安创新投、优必选等共同投资",
+      "summary": "2月2日消息，AI公司卓世科技宣布完成数亿元人民币的Pre-IPO轮融资，投资方包括国泰君安创新投、优必选等，此举为公司后续的上市计划奠定了重要基础。",
+      "importance": "中",
+      "reason": "重大商业动态：中国AI公司完成Pre-IPO轮数亿元融资，涉及知名券商和产业资本，是AI公司冲刺资本市场前的关键资本动作。",
+      "tags": [
+        "重大商业动态",
+        "融资",
+        "Pre-IPO"
+      ],
+      "url": "https://www.qbitai.com/2026/02/375351.html",
+      "source": "量子位",
+      "original_pub_date": "2026-02-02 03:14:45",
+      "impact_score": 270.0
+    },
+    {
+      "index": 9,
+      "title": "鹿明机器人CEO喻超：2026年营收或达数亿元，但更关注通用智能的终局",
+      "summary": "2月2日消息，中国具身智能新秀鹿明机器人CEO喻超表示，公司2026年预期营收规模达数亿元，并将建成超百万小时的UMI数据采集产能，但其长期战略核心仍聚焦于通用智能的终极目标。",
+      "importance": "中",
+      "reason": "重大商业动态：中国具身智能领域新兴公司公布其商业化预期（数亿元营收）和核心数据战略，反映了该赛道初创公司的发展节奏与长期愿景。",
+      "tags": [
+        "重大商业动态",
+        "具身智能",
+        "商业化预期"
+      ],
+      "url": "https://36kr.com/newsflashes/3665894670148485?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-02 08:20:53",
+      "impact_score": 260.0
+    },
+    {
+      "index": 10,
+      "title": "华为云发布“行业AI梦工厂”智慧医疗专区，加速医疗AI普惠",
+      "summary": "2月2日消息，华为云正式发布“行业AI梦工厂”智慧医疗专区，旨在通过整合AI技术与医疗行业知识，降低医疗AI应用门槛，加速AI在医疗领域的普惠化落地。",
+      "importance": "中",
+      "reason": "重大产品发布：中国科技巨头（华为）旗下云业务发布针对垂直行业（医疗）的AI平台产品，是AI与产业结合的重要举措。",
+      "tags": [
+        "重大产品发布",
+        "行业AI",
+        "智慧医疗"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/RwT9ymUDieNj7ht2.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-02 02:56:00",
+      "impact_score": 255.0
+    },
+    {
+      "index": 11,
+      "title": "千问APP发起春节攻势 30亿请全国人民吃喝玩乐",
+      "summary": "2月2日消息，阿里巴巴旗下千问APP宣布投入30亿元启动“春节请客计划”，通过免单等形式推广其AI应用，并联合淘宝、支付宝等阿里生态业务，发起春节期间的AI用户争夺战。",
+      "importance": "中",
+      "reason": "重大商业动态：中国互联网巨头（阿里巴巴）通过巨额补贴（30亿）推广其核心AI产品（千问APP），属于重要的市场扩张和用户获取战略。",
+      "tags": [
+        "重大商业动态",
+        "市场推广",
+        "AI应用"
+      ],
+      "url": "https://36kr.com/p/3664227663651718?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-02 00:50:00",
+      "impact_score": 245.0
+    },
+    {
+      "index": 12,
+      "title": "让AI自己发现Scaling Law！北大斯坦福联手打造「AI科学家」，预测精度超越人类专家",
+      "summary": "2月2日消息，北京大学与斯坦福大学的研究团队联合开发出一套“AI科学家”系统，该系统能够自主发现AI模型扩展定律（Scaling Law），其预测精度超越了人类专家，为AI基础研究提供了新范式。",
+      "importance": "中",
+      "reason": "重大学术突破：中国顶尖高校（北京大学）参与的国际合作取得突破性研究成果，在AI基础理论（Scaling Law）领域实现机器自主发现，且性能超越人类。",
+      "tags": [
+        "重大学术突破",
+        "基础研究",
+        "国际合作"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/h7UFJb8JRCZ25aYt.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-02 02:47:00",
+      "impact_score": 225.0
+    },
+    {
+      "index": 13,
+      "title": "多亏了自动驾驶F4，才撑起了具身智能半边天",
+      "summary": "2月2日消息，分析指出中国自动驾驶领域的头部公司（如华为、大疆车载、地平线、Momenta）已成为具身智能创业人才和技术的重要来源，孵化了包括智元、星海图在内的众多明星公司，推动了中国具身智能生态的发展。",
+      "importance": "低",
+      "reason": "产业生态分析：该新闻分析了中国自动驾驶产业对新兴具身智能赛道的人才和技术输送作用，揭示了国内AI产业内部的发展脉络与协同效应。",
+      "tags": [
+        "产业生态",
+        "人才流动",
+        "具身智能"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/w72GLtFCeZpLZ71W.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-02 03:28:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 14,
+      "title": "一家深低温技术公司完成近5亿元融资，已获得核聚变等领域客户数亿元订单｜硬氪首发",
+      "summary": "2月2日消息，河南中科清能科技有限公司完成近5亿元PreA++轮融资，由鼎晖百孚等机构投资，其深低温技术已获得核聚变、大科学装置等领域数亿元订单，资金将用于液氢系统、核聚变制冷系统等研发交付。",
+      "importance": "低",
+      "reason": "重大商业动态：中国硬科技公司（中科清能）获得大额融资，其技术（深低温）服务于AI相关的前沿基础科学设施（如核聚变），属于AI算力基础设施的支撑环节。",
+      "tags": [
+        "重大商业动态",
+        "硬科技融资",
+        "基础设施"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/Bd9nxnWSVtjnnHvz.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-02 02:34:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 15,
+      "title": "从 CES 到斯坦福：追觅洗地机在硅谷开启智能清洁新时代",
+      "summary": "2月2日消息，中国智能清洁电器公司追觅在美国硅谷斯坦福大学举办全球创新发布会，展示其在智能清洁领域的最新技术与产品，旨在强化其全球高端市场的技术领导力。",
+      "importance": "低",
+      "reason": "商业动态：中国消费科技公司（追觅）在海外（斯坦福）举办产品发布会，是其AI赋能硬件产品进行全球化品牌与技术营销的举措。",
+      "tags": [
+        "产品发布",
+        "出海",
+        "消费AI"
+      ],
+      "url": "https://www.leiphone.com/category/ai/8Bis6XvAxxxUT9yA.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-02 04:37:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 16,
+      "title": "真武810E亮相，阿里如何「重构」估值？",
+      "summary": "2月2日消息，分析文章探讨了阿里巴巴自研AI芯片真武810E的战略意义，指出云厂商通过自研芯片适配自身业务，可以摆脱对通用GPU的依赖，提升效率并重构公司价值，反映了国内头部公司在AI算力底层的布局。",
+      "importance": "低",
+      "reason": "产业分析：该新闻深度分析了中国科技巨头（阿里巴巴）在自研AI芯片领域的战略意图及其对公司长期价值的影响，属于重要的产业洞察。",
+      "tags": [
+        "产业分析",
+        "AI芯片",
+        "自研技术"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/eY41GzMzdf4295Cy.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-02 02:37:00",
+      "impact_score": 195.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Pledge to Invest $100 Billion in OpenAI Was ‘Never a Commitment,’ Says Nvidia's Huang",
+      "summary": "2月2日消息，英伟达首席执行官黄仁勋表示，公司此前提出的向OpenAI投资1000亿美元的计划“从未是一项承诺”，并强调公司会“逐一”考虑任何融资轮次，这澄清了市场对两家AI巨头之间资本关系的猜测。",
+      "importance": "高",
+      "reason": "涉及全球AI芯片龙头英伟达与领先AI公司OpenAI之间的重大潜在资本动态，属于重大商业动态。",
+      "tags": [
+        "英伟达",
+        "OpenAI",
+        "投资",
+        "商业动态"
+      ],
+      "url": "https://arxiv.org/abs/2601.22645",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-02 05:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 2,
+      "title": "Oracle to Raise Up to $50 Billion in 2026 for Cloud Buildup",
+      "summary": "2月2日消息，甲骨文公司计划今年通过债务和股权销售相结合的方式筹集450亿至500亿美元，以建设额外的云基础设施容量，这反映了为满足AI增长所需融资的巨大规模。",
+      "importance": "高",
+      "reason": "涉及海外科技巨头（甲骨文）为支持AI发展进行的大规模融资，属于重大商业动态，对AI基础设施格局有重要影响。",
+      "tags": [
+        "甲骨文",
+        "融资",
+        "云基础设施",
+        "AI算力"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-02-02/agnikul-looks-at-scaling-to-25-50-launches-a-year-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-02 07:00:40",
+      "impact_score": 195.0
+    },
+    {
+      "index": 3,
+      "title": "GIC, Mubadala Said Poised to Join KKR’s $10 Billion STT Deal",
+      "summary": "2月2日消息，新加坡政府投资公司（GIC）和阿布扎比穆巴达拉投资公司据悉正洽谈加入KKR与新加坡电信对数据中心运营商STT GDC的潜在收购，交易价值可能高达100亿美元，这将是近期最大的数字基础设施交易之一。",
+      "tags": [
+        "数据中心",
+        "并购",
+        "KKR",
+        "GIC",
+        "基础设施"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-01/openai-investment-was-never-a-commitment-nvidia-s-huang-says",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-01 09:52:33",
+      "impact_score": 195.0
+    },
+    {
+      "index": 4,
+      "title": "India Unveils 20-Year Tax Break to Woo Global Data Centers",
+      "summary": "2月2日消息，印度政府宣布将为在该国提供全球数据中心服务的海外公司提供为期二十年的税收减免，此举旨在加大力度吸引投资者进入其快速增长的数字基础设施领域。",
+      "importance": "高",
+      "reason": "涉及印度政府为吸引AI关键基础设施（数据中心）投资而推出的重大激励政策，属于重大政策与法规。",
+      "tags": [
+        "印度",
+        "政策",
+        "税收减免",
+        "数据中心",
+        "基础设施"
+      ],
+      "url": "https://arxiv.org/abs/2601.22269",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-02 05:00:00",
+      "impact_score": 145.0
+    },
+    {
+      "index": 5,
+      "title": "Artificial intelligence researchers hit by flood of ‘slop’",
+      "summary": "2月2日消息，由于低质量AI生成论文和评审数量激增，多个学术会议已开始限制大型语言模型的使用，这凸显了AI技术对学术诚信和科研生态带来的新挑战与伦理争议。",
+      "importance": "高",
+      "reason": "涉及AI生成内容（“slop”）对全球学术界造成的系统性冲击及伦理争议，属于安全与伦理范畴，且影响广泛。",
+      "tags": [
+        "学术伦理",
+        "AI生成内容",
+        "LLM",
+        "科研诚信"
+      ],
+      "url": "https://arxiv.org/abs/2601.22776",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-02 05:00:00",
+      "impact_score": 140.0
+    },
+    {
+      "index": 6,
+      "title": "Warner Bros. Acquisition Puts Netflix in Regulators’ Crosshairs",
+      "summary": "2月2日消息，奈飞长期以来擅长规避监管纠葛，但其对华纳兄弟的收购计划可能改变这一局面，使其面临更严格的监管审查，这反映了大型科技及内容平台并购面临的全球监管收紧趋势。",
+      "importance": "中",
+      "reason": "涉及海外巨头（奈飞）的重大并购可能引发的反垄断监管关注，属于重大商业动态与政策监管的交集。",
+      "tags": [
+        "奈飞",
+        "并购",
+        "反垄断",
+        "监管"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-01/india-unveils-20-year-tax-break-to-woo-global-data-centers",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-01 08:41:40",
+      "impact_score": 135.0
+    },
+    {
+      "index": 7,
+      "title": "AgniKul Looks at Scaling to 25-50 Launches a Year",
+      "summary": "2月2日消息，印度航天初创公司AgniKul Cosmos的联合创始人兼首席执行官表示，公司正计划将年发射量提升至25-50次，并即将进行新一轮融资，该公司专注于3D打印火箭发动机和小型卫星运载火箭。",
+      "importance": "中",
+      "reason": "涉及海外（印度）AI/航天领域初创公司的重大扩张计划和融资动态，属于重大商业动态。",
+      "tags": [
+        "航天",
+        "初创公司",
+        "融资",
+        "印度"
+      ],
+      "url": "https://www.ft.com/content/54e274c5-de86-4b3e-96a9-95a46b5e48a0",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-02-01 05:00:03",
+      "impact_score": 135.0
+    },
+    {
+      "index": 8,
+      "title": "Abu Dhabi royal bought big stake in Trump family crypto venture",
+      "summary": "2月2日消息，由阿联酋阿布扎比王室成员谢赫·塔赫农·本·扎耶德·阿勒纳哈扬支持的投资者，向特朗普家族关联的加密货币企业World Liberty Financial投入了5亿美元，显示了主权财富在新兴科技金融领域的活跃布局。",
+      "importance": "中",
+      "reason": "涉及海外主权财富基金对科技金融领域的大额投资，属于重大商业动态，且主体为阿联酋投资方。",
+      "tags": [
+        "阿布扎比",
+        "投资",
+        "加密货币",
+        "主权财富基金"
+      ],
+      "url": "https://arxiv.org/abs/2601.22536",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-02 05:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 9,
+      "title": "Indian Electronics Manufacturing Shares Rise on Budget Boost",
+      "summary": "2月2日消息，印度财政部长为提振电子制造业并推动该国成为全球枢纽，预留了4000亿卢比（约43亿美元）的预算，受此消息影响，部分印度电子制造服务公司的股价在周日交易中上涨。",
+      "importance": "中",
+      "reason": "涉及印度政府通过财政预算支持电子制造业（与AI硬件相关）的政策，属于国际动态中的政策激励。",
+      "tags": [
+        "印度",
+        "政策",
+        "电子制造",
+        "预算"
+      ],
+      "url": "https://arxiv.org/abs/2601.22586",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-02 05:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 10,
+      "title": "Beyond Medical Chatbots: Meddollina and the Rise of Continuous Clinical Intelligence",
+      "summary": "2月2日消息，一篇新论文指出，生成式医疗AI在流畅性和知识性上已接近临床智能，但临床推理是责任约束下的过程而非文本生成，警告单纯依赖模型缩放可能带来安全风险，这引发了关于AI在医疗领域应用界限的重要讨论。",
+      "importance": "中",
+      "reason": "涉及AI在关键领域（医疗）应用的安全与伦理前沿讨论，属于重大学术突破引发的安全伦理思考，来源为国际学术平台arXiv。",
+      "tags": [
+        "医疗AI",
+        "AI安全",
+        "临床推理",
+        "学术论文"
+      ],
+      "url": "https://arxiv.org/abs/2601.22758",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-02 05:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 11,
+      "title": "JAF: Judge Agent Forest",
+      "summary": "2月2日消息，研究人员提出了JAF（Judge Agent Forest）框架，该框架通过让评判智能体进行联合推理和反思，旨在为智能体AI框架提供自动评估并实现推理过程的迭代自我优化，这是提升AI智能体可靠性的重要学术探索。",
+      "importance": "低",
+      "reason": "属于AI智能体评估与优化方向的学术研究突破，发布在国际学术平台arXiv，符合重大学术突破标准。",
+      "tags": [
+        "智能体",
+        "评估框架",
+        "推理优化",
+        "学术研究"
+      ],
+      "url": "https://www.bloomberg.com/news/newsletters/2026-02-02/netflix-s-warner-deal-brings-official-scrutiny-along-with-benefits",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-02 00:00:01",
+      "impact_score": 127.5
+    },
+    {
+      "index": 12,
+      "title": "TSPO: Breaking the Double Homogenization Dilemma in Multi-turn Search Policy Optimization",
+      "summary": "2月2日消息，一篇新论文提出了TSPO方法，旨在解决多轮工具集成推理中强化学习框架面临的“双重同质化”困境，该方法通过更高效的策略优化来提升大语言模型解决复杂任务的能力。",
+      "importance": "低",
+      "reason": "属于大语言模型与强化学习结合以提升复杂任务解决能力的学术研究，发布在国际学术平台arXiv。",
+      "tags": [
+        "强化学习",
+        "LLM",
+        "搜索增强推理",
+        "学术研究"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-01/oracle-to-raise-up-to-50-billion-this-year-for-cloud-investment",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-01 23:20:08",
+      "impact_score": 127.5
+    }
+  ],
+  "summary": "今日从106条原始信息中精选出16条国内动态和12条国际动态，其中11条为高重要性。 重点关注：蚂蚁推出“AI Credit”特别激励方案，推动业务和组织“全面AI化”；逐际动力完成2亿美元B轮融资；想做制药届的AGI，「深度智耀」再获6000万美元融资｜36氪首发。",
+  "statistics": {
+    "raw_domestic": 42,
+    "raw_international": 64,
+    "raw_total": 106,
+    "final_domestic": 16,
+    "final_international": 12
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "2月2日消息，蚂蚁集团CEO韩歆毅宣布推出“AI Credit”特别激励方案，对在AI方向做出开创性贡献的团队和个人给予额外激励，旨在推动公司业务和组织全面AI化，并将健康作为重点突破领域，构建未来十年的战略新支点。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "2月2日消息，中国具身智能与人形机器人公司逐际动力宣布完成2亿美元B轮融资，由阿联酋磊石资本、东方富海、京东、上汽集团、蔚来资本等多家国内外知名机构及产业资本参与，资金将用于加大研发和市场投入，加速全栈技术落地。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "2月2日消息，中国AI制药独角兽企业深度智耀近期完成6000万美元新一轮融资，由信宸资本、金镒资本等投资，两个月内累计融资超1亿美元，资金将用于核心技术升级，为全球药企提供从研发到上市的全栈式智能解决方案。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "2月2日消息，优必选宣布对其具身智能大模型Thinker进行架构升级，聚焦“小参数、高性能、全开源”，在多项基准测试中取得9项全球第一，旨在为工业人形机器人提供快速反应与精准空间感知的下一代智能大脑。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "2月2日消息，中国AI公司阶跃星辰发布了其开源基座模型Step 3.5 Flash，该模型在性能上表现强劲，并已获得多家头部芯片厂商的适配支持，进一步丰富了国内开源大模型生态。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "2月2日消息，英伟达首席执行官黄仁勋表示，公司此前提出的向OpenAI投资1000亿美元的计划“从未是一项承诺”，并强调公司会“逐一”考虑任何融资轮次，这澄清了市场对两家AI巨头之间资本关系的猜测。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "2月2日消息，甲骨文公司计划今年通过债务和股权销售相结合的方式筹集450亿至500亿美元，以建设额外的云基础设施容量，这反映了为满足AI增长所需融资的巨大规模。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "2月2日消息，印度政府宣布将为在该国提供全球数据中心服务的海外公司提供为期二十年的税收减免，此举旨在加大力度吸引投资者进入其快速增长的数字基础设施领域。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "2月2日消息，由于低质量AI生成论文和评审数量激增，多个学术会议已开始限制大型语言模型的使用，这凸显了AI技术对学术诚信和科研生态带来的新挑战与伦理争议。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "2月2日消息，奈飞长期以来擅长规避监管纠葛，但其对华纳兄弟的收购计划可能改变这一局面，使其面临更严格的监管审查，这反映了大型科技及内容平台并购面临的全球监管收紧趋势。",
+      "importance": "中"
+    }
+  ]
+}
