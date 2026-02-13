@@ -1,0 +1,545 @@
+{
+  "date": "2026-02-13",
+  "generated_at": "2026-02-13 08:52:26",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "《互联网平台反垄断合规指引》发布，明确多个新型垄断风险",
+      "summary": "2月13日消息，中国国家市场监管总局正式发布《互联网平台反垄断合规指引》，为平台经营者划出清晰行为边界，并首次明确包括平台间算法共谋、封禁屏蔽、“二选一”、“全网最低价”等8个场景中的新型垄断风险，旨在引导平台经济创新和健康发展。",
+      "importance": "高",
+      "reason": "属于【重大政策与法规】，是中国政府监管部门针对AI及平台经济领域发布的重要规范性文件，影响深远。",
+      "tags": [
+        "政策法规",
+        "反垄断",
+        "监管"
+      ],
+      "url": "https://36kr.com/p/3680069763313539?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-12 10:13:23",
+      "impact_score": 450.0
+    },
+    {
+      "index": 2,
+      "title": "蚂蚁集团开源Ring-2.5-1T，全球首个混合线性架构万亿参数思考模型来了",
+      "summary": "2月13日消息，蚂蚁集团开源发布全球首个基于混合线性架构的万亿参数思考模型Ring-2.5-1T，该模型在长文本生成、数学推理与智能体任务执行上达到开源领先水平，并在国际数学奥林匹克竞赛自测中达到金牌水平，为复杂任务处理提供高性能基础支撑。",
+      "importance": "高",
+      "reason": "属于【重大产品发布】和【重大学术突破】，是中国顶尖科技公司发布具有全球领先水平的旗舰级AI模型，技术突破显著。",
+      "tags": [
+        "大模型",
+        "开源",
+        "技术突破"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/t3CiJyrkzQTfru1E.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-13 06:38:00",
+      "impact_score": 390.0
+    },
+    {
+      "index": 3,
+      "title": "高德发布两款ABot系列基座模型，达成全球首个具身操作和具身导航\"双SOTA\"",
+      "summary": "2月13日消息，阿里巴巴旗下高德正式发布具身操作基座模型ABot-M0与具身导航基座模型ABot-N0，补齐了机器人规模化落地的核心能力，并刷新全球多项权威评测纪录，成为全球首个在具身导航与具身操作上同步达到SOTA水平的厂商。",
+      "importance": "高",
+      "reason": "属于【重大产品发布】和【重大学术突破】，是中国公司在具身智能这一前沿领域取得的重要技术成果，达到全球领先水平。",
+      "tags": [
+        "具身智能",
+        "SOTA",
+        "产品发布"
+      ],
+      "url": "https://36kr.com/p/3679698824179586?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-12 02:23:50",
+      "impact_score": 327.5
+    },
+    {
+      "index": 4,
+      "title": "创新Transformer！面壁基于稀疏-线性混合架构SALA训练9B模型，端侧跑通百万上下文",
+      "summary": "2月13日消息，面壁智能发布行业首个大规模训练的稀疏-线性注意力混合架构SALA，并基于此训练出90亿参数模型，成功在端侧设备上跑通百万级上下文长度，为突破Transformer架构的算力与显存瓶颈提供了创新解决方案。",
+      "importance": "高",
+      "reason": "属于【重大学术突破】，是中国AI研究机构在核心大模型架构上的重要创新，旨在解决长上下文处理的关键技术难题。",
+      "tags": [
+        "大模型架构",
+        "技术创新",
+        "长上下文"
+      ],
+      "url": "https://36kr.com/newsflashes/3681430492475014?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-13 07:59:39",
+      "impact_score": 307.5
+    },
+    {
+      "index": 5,
+      "title": "百度卡位AI入口 文心助手率先跑出四倍增速",
+      "summary": "2月13日消息，百度公布其文心助手在春节期间的运营数据，月活跃用户同比增长达4倍，其中生图、生视频等核心功能调用量激增数十倍，显示出用户使用正从尝鲜转向高频真实场景，百度通过将其深度整合进搜索主入口，成功巩固了AI入口优势。",
+      "importance": "高",
+      "reason": "属于【重大商业动态】，反映了中国头部AI公司在用户规模和产品应用层面的关键进展，是衡量AI产品商业化成功的重要指标。",
+      "tags": [
+        "AI应用",
+        "用户增长",
+        "商业化"
+      ],
+      "url": "https://36kr.com/newsflashes/3681453825666694?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-13 08:08:29",
+      "impact_score": 305.0
+    },
+    {
+      "index": 6,
+      "title": "灭霸带着复联放烟花！16秒，让手搓 AI 视频拥有大片即视感",
+      "summary": "2月13日消息，生数科技发布的AI视频生成模型Vidu Q3，能够实现16秒声画同步直出，并在镜头控制、叙事能力上取得突破，在国际权威AI基准测试中表现优异，标志着中国在AI视频生成领域已达到全球领先水平。",
+      "importance": "高",
+      "reason": "属于【重大产品发布】和【重大学术突破】，是中国公司在对标Sora的AI视频生成赛道取得的显著进展，技术指标突出。",
+      "tags": [
+        "AI视频生成",
+        "SOTA",
+        "技术突破"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/TAip6YTSYdfNdo6b.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-12 01:50:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 7,
+      "title": "氪星晚报｜支付宝AI付笔数超1.2亿；京东外卖：近400家餐饮品牌订单量突破百万；雷军：小米YU 7今年1月份销量37869台",
+      "summary": "2月13日消息，支付宝旗下AI原生支付产品“AI付”一周累计支付笔数已超1.2亿笔，成为全球首个支付笔数破亿的AI支付产品，该服务已在千问、Rokid等多个AI场景上线，标志着AI技术在金融支付核心场景的大规模应用落地。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】，展示了中国领先的金融科技公司其AI产品在真实场景中达到的惊人用户规模和交易量，是AI应用商业化的重要案例。",
+      "tags": [
+        "AI支付",
+        "商业化",
+        "应用落地"
+      ],
+      "url": "https://36kr.com/p/3681124596690822?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-13 04:58:01",
+      "impact_score": 271.0
+    },
+    {
+      "index": 8,
+      "title": "全国首批，商汤大装置SenseCore获工信部软件供应链安全能力评估优秀级认证",
+      "summary": "2月13日消息，商汤科技的大装置SenseCore原生AI云平台通过工信部电子标准院的软件供应链安全能力评估，获评最高级别的优秀级认证，成为全国首批通过该项认证的企业，体现了其在AI基础设施安全领域的领先实力。",
+      "importance": "中",
+      "reason": "属于【安全与伦理】及【商业动态】，涉及国家级安全认证，表明中国AI基础设施提供商在安全合规方面达到高标准，对行业有示范作用。",
+      "tags": [
+        "AI安全",
+        "合规认证",
+        "基础设施"
+      ],
+      "url": "https://36kr.com/p/3681146132836226?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-13 03:15:54",
+      "impact_score": 264.0
+    },
+    {
+      "index": 9,
+      "title": "小米车主遭特斯拉车主恶意别车、持续辱骂，「母亲吓得脸色发白」，小米发声；曝字节拟年产10万颗自研AI芯片；曝魅族手机业务即将解散",
+      "summary": "2月13日消息，据媒体报道，字节跳动正计划自研AI芯片，目标年产量达到10万颗，并已与三星等公司洽谈代工合作，此举标志着中国互联网巨头在AI算力底层硬件领域迈出关键一步，以降低对外部供应链的依赖。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】，涉及中国头部互联网公司重大的供应链战略布局，对国内AI芯片生态发展有潜在重要影响。",
+      "tags": [
+        "AI芯片",
+        "自研",
+        "供应链"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/MQZOj6i8uY6IsqzY.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-12 07:39:00",
+      "impact_score": 255.0
+    },
+    {
+      "index": 10,
+      "title": "上汽集团：子公司拟设立私募投资基金 投向固态电池、芯片国产化等领域",
+      "summary": "2月13日消息，上汽集团公告其全资子公司拟出资10亿元参与设立规模25亿元的私募投资基金，该基金将重点投向固态电池、芯片国产化、人工智能、具身智能及算力芯片等前沿技术领域，以布局未来汽车产业链核心技术。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】，展示了中国大型汽车集团通过资本手段大规模投资AI、芯片等前沿技术，推动产业升级的战略动向。",
+      "tags": [
+        "产业投资",
+        "AI芯片",
+        "具身智能"
+      ],
+      "url": "https://36kr.com/p/3681060245581448?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-13 01:31:34",
+      "impact_score": 245.0
+    },
+    {
+      "index": 11,
+      "title": "36氪首发｜农业具身智能企业拿到新融资，估值达5亿元",
+      "summary": "2月13日消息，农业具身智能企业“禾芯动力”完成数千万元天使轮融资，投后估值达5亿元人民币，资金将用于核心产品迭代与场景拓展，该公司通过研发无人机、机器人等智能设备，致力于解决农业劳动力短缺及作业标准化问题。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】，反映了资本对中国AI+农业这一垂直应用场景的高度关注，以及具身智能在传统产业落地的趋势。",
+      "tags": [
+        "具身智能",
+        "农业AI",
+        "融资"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/AsunOC82fTgy8Ngt.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-12 02:30:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 12,
+      "title": "畜牧业具身智能公司完成千万元融资，天空工场创投基金孵化｜硬氪首发",
+      "summary": "2月13日消息，聚焦畜牧业智能化的“女娲农业科技”近日完成数千万元融资，该公司由天空工场创投基金孵化，致力于以具身智能机器人切入畜牧养殖场景，提供清洁与健康监测一体化解决方案，以提升养殖效率。",
+      "importance": "低",
+      "reason": "属于【重大商业动态】，是AI技术在畜牧业这一细分领域应用落地的案例，显示了具身智能向更多传统行业渗透的趋势。",
+      "tags": [
+        "具身智能",
+        "畜牧业",
+        "融资"
+      ],
+      "url": "https://36kr.com/p/3681056499642245?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-13 01:25:44",
+      "impact_score": 230.0
+    },
+    {
+      "index": 13,
+      "title": "商业航天核心硬件供应商获近亿元融资，团队来自中科院｜硬氪首发",
+      "summary": "2月13日消息，商业合成孔径雷达（SAR）载荷制造商“感知起源”完成新一轮数千万元融资，累计融资额近亿元，资金将用于自研SAR载荷的研发及入轨验证，该公司核心团队来自中科院，专注于商业航天核心硬件领域。",
+      "importance": "低",
+      "reason": "属于【重大商业动态】，虽然不直接是AI模型新闻，但商业航天与遥感数据是AI重要的应用和数据来源，其硬件发展对AI生态有支撑作用。",
+      "tags": [
+        "商业航天",
+        "硬件",
+        "融资"
+      ],
+      "url": "https://www.leiphone.com/category/ai/j63DPVTV25liaRhc.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-12 06:02:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 14,
+      "title": "侨银股份：终止人工智能产业生态总部项目",
+      "summary": "2月13日消息，侨银股份发布公告，决定终止原计划投资不超过10亿元在江苏吴江设立的“侨银人工智能产业生态总部项目”，原因是投资合作条件发生客观变化，双方未能就合作方案达成一致，项目尚未实质性落地。",
+      "importance": "低",
+      "reason": "属于【重大商业动态】，反映了AI产业投资在实际推进中面临的变数和挑战，是观察市场热度与理性的一则动态。",
+      "tags": [
+        "产业投资",
+        "项目终止",
+        "商业动态"
+      ],
+      "url": "https://36kr.com/newsflashes/3681479592570761?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-13 08:49:32",
+      "impact_score": 210.0
+    },
+    {
+      "index": 15,
+      "title": "这家机器人公司把“具身数据”塞进1万个背包里",
+      "summary": "2月13日消息，鹿明机器人发布了全球首款背包版UMI数据采集设备FastUMI Pro，并计划在2026年向六大真实场景投放1万台设备，以大规模、低成本采集高质量具身智能训练数据，解决物理世界数据稀缺的核心难题。",
+      "importance": "低",
+      "reason": "属于【重大商业动态】和【技术突破】，中国机器人公司在解决具身智能关键瓶颈——数据采集上提出了创新方案，对行业发展有积极意义。",
+      "tags": [
+        "具身智能",
+        "数据采集",
+        "机器人"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/ivfww7GDxbyG5U12.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-13 02:57:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 16,
+      "title": "首次将互联网医院纳入监管范围，多部门就医疗机构价格公示规定公开征求意见",
+      "summary": "2月13日消息，市场监管总局等多部门联合起草的《医疗机构价格公示规定（征求意见稿）》向社会公开征求意见，该规定首次将互联网医院纳入价格监管范围，要求医疗机构所有服务价格“标得清、看得见”，以规范医疗行业价格行为。",
+      "importance": "低",
+      "reason": "属于【政策法规】，虽然不直接针对AI，但互联网医院是AI医疗应用的重要场景，相关监管政策的完善为AI在医疗领域的合规发展提供了更清晰的框架。",
+      "tags": [
+        "政策监管",
+        "互联网医疗",
+        "征求意见"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/P9PEw6RQURI2ERzn.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-12 01:43:00",
+      "impact_score": 210.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Anthropic gives $20 million to group pushing for AI regulations ahead of 2026 elections",
+      "summary": "2月13日消息，美国AI公司Anthropic向倡导AI监管的组织Public First Action捐赠2000万美元，旨在支持在2026年美国大选中倾向于加强AI监管的候选人，此举标志着AI产业巨头开始深度介入政治游说以影响未来政策走向。",
+      "importance": "高",
+      "reason": "属于【重大政策与法规】范畴。AI头部公司直接投入巨资影响选举和监管政策，是影响未来全球AI治理格局的关键动态。",
+      "tags": [
+        "AI监管",
+        "政治游说",
+        "Anthropic"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-13/gds-backed-dayone-is-said-to-pick-banks-for-5-billion-us-ipo",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-13 03:02:50",
+      "impact_score": 240.0
+    },
+    {
+      "index": 2,
+      "title": "Anthropic raises $30bn at a $350bn valuation in latest funding round",
+      "summary": "2月13日消息，美国AI初创公司Anthropic在新一轮融资中筹集了300亿美元，估值达到惊人的3500亿美元，为其最早于今年进行的首次公开募股（IPO）做好了准备，再次刷新了私人AI公司的估值纪录。",
+      "importance": "高",
+      "reason": "属于【重大商业动态】范畴。融资额和估值规模巨大，是AI领域标志性的资本事件，深刻影响行业格局和竞争态势。",
+      "tags": [
+        "巨额融资",
+        "超高估值",
+        "Anthropic"
+      ],
+      "url": "https://arxiv.org/abs/2602.11635",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-13 05:00:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 3,
+      "title": "Leading Inference Providers Cut AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell",
+      "summary": "2月13日消息，英伟达宣布其最新的Blackwell架构GPU将帮助领先的推理服务提供商，通过运行开源AI模型，将AI推理成本最高降低10倍，这有望大幅加速AI应用在游戏、医疗、客服等领域的规模化部署。",
+      "importance": "高",
+      "reason": "属于【重大产品发布】的衍生重大商业影响。英伟达Blackwell芯片的实际效能公布，直接关系到全球AI基础设施的成本与普及速度。",
+      "tags": [
+        "英伟达",
+        "Blackwell",
+        "成本降低",
+        "开源模型"
+      ],
+      "url": "https://arxiv.org/abs/2602.11455",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-13 05:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 4,
+      "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+      "summary": "2月13日消息，谷歌DeepMind宣布更新其Gemini 3模型的“深度思考”推理模式，专门用于解决现代科学、研究和工程领域的复杂挑战，标志着大模型在专业垂直领域的推理能力取得重要进展。",
+      "importance": "高",
+      "reason": "属于【重大产品发布】范畴。Gemini是谷歌对标GPT的旗舰模型，其专门推理模式的更新是核心产品能力的重要迭代。",
+      "tags": [
+        "Gemini 3",
+        "谷歌DeepMind",
+        "科学推理",
+        "模型更新"
+      ],
+      "url": "https://arxiv.org/abs/2602.11574",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-13 05:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 5,
+      "title": "OpenAI Claims DeepSeek Distilled US Models to Gain an Edge",
+      "summary": "2月13日消息，OpenAI向美国立法者发出警告，称其中国竞争对手深度求索（DeepSeek）使用了不公平且日益复杂的方法，从领先的美国AI模型中提取结果，用以训练其新一代突破性的R1聊天机器人。",
+      "importance": "高",
+      "reason": "属于【重大政策与法规】及【安全与伦理】的交集。头部公司向政府提出关于国际竞争与模型安全的正式指控，可能引发政策关注甚至监管行动。",
+      "tags": [
+        "OpenAI",
+        "模型安全",
+        "国际竞争",
+        "监管游说"
+      ],
+      "url": "https://arxiv.org/abs/2602.11596",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-13 05:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 6,
+      "title": "Musk overhauls xAI’s leadership as he sets lofty space data centre ambitions",
+      "summary": "2月13日消息，埃隆·马斯克对旗下AI公司xAI的领导层进行了全面改组，同时向员工阐述了其宏大的太空数据中心愿景，包括在建立“月球上的自给自足城市”，为未来的火星任务提供支持。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】。涉及明星AI公司xAI的战略方向调整和高层变动，且与太空计算这一前沿概念结合，具有较高关注度。",
+      "tags": [
+        "xAI",
+        "埃隆·马斯克",
+        "领导层改组",
+        "太空计算"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-02-13/natwest-ceo-on-earnings-ai-in-finance-uk-economy-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-13 07:52:16",
+      "impact_score": 180.0
+    },
+    {
+      "index": 7,
+      "title": "Nvidia to Lease Data Center Funded by $3.8 Billion of Junk Bonds",
+      "summary": "2月13日消息，英伟达公司预计将租赁一个正在建设中的数据中心，该数据中心由一笔38亿美元的高收益债券（垃圾债券）融资建造，这进一步加剧了围绕人工智能基础设施的借贷热潮。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】。揭示了AI算力军备竞赛中独特的资本运作模式，英伟达作为核心参与者，其动向影响整个产业链。",
+      "tags": [
+        "英伟达",
+        "数据中心",
+        "基础设施融资",
+        "高收益债券"
+      ],
+      "url": "https://arxiv.org/abs/2602.11340",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-13 05:00:00",
+      "impact_score": 160.0
+    },
+    {
+      "index": 8,
+      "title": "GDS-Backed DayOne Said to Pick Banks for $5 Billion US IPO",
+      "summary": "2月13日消息，由万国数据支持的DayOne数据中心有限公司已选定银行，筹备在美国进行首次公开募股，预计募资额高达约50亿美元，这将成为AI算力基础设施领域又一笔大规模资本运作。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】。高额IPO计划直接关联AI算力基础设施扩张，反映了市场对AI底层设施的强烈需求与信心。",
+      "tags": [
+        "数据中心",
+        "IPO",
+        "算力基础设施",
+        "万国数据"
+      ],
+      "url": "https://www.theverge.com/podcast/877299/ai-arbitrator-bridget-mccormack-aaa-arbitration-interview",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-02-12 16:22:33",
+      "impact_score": 158.0
+    },
+    {
+      "index": 9,
+      "title": "Broker Clear Street postpones IPO as AI fears roil US stocks",
+      "summary": "2月13日消息，华尔街经纪商Clear Street集团已推迟其在美国的首次公开募股计划，原因是市场对人工智能技术冲击白领工作的担忧扰乱了美国股市，导致该公司此前大幅削减了预期募资额。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】及【安全与伦理】的社会影响层面。体现了AI技术引发的广泛社会焦虑如何具体影响资本市场和公司决策。",
+      "tags": [
+        "IPO推迟",
+        "市场情绪",
+        "AI替代焦虑",
+        "Clear Street"
+      ],
+      "url": "https://www.ft.com/content/40d04966-d526-4314-9c2a-c721c88aaab1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-02-13 05:00:20",
+      "impact_score": 150.0
+    },
+    {
+      "index": 10,
+      "title": "Wall Street hunts next casualty from AI threat to white-collar work",
+      "summary": "2月13日消息，华尔街正在寻找下一个因AI威胁白领工作而受挫的行业，保险、房地产和财富管理等领域的股票在新AI技术发布后已受到冲击，反映了投资者对AI颠覆性影响的持续担忧。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】及【安全与伦理】的社会经济影响。从资本市场角度分析了AI对传统行业的冲击，具有宏观指示意义。",
+      "tags": [
+        "资本市场",
+        "行业颠覆",
+        "白领工作",
+        "投资趋势"
+      ],
+      "url": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+      "source": "DeepMind Blog",
+      "original_pub_date": "2026-02-12 16:15:09",
+      "impact_score": 150.0
+    },
+    {
+      "index": 11,
+      "title": "NatWest CEO on Earnings, AI in Finance, UK Economy",
+      "summary": "2月13日消息，NatWest集团首席执行官保罗·思韦特在讨论公司财报时表示，该行第四季度税前利润跃升30%并超出预期，同时他评论了英国经济前景以及人工智能在金融行业中的应用。",
+      "importance": "低",
+      "reason": "属于【商业动态】。反映了传统金融巨头对AI的应用态度和业绩关联，是AI赋能传统行业的典型案例，但事件本身为CEO常规评论，影响力相对有限。",
+      "tags": [
+        "金融科技",
+        "银行业",
+        "AI应用",
+        "NatWest"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-12/openai-accuses-deepseek-of-distilling-us-models-to-gain-an-edge",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-12 21:39:28",
+      "impact_score": 142.5
+    },
+    {
+      "index": 12,
+      "title": "The surprising case for AI judges",
+      "summary": "2月13日消息，前密歇根州最高法院首席大法官布里奇特·麦科马克探讨了AI在裁决法律纠纷中可能扮演的角色，即不仅仅是起草备忘录和研究，而是实际决定是非曲直以及赔偿问题，引发了关于AI司法应用的深入讨论。",
+      "importance": "低",
+      "reason": "属于【安全与伦理】范畴。涉及AI在司法这一高敏感领域的应用前景与伦理争议，话题重要，但形式为访谈讨论，非实际政策或产品进展。",
+      "tags": [
+        "AI伦理",
+        "司法应用",
+        "法律科技",
+        "访谈"
+      ],
+      "url": "https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/",
+      "source": "MIT Technology Review",
+      "original_pub_date": "2026-02-12 10:00:00",
+      "impact_score": 142.5
+    },
+    {
+      "index": 13,
+      "title": "I Tried RentAHuman, Where AI Agents Hired Me to Hype Their AI Startups",
+      "summary": "2月13日消息，有体验者尝试了名为“RentAHuman”的平台，发现其中充斥着AI代理雇佣真人来为AI初创公司制造舆论，而非提供革命性的零工工作方式，揭示了当前AI炒作生态中一种扭曲的现象。",
+      "importance": "低",
+      "reason": "属于【安全与伦理】范畴。以案例形式揭露了AI行业存在的炒作与虚假宣传乱象，反映了产业热潮下的伦理失范问题。",
+      "tags": [
+        "AI炒作",
+        "行业乱象",
+        "伦理争议",
+        "社交媒体"
+      ],
+      "url": "https://blogs.nvidia.com/blog/inference-open-source-models-blackwell-reduce-cost-per-token/",
+      "source": "NVIDIA AI",
+      "original_pub_date": "2026-02-12 16:00:46",
+      "impact_score": 132.0
+    }
+  ],
+  "summary": "今日从183条原始信息中精选出16条国内动态和13条国际动态，其中11条为高重要性。 重点关注：《互联网平台反垄断合规指引》发布，明确多个新型垄断风险；蚂蚁集团开源Ring-2.5-1T，全球首个混合线性架构万亿参数思考模型来了；高德发布两款ABot系列基座模型，达成全球首个具身操作和具身导航\"双SOTA\"。",
+  "statistics": {
+    "raw_domestic": 50,
+    "raw_international": 133,
+    "raw_total": 183,
+    "final_domestic": 16,
+    "final_international": 13
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "2月13日消息，中国国家市场监管总局正式发布《互联网平台反垄断合规指引》，为平台经营者划出清晰行为边界，并首次明确包括平台间算法共谋、封禁屏蔽、“二选一”、“全网最低价”等8个场景中的新型垄断风险，旨在引导平台经济创新和健康发展。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "2月13日消息，蚂蚁集团开源发布全球首个基于混合线性架构的万亿参数思考模型Ring-2.5-1T，该模型在长文本生成、数学推理与智能体任务执行上达到开源领先水平，并在国际数学奥林匹克竞赛自测中达到金牌水平，为复杂任务处理提供高性能基础支撑。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "2月13日消息，阿里巴巴旗下高德正式发布具身操作基座模型ABot-M0与具身导航基座模型ABot-N0，补齐了机器人规模化落地的核心能力，并刷新全球多项权威评测纪录，成为全球首个在具身导航与具身操作上同步达到SOTA水平的厂商。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "2月13日消息，面壁智能发布行业首个大规模训练的稀疏-线性注意力混合架构SALA，并基于此训练出90亿参数模型，成功在端侧设备上跑通百万级上下文长度，为突破Transformer架构的算力与显存瓶颈提供了创新解决方案。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "2月13日消息，百度公布其文心助手在春节期间的运营数据，月活跃用户同比增长达4倍，其中生图、生视频等核心功能调用量激增数十倍，显示出用户使用正从尝鲜转向高频真实场景，百度通过将其深度整合进搜索主入口，成功巩固了AI入口优势。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "2月13日消息，美国AI公司Anthropic向倡导AI监管的组织Public First Action捐赠2000万美元，旨在支持在2026年美国大选中倾向于加强AI监管的候选人，此举标志着AI产业巨头开始深度介入政治游说以影响未来政策走向。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "2月13日消息，美国AI初创公司Anthropic在新一轮融资中筹集了300亿美元，估值达到惊人的3500亿美元，为其最早于今年进行的首次公开募股（IPO）做好了准备，再次刷新了私人AI公司的估值纪录。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "2月13日消息，英伟达宣布其最新的Blackwell架构GPU将帮助领先的推理服务提供商，通过运行开源AI模型，将AI推理成本最高降低10倍，这有望大幅加速AI应用在游戏、医疗、客服等领域的规模化部署。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "2月13日消息，谷歌DeepMind宣布更新其Gemini 3模型的“深度思考”推理模式，专门用于解决现代科学、研究和工程领域的复杂挑战，标志着大模型在专业垂直领域的推理能力取得重要进展。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "2月13日消息，OpenAI向美国立法者发出警告，称其中国竞争对手深度求索（DeepSeek）使用了不公平且日益复杂的方法，从领先的美国AI模型中提取结果，用以训练其新一代突破性的R1聊天机器人。",
+      "importance": "高"
+    }
+  ]
+}
