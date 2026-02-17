@@ -1,0 +1,409 @@
+{
+  "date": "2026-02-17",
+  "generated_at": "2026-02-17 08:54:20",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
+      "summary": "2月17日消息，阿里巴巴开源全新一代大模型千问Qwen3.5-Plus，其性能媲美Gemini 3 Pro，登顶全球最强开源模型，并实现了从纯文本到原生多模态的代际跃迁，同时API价格极具竞争力，仅为竞品的1/18，大幅降低了部署成本和应用门槛。",
+      "importance": "高",
+      "reason": "中国头部科技公司发布旗舰级开源大模型，属于重大产品发布，性能对标国际顶尖水平，且价格策略具有颠覆性，对国内AI产业生态和国际竞争格局有重要影响。",
+      "tags": [
+        "开源",
+        "大语言模型",
+        "发布",
+        "大模型"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/UeoaNe55m7Rc8fOm.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-16 09:10:00",
+      "impact_score": 480.0
+    },
+    {
+      "index": 2,
+      "title": "Kimi连续融资超12亿美元，估值翻倍突破100亿美元",
+      "summary": "2月17日消息，月之暗面Kimi在短时间内连续完成两轮总额超12亿美元的融资，最新估值翻倍突破100亿美元，由阿里、腾讯等老股东领投，创下近一年来大模型行业最高融资金额纪录。",
+      "importance": "高",
+      "reason": "中国大模型独角兽企业获得巨额融资，估值飙升，属于重大商业动态，反映了资本市场对国内头部AI初创公司的强烈信心和激烈竞争态势。",
+      "tags": [
+        "突破",
+        "估值",
+        "大模型",
+        "融资"
+      ],
+      "url": "https://36kr.com/newsflashes/3686791569469060?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-17 03:43:25",
+      "impact_score": 405.0
+    },
+    {
+      "index": 3,
+      "title": "豆包除夕AI互动19亿次 Seedance2.0为春晚提供技术支持",
+      "summary": "2月17日消息，字节跳动旗下AI助手豆包与央视春晚深度联动，除夕当天AI互动总数达19亿次，峰值推理吞吐量惊人，首次实现了AI驱动全民实时创作互动，展现了其大模型在超高并发场景下的技术实力和广泛用户基础。",
+      "importance": "高",
+      "reason": "中国头部互联网公司的AI产品在国民级春晚舞台上实现大规模、高并发的成功应用，属于重大产品发布与商业动态的结合，是AI技术落地和普及的标志性事件。",
+      "tags": [
+        "上线",
+        "大模型",
+        "发布",
+        "AI",
+        "合作"
+      ],
+      "url": "https://www.qbitai.com/2026/02/380433.html",
+      "source": "量子位",
+      "original_pub_date": "2026-02-16 11:15:22",
+      "impact_score": 300.0
+    },
+    {
+      "index": 4,
+      "title": "千问：1.3亿人春节首次体验AI购物",
+      "summary": "2月17日消息，阿里巴巴旗下千问发布数据显示，春节活动期间全国超过1.3亿人首次体验AI购物，AI订单量在交通票务、电影票等领域呈现数百倍增长，且近一半订单来自县城，显示出AI应用正在快速向低线城市和全年龄段用户渗透。",
+      "importance": "高",
+      "reason": "中国AI应用在重大消费节日期间取得突破性用户增长和数据表现，属于重大商业动态，揭示了AI技术驱动新消费模式和下沉市场增长的巨大潜力。",
+      "tags": [
+        "上线",
+        "发布",
+        "AI",
+        "首次"
+      ],
+      "url": "https://36kr.com/newsflashes/3686837110828674?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-17 03:24:39",
+      "impact_score": 264.0
+    },
+    {
+      "index": 5,
+      "title": "追觅全智能生态亮相春晚《智造未来》，共同唱响中国智造时代强音",
+      "summary": "2月17日消息，追觅科技以“智能科技生态战略合作伙伴”身份登陆央视春晚，携全场景高端智能生态产品矩阵亮相，成为春晚历史上首个完整展示智能生态的品牌，旨在向全国观众呈现中国新质生产力的发展图景。",
+      "importance": "中",
+      "reason": "中国智能硬件公司借助国家级平台展示其全生态战略，属于重要的品牌合作与市场活动，体现了AI与制造业融合的“中国智造”主题，具有行业示范意义。",
+      "tags": [
+        "合作",
+        "创新",
+        "首次"
+      ],
+      "url": "https://36kr.com/newsflashes/3687027061091977?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-17 06:37:52",
+      "impact_score": 225.0
+    },
+    {
+      "index": 6,
+      "title": "揭秘春晚“两个蔡明”背后，这家机器人公司的百日奋战",
+      "summary": "2月17日消息，在2026年央视春晚小品中，中国机器人公司提供的仿生机器人成功扮演了“蔡明”，实现了高度仿真的外观和互动，这是中国仿生机器人技术首次在国民级舞台上进行如此深度的艺术融合与展示。",
+      "importance": "中",
+      "reason": "中国机器人公司的产品在春晚这一顶级流量平台上进行创新性应用展示，属于重要的产品曝光和商业合作，有助于提升公众对国内机器人技术的认知和接受度。",
+      "tags": [
+        "上线",
+        "合作"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/c1dBJmII8svTBsTC.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-17 04:54:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 7,
+      "title": "对话王兴兴：搜遍全世界武术招式，宇树如何超越宇树",
+      "summary": "2月17日消息，宇树科技创始人王兴兴在春晚后透露，其G1与H2人形机器人在春晚节目《武术BOT》中实现了全球首次全自主集群快速跑位控制技术展示，最快跑位速度达4m/s，标志着公司在机器人集群控制领域取得重要突破。",
+      "importance": "中",
+      "reason": "中国人形机器人领军企业在国家级舞台上展示突破性集群控制技术，属于重大学术/技术突破的公开演示，对于推动具身智能和机器人产业发展有积极意义。",
+      "tags": [
+        "超越"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/KtAg1mRX2HLfYDo5.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-17 04:45:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 8,
+      "title": "宇树科技王兴兴：今年宇树科技的目标出货量在1-2万台左右",
+      "summary": "2月17日消息，宇树科技创始人王兴兴预计今年全球人形机器人出货量将达数万台，并设定了宇树科技1-2万台的出货目标，同时指出当前行业仍受限于具身智能大脑等技术瓶颈，处于应用早期阶段。",
+      "importance": "中",
+      "reason": "中国头部人形机器人公司公布明确的商业化出货目标，属于重要的商业动态和市场预测，为观察国内人形机器人产业化进程提供了关键参考。",
+      "tags": [
+        "首次"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/cQPxBzS8tWmTcSkb.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-16 13:27:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 9,
+      "title": "越疆机器人登上央视春晚，点亮高端智造之光",
+      "summary": "2月17日消息，越疆协作机器人在2026年央视春晚微音乐剧中惊艳亮相，以高精度协同动作诠释“智造之光”，作为全球部署量领先的中国协作机器人品牌，此次登陆春晚是对其技术成熟度与产业贡献的国家级认可。",
+      "importance": "中",
+      "reason": "中国协作机器人龙头企业在春晚舞台进行品牌与技术展示，属于重要的市场宣传和行业地位背书，有助于强化“中国智造”的国际形象。",
+      "tags": [
+        "创新"
+      ],
+      "url": "https://www.jiqizhixin.com/articles/2026-02-16",
+      "source": "机器之心",
+      "original_pub_date": "2026-02-16 02:10:17",
+      "impact_score": 150.0
+    },
+    {
+      "index": 10,
+      "title": "MOVA TPEAK登春晚、获黄仁勋点赞：Clip Pro耳机两个月完成“三级跳”",
+      "summary": "2月17日消息，中国新兴科技音频品牌MOVA TPEAK的Clip Pro开放式耳夹耳机在2026年央视春晚喜剧短剧中亮相，并凭借时尚设计引发关注，成为“春晚同款”热门产品，实现了从产品发布到国民级曝光的快速市场突破。",
+      "importance": "低",
+      "reason": "中国消费科技品牌借助春晚流量获得巨大曝光，属于成功的商业营销案例。虽然产品本身可能不直接涉及核心AI技术，但体现了中国科技品牌利用大平台进行市场推广的动态。",
+      "tags": [
+        "发布",
+        "开放",
+        "创新"
+      ],
+      "url": "https://36kr.com/newsflashes/3686903793921922?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-17 06:29:15",
+      "impact_score": 147.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Musk’s X Probed by Irish Data Watchdog Over Grok Sexual Images",
+      "summary": "2月17日消息，爱尔兰数据保护监管机构对埃隆·马斯克旗下的社交平台X展开调查，原因是其担忧由Grok AI聊天机器人创建和发布的性化图像可能引发数据保护与AI伦理问题。",
+      "importance": "高",
+      "reason": "属于【重大政策与法规】类别。这是欧盟（爱尔兰）监管机构对海外公司（X/Grok）发起的正式调查，涉及AI生成内容的安全与伦理问题，具有明确的政策监管和合规影响。",
+      "tags": [
+        "调查",
+        "AI安全",
+        "欧盟监管"
+      ],
+      "url": "https://arxiv.org/abs/2602.13255",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-17 05:00:00",
+      "impact_score": 300.0
+    },
+    {
+      "index": 2,
+      "title": "Large-Scale Pilots of AI and GenAI for Medical Imaging",
+      "summary": "2月17日消息，欧盟委员会宣布将启动一项提案征集，旨在资助在真实世界临床影像中部署人工智能的大规模试点项目，以推动AI在医疗领域的实际应用与验证。",
+      "importance": "高",
+      "reason": "属于【重大政策与法规】类别。这是欧盟层面的官方政策行动，通过资金引导和项目试点，推动AI（特别是生成式AI）在关键医疗领域的规模化应用，具有产业引导和标准制定的意义。",
+      "tags": [
+        "欧盟政策",
+        "医疗AI",
+        "资金支持"
+      ],
+      "url": "https://arxiv.org/abs/2602.13226",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-17 05:00:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 3,
+      "title": "New SemiAnalysis InferenceX Data Shows NVIDIA Blackwell Ultra Delivers up to 50x Better Performance and 35x Lower Costs for Agentic AI",
+      "summary": "2月17日消息，英伟达发布其Blackwell Ultra平台的最新性能数据，显示该平台在代理式AI任务上可实现高达50倍的性能提升和35倍的成本降低，巩固了其在AI芯片市场的领先地位。",
+      "importance": "高",
+      "reason": "属于【重大产品发布】类别。英伟达作为全球AI芯片领导者，其Blackwell Ultra平台的性能披露是产业关键动态，直接影响AI算力成本与效率，对下游AI应用开发有重大影响。",
+      "tags": [
+        "英伟达",
+        "AI芯片",
+        "性能突破"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-17/china-ai-startup-moonshot-seeks-10-billion-value-in-new-funding",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-17 05:21:35",
+      "impact_score": 240.0
+    },
+    {
+      "index": 4,
+      "title": "AMD Takes on Nvidia in India With Tata AI Partnership",
+      "summary": "2月17日消息，美国芯片制造商AMD与印度塔塔咨询服务公司达成战略合作，将在印度部署AMD最新的AI数据中心技术，此举旨在全球增长最快的市场之一挑战英伟达的统治地位。",
+      "importance": "高",
+      "reason": "属于【重大商业动态】类别。这是全球顶级芯片厂商（AMD）在关键区域市场（印度）与本土巨头（塔塔）的重要战略合作，标志着AI算力市场竞争加剧，可能重塑市场格局。",
+      "tags": [
+        "AMD",
+        "战略合作",
+        "印度市场",
+        "AI芯片"
+      ],
+      "url": "https://arxiv.org/abs/2602.13274",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-17 05:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 5,
+      "title": "KPMG partner fined over using AI to pass AI test",
+      "summary": "2月17日消息，国际四大会计师事务所之一的毕马威对其一名合伙人处以罚款，原因是该合伙人被发现在公司内部的人工智能能力测试中使用AI工具作弊，凸显了企业内控与AI伦理的新挑战。",
+      "importance": "中",
+      "reason": "属于【安全与伦理】类别。这是一起涉及国际知名专业服务机构（毕马威）的AI使用不当事件，反映了AI技术普及后在企业内部治理、员工诚信和合规方面引发的新型风险与伦理争议。",
+      "tags": [
+        "AI伦理",
+        "企业合规",
+        "毕马威"
+      ],
+      "url": "https://arxiv.org/abs/2602.13237",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-17 05:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 6,
+      "title": "Musk Merger Puts New Twist on X as Everything App",
+      "summary": "2月17日消息，埃隆·马斯克将其太空探索公司SpaceX与人工智能公司xAI进行合并，为社交平台X向“万能应用”的转型增添了新的战略变数，可能重塑其技术整合与商业模式。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】类别。这是海外知名企业家（马斯克）旗下公司的重要合并动作，涉及AI公司（xAI）与科技巨头的整合，可能对社交媒体、AI服务乃至太空科技领域产生交叉影响。",
+      "tags": [
+        "并购",
+        "马斯克",
+        "xAI",
+        "战略整合"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-17/musk-s-x-probed-by-irish-data-watchdog-over-grok-sexual-images",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-17 00:01:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 7,
+      "title": "How Ricursive Intelligence raised $335M at a $4B valuation in 4 months",
+      "summary": "2月17日消息，新兴AI初创公司Ricursive Intelligence在短短四个月内以40亿美元估值筹集了3.35亿美元，其创始团队在AI领域的卓越声誉是吸引风险投资机构争相投资的关键原因。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】类别。这是一家海外AI初创公司获得的大额融资案例，高估值和快速融资节奏反映了当前全球资本市场对顶尖AI人才和技术的狂热追逐，是观察AI投资风向的重要指标。",
+      "tags": [
+        "大额融资",
+        "AI初创公司",
+        "风险投资"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-16/ukraine-s-graft-probe-engulfs-ex-minister-after-failed-escape",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-16 09:02:20",
+      "impact_score": 165.0
+    },
+    {
+      "index": 8,
+      "title": "DPBench: Large Language Models Struggle with Simultaneous Coordination",
+      "summary": "2月17日消息，研究人员在arXiv上发布了一项名为DPBench的新基准测试，该测试基于哲学家就餐问题，评估大语言模型在资源竞争环境下的多智能体协同能力，揭示了当前LLM在此类复杂协调任务上的局限性。",
+      "importance": "中",
+      "reason": "属于【重大学术突破】类别。这是来自学术预印本平台arXiv的突破性研究成果，提出了一个评估LLM多智能体协同能力的新基准，对推动AI向更复杂、更实用的多智能体系统发展有重要学术价值。",
+      "tags": [
+        "学术研究",
+        "基准测试",
+        "多智能体",
+        "LLM局限性"
+      ],
+      "url": "https://digital-strategy.ec.europa.eu/en/funding/large-scale-pilots-ai-and-genai-medical-imaging",
+      "source": "EU AI Policy",
+      "original_pub_date": "2026-02-16 08:04:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 9,
+      "title": "Variation is the Key: A Variation-Based Framework for LLM-Generated Text Detection",
+      "summary": "2月17日消息，研究人员提出了一种基于文本变异的全新框架，用于检测大语言模型生成的文本，该框架旨在克服现有检测器对白盒设置等不切实际假设的依赖，提升检测的精确性和实用性。",
+      "importance": "中",
+      "reason": "属于【重大学术突破】类别。这是解决AI生成内容识别这一关键挑战的新方法论研究，对于应对虚假信息、学术诚信和内容安全等现实问题具有重要的技术参考价值。",
+      "tags": [
+        "学术研究",
+        "AI检测",
+        "文本生成"
+      ],
+      "url": "https://www.ft.com/content/c30ded60-bece-45e0-981d-653e1e3e9818",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-02-16 03:21:25",
+      "impact_score": 165.0
+    },
+    {
+      "index": 10,
+      "title": "ProMoral-Bench: Evaluating Prompting Strategies for Moral Reasoning and Safety in LLMs",
+      "summary": "2月17日消息，研究团队推出了ProMoral-Bench统一基准，用于系统评估11种不同的提示策略对大语言模型道德推理能力与安全对齐效果的影响，为提升AI伦理与安全性提供了重要的评估工具。",
+      "importance": "中",
+      "reason": "属于【重大学术突破】与【安全与伦理】交叉类别。该研究直接针对AI安全与伦理的核心议题——道德对齐，提供了系统化的评估方法，对指导AI模型的负责任开发具有显著意义。",
+      "tags": [
+        "学术研究",
+        "AI安全",
+        "道德对齐",
+        "基准测试"
+      ],
+      "url": "https://arxiv.org/abs/2602.13280",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-17 05:00:00",
+      "impact_score": 135.0
+    },
+    {
+      "index": 11,
+      "title": "Adani Plans to Invest $100 Billion in AI-Ready Data Centers",
+      "summary": "2月17日消息，印度阿达尼集团宣布计划到2035年投资1000亿美元建设由绿色能源驱动的、支持人工智能的数据中心，旨在抓住印度力图成为全球AI和云计算枢纽的战略机遇。",
+      "importance": "低",
+      "reason": "属于【重大商业动态】类别。这是印度本土巨头（阿达尼集团）在AI基础设施领域的超大规模投资计划，反映了全球AI算力需求激增背景下，新兴市场国家争夺产业主导权的战略动向。",
+      "tags": [
+        "基础设施投资",
+        "数据中心",
+        "印度",
+        "绿色能源"
+      ],
+      "url": "https://blogs.nvidia.com/blog/data-blackwell-ultra-performance-lower-cost-agentic-ai/",
+      "source": "NVIDIA AI",
+      "original_pub_date": "2026-02-16 17:00:40",
+      "impact_score": 132.0
+    }
+  ],
+  "summary": "今日从123条原始信息中精选出10条国内动态和11条国际动态，其中8条为高重要性。 重点关注：阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18；Kimi连续融资超12亿美元，估值翻倍突破100亿美元；豆包除夕AI互动19亿次 Seedance2.0为春晚提供技术支持。",
+  "statistics": {
+    "raw_domestic": 26,
+    "raw_international": 97,
+    "raw_total": 123,
+    "final_domestic": 10,
+    "final_international": 11
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "2月17日消息，阿里巴巴开源全新一代大模型千问Qwen3.5-Plus，其性能媲美Gemini 3 Pro，登顶全球最强开源模型，并实现了从纯文本到原生多模态的代际跃迁，同时API价格极具竞争力，仅为竞品的1/18，大幅降低了部署成本和应用门槛。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "2月17日消息，月之暗面Kimi在短时间内连续完成两轮总额超12亿美元的融资，最新估值翻倍突破100亿美元，由阿里、腾讯等老股东领投，创下近一年来大模型行业最高融资金额纪录。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "2月17日消息，字节跳动旗下AI助手豆包与央视春晚深度联动，除夕当天AI互动总数达19亿次，峰值推理吞吐量惊人，首次实现了AI驱动全民实时创作互动，展现了其大模型在超高并发场景下的技术实力和广泛用户基础。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "2月17日消息，阿里巴巴旗下千问发布数据显示，春节活动期间全国超过1.3亿人首次体验AI购物，AI订单量在交通票务、电影票等领域呈现数百倍增长，且近一半订单来自县城，显示出AI应用正在快速向低线城市和全年龄段用户渗透。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "2月17日消息，追觅科技以“智能科技生态战略合作伙伴”身份登陆央视春晚，携全场景高端智能生态产品矩阵亮相，成为春晚历史上首个完整展示智能生态的品牌，旨在向全国观众呈现中国新质生产力的发展图景。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "2月17日消息，爱尔兰数据保护监管机构对埃隆·马斯克旗下的社交平台X展开调查，原因是其担忧由Grok AI聊天机器人创建和发布的性化图像可能引发数据保护与AI伦理问题。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "2月17日消息，欧盟委员会宣布将启动一项提案征集，旨在资助在真实世界临床影像中部署人工智能的大规模试点项目，以推动AI在医疗领域的实际应用与验证。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "2月17日消息，英伟达发布其Blackwell Ultra平台的最新性能数据，显示该平台在代理式AI任务上可实现高达50倍的性能提升和35倍的成本降低，巩固了其在AI芯片市场的领先地位。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "2月17日消息，美国芯片制造商AMD与印度塔塔咨询服务公司达成战略合作，将在印度部署AMD最新的AI数据中心技术，此举旨在全球增长最快的市场之一挑战英伟达的统治地位。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "2月17日消息，国际四大会计师事务所之一的毕马威对其一名合伙人处以罚款，原因是该合伙人被发现在公司内部的人工智能能力测试中使用AI工具作弊，凸显了企业内控与AI伦理的新挑战。",
+      "importance": "中"
+    }
+  ]
+}
