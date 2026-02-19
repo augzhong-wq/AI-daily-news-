@@ -1,0 +1,564 @@
+{
+  "date": "2026-02-19",
+  "generated_at": "2026-02-19 08:53:24",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "豆包千问疯狂撒钱，月之暗面疯狂搞钱 | 智能涌现独家",
+      "summary": "2月19日消息，中国大模型公司月之暗面完成超7亿美元巨额融资，由阿里、腾讯等老股东领投并已超募，公司估值达100-120亿美元，并已开启新一轮融资，显示国内AI赛道资本热度高涨。",
+      "importance": "高",
+      "reason": "重大商业动态：涉及中国大模型明星公司月之暗面的超7亿美元大额融资，属于标志性融资事件，对国内AI产业格局有重要影响。",
+      "tags": [
+        "融资",
+        "大模型",
+        "投资"
+      ],
+      "url": "https://36kr.com/p/3688162369908611?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-18 01:54:31",
+      "impact_score": 537.5
+    },
+    {
+      "index": 2,
+      "title": "中央企业研发投入连续四年超万亿元",
+      "summary": "2月19日消息，中国国务院国有资产监督管理委员会公布，2025年中央企业研发投入达1.1万亿元，连续四年超过万亿元，显示国资央企正以更大力度全面融入国家创新体系。",
+      "importance": "高",
+      "reason": "重大政策与宏观动态：反映中国政府推动科技创新的国家战略和持续投入，是评估国内AI等前沿技术发展基础环境的关键指标。",
+      "tags": [
+        "创新",
+        "研发",
+        "政策"
+      ],
+      "url": "https://36kr.com/newsflashes/3689688418578312?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-19 04:23:59",
+      "impact_score": 307.5
+    },
+    {
+      "index": 3,
+      "title": "我国科学家在光通信及6G领域取得新进展",
+      "summary": "2月19日消息，中国科学家在光通信和6G领域取得突破，自主研发的“光纤—无线一体化融合通信系统”实现跨网络融合并刷新数据传输速率纪录，相关成果发表于国际顶级期刊《自然》。",
+      "importance": "高",
+      "reason": "重大学术突破：中国科研机构在6G等前沿通信技术领域取得世界级成果，为未来AI应用的基础设施发展奠定重要基础。",
+      "tags": [
+        "突破",
+        "6G",
+        "科研"
+      ],
+      "url": "https://36kr.com/newsflashes/3689522763132550?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-19 03:34:34",
+      "impact_score": 210.0
+    },
+    {
+      "index": 4,
+      "title": "蚂蚁数科将发布百灵大模型企业版",
+      "summary": "2月19日消息，蚂蚁集团旗下蚂蚁数科宣布将发布百灵大模型企业版，该版本专注于大模型幻觉抑制、指令遵循及安全合规能力，旨在推动AI在金融、能源等企业真实场景中落地应用。",
+      "importance": "高",
+      "reason": "重大产品发布：中国头部科技公司蚂蚁集团发布针对企业级市场的大模型产品，是AI技术商业化落地的重要进展。",
+      "tags": [
+        "大模型",
+        "发布",
+        "To B"
+      ],
+      "url": "https://www.qbitai.com/2026/02/381415.html",
+      "source": "量子位",
+      "original_pub_date": "2026-02-19 06:11:38",
+      "impact_score": 150.0
+    },
+    {
+      "index": 5,
+      "title": "霸榜SOTA，蚂蚁开源UI-Venus-1.5，GUI智能体办事时代加速到来",
+      "summary": "2月19日消息，蚂蚁集团开源了其GUI智能体模型UI-Venus-1.5，该模型在多项基准测试中达到SOTA（最先进）性能，旨在加速图形用户界面自动化智能体的发展和应用。",
+      "importance": "高",
+      "reason": "重大学术突破/产品发布：中国公司在AI细分领域（GUI智能体）取得领先的技术成果并开源，具有重要的技术和生态影响力。",
+      "tags": [
+        "开源",
+        "SOTA",
+        "智能体"
+      ],
+      "url": "https://www.jiqizhixin.com/articles/2026-02-18-3",
+      "source": "机器之心",
+      "original_pub_date": "2026-02-18 13:33:43",
+      "impact_score": 150.0
+    },
+    {
+      "index": 6,
+      "title": "懂人性更懂执行，蚂蚁这个万亿开源模型把情商和Agent战斗力都给拉满了",
+      "summary": "2月19日消息，蚂蚁集团开源了一个具备高情商和强大执行能力的万亿参数大模型，该模型在保持大规模参数的同时，优化了与人类交互和智能体（Agent）任务执行的相关能力。",
+      "importance": "高",
+      "reason": "重大学术突破/产品发布：涉及中国公司发布万亿参数级别的开源大模型，并在Agent能力上有所侧重，属于重要的技术进展。",
+      "tags": [
+        "开源",
+        "大模型",
+        "Agent"
+      ],
+      "url": "https://www.qbitai.com/2026/02/381294.html",
+      "source": "量子位",
+      "original_pub_date": "2026-02-18 10:22:01",
+      "impact_score": 150.0
+    },
+    {
+      "index": 7,
+      "title": "太初元碁完成智谱GLM-5.0及阿里千问双开源模型深度适配",
+      "summary": "2月19日消息，国产算力公司太初元碁宣布，已在其自研T100加速卡上完成对智谱GLM-5.0、阿里千问Qwen3.5等主流国产开源大模型的深度适配，通过其软件栈降低CUDA生态迁移门槛。",
+      "importance": "高",
+      "reason": "重大商业动态/技术进展：中国算力公司推动国产AI芯片与主流国产大模型的生态融合，对构建自主AI产业链至关重要。",
+      "tags": [
+        "大模型",
+        "开源",
+        "国产算力"
+      ],
+      "url": "https://www.qbitai.com/2026/02/381037.html",
+      "source": "量子位",
+      "original_pub_date": "2026-02-18 08:10:10",
+      "impact_score": 150.0
+    },
+    {
+      "index": 8,
+      "title": "太初元碁：40+大模型即发即适配，上线即可用，国产算力高效落地",
+      "summary": "2月19日消息，国产算力平台太初元碁宣称其平台可实现40多个大模型的“即发即适配”，帮助开发者在国产算力上快速部署和应用大模型，推动国产算力的高效落地。",
+      "importance": "中",
+      "reason": "重大商业动态：展示中国公司在解决国产算力与大模型应用适配难题上的进展，是AI基础设施领域的重要动态。",
+      "tags": [
+        "大模型",
+        "国产算力",
+        "适配"
+      ],
+      "url": "https://36kr.com/newsflashes/3689932550286982?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-19 07:53:29",
+      "impact_score": 147.0
+    },
+    {
+      "index": 9,
+      "title": "ICLR 2026 | 阿里高德发布SpatialGenEval，揭秘谁才是真正的文生图大师",
+      "summary": "2月19日消息，阿里巴巴旗下高德地图在顶级AI会议ICLR 2026上发布了文生图评估基准SpatialGenEval，旨在更科学地评估和比较不同文生图模型在空间关系理解上的真实能力。",
+      "importance": "中",
+      "reason": "重大学术突破：中国公司（阿里高德）在国际顶级学术会议上发布重要的AI评估基准，体现了在AI基础研究领域的贡献和影响力。",
+      "tags": [
+        "发布",
+        "学术",
+        "评估基准"
+      ],
+      "url": "https://36kr.com/newsflashes/3689739639320455?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-19 05:29:07",
+      "impact_score": 147.0
+    },
+    {
+      "index": 10,
+      "title": "深谋科技发布震撼空中拜年视频:其大载重低空eVTOL搭载人形机器人“美猴王”腾云驾雾给大家拜年",
+      "summary": "2月19日消息，中国机器人公司深谋科技发布视频，展示其大载重电动垂直起降飞行器（eVTOL）搭载全尺寸人形机器人“美猴王”完成空中飞行，体现了其在低空经济与具身智能融合应用上的探索。",
+      "importance": "中",
+      "reason": "重大产品展示/技术融合：中国公司展示eVTOL与人形机器人的结合应用，属于低空经济和具身智能交叉领域的前沿演示。",
+      "tags": [
+        "发布",
+        "具身智能",
+        "eVTOL"
+      ],
+      "url": "https://www.qbitai.com/2026/02/381300.html",
+      "source": "量子位",
+      "original_pub_date": "2026-02-19 04:47:47",
+      "impact_score": 135.0
+    },
+    {
+      "index": 11,
+      "title": "具身智能的商业化，从在春晚舞台上「倒酒」开始",
+      "summary": "2月19日消息，文章分析了2026年春晚中多家中国机器人公司的表演，指出机器人已从单纯表演向展示实用技能（如倒酒）演进，并探讨了具身智能技术商业化落地的路径与挑战。",
+      "importance": "中",
+      "reason": "重大商业动态/产业观察：以春晚为切入点，分析中国具身智能（机器人）产业的发展现状和商业化进程，具有行业代表性。",
+      "tags": [
+        "具身智能",
+        "商业化",
+        "机器人"
+      ],
+      "url": "https://www.jiqizhixin.com/articles/2026-02-18-4",
+      "source": "机器之心",
+      "original_pub_date": "2026-02-18 13:36:25",
+      "impact_score": 135.0
+    },
+    {
+      "index": 12,
+      "title": "春晚首见！追觅把 「人车家」智能生态搬上「国民」舞台",
+      "summary": "2月19日消息，中国智能家电公司追觅科技作为2026年春晚的智能科技生态战略合作伙伴，将其全场景智能家居生态搬上舞台，标志着中国消费科技从单品智能向全场景生态智能的演进。",
+      "importance": "中",
+      "reason": "重大商业动态：中国智能硬件公司通过国家级舞台展示其AIoT生态战略，是AI与硬件结合、赋能消费领域的重要市场动态。",
+      "tags": [
+        "合作",
+        "智能生态",
+        "AIoT"
+      ],
+      "url": "https://www.jiqizhixin.com/articles/2026-02-18-2",
+      "source": "机器之心",
+      "original_pub_date": "2026-02-18 13:19:51",
+      "impact_score": 135.0
+    },
+    {
+      "index": 13,
+      "title": "春晚之后，AI和机器人为啥都去了一个地方？",
+      "summary": "2月19日消息，报道关注了在2026年春晚亮相的多家中国AI与机器人公司，在春晚结束后集中前往或关注某个特定地点或活动，反映了国内AI产业界的联动与热点趋势。",
+      "importance": "低",
+      "reason": "产业动态：追踪中国AI和机器人公司在春晚后的动向，反映了行业内的交流与合作趋势，具有一定关注价值。",
+      "tags": [
+        "AI",
+        "机器人",
+        "产业动态"
+      ],
+      "url": "https://www.qbitai.com/2026/02/381378.html",
+      "source": "量子位",
+      "original_pub_date": "2026-02-19 04:49:30",
+      "impact_score": 132.5
+    },
+    {
+      "index": 14,
+      "title": "米兰冬奥村，这群外国人都围着阿里云AI干啥呢？",
+      "summary": "2月19日消息，中国科技公司阿里云的AI技术或产品在米兰冬奥村受到外国运动员或游客的关注和体验，展示了中国AI技术在海外大型国际赛事中的实际应用与吸引力。",
+      "importance": "低",
+      "reason": "商业动态/国际影响：中国公司（阿里云）的AI技术在国际舞台上的展示和应用，属于中国AI“出海”或提升国际影响力的案例。",
+      "tags": [
+        "AI",
+        "国际应用",
+        "阿里云"
+      ],
+      "url": "https://36kr.com/newsflashes/3689692071145351?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-19 03:48:52",
+      "impact_score": 132.0
+    },
+    {
+      "index": 15,
+      "title": "银河通用把“机器人表演”变成“机器人上岗”，端到端大模型银河星脑有多强",
+      "summary": "2月19日消息，中国机器人公司银河通用致力于通过其端到端大模型“银河星脑”让机器人从舞台表演走向实际岗位工作，并介绍了其在今年春晚中的表现和技术特点。",
+      "importance": "低",
+      "reason": "产品技术动态：介绍中国机器人公司如何利用大模型技术推动机器人实用化，是具身智能领域的一个具体案例。",
+      "tags": [
+        "大模型",
+        "机器人",
+        "具身智能"
+      ],
+      "url": "https://36kr.com/newsflashes/3689520918670979?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-19 02:54:39",
+      "impact_score": 130.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "OpenAI in Final Stages of $100 Billion Funding Round",
+      "summary": "2月19日消息，OpenAI即将完成新一轮融资的第一阶段，预计融资额将超过1000亿美元，这将成为创纪录的融资交易，为该公司构建其人工智能工具提供额外资本。",
+      "importance": "高",
+      "reason": "重大商业动态：涉及全球AI领军企业OpenAI的千亿美元级巨额融资，对行业资本流向和竞争格局有重大影响。",
+      "tags": [
+        "OpenAI",
+        "融资",
+        "商业动态"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-19/deepmind-ceo-warns-of-ai-risks-calls-for-global-cooperation",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-19 06:28:49",
+      "impact_score": 262.5
+    },
+    {
+      "index": 2,
+      "title": "Saudi Arabia’s AI venture Humain invests $3bn in Elon Musk’s xAI",
+      "summary": "2月19日消息，沙特阿拉伯的人工智能风险投资机构Humain向埃隆·马斯克的xAI投资30亿美元，此举加深了该国与这位亿万富翁的联系，是其经济多元化目标的一部分。",
+      "importance": "高",
+      "reason": "重大商业动态：涉及主权财富基金对前沿AI公司的大额战略投资，体现了地缘政治与AI产业的深度结合。",
+      "tags": [
+        "xAI",
+        "沙特投资",
+        "融资",
+        "埃隆·马斯克"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-19/ambani-s-reliance-to-invest-110-billion-in-ai-infrastructure",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-19 06:32:37",
+      "impact_score": 195.0
+    },
+    {
+      "index": 3,
+      "title": "Meta&#8217;s new deal with Nvidia buys up millions of AI chips",
+      "summary": "2月19日消息，Meta与英伟达达成一项多年期协议，将为其数据中心采购数百万颗英伟达的Grace和Vera CPU以及Blackwell和Rubin GPU，这是首次大规模部署英伟达Grace芯片。",
+      "importance": "高",
+      "reason": "重大商业动态：全球两大科技巨头间的巨额芯片采购协议，直接影响AI算力供应链和Meta的AI基础设施能力。",
+      "tags": [
+        "Meta",
+        "英伟达",
+        "芯片采购",
+        "算力"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-02-19/fractal-s-velamakanni-on-ai-fears-impact-on-ipo-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-19 05:46:50",
+      "impact_score": 195.0
+    },
+    {
+      "index": 4,
+      "title": "DeepMind CEO Warns of AI Risks, Calls for Global Cooperation",
+      "summary": "2月19日消息，谷歌DeepMind首席执行官Demis Hassabis警告称，人工智能带来严重风险，需要国际社会紧急关注并合作应对。",
+      "importance": "高",
+      "reason": "安全与伦理：来自全球顶尖AI实验室负责人的高层警告，涉及AI治理与全球合作的核心理念。",
+      "tags": [
+        "DeepMind",
+        "AI风险",
+        "治理",
+        "Demis Hassabis"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-02-19/anthropic-ceo-amodei-on-india-partnerships-and-ai-risks-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-19 05:30:55",
+      "impact_score": 195.0
+    },
+    {
+      "index": 5,
+      "title": "Anthropic CEO Amodei on India Partnerships and AI Risks",
+      "summary": "2月19日消息，Anthropic首席执行官Dario Amodei在印度AI影响力峰会上谈及在印度的合作伙伴关系及该国在技术发展中的作用，并重申其认为AI模型将在几年内超越人类能力的立场。",
+      "importance": "中",
+      "reason": "商业动态与安全伦理：涉及重要AI公司（Anthropic）的国际合作战略及其CEO对AI能力临界点的重要判断。",
+      "tags": [
+        "Anthropic",
+        "印度合作",
+        "AI风险",
+        "Dario Amodei"
+      ],
+      "url": "https://arxiv.org/abs/2602.16179",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-19 05:00:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 6,
+      "title": "Alphabet’s Pichai Cautions on ‘AI Divide’",
+      "summary": "2月19日消息，Alphabet首席执行官Sundar Pichai在印度新德里的AI峰会上表示，技术带来巨大利益，但数字鸿沟绝不能演变为AI鸿沟。",
+      "importance": "中",
+      "reason": "安全与伦理：谷歌母公司CEO对AI发展公平性的重要表态，涉及全球AI治理的关键议题。",
+      "tags": [
+        "Alphabet",
+        "AI鸿沟",
+        "治理",
+        "Sundar Pichai"
+      ],
+      "url": "https://arxiv.org/abs/2602.16105",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-19 05:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 7,
+      "title": "NVIDIA and Global Industrial Software Leaders Partner With India’s Largest Manufacturers to Drive AI Boom",
+      "summary": "2月19日消息，英伟达与全球工业软件领导者合作，携手印度最大的制造商推动AI繁荣，印度正投资1340亿美元于新制造业产能，为AI应用创造巨大机遇。",
+      "importance": "中",
+      "reason": "重大商业动态：英伟达主导的全球产业合作，将AI与实体制造业深度融合，具有战略意义。",
+      "tags": [
+        "英伟达",
+        "印度制造",
+        "产业合作",
+        "AI应用"
+      ],
+      "url": "https://arxiv.org/abs/2602.16192",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-19 05:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 8,
+      "title": "Sequoia leads $1bn seed round for ex-Google scientist’s new AI lab",
+      "summary": "2月19日消息，红杉资本领投了前谷歌科学家David Silver新AI实验室Ineffable Intelligence的10亿美元种子轮融资，该交易将使这家初创公司的估值达到40亿美元。",
+      "importance": "中",
+      "reason": "重大商业动态：顶级风投对明星科学家创业项目的巨额种子轮融资，反映了AI基础研究领域的高估值和资本热度。",
+      "tags": [
+        "红杉资本",
+        "融资",
+        "AI实验室",
+        "David Silver"
+      ],
+      "url": "https://arxiv.org/abs/2602.16481",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-19 05:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 9,
+      "title": "Zuckerberg Says ‘Difficult’ to Enforce Instagram Age Limits",
+      "summary": "2月19日消息，Meta Platforms首席执行官马克·扎克伯格在关于社交媒体成瘾的里程碑式审判中作证称，执行Instagram的年龄限制“非常困难”，并为其平台辩护。",
+      "importance": "中",
+      "reason": "安全与伦理：Meta CEO就平台内容治理与青少年保护问题在重大诉讼中作证，涉及AI驱动的社交媒体伦理与监管。",
+      "tags": [
+        "Meta",
+        "内容治理",
+        "伦理争议",
+        "马克·扎克伯格"
+      ],
+      "url": "https://arxiv.org/abs/2602.15849",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-19 05:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 10,
+      "title": "Palo Alto shares sink 7%, CEO defends cybersecurity's position as AI hits software stocks",
+      "summary": "2月19日消息，Palo Alto Networks股价下跌7%，其CEO为网络安全公司的地位辩护，此前该公司大举押注AI并进行了包括以250亿美元收购CyberArk在内的激进收购。",
+      "importance": "中",
+      "reason": "重大商业动态：涉及网络安全巨头因AI冲击股价波动及其大规模并购战略，反映了AI对传统软件行业的重塑。",
+      "tags": [
+        "Palo Alto",
+        "网络安全",
+        "并购",
+        "AI冲击"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-02-19/alphabet-s-pichai-cautions-on-ai-divide-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-19 05:35:50",
+      "impact_score": 180.0
+    },
+    {
+      "index": 11,
+      "title": "Abu Dhabi's MGX Seeks to Build $100 Billion AI Empire",
+      "summary": "2月19日消息，阿布扎比的人工智能投资机构MGX计划在未来几年每年投入高达100亿美元，旨在建立一个价值1000亿美元的AI帝国。",
+      "importance": "中",
+      "reason": "重大商业动态：中东主权基金大规模、系统性的AI投资计划，将显著影响全球AI资本格局。",
+      "tags": [
+        "阿布扎比",
+        "MGX",
+        "AI投资",
+        "主权基金"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-02-19/google-executives-hail-india-s-ai-potential-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-19 02:01:43",
+      "impact_score": 180.0
+    },
+    {
+      "index": 12,
+      "title": "Framework of Thoughts: A Foundation Framework for Dynamic and Optimized Reasoning based on Chains, Trees, and Graphs",
+      "summary": "2月19日消息，研究人员提出“思维框架”，这是一个基于思维链、思维树和思维图的动态优化推理基础框架，能显著增强大语言模型的推理能力，并允许模型自主选择和组合推理路径。",
+      "importance": "中",
+      "reason": "重大学术突破：提出一种统一且动态的LLM推理框架，有望提升模型复杂问题解决能力，属于方法学上的重要进展。",
+      "tags": [
+        "推理框架",
+        "大语言模型",
+        "学术研究",
+        "思维链"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-02-18/zuckerberg-difficult-to-enforce-instagram-age-limits-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-18 23:39:42",
+      "impact_score": 180.0
+    },
+    {
+      "index": 13,
+      "title": "GPSBench: Do Large Language Models Understand GPS Coordinates?",
+      "summary": "2月19日消息，研究人员发布GPSBench基准，系统评估大语言模型对GPS坐标的理解和地理空间推理能力，发现现有模型在此任务上表现不佳，揭示了LLM在物理世界交互应用中的关键短板。",
+      "importance": "低",
+      "reason": "重大学术突破：提出了一个评估LLM地理空间理解能力的新基准，对AI在导航、机器人等现实世界应用具有重要意义。",
+      "tags": [
+        "基准测试",
+        "大语言模型",
+        "地理空间推理",
+        "学术研究"
+      ],
+      "url": "https://www.cnbc.com/2026/02/18/palo-alto-stock-cybersecurity-ai-earnings.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-02-18 17:16:06",
+      "impact_score": 180.0
+    },
+    {
+      "index": 14,
+      "title": "Leveraging Large Language Models for Causal Discovery: a Constraint-based, Argumentation-driven Approach",
+      "summary": "2月19日消息，研究团队提出一种基于约束和论证驱动的方法，利用大语言模型进行因果发现，旨在从数据中构建原则性的因果图，以预测干预措施的效果。",
+      "importance": "低",
+      "reason": "重大学术突破：将LLM应用于因果发现这一核心科学问题，提出了结合专家知识与统计方法的新途径。",
+      "tags": [
+        "因果发现",
+        "大语言模型",
+        "学术研究",
+        "推理"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-02-19/ambani-pledges-110-billion-ai-investment-over-7-years-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-19 07:06:20",
+      "impact_score": 165.0
+    },
+    {
+      "index": 15,
+      "title": "Preference Optimization for Review Question Generation Improves Writing Quality",
+      "summary": "2月19日消息，研究人员开发了IntelliReward，一种用于同行评审问题生成的偏好优化方法，该方法能生成更具实质性和基于证据的问题，显著提升了写作质量，超越了现有方法。",
+      "importance": "低",
+      "reason": "重大学术突破：在LLM的特定应用场景（学术评审）中提出了有效的优化方法，取得了性能提升。",
+      "tags": [
+        "偏好优化",
+        "大语言模型应用",
+        "学术写作",
+        "性能提升"
+      ],
+      "url": "https://blogs.nvidia.com/blog/india-global-industrial-software-leaders-manufacturers-ai/",
+      "source": "NVIDIA AI",
+      "original_pub_date": "2026-02-18 00:30:32",
+      "impact_score": 160.0
+    }
+  ],
+  "summary": "今日从161条原始信息中精选出15条国内动态和15条国际动态，其中11条为高重要性。 重点关注：豆包千问疯狂撒钱，月之暗面疯狂搞钱 | 智能涌现独家；中央企业研发投入连续四年超万亿元；我国科学家在光通信及6G领域取得新进展。",
+  "statistics": {
+    "raw_domestic": 28,
+    "raw_international": 133,
+    "raw_total": 161,
+    "final_domestic": 15,
+    "final_international": 15
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "2月19日消息，中国大模型公司月之暗面完成超7亿美元巨额融资，由阿里、腾讯等老股东领投并已超募，公司估值达100-120亿美元，并已开启新一轮融资，显示国内AI赛道资本热度高涨。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "2月19日消息，中国国务院国有资产监督管理委员会公布，2025年中央企业研发投入达1.1万亿元，连续四年超过万亿元，显示国资央企正以更大力度全面融入国家创新体系。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "2月19日消息，中国科学家在光通信和6G领域取得突破，自主研发的“光纤—无线一体化融合通信系统”实现跨网络融合并刷新数据传输速率纪录，相关成果发表于国际顶级期刊《自然》。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "2月19日消息，蚂蚁集团旗下蚂蚁数科宣布将发布百灵大模型企业版，该版本专注于大模型幻觉抑制、指令遵循及安全合规能力，旨在推动AI在金融、能源等企业真实场景中落地应用。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "2月19日消息，蚂蚁集团开源了其GUI智能体模型UI-Venus-1.5，该模型在多项基准测试中达到SOTA（最先进）性能，旨在加速图形用户界面自动化智能体的发展和应用。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "2月19日消息，OpenAI即将完成新一轮融资的第一阶段，预计融资额将超过1000亿美元，这将成为创纪录的融资交易，为该公司构建其人工智能工具提供额外资本。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "2月19日消息，沙特阿拉伯的人工智能风险投资机构Humain向埃隆·马斯克的xAI投资30亿美元，此举加深了该国与这位亿万富翁的联系，是其经济多元化目标的一部分。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "2月19日消息，Meta与英伟达达成一项多年期协议，将为其数据中心采购数百万颗英伟达的Grace和Vera CPU以及Blackwell和Rubin GPU，这是首次大规模部署英伟达Grace芯片。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "2月19日消息，谷歌DeepMind首席执行官Demis Hassabis警告称，人工智能带来严重风险，需要国际社会紧急关注并合作应对。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "2月19日消息，Anthropic首席执行官Dario Amodei在印度AI影响力峰会上谈及在印度的合作伙伴关系及该国在技术发展中的作用，并重申其认为AI模型将在几年内超越人类能力的立场。",
+      "importance": "中"
+    }
+  ]
+}
