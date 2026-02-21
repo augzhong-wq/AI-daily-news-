@@ -1,0 +1,429 @@
+{
+  "date": "2026-02-21",
+  "generated_at": "2026-02-21 08:37:51",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "众智FlagOS适配千问Qwen3.5 397B MoE模型多芯版统一发布，下载可用",
+      "summary": "2月21日消息，国内AI公司众智科技宣布其FlagOS操作系统成功适配通义千问Qwen3.5 397B MoE模型的多芯版本并统一发布，标志着国产大模型在异构计算平台上的部署与应用取得重要进展，用户已可下载使用。",
+      "importance": "高",
+      "reason": "属于【国内动态】。主体为国内公司（众智科技），涉及国产旗舰大模型（通义千问Qwen3.5）的重大产品发布与适配，符合【重大产品发布】标准。",
+      "tags": [
+        "国产大模型",
+        "操作系统适配",
+        "产品发布"
+      ],
+      "url": "https://36kr.com/newsflashes/3692368243486339?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-21 01:11:12",
+      "impact_score": 405.0
+    },
+    {
+      "index": 2,
+      "title": "国内首次实现集装箱船全流程无人化作业",
+      "summary": "2月21日消息，全国首艘商业运营智能集装箱船“智飞”号在山东港口青岛港成功完成无人自主航行、靠泊与自动化装卸作业，标志着我国首次实现集装箱船舶从航行到作业的全流程无人化，核心技术均为自主研发。",
+      "importance": "高",
+      "reason": "属于【国内动态】。事件发生在中国（青岛港），主体涉及国内自主研发的智能航行系统与自动化码头，是具身智能与自动化领域的一项重大技术突破与应用里程碑。",
+      "tags": [
+        "无人化",
+        "智能航运",
+        "技术突破"
+      ],
+      "url": "https://36kr.com/newsflashes/3691380916186753?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-20 08:26:50",
+      "impact_score": 236.0
+    },
+    {
+      "index": 3,
+      "title": "国家能源局：2025年光伏发电新增并网容量31657.4万千瓦",
+      "summary": "2月21日消息，中国国家能源局发布2025年光伏发电建设数据，显示当年新增并网容量达31657.4万千瓦，累计并网容量近12亿千瓦，数据反映了中国在清洁能源基础设施领域的持续高速发展与政策引导成效。",
+      "importance": "中",
+      "reason": "属于【国内动态】。主体为中国政府机构（国家能源局），发布的数据反映了国家在能源转型和绿色科技（与AI算力所需的绿色能源相关）领域的宏观政策成果。",
+      "tags": [
+        "政策数据",
+        "清洁能源",
+        "基础设施"
+      ],
+      "url": "https://36kr.com/newsflashes/3692381581078146?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-21 02:15:39",
+      "impact_score": 210.0
+    },
+    {
+      "index": 4,
+      "title": "2月20日蔚来换电超17万次 连续三日创新高",
+      "summary": "2月21日消息，中国新能源汽车公司蔚来宣布，其换电网络单日服务量于2月20日突破17万次，连续三日刷新历史纪录，这体现了其充换电基础设施运营效率与用户规模在春节期间达到新的高峰。",
+      "importance": "中",
+      "reason": "属于【国内动态】。主体为中国公司（蔚来），其换电网络运营数据创新高，反映了智能电动汽车补能网络这一AI与物联网技术重要应用场景的商业化进展与市场接受度。",
+      "tags": [
+        "智能汽车",
+        "基础设施",
+        "运营数据"
+      ],
+      "url": "https://www.qbitai.com/2026/02/381460.html",
+      "source": "量子位",
+      "original_pub_date": "2026-02-20 01:25:54",
+      "impact_score": 170.0
+    },
+    {
+      "index": 5,
+      "title": "港交所主席唐家成：排队等候上市的还有488家",
+      "summary": "2月21日消息，香港交易所主席唐家成披露，目前仍有488家企业排队等候在港上市，同时港交所将推进优化上市制度及“T+1”等改革，旨在维持香港作为高质量国际金融中心的活力与吸引力。",
+      "importance": "低",
+      "reason": "属于【国内动态】。主体为香港交易所（中国香港特别行政区的机构），其动态关系到中国科技企业（包括AI公司）的重要融资渠道和市场环境，属于金融基础设施层面的商业动态。",
+      "tags": [
+        "金融市场",
+        "IPO",
+        "政策改革"
+      ],
+      "url": "https://www.qbitai.com/2026/02/381542.html",
+      "source": "量子位",
+      "original_pub_date": "2026-02-20 09:49:58",
+      "impact_score": 157.5
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "AI Safety Meets the War Machine",
+      "summary": "2月21日消息，美国AI公司Anthropic因坚持其AI模型不得用于自主武器或政府监控的伦理原则，可能因此失去一份重要的军事合同，凸显了AI安全原则与商业及国防利益之间的尖锐冲突。",
+      "importance": "高",
+      "reason": "属于【重大安全与伦理】事件，涉及顶尖AI公司（Anthropic）在军事应用上的核心伦理立场，对行业政策走向有标杆意义。",
+      "tags": [
+        "AI安全",
+        "伦理争议",
+        "军事合同",
+        "Anthropic"
+      ],
+      "url": "https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/",
+      "source": "Wired AI",
+      "original_pub_date": "2026-02-20 17:00:00",
+      "impact_score": 249.0
+    },
+    {
+      "index": 2,
+      "title": "Google’s new Gemini Pro model has record benchmark scores — again",
+      "summary": "2月21日消息，谷歌发布了其大型语言模型Gemini 3.1 Pro，该模型在多项基准测试中创下新纪录，承诺能够处理更复杂的工作任务，标志着谷歌在AI模型能力竞赛中取得重要进展。",
+      "importance": "高",
+      "reason": "属于【重大产品发布】，谷歌旗舰AI模型的重要迭代，性能突破显著，直接影响全球AI模型竞争格局。",
+      "tags": [
+        "Gemini Pro",
+        "模型发布",
+        "基准测试",
+        "谷歌"
+      ],
+      "url": "https://techcrunch.com/2026/02/19/googles-new-gemini-pro-model-has-record-benchmark-scores-again/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-02-20 00:55:22",
+      "impact_score": 249.0
+    },
+    {
+      "index": 3,
+      "title": "European Union endorses Leaders' Declaration at AI Summit in India",
+      "summary": "2月21日消息，欧盟在印度举行的AI影响峰会上正式签署了《领导人宣言》，承诺推动AI惠益共享并加强全球合作，体现了欧盟在AI全球治理中的积极参与和政策立场。",
+      "importance": "高",
+      "reason": "属于【重大政策与法规】，欧盟作为重要政治实体参与国际AI治理合作，是塑造全球AI规则的关键动态。",
+      "tags": [
+        "欧盟",
+        "AI治理",
+        "国际合作",
+        "政策声明"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-21/wikipedia-founder-sees-no-threat-from-musk-s-grokipedia",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-21 00:00:00",
+      "impact_score": 180.0
+    },
+    {
+      "index": 4,
+      "title": "Tesla loses bid to toss $243 million verdict in fatal Autopilot crash suit",
+      "summary": "2月21日消息，美国迈阿密联邦法官驳回了特斯拉试图推翻一项2.43亿美元陪审团裁决的动议，该裁决认定特斯拉Autopilot系统在致命事故中负有责任，这对自动驾驶技术的法律责任认定具有里程碑意义。",
+      "importance": "高",
+      "reason": "属于【重大安全与伦理】及潜在法规影响事件，涉及自动驾驶安全的核心法律争议和高额赔偿，为行业树立重要先例。",
+      "tags": [
+        "特斯拉",
+        "自动驾驶",
+        "法律诉讼",
+        "产品安全"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-02-20/akamai-ceo-our-security-services-not-disrupted-by-ai-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-20 23:47:11",
+      "impact_score": 180.0
+    },
+    {
+      "index": 5,
+      "title": "Hackers Used AI to Breach 600 Firewalls in Weeks, Amazon Says",
+      "summary": "2月21日消息，亚马逊安全研究披露，过去五周内，黑客利用广泛可得的AI工具成功入侵了数十个国家的超过600台防火墙，凸显了AI技术被用于大规模网络攻击所带来的新型安全威胁。",
+      "importance": "高",
+      "reason": "属于【重大安全与伦理】事件，揭示了AI工具化用于大规模网络攻击的现实风险，对全球网络安全态势构成严重警示。",
+      "tags": [
+        "网络安全",
+        "AI滥用",
+        "黑客攻击",
+        "亚马逊"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-02-20/ai-diplomacy-on-display-during-india-ai-summit-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-20 18:45:05",
+      "impact_score": 180.0
+    },
+    {
+      "index": 6,
+      "title": "Nvidia is in talks to invest up to $30 billion in OpenAI, source says",
+      "summary": "2月21日消息，据知情人士透露，英伟达正就向OpenAI投资高达300亿美元进行谈判，此举若成行，将远超双方此前的基础设施协议，深度绑定全球AI算力霸主与模型领导者的战略联盟。",
+      "importance": "高",
+      "reason": "属于【重大商业动态】，涉及全球两大AI巨头（英伟达、OpenAI）可能高达300亿美元的战略投资，将重塑AI产业资本与权力结构。",
+      "tags": [
+        "英伟达",
+        "OpenAI",
+        "战略投资",
+        "产业联盟"
+      ],
+      "url": "https://www.cnbc.com/2026/02/19/openai-sam-altman-anthropic-dario-amodei-india-ai-summit.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-02-20 05:39:45",
+      "impact_score": 180.0
+    },
+    {
+      "index": 7,
+      "title": "OpenAI and Anthropic’s rivalry on display as CEOs avoid holding hands at AI summit",
+      "summary": "2月21日消息，在印度AI峰会上，OpenAI的Sam Altman与Anthropic的Dario Amodei两位CEO被拍到避免握手，这一尴尬时刻被外界解读为两大AI巨头在安全理念、商业竞争上日益公开化的紧张关系的缩影。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】的侧面反映，揭示了顶尖AI公司领导人之间的微妙关系，是观察行业竞争格局的重要信号。",
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "行业竞争",
+        "CEO"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-20/cyber-stocks-slide-as-anthropic-unveils-claude-code-security",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-20 18:43:32",
+      "impact_score": 150.0
+    },
+    {
+      "index": 8,
+      "title": "Cyber Stocks Slide as Anthropic Unveils Claude Security Tool",
+      "summary": "2月21日消息，Anthropic为其Claude AI模型推出新的安全功能后，多家网络安全软件公司的股价应声下跌，市场担忧AI原生安全能力可能对传统网络安全公司构成颠覆性威胁。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】和产品发布，展示了AI模型公司向安全领域延伸的能力及其对传统行业产生的直接市场冲击。",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "网络安全",
+        "市场影响"
+      ],
+      "url": "https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-02-21 01:00:00",
+      "impact_score": 132.0
+    },
+    {
+      "index": 9,
+      "title": "OpenAI Forecasts Its Revenue Will Top $280 Billion in 2030",
+      "summary": "2月21日消息，据知情人士透露，OpenAI向投资者预测其营收将在2030年超过2800亿美元，这一激进的财务展望揭示了该公司对AI市场未来增长空间的巨大信心和野心。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】，OpenAI的长期营收预测是衡量AI行业整体市场潜力和公司估值预期的关键指标。",
+      "tags": [
+        "OpenAI",
+        "财务预测",
+        "市场前景"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-20/openai-forecasts-its-revenue-will-top-280-billion-in-2030",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-20 23:07:38",
+      "impact_score": 127.5
+    },
+    {
+      "index": 10,
+      "title": "OpenClaw and the privacy problem of agentic AI",
+      "summary": "2月21日消息，随着智能体AI（Agentic AI）的发展，其引发的隐私问题日益凸显，核心挑战在于如何确保个人数字助理始终为用户的最佳利益服务，而非泄露或滥用敏感信息。",
+      "importance": "中",
+      "reason": "属于【安全与伦理】议题，探讨了下一代AI（智能体）带来的核心隐私挑战，是政策制定和产品设计的前沿焦点。",
+      "tags": [
+        "智能体AI",
+        "隐私",
+        "伦理"
+      ],
+      "url": "https://digital-strategy.ec.europa.eu/en/news/european-union-endorses-leaders-declaration-ai-summit-india",
+      "source": "EU AI Policy",
+      "original_pub_date": "2026-02-20 11:07:05",
+      "impact_score": 127.5
+    },
+    {
+      "index": 11,
+      "title": "Tech giants commit billions to Indian AI as New Delhi pushes for superpower status",
+      "summary": "2月21日消息，在印度AI影响峰会期间，全球科技巨头承诺向印度AI领域投入数十亿美元，以响应新德里推动其成为AI超级大国的战略，标志着印度在全球AI地缘竞争中的地位显著提升。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】和【国际动态】，反映了全球资本和科技公司对印度AI市场的战略布局，以及地缘政治因素对AI产业的影响。",
+      "tags": [
+        "印度",
+        "战略投资",
+        "地缘政治",
+        "科技巨头"
+      ],
+      "url": "https://www.technologyreview.com/2026/02/20/1133365/measles-cases-rising-vaccine-preventable-infections-mumps-hepatitis-b/",
+      "source": "MIT Technology Review",
+      "original_pub_date": "2026-02-20 10:00:00",
+      "impact_score": 127.5
+    },
+    {
+      "index": 12,
+      "title": "OpenAI resets spending expectations, tells investors compute target is around $600 billion by 2030",
+      "summary": "2月21日消息，OpenAI向投资者澄清其计算支出目标，预计到2030年总计约6000亿美元，此举旨在修正此前传达的1.4万亿美元这一过于激进的数字，但仍显示出其对算力投资的巨大规模。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】，OpenAI的算力投资规划是观察AI基础设施竞赛和资本密集度的核心指标，修正数据仍极具冲击力。",
+      "tags": [
+        "OpenAI",
+        "算力投资",
+        "基础设施"
+      ],
+      "url": "https://www.ft.com/content/f9ff060d-63b0-44f4-b46e-31a5545468db",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-02-20 05:20:08",
+      "impact_score": 105.0
+    },
+    {
+      "index": 13,
+      "title": "Nvidia deepens early-stage push into India’s AI startup ecosystem",
+      "summary": "2月21日消息，英伟达正通过与投资者、非营利组织和风投公司合作，深化对印度快速增长的人工智能初创企业生态系统的早期布局，旨在更早地绑定未来的AI创新力量。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】，全球AI芯片领导者英伟达对印度初创生态的战略渗透，是其构建全球AI生态护城河的关键举措。",
+      "tags": [
+        "英伟达",
+        "印度",
+        "初创企业",
+        "生态系统"
+      ],
+      "url": "https://www.cnbc.com/2026/02/20/tesla-loses-bid-toss-243-million-verdict-fatal-autopilot-crash-suit.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-02-20 19:28:47",
+      "impact_score": 100.0
+    },
+    {
+      "index": 14,
+      "title": "The ‘latecomer’ racing Tesla on robots and self-driving cars",
+      "summary": "2月21日消息，韩国汽车制造商在仿人机器人Atlas和自动驾驶汽车领域加速布局，并与英伟达高管会面，其积极动作提振了投资者对其挑战特斯拉在相关领域领导地位的期望。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】和产品竞争，展示了特斯拉在机器人和自动驾驶领域面临的新国际竞争者，以及英伟达在其中的关键角色。",
+      "tags": [
+        "韩国车企",
+        "机器人",
+        "自动驾驶",
+        "英伟达",
+        "特斯拉"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-21/vietnam-says-trump-will-let-nation-access-restricted-technology",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-21 04:31:21",
+      "impact_score": 97.5
+    },
+    {
+      "index": 15,
+      "title": "Wikipedia Founder Sees No Threat From Musk’s Grokipedia",
+      "summary": "2月21日消息，维基百科创始人表示并不担心包括马斯克的Grokipedia在内的AI生成内容对免费在线百科全书的威胁，理由是AI生成的信息往往错误百出，难以撼动维基百科的权威性。",
+      "importance": "低",
+      "reason": "属于【安全与伦理】及行业观点，反映了传统知识平台对AI生成内容的看法，但事件本身影响力相对有限。",
+      "tags": [
+        "维基百科",
+        "AI生成内容",
+        "马斯克"
+      ],
+      "url": "https://techcrunch.com/podcast/why-creators-are-ditching-ad-revenue-for-chocolate-bars-and-fintech-acquisitions/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-02-20 22:24:37",
+      "impact_score": 97.5
+    },
+    {
+      "index": 16,
+      "title": "India’s Sarvam launches Indus AI chat app as competition heats up",
+      "summary": "2月21日消息，印度AI公司Sarvam推出了名为Indus的AI聊天应用，目前处于测试阶段，此举加剧了印度本土AI应用市场的竞争，反映了全球AI热潮在区域市场的落地。",
+      "importance": "低",
+      "reason": "属于【产品发布】，但主体为印度本土公司，且为应用层产品，在全球影响力上相对有限。",
+      "tags": [
+        "Sarvam",
+        "产品发布",
+        "印度市场"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-02-20/west-virginia-sues-apple-over-child-sex-abuse-material-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-20 21:46:27",
+      "impact_score": 97.5
+    },
+    {
+      "index": 17,
+      "title": "General Catalyst commits $5B to India over five years",
+      "summary": "2月21日消息，美国风险投资公司General Catalyst承诺在未来五年内向印度投资50亿美元，这一数额较其早先的 earmark大幅跃升，显示了国际资本对印度科技创业生态的强烈信心。",
+      "importance": "低",
+      "reason": "属于【商业动态】，大额风险投资承诺，反映了资本流向趋势，但非直接的AI产品/政策突破。",
+      "tags": [
+        "风险投资",
+        "印度",
+        "General Catalyst"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-02-20/ai-disruption-different-in-private-markets-tirupattur-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-20 20:49:36",
+      "impact_score": 97.5
+    }
+  ],
+  "summary": "今日从103条原始信息中精选出5条国内动态和17条国际动态，其中8条为高重要性。 重点关注：众智FlagOS适配千问Qwen3.5 397B MoE模型多芯版统一发布，下载可用；国内首次实现集装箱船全流程无人化作业；AI Safety Meets the War Machine。",
+  "statistics": {
+    "raw_domestic": 16,
+    "raw_international": 87,
+    "raw_total": 103,
+    "final_domestic": 5,
+    "final_international": 17
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "2月21日消息，国内AI公司众智科技宣布其FlagOS操作系统成功适配通义千问Qwen3.5 397B MoE模型的多芯版本并统一发布，标志着国产大模型在异构计算平台上的部署与应用取得重要进展，用户已可下载使用。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "2月21日消息，全国首艘商业运营智能集装箱船“智飞”号在山东港口青岛港成功完成无人自主航行、靠泊与自动化装卸作业，标志着我国首次实现集装箱船舶从航行到作业的全流程无人化，核心技术均为自主研发。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "2月21日消息，中国国家能源局发布2025年光伏发电建设数据，显示当年新增并网容量达31657.4万千瓦，累计并网容量近12亿千瓦，数据反映了中国在清洁能源基础设施领域的持续高速发展与政策引导成效。",
+      "importance": "中"
+    },
+    {
+      "index": 4,
+      "summary": "2月21日消息，中国新能源汽车公司蔚来宣布，其换电网络单日服务量于2月20日突破17万次，连续三日刷新历史纪录，这体现了其充换电基础设施运营效率与用户规模在春节期间达到新的高峰。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "2月21日消息，美国AI公司Anthropic因坚持其AI模型不得用于自主武器或政府监控的伦理原则，可能因此失去一份重要的军事合同，凸显了AI安全原则与商业及国防利益之间的尖锐冲突。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "2月21日消息，谷歌发布了其大型语言模型Gemini 3.1 Pro，该模型在多项基准测试中创下新纪录，承诺能够处理更复杂的工作任务，标志着谷歌在AI模型能力竞赛中取得重要进展。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "2月21日消息，欧盟在印度举行的AI影响峰会上正式签署了《领导人宣言》，承诺推动AI惠益共享并加强全球合作，体现了欧盟在AI全球治理中的积极参与和政策立场。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "2月21日消息，美国迈阿密联邦法官驳回了特斯拉试图推翻一项2.43亿美元陪审团裁决的动议，该裁决认定特斯拉Autopilot系统在致命事故中负有责任，这对自动驾驶技术的法律责任认定具有里程碑意义。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "2月21日消息，亚马逊安全研究披露，过去五周内，黑客利用广泛可得的AI工具成功入侵了数十个国家的超过600台防火墙，凸显了AI技术被用于大规模网络攻击所带来的新型安全威胁。",
+      "importance": "高"
+    }
+  ]
+}
