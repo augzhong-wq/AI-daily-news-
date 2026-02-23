@@ -1,0 +1,398 @@
+{
+  "date": "2026-02-23",
+  "generated_at": "2026-02-23 08:57:20",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "Kimi近20天收入超去年全年，成国内成长最快的十角兽公司",
+      "summary": "2月23日消息，中国AI公司Kimi旗下K2.5大模型发布后，近20天累计收入已超去年全年，其最新估值达到100-120亿美元，创下国内公司晋级“十角兽”的最快纪录，这主要得益于全球付费用户及API调用量的大幅增长。",
+      "importance": "高",
+      "reason": "重大商业动态：中国AI独角兽Kimi实现爆发式增长，估值突破百亿美元，属于标志性的国内商业里程碑。",
+      "tags": [
+        "融资",
+        "大模型",
+        "估值",
+        "领先"
+      ],
+      "url": "https://36kr.com/newsflashes/3695640367673222?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-23 08:39:47",
+      "impact_score": 435.0
+    },
+    {
+      "index": 2,
+      "title": "狂掷80亿 , 节AI大战谁赢了？",
+      "summary": "2月23日消息，中国互联网巨头阿里、腾讯、百度、字节跳动等在2026年春节档集体加码，投入总计超过80亿元预算，通过元宝、千问、豆包等AI应用发起“红包大战”，推动相关应用下载量飙升，标志着国内AI应用竞争进入白热化阶段。",
+      "importance": "高",
+      "reason": "重大商业动态：中国主要科技公司投入巨额资金进行AI应用推广和市场争夺，是影响国内AI产业格局的重要商业行为。",
+      "tags": [
+        "AI",
+        "大模型",
+        "合作"
+      ],
+      "url": "https://36kr.com/p/3693887791459976?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-22 06:00:59",
+      "impact_score": 381.0
+    },
+    {
+      "index": 3,
+      "title": "马年第一涨，AI股杀疯了",
+      "summary": "2月23日消息，港股市场国产AI大模型公司智谱与MiniMax在马年首个交易日股价双双大幅冲高，市值均突破3000亿港元，超越京东等老牌互联网巨头，展现出国内AI公司在资本市场的强劲势头和巨大造富效应。",
+      "importance": "高",
+      "reason": "重大商业动态：中国头部AI公司市值实现历史性突破，反映了资本市场对国内AI产业的高度认可和估值重构。",
+      "tags": [
+        "AI",
+        "上市",
+        "超越",
+        "大模型"
+      ],
+      "url": "https://36kr.com/p/3693876116844424?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-22 03:00:07",
+      "impact_score": 279.0
+    },
+    {
+      "index": 4,
+      "title": "标题：阿里云Coding Plan上新，支持千问3.5、GLM-4.7等模型 标题：阿里云Coding Plan推优惠活动，18000次请求最低仅需7.9元",
+      "summary": "2月23日消息，阿里云对其Coding Plan订阅服务进行重要更新，新增支持千问3.5、GLM-4.7、Kimi-K2.5等国内顶尖编程模型，并推出大幅优惠活动，旨在降低AI Agent开发门槛，推动国内AI编程工具生态发展。",
+      "importance": "中",
+      "reason": "重大产品发布：中国云服务巨头阿里云集成并推广国内主流大模型，属于重要的产品和服务更新，对开发者生态有直接影响。",
+      "tags": [
+        "上线",
+        "AI",
+        "大模型"
+      ],
+      "url": "https://36kr.com/p/3693790818267011?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-22 01:21:21",
+      "impact_score": 240.0
+    },
+    {
+      "index": 5,
+      "title": "千问：春节期间，用户在千问上“一句话下单”近2亿次",
+      "summary": "2月23日消息，阿里巴巴旗下AI应用千问发布春节数据，显示用户在春节期间通过“一句话下单”功能完成近2亿次消费，涵盖餐饮、出行、娱乐等多个场景，表明AI助手正深度融入国内消费者的日常生活和节日消费习惯。",
+      "importance": "中",
+      "reason": "重大商业动态：中国头部AI应用（千问）公布关键运营数据，展示了AI技术在国内消费市场的实际落地规模和影响力。",
+      "tags": [
+        "发布"
+      ],
+      "url": "https://36kr.com/newsflashes/3695306449677953?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-23 05:11:27",
+      "impact_score": 225.0
+    },
+    {
+      "index": 6,
+      "title": "立讯精密：首次回购公司股份990万股 成交总金额近5亿元",
+      "summary": "2月23日消息，中国精密制造龙头企业立讯精密发布公告，宣布首次通过集中竞价方式回购公司股份990.06万股，成交总金额近5亿元，此举旨在传递公司对未来发展的信心，并维护公司价值及股东权益。",
+      "importance": "低",
+      "reason": "重大商业动态：作为苹果供应链及潜在AI硬件相关的重要中国公司，其大规模股份回购行为属于重要的资本市场动态。",
+      "tags": [
+        "首次"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/YcpxNqf22S9oxi7j.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-22 02:11:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 7,
+      "title": "TMLR 2026 | 首篇多模态长上下文Token压缩综述：浙大、西湖大学等全面解析MLLM效率瓶颈",
+      "summary": "2月23日消息，浙江大学、西湖大学等中国研究机构的研究人员在顶级会议TMLR 2026上发表了首篇关于多模态大语言模型长上下文Token压缩的综述论文，系统解析了当前MLLM的效率瓶颈与优化方向，代表了国内在AI基础研究领域的前沿探索。",
+      "importance": "中",
+      "reason": "重大学术突破：中国顶尖学术机构在AI核心效率问题上取得综述性研究成果，属于重要的学术贡献。",
+      "tags": [
+        "LLM"
+      ],
+      "url": "https://36kr.com/p/3693861726826112?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-22 04:00:29",
+      "impact_score": 155.5
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Trump unveils ‘Tech Corps’ to promote American AI abroad",
+      "summary": "2月23日消息，美国政府宣布推出“科技军团”计划，旨在向海外推广美国的人工智能技术，以扩大其全球AI影响力并应对来自中国的竞争。",
+      "importance": "高",
+      "reason": "属于重大政策与法规，涉及美国政府的国家级AI战略和国际竞争，是典型的国际动态。",
+      "tags": [
+        "政策法规",
+        "国际竞争",
+        "美国"
+      ],
+      "url": "https://arxiv.org/abs/2602.17826",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-23 05:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 2,
+      "title": "Sam Altman defends AI resource usage: Water concerns 'fake,' and 'humans use energy too'",
+      "summary": "2月23日消息，OpenAI首席执行官Sam Altman公开为AI的资源消耗辩护，称对水资源消耗的担忧是“虚假的”，并类比人类同样消耗能源，引发了关于AI伦理与可持续性的广泛讨论。",
+      "importance": "高",
+      "reason": "属于安全与伦理范畴，涉及全球AI领军企业CEO对AI发展核心争议（资源消耗、环境影响）的公开表态，具有重大行业和舆论影响力。",
+      "tags": [
+        "安全伦理",
+        "OpenAI",
+        "CEO言论",
+        "可持续性"
+      ],
+      "url": "https://arxiv.org/abs/2602.17689",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-23 05:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 3,
+      "title": "Apple’s Next Big Thing Is a Push Into Visual Artificial Intelligence",
+      "summary": "2月23日消息，苹果公司CEO蒂姆·库克表示，视觉智能将成为该公司进军可穿戴AI设备领域的核心特征，并预告了3月初的首批产品发布，标志着苹果在AI硬件战略上的重大转向。",
+      "importance": "高",
+      "reason": "属于重大产品发布动态，涉及全球科技巨头苹果公司的核心AI战略和即将发布的新产品线，对消费电子和AI硬件市场有重大影响。",
+      "tags": [
+        "产品发布",
+        "苹果",
+        "视觉AI",
+        "可穿戴设备"
+      ],
+      "url": "https://www.bloomberg.com/news/newsletters/2026-02-22/apple-s-ai-wearables-push-what-to-expect-from-march-4-low-end-macbook-launch",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-22 13:00:10",
+      "impact_score": 165.0
+    },
+    {
+      "index": 4,
+      "title": "Honeywell to Buy Johnson Matthey Catalyst Unit for £1.33 Billion",
+      "summary": "2月23日消息，美国工业巨头霍尼韦尔国际公司计划以13.3亿英镑收购英国庄信万丰公司的催化剂技术部门，这是一笔涉及AI相关产业链（如化工过程优化）的重要并购交易。",
+      "importance": "高",
+      "reason": "属于重大商业动态，涉及超过10亿美元的大型跨国并购，交易主体均为国际知名公司，且标的业务与工业AI应用密切相关。",
+      "tags": [
+        "并购",
+        "霍尼韦尔",
+        "庄信万丰",
+        "工业AI"
+      ],
+      "url": "https://arxiv.org/abs/2602.17734",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-23 05:00:00",
+      "impact_score": 135.0
+    },
+    {
+      "index": 5,
+      "title": "Data centres seek credit ratings to unlock billions in funding for AI push",
+      "summary": "2月23日消息，为满足AI发展带来的巨大算力需求，全球数据中心项目正积极寻求信用评级，以解锁数百亿美元的建设资金，这反映了AI基础设施投资的狂热与金融化趋势。",
+      "importance": "高",
+      "reason": "属于重大商业动态，揭示了支撑全球AI竞赛的底层基础设施（数据中心）的巨额融资需求和金融创新模式，具有行业风向标意义。",
+      "tags": [
+        "基础设施",
+        "融资",
+        "数据中心",
+        "算力"
+      ],
+      "url": "https://arxiv.org/abs/2602.17690",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-23 05:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 6,
+      "title": "Delta Electronics Is First Thai Stock to Top $100 Billion Value",
+      "summary": "2月23日消息，泰国台达电子公司市值突破1000亿美元，成为泰国首家达到此规模的企业，其股价上涨主要得益于美国最高法院一项有利于其AI冷却设备需求的裁决。",
+      "importance": "中",
+      "reason": "属于重大商业动态，涉及一家亚洲（泰国）公司因AI相关业务（冷却设备）市值达到里程碑，且驱动因素与美国政策（最高法院裁决）直接相关，属于国际产业链联动。",
+      "tags": [
+        "市值",
+        "台达电子",
+        "AI基础设施",
+        "供应链"
+      ],
+      "url": "https://arxiv.org/abs/2602.17695",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-23 05:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 7,
+      "title": "Morgan Stanley IM Is Hunting for AI-Proof Assets",
+      "summary": "2月23日消息，摩根士丹利投资管理公司正在增持新兴市场中不受人工智能热潮影响的资产，以对冲当前拥挤的科技股交易可能出现的回调风险，这反映了主流金融机构对AI投资泡沫的警惕。",
+      "importance": "中",
+      "reason": "属于重大商业动态，反映了全球顶级投资机构对AI产业投资趋势的判断和风险对冲策略，对资本市场有指示作用。",
+      "tags": [
+        "投资策略",
+        "摩根士丹利",
+        "金融市场",
+        "风险对冲"
+      ],
+      "url": "https://arxiv.org/abs/2602.17696",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-23 05:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 8,
+      "title": "Ontology-Guided Neuro-Symbolic Inference: Grounding Language Models with Mathematical Domain Knowledge",
+      "summary": "2月23日消息，一项新研究提出利用形式化领域本体论来引导神经符号推理，旨在将语言模型与数学领域知识相结合，以解决LLM在专业领域中的幻觉、脆弱性和缺乏形式化基础等根本性局限。",
+      "importance": "中",
+      "reason": "属于重大学术突破，针对LLM的核心缺陷（幻觉、推理不可靠）提出新的解决思路（神经符号AI），对提升AI在关键领域的可靠性和可验证性有重要意义。",
+      "tags": [
+        "学术研究",
+        "神经符号AI",
+        "LLM可靠性",
+        "形式化推理"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-23/delta-electronics-is-first-thai-stock-to-top-100-billion-value",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-23 05:51:03",
+      "impact_score": 127.5
+    },
+    {
+      "index": 9,
+      "title": "Epistemic Traps: Rational Misalignment Driven by Model Misspecification",
+      "summary": "2月23日消息，一项研究提出了“认知陷阱”概念，指出由于模型设定错误，即使经过强化学习对齐训练的大型语言模型和AI智能体，仍可能理性地产生奉承、幻觉和策略性欺骗等有害行为。",
+      "importance": "中",
+      "reason": "属于安全与伦理及学术突破的结合，深入探讨了AI对齐的深层次挑战，对理解并解决LLM的行为病理学问题具有重要价值。",
+      "tags": [
+        "AI对齐",
+        "安全研究",
+        "LLM行为",
+        "学术突破"
+      ],
+      "url": "https://www.ft.com/content/e0d9d5f2-c09d-426e-af03-193b488b7b1e",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-02-23 05:00:13",
+      "impact_score": 127.5
+    },
+    {
+      "index": 10,
+      "title": "Can LLM Safety Be Ensured by Constraining Parameter Regions?",
+      "summary": "2月23日消息，一项系统性评估研究对四种识别大语言模型“安全参数区域”的方法进行了检验，探讨通过约束特定参数子集来直接影响模型安全行为的可行性，结果对模型安全性的可解释性和可控性提出了挑战。",
+      "importance": "中",
+      "reason": "属于安全与伦理范畴，研究直接针对确保LLM安全性的核心工程方法进行验证，其结果对产业界的模型安全实践有重要参考价值。",
+      "tags": [
+        "AI安全",
+        "模型可解释性",
+        "参数干预",
+        "学术研究"
+      ],
+      "url": "https://www.cnbc.com/2026/02/23/openai-altman-defends-ai-resource-usage-water-concerns-fake-humans-use-energy-summit.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-02-23 08:54:35",
+      "impact_score": 125.0
+    },
+    {
+      "index": 11,
+      "title": "Neurosymbolic Language Reasoning as Satisfiability Modulo Theory",
+      "summary": "2月23日消息，研究人员提出一种新方法，将自然语言理解中的神经符号推理形式化为可满足性模理论问题，旨在更可靠地实现文本与逻辑推理的交织，克服现有系统局限于完全形式化输入的缺陷。",
+      "importance": "低",
+      "reason": "属于重大学术突破，提出了提升LLM逻辑推理能力的新技术路径，具有较高的学术价值，但离产业应用尚有距离。",
+      "tags": [
+        "神经符号AI",
+        "逻辑推理",
+        "学术研究",
+        "SMT"
+      ],
+      "url": "https://arxiv.org/abs/2602.18095",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-23 05:00:00",
+      "impact_score": 120.0
+    },
+    {
+      "index": 12,
+      "title": "Robust Pre-Training of Medical Vision-and-Language Models with Domain-Invariant Multi-Modal Masked Reconstruction",
+      "summary": "2月23日消息，一项研究提出通过领域不变的多模态掩码重建方法，对医学视觉-语言模型进行鲁棒预训练，以应对由成像设备、采集协议和报告风格差异导致的领域偏移问题，提升模型在真实医疗环境中的泛化能力。",
+      "importance": "低",
+      "reason": "属于重大学术突破，针对AI在医疗等关键领域应用的核心挑战（领域泛化）提出解决方案，具有重要的应用前景。",
+      "tags": [
+        "多模态AI",
+        "医疗AI",
+        "领域自适应",
+        "学术研究"
+      ],
+      "url": "https://arxiv.org/abs/2602.17672",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-23 05:00:00",
+      "impact_score": 120.0
+    },
+    {
+      "index": 13,
+      "title": "Assessing LLM Response Quality in the Context of Technology-Facilitated Abuse",
+      "summary": "2月23日消息，一项研究聚焦于技术助长的虐待情境，评估大语言模型回应的质量，旨在为支持受害者的技术诊所提供更可靠的AI工具，凸显了AI在社会敏感领域应用的伦理和责任挑战。",
+      "importance": "低",
+      "reason": "属于安全与伦理范畴，将AI评估置于具体的社会问题（亲密伴侣暴力）背景下，具有重要的社会意义和研究价值。",
+      "tags": [
+        "AI伦理",
+        "社会公益",
+        "LLM评估",
+        "学术研究"
+      ],
+      "url": "https://arxiv.org/abs/2602.17693",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-23 05:00:00",
+      "impact_score": 120.0
+    }
+  ],
+  "summary": "今日从86条原始信息中精选出7条国内动态和13条国际动态，其中8条为高重要性。 重点关注：Kimi近20天收入超去年全年，成国内成长最快的十角兽公司；狂掷80亿 , 节AI大战谁赢了？；马年第一涨，AI股杀疯了。",
+  "statistics": {
+    "raw_domestic": 27,
+    "raw_international": 59,
+    "raw_total": 86,
+    "final_domestic": 7,
+    "final_international": 13
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "2月23日消息，中国AI公司Kimi旗下K2.5大模型发布后，近20天累计收入已超去年全年，其最新估值达到100-120亿美元，创下国内公司晋级“十角兽”的最快纪录，这主要得益于全球付费用户及API调用量的大幅增长。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "2月23日消息，中国互联网巨头阿里、腾讯、百度、字节跳动等在2026年春节档集体加码，投入总计超过80亿元预算，通过元宝、千问、豆包等AI应用发起“红包大战”，推动相关应用下载量飙升，标志着国内AI应用竞争进入白热化阶段。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "2月23日消息，港股市场国产AI大模型公司智谱与MiniMax在马年首个交易日股价双双大幅冲高，市值均突破3000亿港元，超越京东等老牌互联网巨头，展现出国内AI公司在资本市场的强劲势头和巨大造富效应。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "2月23日消息，阿里云对其Coding Plan订阅服务进行重要更新，新增支持千问3.5、GLM-4.7、Kimi-K2.5等国内顶尖编程模型，并推出大幅优惠活动，旨在降低AI Agent开发门槛，推动国内AI编程工具生态发展。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "2月23日消息，阿里巴巴旗下AI应用千问发布春节数据，显示用户在春节期间通过“一句话下单”功能完成近2亿次消费，涵盖餐饮、出行、娱乐等多个场景，表明AI助手正深度融入国内消费者的日常生活和节日消费习惯。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "2月23日消息，美国政府宣布推出“科技军团”计划，旨在向海外推广美国的人工智能技术，以扩大其全球AI影响力并应对来自中国的竞争。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "2月23日消息，OpenAI首席执行官Sam Altman公开为AI的资源消耗辩护，称对水资源消耗的担忧是“虚假的”，并类比人类同样消耗能源，引发了关于AI伦理与可持续性的广泛讨论。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "2月23日消息，苹果公司CEO蒂姆·库克表示，视觉智能将成为该公司进军可穿戴AI设备领域的核心特征，并预告了3月初的首批产品发布，标志着苹果在AI硬件战略上的重大转向。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "2月23日消息，美国工业巨头霍尼韦尔国际公司计划以13.3亿英镑收购英国庄信万丰公司的催化剂技术部门，这是一笔涉及AI相关产业链（如化工过程优化）的重要并购交易。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "2月23日消息，为满足AI发展带来的巨大算力需求，全球数据中心项目正积极寻求信用评级，以解锁数百亿美元的建设资金，这反映了AI基础设施投资的狂热与金融化趋势。",
+      "importance": "高"
+    }
+  ]
+}
