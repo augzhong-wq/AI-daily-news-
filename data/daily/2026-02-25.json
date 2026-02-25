@@ -1,0 +1,633 @@
+{
+  "date": "2026-02-25",
+  "generated_at": "2026-02-25 08:57:52",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "九识智能再获3亿美元融资，估值超百亿｜36氪首发",
+      "summary": "2月25日消息，中国L4级自动驾驶物流车公司九识智能完成超3亿美元新一轮融资，估值突破百亿人民币，成为该领域首家百亿独角兽，其业务已覆盖全国超300个城市并拓展至海外市场。",
+      "importance": "高",
+      "reason": "重大商业动态：中国AI独角兽公司获得超3亿美元大额融资，估值突破百亿，属于标志性事件。",
+      "tags": [
+        "融资",
+        "自动驾驶",
+        "独角兽"
+      ],
+      "url": "https://36kr.com/p/3697210914549632?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-24 12:28:55",
+      "impact_score": 440.0
+    },
+    {
+      "index": 2,
+      "title": "智平方在7轮融资后，又完成5轮B轮系列融资，融资规模超10亿，估值超百亿",
+      "summary": "2月25日消息，被誉为“最像特斯拉”的中国机器人创业公司智平方完成B轮系列融资，总融资规模超10亿元人民币，公司估值已超过百亿，显示出资本市场对中国具身智能赛道的高度关注。",
+      "importance": "高",
+      "reason": "重大商业动态：中国机器人公司获得超10亿大额融资，估值超百亿，是具身智能领域的重大资本事件。",
+      "tags": [
+        "融资",
+        "机器人",
+        "估值"
+      ],
+      "url": "https://36kr.com/p/3679778295197314?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-25 00:00:00",
+      "impact_score": 435.0
+    },
+    {
+      "index": 3,
+      "title": "最强Coding Plan上线！阿里云上线Qwen3.5、GLM-5、MiniMax M2.5、Kimi K2.5四大顶尖开源模型",
+      "summary": "2月25日消息，阿里云集中上线了通义千问、智谱、MiniMax、月之暗面等中国顶尖AI公司的四大开源模型，为中国开发者提供了强大的集成化AI编程工具支持。",
+      "importance": "高",
+      "reason": "重大产品发布：中国云服务巨头阿里云集成并发布国内多家头部AI公司的旗舰开源模型，属于重要的产业生态动作。",
+      "tags": [
+        "产品发布",
+        "开源模型",
+        "阿里云"
+      ],
+      "url": "https://36kr.com/p/3698026314870659?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-25 01:08:30",
+      "impact_score": 425.0
+    },
+    {
+      "index": 4,
+      "title": "八年积淀，中国人工智能迎来自主的世界级学术主场WAICA",
+      "summary": "2月25日消息，世界人工智能大会·学术（WAICA）在上海正式启动，由姚期智担任主席，旨在打造由中国主导的世界级AI学术评审与交流平台，标志着中国在AI学术领域迈出关键一步。",
+      "importance": "高",
+      "reason": "重大学术突破/产业生态：中国发起并主导具有全球影响力的AI学术会议，旨在重塑学术规则，具有里程碑意义。",
+      "tags": [
+        "学术会议",
+        "WAIC",
+        "生态建设"
+      ],
+      "url": "https://36kr.com/p/3698117482212997?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-25 02:41:46",
+      "impact_score": 342.5
+    },
+    {
+      "index": 5,
+      "title": "开工首日LobsterAI下载翻倍，这款“打工人搭子”春节期间就火到海外了",
+      "summary": "2月25日消息，网易有道开源的全场景个人桌面智能助手LobsterAI在开工首日下载量翻倍，此前其开源代码已在GitHub上获得大量关注，显示出中国AI Agent产品在国内外的影响力。",
+      "importance": "中",
+      "reason": "重大产品发布/商业动态：中国公司网易有道发布并开源重要AI Agent产品，获得市场积极反响和社区关注。",
+      "tags": [
+        "产品发布",
+        "AI Agent",
+        "开源"
+      ],
+      "url": "https://36kr.com/p/3697538397744775?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-25 01:10:00",
+      "impact_score": 342.5
+    },
+    {
+      "index": 6,
+      "title": "碰瓷！某企拿专利5天向宇树科技索赔8000万，最高法怒批；刘强东拟花50亿进入游艇行业，要让普通人也能买得起；小米起诉自媒体获赔500万元",
+      "summary": "2月25日消息，中国机器人公司宇树科技遭遇专利碰瓷索赔，获最高人民法院关注；同时，华为公布2025年营收超8800亿元，鸿蒙终端设备数突破4000万，展现强劲发展势头。",
+      "importance": "中",
+      "reason": "安全与伦理/重大商业动态：涉及中国AI/科技公司的重大专利纠纷和关键经营数据披露，具有行业警示和标杆意义。",
+      "tags": [
+        "专利纠纷",
+        "华为",
+        "商业数据"
+      ],
+      "url": "https://www.qbitai.com/2026/02/382004.html",
+      "source": "量子位",
+      "original_pub_date": "2026-02-24 08:44:14",
+      "impact_score": 337.5
+    },
+    {
+      "index": 7,
+      "title": "魅族手机业务要停了？内部爆料：全裁、车机独立、3月离场；问界汽车M9突发起火！官方回应；男子花5600元套中汽车两年使用权，商家却反悔",
+      "summary": "2月25日消息，月之暗面旗下Kimi智能助手近20天收入超去年全年，成为国内最快晋级“十角兽”的公司；同时，智谱AI就GLM-5模型服务问题发布致歉信。",
+      "importance": "中",
+      "reason": "重大商业动态：披露了中国头部AI公司（月之暗面、智谱）的关键商业进展和运营情况，反映市场热度与挑战。",
+      "tags": [
+        "Kimi",
+        "商业收入",
+        "智谱AI"
+      ],
+      "url": "https://36kr.com/p/3698430014762633?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-25 08:12:26",
+      "impact_score": 307.5
+    },
+    {
+      "index": 8,
+      "title": "国内水下感知与声学装备头部企业完成新一轮融资，加速拓展民用市场｜硬氪首发",
+      "summary": "2月25日消息，工信部专精特新“小巨人”企业神州普惠完成B轮融资，由北京市产业基金投资，资金将用于高端水下仪器国产替代及海洋无人智能化产品研发，加速拓展民用市场。",
+      "importance": "中",
+      "reason": "重大商业动态：中国“专精特新”AI硬件公司获得政府产业基金投资，聚焦水下感知与国产替代，符合国家战略方向。",
+      "tags": [
+        "融资",
+        "专精特新",
+        "国产替代"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/uunWz8KdXqg3OKhN.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-24 09:00:00",
+      "impact_score": 300.0
+    },
+    {
+      "index": 9,
+      "title": "华为哈勃与中发展投了家热控材料公司，创始人曾造出国内首块金属基复合材料｜36氪首发",
+      "summary": "2月25日消息，华为旗下哈勃投资联合中关村发展集团投资了金属基热管理材料公司一盛新材料，该公司技术处于行业领先，产品用于解决先进半导体与AI芯片的散热难题。",
+      "importance": "中",
+      "reason": "重大商业动态：华为战略投资AI基础设施关键材料公司，涉及AI芯片上游供应链，具有战略协同意义。",
+      "tags": [
+        "战略投资",
+        "华为哈勃",
+        "AI基础设施"
+      ],
+      "url": "https://www.jiqizhixin.com/articles/2026-02-25-5",
+      "source": "机器之心",
+      "original_pub_date": "2026-02-25 05:17:53",
+      "impact_score": 270.0
+    },
+    {
+      "index": 10,
+      "title": "AI光伏领域粉体需求爆发，业绩持续增长，「新川电子」获近亿元pre-IPO轮融资 | 36氪首发",
+      "summary": "2月25日消息，专注于纳米级金属粉材的杭州新川电子完成近亿元pre-IPO轮融资，其高端MLCC用镍粉实现了国产化突破，产品应用于全球主流光伏逆变器与AI服务器。",
+      "importance": "中",
+      "reason": "重大商业动态：中国AI及新能源产业链上游材料公司获得大额融资，技术实现国产化突破，属于关键供应链环节。",
+      "tags": [
+        "融资",
+        "国产替代",
+        "AI供应链"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/RHJlyngoQj1w7TZt.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-24 09:46:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 11,
+      "title": "清华刘洋团队论文：揭示为何 70B 的医疗模型，反而不如 8B 会问诊丨ILCR 2026",
+      "summary": "2月25日消息，清华大学刘洋团队发表研究论文，揭示了当前大语言模型在真实医疗问诊场景中的能力评估缺陷，挑战了单纯追求参数规模和静态知识测试的研发范式。",
+      "importance": "中",
+      "reason": "重大学术突破：中国顶尖学术机构（清华大学）在AI医疗评估领域取得重要研究发现，对行业方向有指导意义。",
+      "tags": [
+        "学术研究",
+        "AI医疗",
+        "清华大学"
+      ],
+      "url": "https://36kr.com/p/3698417555976071?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-25 07:51:33",
+      "impact_score": 251.0
+    },
+    {
+      "index": 12,
+      "title": "消费级显卡可跑！刚刚，阿里Qwen3.5又开源3款新模型",
+      "summary": "2月25日消息，阿里巴巴通义千问团队再次开源三款新的Qwen3.5模型，这些模型可在消费级显卡上运行，进一步降低了AI大模型的使用门槛和部署成本。",
+      "importance": "中",
+      "reason": "重大产品发布：中国头部AI公司（阿里）持续迭代并开源其主力模型，推动技术普惠，属于重要的产品更新。",
+      "tags": [
+        "开源模型",
+        "通义千问",
+        "产品迭代"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/kzMatbScDEXIQsUk.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-25 03:16:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 13,
+      "title": "千问3.5登顶Hugging Face，前十开源模型中国占据8席",
+      "summary": "2月25日消息，阿里通义千问模型在Hugging Face开源社区排行榜登顶，且榜单前十名中中国开源模型占据八席，显示中国在开源大模型领域的全球影响力。",
+      "importance": "中",
+      "reason": "重大学术突破/商业动态：中国AI模型在国际权威开源平台取得领先地位，反映了中国AI开源生态的整体实力。",
+      "tags": [
+        "开源模型",
+        "社区排名",
+        "全球影响力"
+      ],
+      "url": "https://36kr.com/newsflashes/3698458893479814?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-25 08:40:55",
+      "impact_score": 210.0
+    },
+    {
+      "index": 14,
+      "title": "春晚流量兑现，追觅直播间多平台数据创历史记录",
+      "summary": "2月25日消息，作为首个以完整智能生态登陆春晚的科技品牌，追觅科技凭借春晚曝光实现品效合一，其线上直播间在全平台流量与订单量创下历史记录，多品类登顶热卖榜。",
+      "importance": "低",
+      "reason": "重大商业动态：中国AIoT公司通过国民级平台（春晚）实现品牌与销售的重大突破，是成功的营销案例。",
+      "tags": [
+        "品牌营销",
+        "AIoT",
+        "春晚"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/PFw1S3FGvuD8KZNl.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-25 00:52:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 15,
+      "title": "一枚AI戒指，成为春晚「新贵」",
+      "summary": "2月25日消息，追觅科技推出的AI智能戒指首次亮相央视春晚舞台，并出现在多个节目环节，成为首个登陆春晚的智能戒指产品，标志着AI可穿戴设备进入大众视野。",
+      "importance": "低",
+      "reason": "重大产品发布/商业动态：中国公司的AI硬件产品首次登上春晚舞台，具有重要的品牌曝光和市场教育意义。",
+      "tags": [
+        "AI硬件",
+        "可穿戴设备",
+        "春晚"
+      ],
+      "url": "https://www.leiphone.com/category/weiwu/gUXN3rX6arMUUocK.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-24 02:42:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 16,
+      "title": "独家｜vivo胡柏山晋升为公司总裁，向CEO沈炜汇报",
+      "summary": "2月25日消息，vivo公司宣布执行副总裁胡柏山晋升为公司总裁，其曾主导成立vivo中央研究院和机器人实验室，此次人事调整或与公司加强AI及前沿技术布局有关。",
+      "importance": "低",
+      "reason": "重大商业动态：中国头部手机厂商进行核心高管调整，负责人工智能和机器人等前沿技术探索的领导者获得晋升。",
+      "tags": [
+        "人事变动",
+        "vivo",
+        "战略调整"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/KAGyWrQxFyUKMSrU.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-24 07:42:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 17,
+      "title": "ICRA 2026｜中兴开源RealMirror平台，以端到端仿真基座推动具身智能研发普惠化",
+      "summary": "2月25日消息，中兴通讯在顶级机器人会议ICRA上开源了RealMirror仿真平台，旨在为具身智能研发提供端到端的仿真基座，降低研发门槛，推动技术普惠。",
+      "importance": "低",
+      "reason": "重大学术突破/产品发布：中国通信巨头中兴开源机器人仿真平台，贡献于具身智能研发基础设施，属于生态建设行为。",
+      "tags": [
+        "开源平台",
+        "仿真",
+        "具身智能"
+      ],
+      "url": "https://www.leiphone.com/category/weiwu/fh1zkG1ZAJb51mx3.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-24 02:01:00",
+      "impact_score": 180.0
+    },
+    {
+      "index": 18,
+      "title": "河南发布2026年汽车以旧换新补贴细则，最高补贴2万元",
+      "summary": "2月25日消息，河南省商务厅等八部门联合印发汽车以旧换新补贴实施细则，对购买新能源乘用车的消费者给予最高2万元补贴，此举将促进包含智能网联汽车在内的汽车消费。",
+      "importance": "低",
+      "reason": "政策法规：中国地方政府出台刺激汽车消费政策，间接利好智能汽车（AI重要落地场景）产业发展。",
+      "tags": [
+        "产业政策",
+        "新能源汽车",
+        "消费刺激"
+      ],
+      "url": "https://36kr.com/p/3696545311403904?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-24 00:03:28",
+      "impact_score": 167.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Nvidia Has Sold Zero H200s to China, Top US Export Enforcer Says",
+      "summary": "2月25日消息，美国出口管制官员证实，英伟达在特朗普政府允许对华出口AI芯片后两个月内，仍未向中国销售任何H200芯片，凸显了美国对华先进AI技术出口管制的实际执行情况与地缘政治影响。",
+      "importance": "高",
+      "reason": "属于重大政策与法规范畴，涉及美国对华AI芯片出口管制这一核心地缘科技议题，直接关系到全球AI供应链格局。",
+      "tags": [
+        "英伟达",
+        "出口管制",
+        "H200",
+        "中美关系"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-25/self-driving-startup-wayve-raises-1-5-billion-for-robotaxi-wars",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-25 00:01:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 2,
+      "title": "Hegseth threatens to cut Anthropic from Pentagon supply chain in showdown with CEO",
+      "summary": "2月25日消息，美国国会议员威胁将AI初创公司Anthropic排除在五角大楼供应链之外，因其CEO试图限制其技术用于军事目的，凸显了AI公司与政府在国家安全应用上的重大伦理与政策冲突。",
+      "importance": "高",
+      "reason": "同时涉及重大政策法规（政府供应链威胁）与安全伦理（AI军事化争议），是当前AI治理的核心矛盾体现。",
+      "tags": [
+        "Anthropic",
+        "美国政府",
+        "AI伦理",
+        "军事AI"
+      ],
+      "url": "https://arxiv.org/abs/2602.20624",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-25 05:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 3,
+      "title": "Meta strikes up to $100B AMD chip deal as it chases ‘personal superintelligence’",
+      "summary": "2月25日消息，Meta与AMD达成一项价值可能高达1000亿美元的多年期AI芯片采购协议，旨在减少对英伟达的依赖并扩大数据中心算力，以支持其追求“个人超级智能”的战略目标。",
+      "importance": "高",
+      "reason": "属于重大商业动态，涉及超大规模采购和供应链多元化，直接影响全球AI芯片市场竞争格局和Meta的AGI战略。",
+      "tags": [
+        "Meta",
+        "AMD",
+        "AI芯片",
+        "供应链",
+        "超级智能"
+      ],
+      "url": "https://aws.amazon.com/blogs/machine-learning/global-cross-region-inference-for-latest-anthropic-claude-opus-sonnet-and-haiku-models-on-amazon-bedrock-in-thailand-malaysia-singapore-indonesia-and-taiwan/",
+      "source": "Amazon AWS AI",
+      "original_pub_date": "2026-02-24 15:38:22",
+      "impact_score": 195.0
+    },
+    {
+      "index": 4,
+      "title": "Self-Driving Startup Wayve Raises $1.5 Billion for Robotaxi Wars",
+      "summary": "2月25日消息，英国自动驾驶软件初创公司Wayve成功融资15亿美元，估值达86亿美元，以加速其自动驾驶出租车技术的研发与部署，准备与中美竞争对手在全球市场展开竞争。",
+      "importance": "高",
+      "reason": "属于重大商业动态，融资额巨大，且涉及全球自动驾驶（Robotaxi）这一关键赛道竞争，主体为英国公司。",
+      "tags": [
+        "Wayve",
+        "自动驾驶",
+        "融资",
+        "英国"
+      ],
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-global-cross-region-inference-for-anthropics-claude-models-in-the-middle-east-regions/",
+      "source": "Amazon AWS AI",
+      "original_pub_date": "2026-02-24 15:33:51",
+      "impact_score": 195.0
+    },
+    {
+      "index": 5,
+      "title": "OpenAI defeats xAI’s trade secrets lawsuit",
+      "summary": "2月25日消息，OpenAI在与xAI的商业秘密诉讼中取得胜利，法院批准了其驳回诉讼的动议，xAI可选择修改后重新提起诉讼，这标志着两家顶级AI公司在人才与知识产权竞争中的一次重要法律交锋。",
+      "importance": "高",
+      "reason": "属于重大商业动态，涉及顶级AI公司间的法律纠纷，其结果可能影响行业人才流动和竞争规则。",
+      "tags": [
+        "OpenAI",
+        "xAI",
+        "法律诉讼",
+        "商业秘密"
+      ],
+      "url": "https://arxiv.org/abs/2602.20739",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-25 05:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 6,
+      "title": "Global cross-Region inference for latest Anthropic Claude Opus, Sonnet and Haiku models on Amazon Bedrock in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
+      "summary": "2月25日消息，亚马逊云科技宣布在泰国、马来西亚、新加坡、印度尼西亚和台湾地区，通过Amazon Bedrock平台提供Anthropic最新Claude系列模型的全球跨区域推理服务，以增强这些区域客户的AI部署能力。",
+      "importance": "中",
+      "reason": "属于重大产品发布/服务扩展，由美国公司（亚马逊）主导，将领先的AI模型服务推向关键亚太市场。",
+      "tags": [
+        "亚马逊AWS",
+        "Anthropic",
+        "Claude",
+        "云服务",
+        "亚太市场"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-02-25/hsbc-ceo-on-earnings-wealth-business-ai-impact-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-25 05:25:50",
+      "impact_score": 180.0
+    },
+    {
+      "index": 7,
+      "title": "Introducing Amazon Bedrock global cross-Region inference for Anthropic’s Claude models in the Middle East Regions (UAE and Bahrain)",
+      "summary": "2月25日消息，亚马逊云科技宣布在中东地区（阿联酋和巴林）通过Amazon Bedrock平台提供Anthropic的Claude系列模型的全球跨区域推理服务，支持包括Opus 4.6在内的多个最新版本，以拓展其在中东的AI云服务布局。",
+      "importance": "中",
+      "reason": "属于重大产品发布/服务扩展，由美国公司（亚马逊）主导，将领先的AI模型服务推向中东市场。",
+      "tags": [
+        "亚马逊AWS",
+        "Anthropic",
+        "Claude",
+        "云服务",
+        "中东市场"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-24/workday-ceo-says-anthropic-and-openai-use-his-company-s-software",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-24 23:21:37",
+      "impact_score": 180.0
+    },
+    {
+      "index": 8,
+      "title": "Head of Amazon’s AGI lab is leaving the company",
+      "summary": "2月25日消息，亚马逊人工通用智能实验室负责人David Luan宣布将于本周末离职，这一关键人事变动可能对亚马逊在AGI这一前沿领域的研发战略和进度产生影响。",
+      "importance": "中",
+      "reason": "属于重大商业动态中的人事变动，涉及美国科技巨头在AGI核心研发团队的关键领导层更迭。",
+      "tags": [
+        "亚马逊",
+        "AGI",
+        "人事变动",
+        "David Luan"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-24/openai-hires-former-roblox-executive-as-chief-people-officer",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-24 22:49:51",
+      "impact_score": 180.0
+    },
+    {
+      "index": 9,
+      "title": "OpenAI Hires Former Roblox Executive as Chief People Officer",
+      "summary": "2月25日消息，OpenAI任命前Roblox高管Arvind KC为首席人事官，负责招聘、员工入职与发展等工作，以支持这家ChatGPT制造商在快速扩张过程中的人才和组织管理需求。",
+      "importance": "中",
+      "reason": "属于重要商业动态，反映了领先AI公司OpenAI在高速成长期加强组织建设和人才管理的战略举措。",
+      "tags": [
+        "OpenAI",
+        "人事任命",
+        "组织管理"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-24/wisetech-to-cut-2-000-jobs-as-ai-ends-era-of-manual-coding",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-24 22:34:08",
+      "impact_score": 180.0
+    },
+    {
+      "index": 10,
+      "title": "Russia targets Telegram as rift with founder Pavel Durov deepens",
+      "summary": "2月25日消息，俄罗斯政府进一步加强对即时通讯应用Telegram的限制，并推广国家支持的替代品，标志着其与创始人帕维尔·杜罗夫的关系进一步恶化，可能影响该地区的信息生态与科技发展。",
+      "importance": "中",
+      "reason": "属于国际动态中的重大政策与法规，涉及俄罗斯政府对科技平台的控制，主体为俄罗斯政府与海外公司（Telegram）。",
+      "tags": [
+        "俄罗斯",
+        "Telegram",
+        "监管",
+        "地缘政治"
+      ],
+      "url": "https://www.ft.com/content/0c6b63b6-2524-4ba7-9f7a-e7183b29386f",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-02-24 22:12:51",
+      "impact_score": 180.0
+    },
+    {
+      "index": 11,
+      "title": "Spanish ‘soonicorn’ Multiverse Computing releases free compressed AI model",
+      "summary": "2月25日消息，西班牙初创公司Multiverse Computing在Hugging Face上发布了其HyperNova 60B模型的新版本，该公司声称该模型性能超越了Mistral的模型，展示了欧洲在高效AI模型领域的创新实力。",
+      "importance": "中",
+      "reason": "属于重大产品发布，主体为西班牙（欧盟）公司，发布了具有竞争力的开源AI模型，是欧洲AI生态的重要动态。",
+      "tags": [
+        "Multiverse Computing",
+        "AI模型",
+        "开源",
+        "西班牙",
+        "欧洲"
+      ],
+      "url": "https://www.cnbc.com/2026/02/24/head-of-amazons-agi-lab-is-leaving-the-company.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-02-24 22:56:50",
+      "impact_score": 170.0
+    },
+    {
+      "index": 12,
+      "title": "Wayve CEO on Robotaxis, Automaker Partnerships, Software",
+      "summary": "2月25日消息，英国自动驾驶公司Wayve的CEO讨论了其全球自动驾驶平台、与日产、奔驰和Stellantis等汽车制造商的合作伙伴关系，以及大规模生产自动驾驶出租车的计划，强调了高利润软件业务的潜力。",
+      "importance": "中",
+      "reason": "属于重大商业动态，详细阐述了英国自动驾驶领军企业的全球战略、关键合作伙伴关系及未来商业化路线图。",
+      "tags": [
+        "Wayve",
+        "自动驾驶",
+        "合作伙伴",
+        "商业化"
+      ],
+      "url": "https://www.ft.com/content/10181abc-ddd2-416f-8b8c-fd30a8447b82",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-02-24 15:13:27",
+      "impact_score": 157.5
+    },
+    {
+      "index": 13,
+      "title": "Rheinmetall muscles back into German drones programme after testing setback",
+      "summary": "2月25日消息，德国军工企业莱茵金属在经历测试挫折后，重新强势介入德国无人机项目，此前该项目合同曾授予由亿万富翁彼得·蒂尔和丹尼尔·埃克支持的较小竞争对手。",
+      "importance": "中",
+      "reason": "属于国际动态中的重大商业动态，涉及德国国防科技项目竞争，主体为德国公司。",
+      "tags": [
+        "莱茵金属",
+        "无人机",
+        "德国",
+        "国防科技"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-24/nvidia-has-sold-zero-h200s-to-china-top-us-export-enforcer-says",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-24 22:13:25",
+      "impact_score": 150.0
+    },
+    {
+      "index": 14,
+      "title": "SAP Users Question Value-for-Money of Firm’s AI Tools",
+      "summary": "2月25日消息，欧洲市值最高的软件公司SAP的投资者和合作伙伴对其赖以重振增长并应对大语言模型威胁的一系列人工智能产品的性价比提出质疑，反映了传统企业软件巨头在AI转型中面临的挑战。",
+      "importance": "低",
+      "reason": "属于商业动态，反映了市场对欧洲领先软件公司SAP的AI战略和产品价值的评估与担忧。",
+      "tags": [
+        "SAP",
+        "企业软件",
+        "AI产品",
+        "欧洲"
+      ],
+      "url": "https://www.cnbc.com/2026/02/24/stripe-value-stock-sale-tender-offer.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-02-24 14:23:06",
+      "impact_score": 150.0
+    },
+    {
+      "index": 15,
+      "title": "Oura launches a proprietary AI model focused on women’s health",
+      "summary": "2月25日消息，智能戒指公司Oura发布了一款专注于女性健康的专有AI模型，该模型支持涵盖从早期月经周期到更年期的整个生殖健康谱系的问题，旨在提升其健康监测产品的个性化服务能力。",
+      "importance": "低",
+      "reason": "属于产品发布，主体为海外公司（Oura），发布了垂直领域的专用AI模型。",
+      "tags": [
+        "Oura",
+        "健康科技",
+        "AI模型",
+        "女性健康"
+      ],
+      "url": "https://arxiv.org/abs/2602.20424",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-25 05:00:00",
+      "impact_score": 145.0
+    },
+    {
+      "index": 16,
+      "title": "New Relic launches new AI agent platform and OpenTelemetry tools",
+      "summary": "2月25日消息，可观测性平台New Relic推出了新的AI智能体平台和OpenTelemetry工具，旨在让企业能够创建和管理AI智能体，并更好地集成OTel数据流，以增强其应用性能监控能力。",
+      "importance": "低",
+      "reason": "属于产品发布，主体为海外公司（New Relic），发布了面向企业AI应用开发与运维的新工具。",
+      "tags": [
+        "New Relic",
+        "可观测性",
+        "AI平台",
+        "企业服务"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/884049/openai-elon-musk-xai-trade-secrets-lawsuit",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-02-24 23:05:28",
+      "impact_score": 145.0
+    }
+  ],
+  "summary": "今日从178条原始信息中精选出18条国内动态和16条国际动态，其中9条为高重要性。 重点关注：九识智能再获3亿美元融资，估值超百亿｜36氪首发；智平方在7轮融资后，又完成5轮B轮系列融资，融资规模超10亿，估值超百亿；最强Coding Plan上线！阿里云上线Qwen3.5、GLM-5、MiniMax M2.5、Kimi K2.5四大顶尖开源模型。",
+  "statistics": {
+    "raw_domestic": 42,
+    "raw_international": 136,
+    "raw_total": 178,
+    "final_domestic": 18,
+    "final_international": 16
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "2月25日消息，中国L4级自动驾驶物流车公司九识智能完成超3亿美元新一轮融资，估值突破百亿人民币，成为该领域首家百亿独角兽，其业务已覆盖全国超300个城市并拓展至海外市场。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "2月25日消息，被誉为“最像特斯拉”的中国机器人创业公司智平方完成B轮系列融资，总融资规模超10亿元人民币，公司估值已超过百亿，显示出资本市场对中国具身智能赛道的高度关注。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "2月25日消息，阿里云集中上线了通义千问、智谱、MiniMax、月之暗面等中国顶尖AI公司的四大开源模型，为中国开发者提供了强大的集成化AI编程工具支持。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "2月25日消息，世界人工智能大会·学术（WAICA）在上海正式启动，由姚期智担任主席，旨在打造由中国主导的世界级AI学术评审与交流平台，标志着中国在AI学术领域迈出关键一步。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "2月25日消息，网易有道开源的全场景个人桌面智能助手LobsterAI在开工首日下载量翻倍，此前其开源代码已在GitHub上获得大量关注，显示出中国AI Agent产品在国内外的影响力。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "2月25日消息，美国出口管制官员证实，英伟达在特朗普政府允许对华出口AI芯片后两个月内，仍未向中国销售任何H200芯片，凸显了美国对华先进AI技术出口管制的实际执行情况与地缘政治影响。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "2月25日消息，美国国会议员威胁将AI初创公司Anthropic排除在五角大楼供应链之外，因其CEO试图限制其技术用于军事目的，凸显了AI公司与政府在国家安全应用上的重大伦理与政策冲突。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "2月25日消息，Meta与AMD达成一项价值可能高达1000亿美元的多年期AI芯片采购协议，旨在减少对英伟达的依赖并扩大数据中心算力，以支持其追求“个人超级智能”的战略目标。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "2月25日消息，英国自动驾驶软件初创公司Wayve成功融资15亿美元，估值达86亿美元，以加速其自动驾驶出租车技术的研发与部署，准备与中美竞争对手在全球市场展开竞争。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "2月25日消息，OpenAI在与xAI的商业秘密诉讼中取得胜利，法院批准了其驳回诉讼的动议，xAI可选择修改后重新提起诉讼，这标志着两家顶级AI公司在人才与知识产权竞争中的一次重要法律交锋。",
+      "importance": "高"
+    }
+  ]
+}
