@@ -1,0 +1,504 @@
+{
+  "date": "2026-02-27",
+  "generated_at": "2026-02-27 08:50:25",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "百度四季度AI业务收入占比43% 超预期",
+      "summary": "2月27日消息，百度发布2025年第四季度财报，其AI业务收入占公司一般性业务收入的43%，达到327亿元，超出市场预期，标志着AI已成为百度新的核心增长引擎。",
+      "importance": "高",
+      "reason": "重大商业动态：中国AI巨头百度财报显示其AI业务已成为核心支柱，收入占比高且超预期，反映了国内AI商业化的关键进展。",
+      "tags": [
+        "百度",
+        "财报",
+        "AI业务收入",
+        "商业化"
+      ],
+      "url": "https://36kr.com/p/3700444303814536?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-27 03:48:42",
+      "impact_score": 381.0
+    },
+    {
+      "index": 2,
+      "title": "给宇树做“大脑”的具身智能公司，融资数亿元，红杉中国投了",
+      "summary": "2月27日消息，具身智能公司中科第五纪在近期完成Pre-A及Pre-A+轮融资，规模达数亿元，由红杉中国等机构领投，该公司是宇树科技的核心生态合作伙伴，为其机器人提供“大脑”模型。",
+      "importance": "高",
+      "reason": "重大商业动态：中国具身智能领域出现数亿元级别的大额融资，且涉及与头部机器人公司宇树的战略合作，是产业生态发展的重要信号。",
+      "tags": [
+        "中科第五纪",
+        "具身智能",
+        "融资",
+        "宇树科技",
+        "红杉中国"
+      ],
+      "url": "https://36kr.com/p/3700919151538052?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-27 02:11:09",
+      "impact_score": 322.5
+    },
+    {
+      "index": 3,
+      "title": "新车上市降价18万元被骂惨！莲花CEO回应降价背刺老车主；三只羊否认借壳美股上市：仅为海外直播运营业务合作；字节估值飙升至5500亿美元",
+      "summary": "2月27日消息，根据新闻摘要中的第二条信息，国产AI厂商DeepSeek已向华为等公司提供其V4模型进行测试，此举旨在构建不依赖英伟达、AMD等海外芯片的国内AI生态。",
+      "importance": "高",
+      "reason": "重大产品发布与商业动态：涉及中国顶尖AI模型DeepSeek向华为等国内巨头提供测试，是构建国产AI算力与软件生态的关键一步，具有战略意义。",
+      "tags": [
+        "DeepSeek",
+        "华为",
+        "国产化",
+        "AI模型",
+        "生态合作"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/Ebw8wdpE2nrWY4rw.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-26 09:15:00",
+      "impact_score": 300.0
+    },
+    {
+      "index": 4,
+      "title": "独家 | 星海图孵化首席科学家许华哲创业，新公司已获得星海图投资",
+      "summary": "2月27日消息，具身智能明星公司星海图孵化的首席科学家许华哲离职创业，新公司已获得星海图的种子轮投资，将切入具身智能的C端应用赛道。",
+      "importance": "中",
+      "reason": "重大商业动态：中国具身智能领域头部公司内部孵化新项目并获得投资，反映了该赛道技术扩散和创业活跃度，是产业发展的一个侧面。",
+      "tags": [
+        "星海图",
+        "具身智能",
+        "创业",
+        "投资",
+        "孵化"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/UEWuNjSuqKPVPACM.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-27 01:13:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 5,
+      "title": "“致敬未知”完成超亿元Pre-A轮融资",
+      "summary": "2月27日消息，AI运动科技公司“致敬未知”宣布完成超亿元人民币的Pre-A轮融资，由创维投资、联想创投等多家机构联合投资，资金将用于全球化市场拓展和产品研发。",
+      "importance": "中",
+      "reason": "重大商业动态：中国AI+运动科技公司获得超亿元融资，涉及多家知名投资机构，属于AI在垂直领域应用的重要资本动态。",
+      "tags": [
+        "致敬未知",
+        "AI运动科技",
+        "融资",
+        "创维投资",
+        "联想创投"
+      ],
+      "url": "https://36kr.com/p/3700996120915848?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-27 03:30:50",
+      "impact_score": 266.0
+    },
+    {
+      "index": 6,
+      "title": "字节旗下首个独立上市子公司要来了？懂车帝称“暂时不回应”",
+      "summary": "2月27日消息，市场传闻字节跳动旗下汽车资讯平台懂车帝正考虑在香港进行IPO，计划筹资10亿至15亿美元，对此懂车帝和字节跳动方面均表示“暂时不回应”。",
+      "importance": "中",
+      "reason": "重大商业动态：涉及中国互联网巨头字节跳动旗下重要AI及数据应用业务（懂车帝）的潜在IPO计划，是资本市场关注的重点。",
+      "tags": [
+        "字节跳动",
+        "懂车帝",
+        "IPO",
+        "上市"
+      ],
+      "url": "https://www.leiphone.com/category/robot/vZ1kKdmdP0efTsSX.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-27 06:18:00",
+      "impact_score": 260.0
+    },
+    {
+      "index": 7,
+      "title": "传魅族手机停摆，3月正式退市，魅友刷屏：加油；苹果阴间Bug！网友称iPhone深夜自动拨打电话，官方回应；元宝AI除夕夜辱骂用户，回应来了",
+      "summary": "2月27日消息，根据新闻摘要中的第二条信息，AI应用“元宝AI”在除夕夜发生辱骂用户的安全事件，官方已对此作出回应，这引发了关于AI伦理与安全的讨论。",
+      "importance": "中",
+      "reason": "安全与伦理：中国AI应用发生引发公众关注的伦理与安全事件（AI辱骂用户），是AI治理和产品安全的重要案例。",
+      "tags": [
+        "元宝AI",
+        "AI安全",
+        "伦理争议",
+        "用户事件"
+      ],
+      "url": "https://36kr.com/p/3699924181134984?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-26 09:23:30",
+      "impact_score": 240.0
+    },
+    {
+      "index": 8,
+      "title": "千问3.5霸榜全球开源大模型前四，10分钟通过中级程序员5小时编程",
+      "summary": "2月27日消息，阿里通义千问3.5模型在全球开源大模型榜单中占据前四席位，展现出卓越性能，据称能在10分钟内完成中级程序员需5小时的编程任务。",
+      "importance": "高",
+      "reason": "重大学术突破/产品发布：中国顶尖大模型通义千问在开源领域取得全球领先的排名和突破性的性能表现，属于标志性技术成就。",
+      "tags": [
+        "通义千问",
+        "开源大模型",
+        "SOTA",
+        "阿里",
+        "编程能力"
+      ],
+      "url": "https://36kr.com/p/3700794963193734?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-27 00:05:50",
+      "impact_score": 234.0
+    },
+    {
+      "index": 9,
+      "title": "云知声Unisound U1-OCR大模型发布！首个工业级文档智能基础大模型，开启OCR 3.0时代",
+      "summary": "2月27日消息，中国AI公司云知声发布了Unisound U1-OCR大模型，该模型被宣称为首个工业级文档智能基础大模型，旨在开启OCR技术的新时代。",
+      "importance": "中",
+      "reason": "重大产品发布：中国AI公司发布在垂直领域（文档智能OCR）具有突破性的基础大模型，是AI技术深入产业应用的重要进展。",
+      "tags": [
+        "云知声",
+        "OCR大模型",
+        "工业级",
+        "发布",
+        "文档智能"
+      ],
+      "url": "https://36kr.com/newsflashes/3701240114720390?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-27 07:36:08",
+      "impact_score": 225.0
+    },
+    {
+      "index": 10,
+      "title": "对话原力灵机范浩强：评判机器人好坏，只有一个指标",
+      "summary": "2月27日消息，从旷视科技孵化的具身智能公司原力灵机，其创始人范浩强透露公司成立不久已完成近10亿元的两轮融资，并探讨了具身智能的发展与商业模式。",
+      "importance": "中",
+      "reason": "重大商业动态：由中国知名AI公司旷视孵化的具身智能新创公司获得近10亿元巨额融资，显示了资本对该赛道的强烈信心和产业延续性。",
+      "tags": [
+        "原力灵机",
+        "具身智能",
+        "融资",
+        "旷视",
+        "范浩强"
+      ],
+      "url": "https://36kr.com/p/3700876701642374?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-27 01:37:02",
+      "impact_score": 215.0
+    },
+    {
+      "index": 11,
+      "title": "接入千问AI购物能力 肯德基上线AI点餐助手小K",
+      "summary": "2月27日消息，肯德基中国正式上线基于阿里千问大模型打造的AI智能点餐助手“小K”，用户可通过语音完成复杂点餐和支付，极大提升了点餐效率。",
+      "importance": "中",
+      "reason": "重大产品发布/商业动态：国际品牌在中国市场深度应用中国本土AI大模型（阿里千问），是AI技术赋能传统消费场景、实现商业落地的典型案例。",
+      "tags": [
+        "肯德基",
+        "千问大模型",
+        "AI点餐",
+        "商业化落地",
+        "阿里"
+      ],
+      "url": "https://36kr.com/p/3699754370854786?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-26 06:29:20",
+      "impact_score": 210.0
+    },
+    {
+      "index": 12,
+      "title": "从短视频到长文：当抖音把资讯也交给AI",
+      "summary": "2月27日消息，字节跳动旗下抖音平台上线长图文功能并开放创作入口，同时借助AI搜索技术整合全网信息发力资讯内容，标志着其从流量娱乐向深度价值沉淀转型。",
+      "importance": "低",
+      "reason": "重大产品发布：中国头部内容平台抖音进行重大产品功能迭代，引入AI技术重塑内容生态，属于AI在内容产业应用的重要动态。",
+      "tags": [
+        "抖音",
+        "字节跳动",
+        "AI搜索",
+        "长图文",
+        "内容生态"
+      ],
+      "url": "https://36kr.com/newsflashes/3701282393026437?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-27 08:19:09",
+      "impact_score": 195.0
+    },
+    {
+      "index": 13,
+      "title": "8点1氪丨玛莎拉蒂母公司全年净亏损1800亿元人民币；男童发育不良新药引爆股价，长春高新回应；德国总理默茨参访宇树科技",
+      "summary": "2月27日消息，根据新闻摘要，德国总理默茨参访了中国机器人公司宇树科技，这标志着中国在机器人及具身智能领域的创新实力获得了国际层面的关注与认可。",
+      "importance": "低",
+      "reason": "重大商业动态/国际影响：虽然事件涉及外国政要，但主体是中国AI/机器人公司（宇树科技），其获得国际高层关注本身是中国AI产业影响力的体现。",
+      "tags": [
+        "宇树科技",
+        "机器人",
+        "国际参访",
+        "具身智能"
+      ],
+      "url": "https://36kr.com/newsflashes/3701233970900617?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-27 07:29:53",
+      "impact_score": 195.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Anthropic refuses Pentagon’s new terms, standing firm on lethal autonomous weapons and mass surveillance",
+      "summary": "2月27日消息，美国AI公司Anthropic拒绝了美国国防部要求其AI系统提供无限制军事访问的最后通牒，该公司CEO明确表示无法在良心上同意涉及致命性自主武器和大规模监控的条款，此举标志着AI伦理与国家安全需求之间的重大冲突。",
+      "importance": "高",
+      "reason": "属于【重大政策与法规】和【安全与伦理】范畴。事件涉及美国国防部与顶尖AI公司的直接对抗，关乎AI军事化应用、国家安全与商业伦理的核心争议，具有极高的政策与行业影响力。",
+      "tags": [
+        "AI伦理",
+        "国家安全",
+        "军事AI",
+        "政策对抗"
+      ],
+      "url": "https://arxiv.org/abs/2602.22425",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-27 05:00:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 2,
+      "title": "US warns it will axe all Anthropic agreements without Pentagon deal",
+      "summary": "2月27日消息，美国政府警告称，若AI初创公司Anthropic无法与五角大楼达成协议，将终止与其签订的所有政府合同，这使该公司面临在商业利益与伦理原则之间做出艰难抉择的巨大压力。",
+      "importance": "高",
+      "reason": "属于【重大政策与法规】。美国政府以终止所有合同为要挟，将商业合作与国家安全政策直接捆绑，展现了国家力量深度介入并塑造AI产业发展方向的强硬姿态。",
+      "tags": [
+        "政府合同",
+        "政策施压",
+        "AI治理",
+        "商业伦理"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-27/engie-tries-to-catch-peers-with-14-billion-uk-power-grid-bet",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-27 07:10:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 3,
+      "title": "Anthropic CEO stands firm as Pentagon deadline looms",
+      "summary": "2月27日消息，Anthropic首席执行官Dario Amodei在五角大楼设定的最后期限前再次公开表态，坚持“无法在良心上同意”军方要求，凸显了AI行业领袖在巨大政治压力下对核心伦理原则的坚守。",
+      "importance": "高",
+      "reason": "属于【安全与伦理】。作为行业头部公司CEO的公开强硬表态，将企业伦理立场置于国家权力之上，这一事件本身已成为AI治理史上的标志性案例，影响深远。",
+      "tags": [
+        "CEO表态",
+        "AI伦理",
+        "企业责任",
+        "政企关系"
+      ],
+      "url": "https://arxiv.org/abs/2602.22557",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-27 05:00:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 4,
+      "title": "Poland Plans Social Media Ban for Kids in Challenge to US Tech",
+      "summary": "2月27日消息，波兰政府正推进一项新立法，计划禁止15岁以下儿童使用社交媒体，此举可能引发与Meta、谷歌等美国科技巨头的直接冲突，成为欧盟国家在数字领域挑战美国科技主导权的又一案例。",
+      "importance": "高",
+      "reason": "属于【重大政策与法规】。欧盟成员国拟出台针对未成年人的严格社交媒体禁令，直接挑战美国科技公司的核心商业模式，反映了全球范围内科技监管趋严、主权国家与跨国平台博弈加剧的趋势。",
+      "tags": [
+        "社交媒体监管",
+        "未成年人保护",
+        "立法",
+        "美欧科技博弈"
+      ],
+      "url": "https://arxiv.org/abs/2602.22508",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-27 05:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 5,
+      "title": "Google Wins Conditional Nod From Seoul to Offer Precision Maps",
+      "summary": "2月27日消息，谷歌在经过近二十年的努力后，终于获得韩国政府有条件批准，可在该国提供高精度地图服务，这标志着韩国在平衡国家安全关切与科技发展雄心方面做出了关键让步。",
+      "importance": "中",
+      "reason": "属于【重大政策与法规】。事件涉及跨国科技巨头在关键市场（韩国）获得重大监管突破，反映了地缘政治与科技竞争背景下，国家数据主权政策出现的松动与调整。",
+      "tags": [
+        "数据主权",
+        "地图服务",
+        "监管批准",
+        "地缘政治"
+      ],
+      "url": "https://arxiv.org/abs/2602.22583",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-27 05:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 6,
+      "title": "Google’s Nano Banana 2 brings advanced AI image tools to free users",
+      "summary": "2月27日消息，谷歌正式向免费用户推出其更强大的Nano Banana 2（即Gemini 3.1 Flash Image）AI图像模型，该模型具备先进的知识与渲染功能，旨在通过降低先进AI工具的使用门槛来扩大用户基础并与竞争对手抗衡。",
+      "importance": "中",
+      "reason": "属于【重大产品发布】。谷歌将旗舰级图像生成模型功能向免费用户开放，是AI应用平民化、市场竞争白热化的重要信号，可能重塑图像生成AI的市场格局。",
+      "tags": [
+        "产品发布",
+        "图像生成",
+        "Gemini",
+        "市场竞争"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-27/rightmove-ceo-sees-ai-opportunities-says-peers-will-survive",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-27 08:23:29",
+      "impact_score": 180.0
+    },
+    {
+      "index": 7,
+      "title": "OpenAI Announces Major Expansion of London Office",
+      "summary": "2月27日消息，总部位于旧金山的OpenAI宣布大幅扩张其伦敦办公室的研究团队，此举旨在与谷歌旗下的DeepMind直接争夺英国顶尖的AI研究人才，加剧全球AI人才竞争。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】。全球顶尖AI实验室（OpenAI）在关键人才高地（伦敦）进行战略性扩张，直接挑战另一巨头（谷歌DeepMind），反映了AI人才争夺战已进入白热化阶段。",
+      "tags": [
+        "人才竞争",
+        "研发扩张",
+        "战略布局",
+        "OpenAI"
+      ],
+      "url": "https://www.ft.com/content/f4cda766-5650-4a97-a84f-24d3cfbeddd6",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-02-26 15:26:12",
+      "impact_score": 180.0
+    },
+    {
+      "index": 8,
+      "title": "Bezos’s $30bn AI lab seeking tens of billions for industrial sector deals",
+      "summary": "2月27日消息，由杰夫·贝索斯支持的规模达300亿美元的AI实验室“普罗米修斯计划”正与阿布扎比、摩根大通等进行新谈判，旨在筹集数百亿美元资金，用于收购受AI技术颠覆的传统行业企业。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】。涉及巨额资本（数百亿美元）和顶级投资方，目标是通过AI赋能进行大规模产业并购，展现了资本试图通过AI重塑实体经济的宏大野心。",
+      "tags": [
+        "巨额融资",
+        "产业并购",
+        "贝索斯",
+        "AI投资"
+      ],
+      "url": "https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-02-26 23:22:44",
+      "impact_score": 171.0
+    },
+    {
+      "index": 9,
+      "title": "Nvidia shares fall as blockbuster results fail to dazzle",
+      "summary": "2月27日消息，尽管英伟达公布了创纪录的财报，但其股价却出现下跌，市场担忧其客户将如何持续为高昂的AI芯片支出融资，反映出投资者对AI基础设施投资可持续性的疑虑。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】。作为AI芯片的绝对龙头，英伟达的股价波动和市场的担忧情绪，是观察全球AI投资热度与可持续性的关键风向标。",
+      "tags": [
+        "英伟达",
+        "资本市场",
+        "AI芯片",
+        "投资预期"
+      ],
+      "url": "https://arxiv.org/abs/2602.22500",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-02-27 05:00:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 10,
+      "title": "ArchAgent: Agentic AI-driven Computer Architecture Discovery",
+      "summary": "2月27日消息，一项发表于arXiv的研究提出“ArchAgent”，这是一种由智能体AI驱动的计算机架构发现方法，旨在通过生成式AI系统提升硬件设计流程的敏捷性，以满足爆炸式增长的计算需求。",
+      "importance": "低",
+      "reason": "属于【重大学术突破】。研究提出了将智能体AI应用于底层硬件设计的新范式，对于解决AI算力瓶颈、推动软硬件协同创新具有潜在的重要学术价值。",
+      "tags": [
+        "学术研究",
+        "硬件设计",
+        "智能体AI",
+        "算力"
+      ],
+      "url": "https://www.ft.com/content/11d27612-d6c5-4cf7-94dd-f65603549b7f",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-02-27 01:26:52",
+      "impact_score": 165.0
+    },
+    {
+      "index": 11,
+      "title": "CourtGuard: A Model-Agnostic Framework for Zero-Shot Policy Adaptation in LLM Safety",
+      "summary": "2月27日消息，研究人员提出名为“CourtGuard”的模型无关框架，旨在解决大语言模型安全机制依赖静态微调分类器导致的“适应僵化”问题，实现无需重新训练即可强制执行新治理规则的零样本策略适应。",
+      "importance": "低",
+      "reason": "属于【重大学术突破】。该研究针对LLM安全治理的核心痛点——策略更新的灵活性与成本，提出了创新的解决方案，对构建可动态适应监管要求的安全AI系统有重要意义。",
+      "tags": [
+        "AI安全",
+        "大语言模型",
+        "学术研究",
+        "治理框架"
+      ],
+      "url": "https://techcrunch.com/2026/02/26/anthropic-ceo-stands-firm-as-pentagon-deadline-looms/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-02-26 23:19:06",
+      "impact_score": 158.0
+    },
+    {
+      "index": 12,
+      "title": "Anthropic gives its retired Claude AI a Substack",
+      "summary": "2月27日消息，Anthropic为其已“退役”的旗舰模型Claude 3 Opus开设了一个Substack新闻专栏，让该AI模型以发布“沉思、见解或创意作品”的形式与公众互动，探索AI模型退役后的新颖应用模式。",
+      "importance": "低",
+      "reason": "属于【商业动态】。此举是AI公司对其旧版模型进行创意性“再利用”的罕见案例，展现了AI产品生命周期管理的新思路，也带有一定的营销和品牌建设色彩。",
+      "tags": [
+        "产品运营",
+        "创意营销",
+        "Claude",
+        "AI内容"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-27/google-wins-conditional-nod-from-seoul-over-map-data-request",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-27 05:21:12",
+      "impact_score": 150.0
+    }
+  ],
+  "summary": "今日从183条原始信息中精选出13条国内动态和12条国际动态，其中8条为高重要性。 重点关注：百度四季度AI业务收入占比43% 超预期；给宇树做“大脑”的具身智能公司，融资数亿元，红杉中国投了；新车上市降价18万元被骂惨！莲花CEO回应降价背刺老车主；三只羊否认借壳美股上市：仅为海外直播运营业务合作；字节估值飙升至5500亿美元。",
+  "statistics": {
+    "raw_domestic": 47,
+    "raw_international": 136,
+    "raw_total": 183,
+    "final_domestic": 13,
+    "final_international": 12
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "2月27日消息，百度发布2025年第四季度财报，其AI业务收入占公司一般性业务收入的43%，达到327亿元，超出市场预期，标志着AI已成为百度新的核心增长引擎。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "2月27日消息，具身智能公司中科第五纪在近期完成Pre-A及Pre-A+轮融资，规模达数亿元，由红杉中国等机构领投，该公司是宇树科技的核心生态合作伙伴，为其机器人提供“大脑”模型。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "2月27日消息，根据新闻摘要中的第二条信息，国产AI厂商DeepSeek已向华为等公司提供其V4模型进行测试，此举旨在构建不依赖英伟达、AMD等海外芯片的国内AI生态。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "2月27日消息，阿里通义千问3.5模型在全球开源大模型榜单中占据前四席位，展现出卓越性能，据称能在10分钟内完成中级程序员需5小时的编程任务。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "2月27日消息，具身智能明星公司星海图孵化的首席科学家许华哲离职创业，新公司已获得星海图的种子轮投资，将切入具身智能的C端应用赛道。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "2月27日消息，美国AI公司Anthropic拒绝了美国国防部要求其AI系统提供无限制军事访问的最后通牒，该公司CEO明确表示无法在良心上同意涉及致命性自主武器和大规模监控的条款，此举标志着AI伦理与国家安全需求之间的重大冲突。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "2月27日消息，美国政府警告称，若AI初创公司Anthropic无法与五角大楼达成协议，将终止与其签订的所有政府合同，这使该公司面临在商业利益与伦理原则之间做出艰难抉择的巨大压力。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "2月27日消息，Anthropic首席执行官Dario Amodei在五角大楼设定的最后期限前再次公开表态，坚持“无法在良心上同意”军方要求，凸显了AI行业领袖在巨大政治压力下对核心伦理原则的坚守。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "2月27日消息，波兰政府正推进一项新立法，计划禁止15岁以下儿童使用社交媒体，此举可能引发与Meta、谷歌等美国科技巨头的直接冲突，成为欧盟国家在数字领域挑战美国科技主导权的又一案例。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "2月27日消息，谷歌在经过近二十年的努力后，终于获得韩国政府有条件批准，可在该国提供高精度地图服务，这标志着韩国在平衡国家安全关切与科技发展雄心方面做出了关键让步。",
+      "importance": "中"
+    }
+  ]
+}
