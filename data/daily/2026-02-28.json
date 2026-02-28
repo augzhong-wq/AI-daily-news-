@@ -1,0 +1,534 @@
+{
+  "date": "2026-02-28",
+  "generated_at": "2026-02-28 08:36:16",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "我国首个国家级人形机器人与具身智能标准体系发布",
+      "summary": "2月28日消息，工业和信息化部人形机器人与具身智能标准化技术委员会在北京召开首届年会，正式发布《人形机器人与具身智能标准体系（2026版）》。这是我国首个覆盖人形机器人全产业链、全生命周期的国家级标准顶层设计，标志着相关产业进入规范化发展的新阶段。",
+      "importance": "高",
+      "reason": "属于【重大政策与法规】。这是中国政府层面发布的首个国家级AI（具身智能）标准体系，对产业发展具有顶层设计和指导意义，影响深远。",
+      "tags": [
+        "政策法规",
+        "标准体系",
+        "具身智能"
+      ],
+      "url": "https://36kr.com/p/3702272216543360?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-28 01:09:10",
+      "impact_score": 420.0
+    },
+    {
+      "index": 2,
+      "title": "千问将发布AI眼镜、耳机、指环，巨头抢占AI新入口丨智能涌现独家",
+      "summary": "2月28日消息，阿里巴巴旗下个人AI助手“千问”将进军AI硬件领域，计划在2026年面向全球市场发布AI眼镜、AI耳机和AI指环等多款硬件产品。其中，AI眼镜将在世界移动通信大会上发布，旨在将AI助手从手机扩展到更多终端形态。",
+      "importance": "高",
+      "reason": "属于【重大产品发布】。中国科技巨头阿里巴巴推出多款AI原生硬件，是其构建AI生态、抢占下一代人机交互入口的重要战略举措。",
+      "tags": [
+        "产品发布",
+        "AI硬件",
+        "阿里巴巴"
+      ],
+      "url": "https://36kr.com/p/3700444303814536?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-27 03:48:42",
+      "impact_score": 381.0
+    },
+    {
+      "index": 3,
+      "title": "新车上市降价18万元被骂惨！莲花CEO回应降价背刺老车主；三只羊否认借壳美股上市：仅为海外直播运营业务合作；字节估值飙升至5500亿美元",
+      "summary": "2月28日消息，据媒体报道，国产AI公司深度求索已向华为等国内厂商提供其最新V4模型进行测试，此举被解读为国产AI厂商在技术生态上加强合作、应对外部供应链不确定性的重要信号。",
+      "importance": "高",
+      "reason": "属于【重大商业动态】。中国顶尖AI模型公司（深度求索）与中国核心硬件厂商（华为）进行深度技术合作，是构建国产AI技术栈的关键一步，具有战略意义。",
+      "tags": [
+        "战略合作",
+        "大模型",
+        "国产化"
+      ],
+      "url": "https://36kr.com/newsflashes/3702448565186945?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-28 04:45:19",
+      "impact_score": 322.5
+    },
+    {
+      "index": 4,
+      "title": "给宇树做“大脑”的具身智能公司，融资数亿元，红杉中国投了",
+      "summary": "2月28日消息，具身智能公司“中科第五纪”在一个月内连续完成Pre-A及Pre-A+轮融资，规模达数亿元人民币，由红杉中国等知名机构领投。该公司是宇树科技的核心生态合作伙伴，为其机器人提供“大脑”模型。",
+      "importance": "高",
+      "reason": "属于【重大商业动态】。中国具身智能赛道出现大额融资，且公司与头部机器人公司（宇树）形成深度绑定，体现了资本和市场对AI与机器人结合方向的看好。",
+      "tags": [
+        "融资",
+        "具身智能",
+        "红杉中国"
+      ],
+      "url": "https://36kr.com/p/3701306699017862?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-27 11:15:36",
+      "impact_score": 322.5
+    },
+    {
+      "index": 5,
+      "title": "独家 | 星海图孵化首席科学家许华哲创业，新公司已获得星海图投资",
+      "summary": "2月28日消息，具身智能明星公司星海图的首席科学家许华哲离职创业，新公司已获得星海图的种子轮投资，将切入具身智能的C端应用赛道。同时，星海图自身近期也完成了新一轮融资，估值突破100亿人民币。",
+      "importance": "高",
+      "reason": "属于【重大商业动态】。涉及中国高估值AI独角兽（星海图）的新融资动态，以及核心科学家创业并获得投资，反映了中国AI产业内部的人才流动和生态扩张。",
+      "tags": [
+        "创业",
+        "融资",
+        "具身智能"
+      ],
+      "url": "https://36kr.com/p/3700919151538052?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-27 02:11:09",
+      "impact_score": 322.5
+    },
+    {
+      "index": 6,
+      "title": "阿里开源桌面Agent工具CoPaw，可二次开发自定义模型",
+      "summary": "2月28日消息，阿里巴巴开源了桌面智能体工具CoPaw，用户可一键在本地或云端部署，并支持二次开发，自由接入本地模型、编写技能和接入专属应用，以实现内容摘要、资讯查询、桌面整理等自动化任务。",
+      "importance": "高",
+      "reason": "属于【重大学术/技术突破】。中国科技巨头开源重要的AI Agent工具，降低了AI应用开发门槛，有助于推动国内AI Agent生态的发展。",
+      "tags": [
+        "开源",
+        "AI Agent",
+        "阿里巴巴"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/UEWuNjSuqKPVPACM.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-27 01:13:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 7,
+      "title": "从短视频到长文：当抖音把资讯也交给AI",
+      "summary": "2月28日消息，抖音正在积极借助AI搜索技术整合全网信息，发力资讯内容。同时，平台上线了长图文功能并向优质创作者开放，标志着其正从纯粹的短视频娱乐平台，转向借助AI技术构建包含深度内容的信息生态。",
+      "importance": "中",
+      "reason": "属于【重大产品发布/商业动态】。中国头部互联网平台字节跳动（抖音）利用AI技术重塑内容生产和分发模式，是其核心产品的重要战略演进。",
+      "tags": [
+        "AI应用",
+        "内容生态",
+        "字节跳动"
+      ],
+      "url": "https://36kr.com/p/3702628151751046?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-28 07:09:00",
+      "impact_score": 269.0
+    },
+    {
+      "index": 8,
+      "title": "小米汽车自动驾驶算法评测报告生成专利获授权",
+      "summary": "2月28日消息，小米汽车科技有限公司一项关于“自动驾驶算法评测报告生成方法”的专利获得授权。该专利利用大语言模型，根据自动驾驶算法的评测数据自动生成评测报告，旨在降低报告生成难度和成本，提高效率与质量。",
+      "importance": "中",
+      "reason": "属于【重大学术/技术突破】。中国智能汽车公司（小米）在自动驾驶与AI结合的前沿领域获得专利授权，体现了其在AI技术研发上的进展。",
+      "tags": [
+        "专利",
+        "自动驾驶",
+        "大语言模型"
+      ],
+      "url": "https://36kr.com/p/3700996120915848?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-27 03:30:50",
+      "impact_score": 266.0
+    },
+    {
+      "index": 9,
+      "title": "影石337调查完胜！美国ITC终裁：GoPro六项指控均不成立",
+      "summary": "2月28日消息，中国全景相机企业影石创新发布公告，美国国际贸易委员会终裁判定，GoPro对其发起的全部六项337调查指控均不成立。此次胜利意味着影石创新在美国市场的业务将不受限制，公司2025年营收已逼近百亿元。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】。中国AI硬件科技公司在重要的国际知识产权纠纷中取得全面胜利，维护了其全球市场权益，是具有标志性意义的商业事件。",
+      "tags": [
+        "知识产权",
+        "337调查",
+        "硬件出海"
+      ],
+      "url": "https://www.leiphone.com/category/robot/vZ1kKdmdP0efTsSX.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-27 06:18:00",
+      "impact_score": 260.0
+    },
+    {
+      "index": 10,
+      "title": "去年出货10万件、降低打印成本80%，这家高精度金属3D打印公司连融两轮丨36氪首发",
+      "summary": "2月28日消息，高精度微米级金属3D打印企业云耀深维（江苏）科技有限公司，近期连续完成天使轮及Pre-A轮数千万元人民币融资，投资方包括红杉种子基金、博远资本等。资金将用于技术研发、产能提升和市场拓展。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】。中国AI与先进制造交叉领域（3D打印）的公司获得知名机构融资，反映了硬科技投资的趋势。",
+      "tags": [
+        "融资",
+        "3D打印",
+        "硬科技"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/C4kW7EtUqrcMQkUd.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-02-28 01:14:00",
+      "impact_score": 255.0
+    },
+    {
+      "index": 11,
+      "title": "魅族旗下AR眼镜品牌StarV正寻求独立融资",
+      "summary": "2月28日消息，据知情人士透露，魅族旗下AR眼镜品牌StarV正在寻求独立融资，也不排除单独出售的可能性，目前已与部分意向企业接洽。此举可能是魅族在AI硬件浪潮中调整其AR业务战略的一部分。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】。涉及中国消费电子公司在AI硬件（AR）领域的业务调整和资本运作。",
+      "tags": [
+        "融资",
+        "AR",
+        "硬件"
+      ],
+      "url": "https://36kr.com/p/3700794963193734?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-27 00:05:50",
+      "impact_score": 234.0
+    },
+    {
+      "index": 12,
+      "title": "9点1氪丨语音误关大灯致车祸，领克道歉；OpenAI获1100亿美元融资；米哈游内部通报员工意外离世",
+      "summary": "2月28日消息，针对车主语音误操作关闭车辆大灯导致事故的报道，领克汽车销售有限公司副总经理通过社交平台回应，称已第一时间完成语音控制优化方案并通过云端推送更新，后续在行驶状态下将只能通过手动控制大灯。",
+      "importance": "低",
+      "reason": "属于【安全与伦理】。涉及中国汽车品牌（吉利旗下领克）的智能座舱AI语音交互安全事件及快速响应，是AI应用安全性的典型案例。",
+      "tags": [
+        "AI安全",
+        "智能汽车",
+        "OTA更新"
+      ],
+      "url": "https://36kr.com/newsflashes/3702447658479744?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-28 04:30:25",
+      "impact_score": 225.0
+    },
+    {
+      "index": 13,
+      "title": "仅补贴3万元？曝36岁程序员复工当晚猝死，米哈游回应；哈啰招聘运营要求「98后，能力强放宽至97后」，客服回应；多家车企回应语音关大灯",
+      "summary": "2月28日消息，针对网络传闻，中国游戏公司米哈游就员工意外离世事件作出回应，称不存在春节加班情况，并已成立专项小组。同时，多家中国车企也就智能汽车语音控制大灯可能存在的安全问题进行了回应。",
+      "importance": "低",
+      "reason": "属于【安全与伦理】。涉及中国AI/游戏公司的员工关怀与舆情事件，以及智能汽车AI功能的安全讨论，具有一定行业关注度。",
+      "tags": [
+        "企业回应",
+        "AI伦理",
+        "智能汽车"
+      ],
+      "url": "https://36kr.com/p/3700876701642374?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-27 01:37:02",
+      "impact_score": 215.0
+    },
+    {
+      "index": 14,
+      "title": "分拆百度Robotaxi萝卜快跑？李彦宏回应了",
+      "summary": "2月28日消息，百度创始人李彦宏就市场传闻的“分拆自动驾驶业务萝卜快跑”一事进行了回应。作为中国自动驾驶领域的领先企业，百度在该业务上的战略动向备受业界关注。",
+      "importance": "低",
+      "reason": "属于【重大商业动态】。涉及中国AI巨头百度核心自动驾驶业务的战略传闻，反映了市场对其商业化路径的关注。",
+      "tags": [
+        "自动驾驶",
+        "百度",
+        "业务分拆"
+      ],
+      "url": "https://36kr.com/newsflashes/3702540414103945?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-02-28 06:14:17",
+      "impact_score": 171.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Trump orders federal agencies to drop Anthropic’s AI",
+      "summary": "2月28日消息，美国前总统特朗普在社交媒体上发布指令，要求所有联邦机构立即停止使用Anthropic公司的AI产品，并指责该公司试图“胁迫”五角大楼，此举源于Anthropic CEO拒绝签署允许其技术用于大规模监控和自主武器的更新协议。",
+      "importance": "高",
+      "reason": "重大政策与法规：美国前总统直接干预，涉及政府机构禁用特定AI公司产品，属于高规格的行政指令，影响深远。",
+      "tags": [
+        "政策法规",
+        "政府禁令",
+        "AI伦理"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-02-27/anthropic-in-a-lose-lose-situation-opinion-s-lee-says-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-27 17:56:53",
+      "impact_score": 262.5
+    },
+    {
+      "index": 2,
+      "title": "OpenAI Gives Pentagon AI Model Access After Anthropic Dustup",
+      "summary": "2月28日消息，OpenAI已同意在美国国防部的机密网络中部署其人工智能模型，此举发生在竞争对手Anthropic因监控和自主武器问题与五角大楼关系破裂之后，标志着美国军方与顶尖AI公司合作关系的重大转变。",
+      "importance": "高",
+      "reason": "重大政策与法规/商业动态：涉及美国国防部与顶尖AI公司的重大合作，直接关系到军事AI的应用规则和国家安全，是行业风向标事件。",
+      "tags": [
+        "政府合作",
+        "军事AI",
+        "国家安全"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-02-27/bloomberg-tech-2-27-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-27 21:47:53",
+      "impact_score": 240.0
+    },
+    {
+      "index": 3,
+      "title": "OpenAI Raises $110B From Amazon, Nvidia, Others | Bloomberg Tech 2/27/2026",
+      "summary": "2月28日消息，OpenAI完成了高达1100亿美元的创纪录私募融资，估值达7300亿美元，主要投资者包括亚马逊、英伟达和软银，这笔巨额资金将用于支持其AI开发的算力与人才需求。",
+      "importance": "高",
+      "reason": "重大商业动态：创纪录的巨额融资，金额巨大，涉及亚马逊、英伟达等关键产业巨头，深刻影响全球AI产业格局和资本流向。",
+      "tags": [
+        "巨额融资",
+        "产业格局",
+        "资本动态"
+      ],
+      "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-02-27 14:13:01",
+      "impact_score": 210.0
+    },
+    {
+      "index": 4,
+      "title": "Anthropic to sue Trump administration after AI lab is labelled security risk",
+      "summary": "2月28日消息，在美国国防部将Anthropic列为“供应链风险”并禁止其参与政府合同后，该公司计划起诉特朗普政府，法律争端一触即发，同时OpenAI宣布了在机密网络部署模型的协议。",
+      "importance": "高",
+      "reason": "重大政策与法规/安全与伦理：涉及政府将顶级AI公司列为安全风险、法律诉讼威胁以及军事AI应用的伦理争议，是多维度的高风险冲突。",
+      "tags": [
+        "法律诉讼",
+        "供应链安全",
+        "政府关系"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-28/openai-gives-pentagon-access-to-models-after-anthropic-dustup",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-28 04:14:43",
+      "impact_score": 195.0
+    },
+    {
+      "index": 5,
+      "title": "Anthropic vs. the Pentagon: What’s actually at stake?",
+      "summary": "2月28日消息，Anthropic与美国国防部就AI在自主武器和监控中的应用发生激烈冲突，这场争执引发了关于国家安全、企业控制权以及谁为军事AI设定规则的高风险问题。",
+      "importance": "高",
+      "reason": "安全与伦理/重大政策：核心是AI军事化应用的伦理边界和规则制定权之争，涉及国家安全与企业原则的根本性冲突，具有全球示范效应。",
+      "tags": [
+        "AI伦理",
+        "自主武器",
+        "规则制定"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-02-27/open-interest-2-27-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-27 18:23:35",
+      "impact_score": 195.0
+    },
+    {
+      "index": 6,
+      "title": "Anthropic Is in a Lose-Lose Situation, Opinion's Lee Says",
+      "summary": "2月28日消息，彭博社观点专栏作者指出，Anthropic联合创始人兼CEO达里奥·阿莫代伊在与五角大楼关于AI产品使用方式的斗争中陷入“双输”困境，面临如何处理与军方关系的真实难题。",
+      "importance": "中",
+      "reason": "安全与伦理/商业动态：深入分析了顶尖AI公司在政府压力下的战略困境，反映了行业在商业、伦理与政治之间的复杂博弈。",
+      "tags": [
+        "企业战略",
+        "政府关系",
+        "伦理困境"
+      ],
+      "url": "https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-02-27 19:11:04",
+      "impact_score": 186.0
+    },
+    {
+      "index": 7,
+      "title": "OpenAI strikes deal with Pentagon, hours after rival Anthropic was blacklisted by Trump",
+      "summary": "2月28日消息，OpenAI CEO萨姆·奥特曼在X上宣布，公司已与国防部就使用其模型达成协议，此举发生在竞争对手Anthropic被特朗普列入黑名单仅数小时后，凸显了行业竞争与政府关系的微妙变化。",
+      "importance": "中",
+      "reason": "重大商业动态/政策：OpenAI迅速填补了Anthropic留下的政府合作空白，展示了商业敏锐度，也加剧了行业内部在政府项目上的竞争态势。",
+      "tags": [
+        "政府协议",
+        "行业竞争",
+        "CEO动态"
+      ],
+      "url": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-02-27 19:42:00",
+      "impact_score": 160.0
+    },
+    {
+      "index": 8,
+      "title": "Anthropic Hits Back After US Military Labels It a ‘Supply Chain Risk’",
+      "summary": "2月28日消息，在关于军事使用其AI模型的谈判破裂后，Anthropic反击称，五角大楼将其技术列入黑名单将是“法律上不健全的”，公司准备捍卫自身立场。",
+      "importance": "中",
+      "reason": "安全与伦理/政策：展示了AI公司对政府压力的公开反抗，事件从私下谈判升级为公开对峙，法律和舆论战意味浓厚。",
+      "tags": [
+        "企业回应",
+        "法律争议",
+        "供应链"
+      ],
+      "url": "https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-02-27 21:30:47",
+      "impact_score": 158.0
+    },
+    {
+      "index": 9,
+      "title": "Employees at Google and OpenAI support Anthropic’s Pentagon stand in open letter",
+      "summary": "2月28日消息，谷歌和OpenAI的员工发表公开信，支持Anthropic在与五角大楼对峙中坚持其技术不得用于大规模国内监控或完全自主武器的立场，显示了科技行业内部对AI伦理的广泛关注。",
+      "importance": "中",
+      "reason": "安全与伦理：行业内部员工跨公司联合发声，形成舆论压力，反映了AI伦理问题在顶尖科技公司中的普遍性和重要性。",
+      "tags": [
+        "员工行动",
+        "AI伦理",
+        "行业共识"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-02-27/former-netflix-executive-on-the-wbd-psky-merger-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-27 23:50:50",
+      "impact_score": 157.5
+    },
+    {
+      "index": 10,
+      "title": "Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’",
+      "summary": "2月28日消息，埃隆·马斯克在针对OpenAI的诉讼证词中抨击对方，并吹捧xAI的安全性，但几个月后，xAI的Grok模型却在X平台上传播了大量非自愿的裸体图像，引发对其安全声明的质疑。",
+      "importance": "中",
+      "reason": "安全与伦理：涉及AI安全性的公开法律争论和实际安全事件，主角是行业关键人物马斯克及其公司，具有高关注度。",
+      "tags": [
+        "AI安全",
+        "法律诉讼",
+        "公众人物"
+      ],
+      "url": "https://www.ft.com/content/1aeff07f-6221-4577-b19c-887bb654c585",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-02-28 03:12:16",
+      "impact_score": 150.0
+    },
+    {
+      "index": 11,
+      "title": "Inside CoreWeave's $8.5B Buildout Raise",
+      "summary": "2月28日消息，AI云服务提供商CoreWeave正在寻求筹集约85亿美元资金，以帮助其为Meta等客户建设云计算能力，这显示了市场对AI算力基础设施的巨额投资需求。",
+      "importance": "中",
+      "reason": "重大商业动态：巨额融资，直接服务于Meta等巨头的AI算力需求，反映了AI基础设施赛道的火热和资本密集度。",
+      "tags": [
+        "基础设施",
+        "云服务",
+        "巨额融资"
+      ],
+      "url": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
+      "source": "Wired AI",
+      "original_pub_date": "2026-02-28 03:30:41",
+      "impact_score": 145.0
+    },
+    {
+      "index": 12,
+      "title": "Blackstone Plans Public Company for AI Data-Center Buying Spree",
+      "summary": "2月28日消息，黑石集团正在启动一家公开交易的收购公司，旨在收购数据中心，为数百万散户投资者提供押注人工智能热潮的机会，标志着资本以新形式大规模涌入AI基础设施领域。",
+      "importance": "中",
+      "reason": "重大商业动态：全球顶级投资机构通过创新金融产品引导公众资本进入AI数据中心领域，是AI投资浪潮深化和大众化的标志。",
+      "tags": [
+        "金融产品",
+        "数据中心",
+        "资本涌入"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-02-27/inside-coreweave-s-8-5b-buildout-raise-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-27 19:06:53",
+      "impact_score": 142.5
+    },
+    {
+      "index": 13,
+      "title": "Block Slices Workforce, Raises Questions About AI Washing",
+      "summary": "2月28日消息，杰克·多西的金融科技公司Block宣布将裁减近一半员工，并押注于AI，但怀疑论者认为对技术的投资可能并非裁员的唯一原因，引发了关于“AI炒作”的讨论。",
+      "importance": "低",
+      "reason": "商业动态：知名公司大规模裁员并转向AI战略，反映了企业转型趋势，也引发了关于AI是否被用作裁员借口的行业讨论。",
+      "tags": [
+        "企业转型",
+        "裁员",
+        "AI战略"
+      ],
+      "url": "https://www.cnbc.com/2026/02/27/openai-strikes-deal-with-pentagon-hours-after-rival-anthropic-was-blacklisted-by-trump.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-02-28 04:25:34",
+      "impact_score": 140.0
+    },
+    {
+      "index": 14,
+      "title": "BMW to use humanoid robots on production line",
+      "summary": "2月28日消息，宝马集团将在生产线上使用人形机器人，加入了特斯拉和其他汽车制造商的行列，该行业正转向使用AI驱动的机器人来降低劳动力和制造成本。",
+      "importance": "低",
+      "reason": "商业动态：传统制造业巨头宝马跟进采用人形机器人，表明AI驱动的自动化正在从科技公司向全球传统制造业加速渗透。",
+      "tags": [
+        "制造业",
+        "机器人",
+        "自动化"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-02-27/spacex-said-to-target-ipo-filing-as-soon-as-march-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-27 21:04:26",
+      "impact_score": 127.5
+    },
+    {
+      "index": 15,
+      "title": "Condé Nast CEO says AI is a ‘death blow’ to Google search",
+      "summary": "2月28日消息，康泰纳仕集团CEO表示，人工智能对谷歌搜索是“致命一击”，同时透露这家拥有《Vogue》和《纽约客》的出版商去年通过订阅增长实现了收入增长。",
+      "importance": "低",
+      "reason": "商业动态：传统媒体巨头CEO对AI冲击搜索巨头的判断，反映了内容产业高层对AI颠覆性影响的认知和自身转型的尝试。",
+      "tags": [
+        "媒体行业",
+        "搜索竞争",
+        "CEO观点"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-02-27/blackstone-plans-public-company-for-ai-data-center-buying-spree",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-02-27 20:38:24",
+      "impact_score": 127.5
+    }
+  ],
+  "summary": "今日从121条原始信息中精选出14条国内动态和15条国际动态，其中11条为高重要性。 重点关注：我国首个国家级人形机器人与具身智能标准体系发布；千问将发布AI眼镜、耳机、指环，巨头抢占AI新入口丨智能涌现独家；新车上市降价18万元被骂惨！莲花CEO回应降价背刺老车主；三只羊否认借壳美股上市：仅为海外直播运营业务合作；字节估值飙升至5500亿美元。",
+  "statistics": {
+    "raw_domestic": 33,
+    "raw_international": 88,
+    "raw_total": 121,
+    "final_domestic": 14,
+    "final_international": 15
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "2月28日消息，工业和信息化部人形机器人与具身智能标准化技术委员会在北京召开首届年会，正式发布《人形机器人与具身智能标准体系（2026版）》。这是我国首个覆盖人形机器人全产业链、全生命周期的国家级标准顶层设计，标志着相关产业进入规范化发展的新阶段。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "2月28日消息，阿里巴巴旗下个人AI助手“千问”将进军AI硬件领域，计划在2026年面向全球市场发布AI眼镜、AI耳机和AI指环等多款硬件产品。其中，AI眼镜将在世界移动通信大会上发布，旨在将AI助手从手机扩展到更多终端形态。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "2月28日消息，据媒体报道，国产AI公司深度求索已向华为等国内厂商提供其最新V4模型进行测试，此举被解读为国产AI厂商在技术生态上加强合作、应对外部供应链不确定性的重要信号。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "2月28日消息，具身智能公司“中科第五纪”在一个月内连续完成Pre-A及Pre-A+轮融资，规模达数亿元人民币，由红杉中国等知名机构领投。该公司是宇树科技的核心生态合作伙伴，为其机器人提供“大脑”模型。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "2月28日消息，具身智能明星公司星海图的首席科学家许华哲离职创业，新公司已获得星海图的种子轮投资，将切入具身智能的C端应用赛道。同时，星海图自身近期也完成了新一轮融资，估值突破100亿人民币。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "2月28日消息，美国前总统特朗普在社交媒体上发布指令，要求所有联邦机构立即停止使用Anthropic公司的AI产品，并指责该公司试图“胁迫”五角大楼，此举源于Anthropic CEO拒绝签署允许其技术用于大规模监控和自主武器的更新协议。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "2月28日消息，OpenAI已同意在美国国防部的机密网络中部署其人工智能模型，此举发生在竞争对手Anthropic因监控和自主武器问题与五角大楼关系破裂之后，标志着美国军方与顶尖AI公司合作关系的重大转变。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "2月28日消息，OpenAI完成了高达1100亿美元的创纪录私募融资，估值达7300亿美元，主要投资者包括亚马逊、英伟达和软银，这笔巨额资金将用于支持其AI开发的算力与人才需求。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "2月28日消息，在美国国防部将Anthropic列为“供应链风险”并禁止其参与政府合同后，该公司计划起诉特朗普政府，法律争端一触即发，同时OpenAI宣布了在机密网络部署模型的协议。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "2月28日消息，Anthropic与美国国防部就AI在自主武器和监控中的应用发生激烈冲突，这场争执引发了关于国家安全、企业控制权以及谁为军事AI设定规则的高风险问题。",
+      "importance": "高"
+    }
+  ]
+}
