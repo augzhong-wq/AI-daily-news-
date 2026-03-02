@@ -1,0 +1,457 @@
+{
+  "date": "2026-03-02",
+  "generated_at": "2026-03-02 08:53:40",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "阿里巴巴AI品牌统一为千问",
+      "summary": "3月2日消息，阿里巴巴集团将其所有AI业务的核心品牌统一为“千问”，涵盖千问大模型（Qwen）系列及千问APP，旨在解决此前多个品牌名称造成的混淆问题，此举标志着其AI战略的整合与品牌聚焦。",
+      "importance": "高",
+      "reason": "重大商业动态：中国科技巨头阿里巴巴进行重大AI品牌战略整合，统一旗下大模型与应用品牌，属于标志性商业动作。",
+      "tags": [
+        "品牌整合",
+        "大模型",
+        "战略调整"
+      ],
+      "url": "https://36kr.com/p/3702755208622469?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-02 00:30:00",
+      "impact_score": 517.5
+    },
+    {
+      "index": 2,
+      "title": "新智驾独家｜蔚来芯片子公司完成首轮融资，投后估值近百亿元",
+      "summary": "3月2日消息，蔚来汽车旗下芯片子公司安徽神玑完成首轮融资，投后估值接近百亿元人民币，投资方为多家产业资本和头部机构，资金将用于芯片研发、量产及技术授权业务。",
+      "importance": "高",
+      "reason": "重大商业动态：中国头部新能源车企的芯片子公司获得大额融资，估值近百亿，属于AI硬件（芯片）领域的重要资本事件。",
+      "tags": [
+        "芯片",
+        "融资",
+        "自动驾驶"
+      ],
+      "url": "https://www.leiphone.com/category/transportation/6TEQgG94ZVlTc9Os.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-02 01:58:00",
+      "impact_score": 440.0
+    },
+    {
+      "index": 3,
+      "title": "揭秘长城智驾自研：元戎、Momenta「抬轿」与千人自研团队",
+      "summary": "3月2日消息，长城汽车在引入外部供应商的同时，已组建一支上千人的自研团队整合座舱与智驾，并于2025年末发布了VLA大模型，成为行业内少数实现VLA落地的车企，展现了其智驾自研的决心与进展。",
+      "importance": "高",
+      "reason": "重大产品发布/商业动态：中国主要车企长城汽车发布VLA大模型并披露大规模自研团队，属于自动驾驶领域的重要技术进展和战略布局。",
+      "tags": [
+        "自动驾驶",
+        "VLA大模型",
+        "自研"
+      ],
+      "url": "https://36kr.com/p/3702758570488193?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-02 00:30:00",
+      "impact_score": 420.0
+    },
+    {
+      "index": 4,
+      "title": "奇点摄动首款 3D 二次元 AI 伴侣内测，底层自研 AI 的路好走吗？",
+      "summary": "3月2日消息，中国AI技术公司奇点摄动自主研发的3D二次元AI伴侣应用《星夜颂歌》开启封闭技术内测，产品预计于2026年全球上线，展示了其在AI原生应用和底层自研技术上的探索。",
+      "importance": "高",
+      "reason": "重大产品发布：中国AI公司推出自研的3D AI伴侣应用，属于AI原生应用和生成式AI在C端落地的重要尝试。",
+      "tags": [
+        "AI原生应用",
+        "生成式AI",
+        "产品发布"
+      ],
+      "url": "https://36kr.com/p/3705249084895369?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-02 03:35:28",
+      "impact_score": 401.5
+    },
+    {
+      "index": 5,
+      "title": "中国电信入股AI公司面壁智能",
+      "summary": "3月2日消息，中国电信集团有限公司通过旗下投资公司入股人工智能大模型企业北京面壁智能科技有限责任公司，该公司注册资本随之增加，此举意味着国有资本对AI初创企业的战略投资。",
+      "importance": "高",
+      "reason": "重大商业动态：中国大型国有电信运营商战略投资AI大模型初创公司，属于产业资本与AI技术结合的重要动向。",
+      "tags": [
+        "战略投资",
+        "大模型",
+        "国有资本"
+      ],
+      "url": "https://36kr.com/p/3590663070384392?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-02 02:12:34",
+      "impact_score": 342.5
+    },
+    {
+      "index": 6,
+      "title": "“优理奇机器人”完成近3亿元新一轮股权融资",
+      "summary": "3月2日消息，通用具身智能机器人公司“优理奇机器人”宣布完成近3亿元人民币新一轮股权融资，资金将用于深化软硬件全栈自研、加速产品迭代及全球渠道建设，推动机器人在商业场景的大规模应用。",
+      "importance": "高",
+      "reason": "重大商业动态：中国具身智能机器人公司获得大额融资，属于AI在机器人领域商业化推进的重要资本支持。",
+      "tags": [
+        "具身智能",
+        "融资",
+        "机器人"
+      ],
+      "url": "https://36kr.com/p/3702746899198087?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-02 00:30:00",
+      "impact_score": 322.5
+    },
+    {
+      "index": 7,
+      "title": "头部人形机器人关节公司完成C+轮融资，单品销量第一、年营收翻倍｜硬氪首发",
+      "summary": "3月2日消息，深圳市零差云控科技有限公司完成数千万元C+轮融资，该公司是人形机器人关节核心部件头部企业，其产品销量全球第一且年营收实现翻倍，融资将用于研发、产能扩张及市场拓展。",
+      "importance": "中",
+      "reason": "重大商业动态：中国机器人核心零部件头部企业获得融资，业务增长显著，属于AI机器人产业链上游的重要进展。",
+      "tags": [
+        "机器人核心部件",
+        "融资",
+        "商业化"
+      ],
+      "url": "https://36kr.com/p/3705039542710665?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-02 00:15:08",
+      "impact_score": 256.0
+    },
+    {
+      "index": 8,
+      "title": "安克投过的全地形机器人公司再融资，华创领投超亿元，产品已规模化落地｜硬氪首发",
+      "summary": "3月2日消息，大载重全地形机器人企业觉物科技完成亿元级A轮融资，其机器人产品已在真实农田环境中完成验证并实现订单获取与规模化铺量，获得资本市场认可。",
+      "importance": "中",
+      "reason": "重大商业动态：中国农业/特种机器人公司获得超亿元融资并实现产品规模化落地，属于AI在垂直领域应用商业化的重要案例。",
+      "tags": [
+        "特种机器人",
+        "融资",
+        "农业AI"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/S0M0F81kA1NsOqdA.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-02 02:07:00",
+      "impact_score": 255.0
+    },
+    {
+      "index": 9,
+      "title": "生成式AI赋能数字化心理治疗，「望里科技」获数千万元B+轮融资｜36氪首发",
+      "summary": "3月2日消息，精神心理数字诊疗平台「望里科技」完成数千万元B+轮融资，该公司利用生成式AI技术，基于自建的30万患者数据库，提供数字化心理治疗解决方案，资金将主要用于产品研发。",
+      "importance": "中",
+      "reason": "重大商业动态：中国AI+医疗健康公司获得融资，专注于生成式AI在心理治疗领域的应用，属于AI在垂直行业落地的重要动态。",
+      "tags": [
+        "AI+医疗",
+        "生成式AI",
+        "融资"
+      ],
+      "url": "https://36kr.com/p/3705242771845249?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-02 08:06:04",
+      "impact_score": 251.0
+    },
+    {
+      "index": 10,
+      "title": "“一键生成，页页可改”！商汤办公小浣熊推出「可编辑」的AI PPT",
+      "summary": "3月2日消息，商汤科技旗下办公应用“办公小浣熊”推出支持“可编辑”的AI PPT生成功能，允许用户对AI生成的每一页幻灯片进行精细化修改，提升了AI办公工具的实用性和可控性。",
+      "importance": "中",
+      "reason": "重大产品发布：中国头部AI公司商汤科技推出其AI办公产品的重要功能更新，属于生成式AI在办公场景应用的具体产品迭代。",
+      "tags": [
+        "AI办公",
+        "产品功能",
+        "商汤科技"
+      ],
+      "url": "https://36kr.com/p/3670040712094601?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-02 00:00:00",
+      "impact_score": 245.0
+    },
+    {
+      "index": 11,
+      "title": "13 vs 3，国产安全AI悄悄完成了对Claude的超越",
+      "summary": "3月2日消息，国产安全AI在漏洞发现能力上实现了对Anthropic公司Claude模型的超越，不仅成功复现了后者发现的漏洞，还额外找出了10个0day漏洞，展现了其在AI安全领域的强劲实力。",
+      "importance": "中",
+      "reason": "重大学术/技术突破：中国AI在安全测试领域性能超越国际知名模型，属于AI安全与能力评估方面的重要进展。",
+      "tags": [
+        "AI安全",
+        "性能超越",
+        "漏洞发现"
+      ],
+      "url": "https://36kr.com/p/3705358618407300?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-02 05:27:00",
+      "impact_score": 230.0
+    },
+    {
+      "index": 12,
+      "title": "南充市安智创科低空经济发展公司成立，注册资本1亿元",
+      "summary": "3月2日消息，南充市安智创科低空经济发展有限责任公司成立，注册资本1亿元人民币，由西充县财政局全资持股，经营范围涵盖智能无人飞行器制造、销售及人工智能系统集成服务，标志着地方国资入局低空经济与AI融合领域。",
+      "importance": "低",
+      "reason": "商业动态：中国地方政府通过国资平台成立公司，布局低空经济与AI结合的产业，属于区域AI产业政策落地和资本布局的动向。",
+      "tags": [
+        "低空经济",
+        "国资",
+        "无人机"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/FTmRsHq0c99LHDsW.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-02 04:08:00",
+      "impact_score": 225.0
+    },
+    {
+      "index": 13,
+      "title": "重磅官宣：2026年的AWE上，36氪造了一整条街区",
+      "summary": "3月2日消息，科技媒体36氪宣布将在以“AI科技、慧享未来”为主题的AWE2026展会上打造一整条街区，集中展示AI如何从技术概念走进真实生活，延续其推动AI与消费科技融合的举措。",
+      "importance": "低",
+      "reason": "商业动态：中国科技媒体平台在大型展会上策划AI主题展示，属于AI产业生态推广和平台活动，影响力相对间接。",
+      "tags": [
+        "产业生态",
+        "展会",
+        "AI普及"
+      ],
+      "url": "https://36kr.com/newsflashes/3705558408065160?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-02 08:48:56",
+      "impact_score": 195.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "OpenAI reveals more details about its agreement with the Pentagon",
+      "summary": "3月2日消息，OpenAI首席执行官萨姆·奥特曼透露了与美国国防部合作的更多细节，他承认该协议“肯定很仓促”，并且“从表面上看并不好”，这引发了外界对AI公司与军方合作透明度及伦理边界的广泛关注。",
+      "importance": "高",
+      "reason": "重大政策与法规：涉及全球领先AI公司与美国国防部的合作，属于高敏感度的国际政企合作动态，触及AI军事化应用与伦理争议。",
+      "tags": [
+        "OpenAI",
+        "美国国防部",
+        "合作",
+        "伦理争议"
+      ],
+      "url": "https://blogs.nvidia.com/blog/nvidia-agentic-ai-blueprints-telco-reasoning-models/",
+      "source": "NVIDIA AI",
+      "original_pub_date": "2026-03-01 07:00:45",
+      "impact_score": 251.0
+    },
+    {
+      "index": 2,
+      "title": "NVIDIA Advances Autonomous Networks With Agentic AI Blueprints and Telco Reasoning Models",
+      "summary": "3月2日消息，英伟达发布了最新的电信行业AI报告，并推出面向自主网络的智能体AI蓝图和电信推理模型，旨在将智能、自管理的电信运营从未来愿景转变为当前投资重点，推动AI-RAN从实验室走向实际部署。",
+      "importance": "高",
+      "reason": "重大产品发布：全球领先AI芯片与解决方案公司英伟达发布重要行业解决方案和蓝图，涉及下一代无线网络（AI-RAN）的核心技术，商业影响重大。",
+      "tags": [
+        "英伟达",
+        "AI-RAN",
+        "电信",
+        "自主网络",
+        "产品发布"
+      ],
+      "url": "https://arxiv.org/abs/2602.23632",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-02 05:00:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 3,
+      "title": "NVIDIA and Partners Show That Software-Defined AI-RAN Is the Next Wireless Generation",
+      "summary": "3月2日消息，英伟达与诺基亚在巴塞罗那世界移动通信大会前夕宣布，将与全球顶级电信运营商展开新的AI-RAN合作，共同展示软件定义的AI原生无线网络是下一代无线通信的唯一可行构建方式。",
+      "importance": "高",
+      "reason": "重大商业动态：英伟达与诺基亚及顶级运营商达成重要战略合作，共同定义和推动下一代无线网络标准（AI-RAN），属于产业级重大合作。",
+      "tags": [
+        "英伟达",
+        "诺基亚",
+        "AI-RAN",
+        "战略合作",
+        "MWC"
+      ],
+      "url": "https://arxiv.org/abs/2602.23668",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-02 05:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 4,
+      "title": "Nvidia-Backed AI Startup Firmus Signs New Contract Ahead of IPO",
+      "summary": "3月2日消息，获得英伟达支持的澳大利亚人工智能初创公司Firmus Technologies与一家全球科技公司签署新协议，将在墨尔本建设一个新的数据中心，此举为其计划于今年晚些时候进行的首次公开募股做好了准备。",
+      "importance": "中",
+      "reason": "重大商业动态：涉及英伟达生态链内初创公司的重要商业合同与IPO计划，反映了AI基础设施领域的投资热度与市场动向。",
+      "tags": [
+        "Firmus",
+        "英伟达",
+        "初创公司",
+        "IPO",
+        "数据中心"
+      ],
+      "url": "https://arxiv.org/abs/2602.23777",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-02 05:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 5,
+      "title": "Jack Dorsey’s 4,000 Job Cuts at Block Arouse Suspicions of AI-Washing",
+      "summary": "3月2日消息，Block公司本周裁员近半数员工（约4000人），其联合创始人杰克·多尔西将原因归咎于人工智能使公司能够用更少的员工完成更多工作，此举引发了市场对“AI粉饰”裁员真实动机的广泛质疑与讨论。",
+      "importance": "中",
+      "reason": "安全与伦理：涉及知名科技公司大规模裁员与AI应用的伦理争议，引发了关于“AI洗绿”（AI-washing）和AI对就业影响的社会讨论，属于重要的产业与社会动态。",
+      "tags": [
+        "Block",
+        "杰克·多尔西",
+        "裁员",
+        "AI伦理",
+        "就业影响"
+      ],
+      "url": "https://arxiv.org/abs/2602.23802",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-02 05:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 6,
+      "title": "Sony battles £2bn lawsuit claiming UK PlayStation users are overcharged for games",
+      "summary": "3月2日消息，索尼正面临一项高达20亿英镑的集体诉讼，该诉讼指控其向英国PlayStation用户过高收取游戏下载费用，如果诉讼成功，过去十年的购买者可能有资格获得赔偿，这涉及科技巨头的市场行为与消费者权益。",
+      "importance": "中",
+      "reason": "重大商业动态：涉及日本科技巨头索尼的重大法律诉讼，金额巨大，属于具有广泛影响力的国际商业与法律事件。",
+      "tags": [
+        "索尼",
+        "集体诉讼",
+        "反垄断",
+        "消费者权益",
+        "英国"
+      ],
+      "url": "https://arxiv.org/abs/2602.24110",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-02 05:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 7,
+      "title": "Google looks to tackle longstanding RCS spam in India — but not alone",
+      "summary": "3月2日消息，谷歌宣布通过与印度电信运营商Airtel的合作，将运营商级过滤功能集成到RCS中，以加强针对垃圾信息的防护，旨在解决印度市场长期存在的RCS垃圾信息问题。",
+      "importance": "中",
+      "reason": "重大商业动态：美国科技巨头谷歌与印度本土重要电信运营商达成合作，共同解决特定市场的技术与社会问题（垃圾信息），属于重要的国际商业合作与产品策略。",
+      "tags": [
+        "谷歌",
+        "Airtel",
+        "RCS",
+        "合作",
+        "印度市场"
+      ],
+      "url": "https://arxiv.org/abs/2602.23643",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-02 05:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 8,
+      "title": "Big Take: Lloyd Blankfein on AI, Private Credit, and Politics",
+      "summary": "3月2日消息，高盛集团前首席执行官劳埃德·布兰克费恩在访谈中分享了他对人工智能风险、私人信贷市场以及企业高管应如何应对政治环境的看法，代表了金融界高层对AI时代经济与治理的前瞻性思考。",
+      "importance": "低",
+      "reason": "重大商业动态：虽然非直接的产品或政策发布，但来自全球顶级金融机构前CEO对AI的权威评论，具有行业风向标意义，属于重要的产业观点与趋势分析。",
+      "tags": [
+        "劳埃德·布兰克费恩",
+        "高盛",
+        "AI风险",
+        "金融",
+        "行业观点"
+      ],
+      "url": "https://arxiv.org/abs/2602.23730",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-02 05:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 9,
+      "title": "MMKG-RDS: Reasoning Data Synthesis via Deep Mining of Multimodal Knowledge Graphs",
+      "summary": "3月2日消息，研究人员在arXiv上发布新论文，提出通过深度挖掘多模态知识图谱来合成高质量训练数据的新方法MMKG-RDS，旨在解决现有方法在长尾知识覆盖、有效性验证和可解释性方面的局限性，以增强领域模型的推理能力。",
+      "importance": "低",
+      "reason": "重大学术突破：发布于国际预印本平台arXiv的学术论文，提出了提升AI模型推理能力的新方法，属于前沿技术研究。",
+      "tags": [
+        "arXiv",
+        "知识图谱",
+        "数据合成",
+        "推理",
+        "学术研究"
+      ],
+      "url": "https://www.ft.com/content/264e27d9-04bc-4e99-b66b-f3838835d7c3",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-03-02 05:00:16",
+      "impact_score": 165.0
+    },
+    {
+      "index": 10,
+      "title": "PseudoAct: Leveraging Pseudocode Synthesis for Flexible Planning and Action Control in Large Language Model Agents",
+      "summary": "3月2日消息，一项发布于arXiv的新研究提出了PseudoAct框架，该框架利用伪代码合成为大语言模型智能体实现灵活的规划和行动控制，旨在克服现有反应式决策范式在长任务中导致的工具冗余使用和规划不一致问题。",
+      "importance": "低",
+      "reason": "重大学术突破：关于提升大语言模型智能体规划能力的前沿学术研究，对AI智能体发展有技术参考价值。",
+      "tags": [
+        "arXiv",
+        "大语言模型",
+        "智能体",
+        "规划",
+        "伪代码"
+      ],
+      "url": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-03-01 16:30:10",
+      "impact_score": 158.0
+    }
+  ],
+  "summary": "今日从87条原始信息中精选出13条国内动态和10条国际动态，其中9条为高重要性。 重点关注：阿里巴巴AI品牌统一为千问；新智驾独家｜蔚来芯片子公司完成首轮融资，投后估值近百亿元；揭秘长城智驾自研：元戎、Momenta「抬轿」与千人自研团队。",
+  "statistics": {
+    "raw_domestic": 30,
+    "raw_international": 57,
+    "raw_total": 87,
+    "final_domestic": 13,
+    "final_international": 10
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "3月2日消息，阿里巴巴集团将其所有AI业务的核心品牌统一为“千问”，涵盖千问大模型（Qwen）系列及千问APP，旨在解决此前多个品牌名称造成的混淆问题，此举标志着其AI战略的整合与品牌聚焦。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "3月2日消息，蔚来汽车旗下芯片子公司安徽神玑完成首轮融资，投后估值接近百亿元人民币，投资方为多家产业资本和头部机构，资金将用于芯片研发、量产及技术授权业务。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "3月2日消息，长城汽车在引入外部供应商的同时，已组建一支上千人的自研团队整合座舱与智驾，并于2025年末发布了VLA大模型，成为行业内少数实现VLA落地的车企，展现了其智驾自研的决心与进展。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "3月2日消息，中国AI技术公司奇点摄动自主研发的3D二次元AI伴侣应用《星夜颂歌》开启封闭技术内测，产品预计于2026年全球上线，展示了其在AI原生应用和底层自研技术上的探索。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "3月2日消息，中国电信集团有限公司通过旗下投资公司入股人工智能大模型企业北京面壁智能科技有限责任公司，该公司注册资本随之增加，此举意味着国有资本对AI初创企业的战略投资。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "3月2日消息，OpenAI首席执行官萨姆·奥特曼透露了与美国国防部合作的更多细节，他承认该协议“肯定很仓促”，并且“从表面上看并不好”，这引发了外界对AI公司与军方合作透明度及伦理边界的广泛关注。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "3月2日消息，英伟达发布了最新的电信行业AI报告，并推出面向自主网络的智能体AI蓝图和电信推理模型，旨在将智能、自管理的电信运营从未来愿景转变为当前投资重点，推动AI-RAN从实验室走向实际部署。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "3月2日消息，英伟达与诺基亚在巴塞罗那世界移动通信大会前夕宣布，将与全球顶级电信运营商展开新的AI-RAN合作，共同展示软件定义的AI原生无线网络是下一代无线通信的唯一可行构建方式。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "3月2日消息，获得英伟达支持的澳大利亚人工智能初创公司Firmus Technologies与一家全球科技公司签署新协议，将在墨尔本建设一个新的数据中心，此举为其计划于今年晚些时候进行的首次公开募股做好了准备。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "3月2日消息，Block公司本周裁员近半数员工（约4000人），其联合创始人杰克·多尔西将原因归咎于人工智能使公司能够用更少的员工完成更多工作，此举引发了市场对“AI粉饰”裁员真实动机的广泛质疑与讨论。",
+      "importance": "中"
+    }
+  ]
+}
