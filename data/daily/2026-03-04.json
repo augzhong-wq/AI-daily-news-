@@ -1,0 +1,568 @@
+{
+  "date": "2026-03-04",
+  "generated_at": "2026-03-04 08:48:20",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "何小鹏：未来1-3年完全自动驾驶将真正到来｜最前线",
+      "summary": "3月4日消息，小鹏汽车董事长何小鹏宣布，公司第二代VLA技术已具备从L2直接进入L4自动驾驶的可能性，并跳过L3阶段，将自动驾驶视为通用人工智能（AGI）在物理世界的落地，通过内部测评显示其技术领先行业一流选手接近5倍。",
+      "importance": "高",
+      "reason": "中国公司（小鹏汽车）发布重大产品战略，涉及自动驾驶（AI定义汽车）的核心演进路径，属于重大产品发布范畴。",
+      "tags": [
+        "自动驾驶",
+        "AGI",
+        "战略发布"
+      ],
+      "url": "https://36kr.com/p/3707327485505672?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-04 02:04:43",
+      "impact_score": 376.5
+    },
+    {
+      "index": 2,
+      "title": "地平线HSD首搭硬派SUV iCAR V27，“城野皆好开”全场景智驾落地",
+      "summary": "3月4日消息，地平线与iCAR联合发布搭载地平线HSD全场景辅助驾驶系统的量产车型iCAR V27，该车采用征程6P芯片与端到端大模型技术，实现了在多城市复杂场景下的高阶智能驾驶能力落地。",
+      "importance": "高",
+      "reason": "中国AI芯片及解决方案公司（地平线）与中国汽车品牌（iCAR）联合发布重大产品，涉及旗舰智驾芯片和端到端大模型技术的量产应用，属于重大产品发布。",
+      "tags": [
+        "智能驾驶",
+        "AI芯片",
+        "端到端模型",
+        "产品发布"
+      ],
+      "url": "https://www.leiphone.com/category/robot/KsRaXWF6vfFrSPy2.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-03 01:42:00",
+      "impact_score": 340.0
+    },
+    {
+      "index": 3,
+      "title": "全球大模型竞技场：多款国产模型上榜，Seed 2.0排名领先",
+      "summary": "3月4日消息，在全球大模型竞技场LMArena最新榜单中，字节跳动旗下Seed 2.0首次亮相即跻身全球前十，GLM-5、文心5.0、Qwen 3.5、Kimi K2.5等多款国产旗舰大模型同步上榜，标志着国产大模型集群冲击全球技术最高水平。",
+      "importance": "高",
+      "reason": "涉及多家中国公司（字节、智谱、百度、阿里、月之暗面）的旗舰大模型在国际权威评测中取得突破性成绩，属于重大学术/技术突破范畴。",
+      "tags": [
+        "大模型",
+        "性能评测",
+        "技术突破",
+        "国产模型"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/hSJAaoRMruFtIEHE.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-03 06:15:00",
+      "impact_score": 330.0
+    },
+    {
+      "index": 4,
+      "title": "AI产品榜：月活2.03亿、增速552%，千问成全球第三大AI应用",
+      "summary": "3月4日消息，最新AI产品榜显示，阿里巴巴旗下千问以2.03亿月活用户和552%的增速，成为全球第三大AI应用，与豆包共同形成国内AI应用双雄格局，其春节“请客活动”显著推动了用户增长和商业化落地。",
+      "importance": "高",
+      "reason": "中国公司（阿里巴巴）的核心AI产品取得重大商业成功，用户规模和增速数据亮眼，属于重大商业动态，反映了市场格局变化。",
+      "tags": [
+        "AI应用",
+        "用户增长",
+        "商业化",
+        "市场格局"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/48BnhZoTf5BIStsV.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-03 09:19:00",
+      "impact_score": 300.0
+    },
+    {
+      "index": 5,
+      "title": "阿里开源4款Qwen3.5小尺寸模型，马斯克点赞：惊人的智能水平",
+      "summary": "3月4日消息，阿里巴巴开源了Qwen3.5系列的4款小尺寸模型，覆盖0.8B到9B参数范围，继承了多模态能力与最新架构，旨在满足从资源受限到高性能轻量级应用的不同需求，并获得业界高度关注。",
+      "importance": "高",
+      "reason": "中国公司（阿里巴巴）发布重要开源模型，属于重大产品发布，对推动AI开发者和生态建设有显著影响。",
+      "tags": [
+        "开源模型",
+        "大模型",
+        "产品发布"
+      ],
+      "url": "https://36kr.com/p/3706785150546307?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-04 02:00:00",
+      "impact_score": 299.0
+    },
+    {
+      "index": 6,
+      "title": "阿里云百炼专属版登陆国际市场，加速全球企业构建专属AI引擎",
+      "summary": "3月4日消息，阿里云在MWC 2026上面向国际市场正式推出企业级Agentic AI开发平台“百炼专属版”，旨在帮助金融、医疗等高合规行业企业构建专属业务Agent，并整合了千问等开源模型生态。",
+      "importance": "高",
+      "reason": "中国公司（阿里云）在国际市场发布重要的企业级AI开发平台，属于重大产品发布和商业拓展动态。",
+      "tags": [
+        "企业服务",
+        "AI平台",
+        "出海",
+        "产品发布"
+      ],
+      "url": "https://36kr.com/newsflashes/3708264684187777?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-04 06:41:54",
+      "impact_score": 292.5
+    },
+    {
+      "index": 7,
+      "title": "千问AI眼镜真机曝光：首秀MWC2026，全球观众排队试戴",
+      "summary": "3月4日消息，阿里巴巴旗下千问AI眼镜在MWC 2026上首次全球亮相，其创新的换电设计解决了续航焦虑，吸引大量海外观众体验，标志着中国AI硬件加速走向全球市场。",
+      "importance": "中",
+      "reason": "中国公司（阿里巴巴）发布重要的AI硬件产品并在国际舞台展示，属于重大产品发布范畴。",
+      "tags": [
+        "AI硬件",
+        "产品发布",
+        "出海"
+      ],
+      "url": "https://36kr.com/p/3707151883382917?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-04 00:00:00",
+      "impact_score": 245.0
+    },
+    {
+      "index": 8,
+      "title": "新智驾独家丨原宁德时代执行总裁朱威，出任地平线总裁",
+      "summary": "3月4日消息，原宁德时代执行总裁朱威已出任中国AI芯片公司地平线的总裁，此举将加强地平线在智能驾驶与新能源领域的协同，原地平线总裁陈黎明转任副董事长。",
+      "importance": "中",
+      "reason": "中国领先的AI芯片公司发生重大人事变动，涉及核心管理层调整，可能影响公司战略和业务协同，属于重大商业动态。",
+      "tags": [
+        "人事变动",
+        "战略合作",
+        "智能驾驶"
+      ],
+      "url": "https://36kr.com/p/3701222224817801?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-04 01:30:00",
+      "impact_score": 230.0
+    },
+    {
+      "index": 9,
+      "title": "黄金频段争夺战打响，华为发布U6GHz完整产品矩阵丨MWC 2026",
+      "summary": "3月4日消息，华为在MWC 2026期间发布了完整的U6GHz产品矩阵，该频段被视为未来5G-A和6G部署的“黄金频段”，旨在为移动网络扩容升级和未来6G演进提供关键基础设施支持。",
+      "importance": "中",
+      "reason": "中国公司（华为）在国际通信展上发布关键的通信网络产品与解决方案，涉及未来6G基础设施，属于重大产品发布。",
+      "tags": [
+        "通信技术",
+        "6G",
+        "产品发布",
+        "基础设施"
+      ],
+      "url": "https://36kr.com/p/3707876236931461?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-04 00:09:22",
+      "impact_score": 225.0
+    },
+    {
+      "index": 10,
+      "title": "荣耀“转型”：发布Robot Phone和首款人形机器人丨MWC 2026",
+      "summary": "3月4日消息，荣耀在MWC 2026上发布了创新产品Robot Phone和其首款人形机器人，展示了其在AI硬件和机器人领域的技术突破，吸引了全球业界的广泛关注。",
+      "importance": "中",
+      "reason": "中国公司（荣耀）发布创新型AI硬件和机器人产品，属于重大产品发布，展示了公司向AI和机器人领域转型的动向。",
+      "tags": [
+        "AI硬件",
+        "机器人",
+        "产品发布",
+        "技术创新"
+      ],
+      "url": "https://36kr.com/p/3708380553507209?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-04 08:43:27",
+      "impact_score": 221.0
+    },
+    {
+      "index": 11,
+      "title": "魔法原子春晚机器人惊艳亮相MWC 持续引领行业创新发展",
+      "summary": "3月4日消息，中国机器人公司魔法原子携春晚同款“机器熊猫”机器人亮相MWC 2026，通过高度仿生的外观和动作展示其在情感智能与机器人技术上的创新，加速其全球化战略和“中国智造”出海。",
+      "importance": "中",
+      "reason": "中国公司（魔法原子）在国际顶级展会上展示其机器人技术成果，属于重要的商业推广和技术展示动态。",
+      "tags": [
+        "机器人",
+        "技术创新",
+        "出海"
+      ],
+      "url": "https://www.leiphone.com/category/transportation/ALD6YHfmj69F0H6a.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-03 09:46:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 12,
+      "title": "混元3D落地欧洲，腾讯云宣布将在德国法兰克福新增第三个可用区",
+      "summary": "3月4日消息，腾讯云在MWC 2026期间宣布将在德国法兰克福新增一个云可用区，以支持其混元3D大模型等AI技术在海外的加速应用，满足欧洲市场不断增长的AI与云服务需求。",
+      "importance": "中",
+      "reason": "中国公司（腾讯）扩大海外云基础设施布局，以支持其AI大模型等业务的国际化发展，属于重大商业动态。",
+      "tags": [
+        "云计算",
+        "大模型",
+        "出海",
+        "基础设施"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/HMuZ7q5gRLeefeYm.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-03 02:30:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 13,
+      "title": "莱芒生物完成近2亿元新增融资，加速推进代谢增强型免疫细胞疗法临床转化｜36氪首发",
+      "summary": "3月4日消息，AI+生物技术公司莱芒生物完成近2亿元新增融资，由粤财中垠等机构领投，资金将用于推进其基于AI代谢重编程平台的CAR-T细胞药物临床研究及自动化生产工艺研发。",
+      "importance": "中",
+      "reason": "中国AI+生物科技公司获得大额融资，用于推进前沿疗法临床转化，属于重大商业动态（融资）。",
+      "tags": [
+        "AI+生物科技",
+        "融资",
+        "临床研究"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/Q2VJAQuaM1rKtLpw.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-03 09:43:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 14,
+      "title": "2026第十一届安全创客汇在京正式启动 双赛道创新赋能产业发展",
+      "summary": "3月4日消息，由奇安信集团主办的2026第十一届安全创客汇在北京正式启动，该赛事汇聚政企各界力量，旨在激活网络安全领域的创新活力，助力中国网安产业高质量发展。",
+      "importance": "中",
+      "reason": "中国网络安全公司（奇安信）主办重要行业创新赛事，涉及AI与安全结合，属于重要的产业生态活动。",
+      "tags": [
+        "网络安全",
+        "创新创业",
+        "产业生态"
+      ],
+      "url": "https://www.leiphone.com/category/chips/q23arpkjO3Ra5gH1.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-03 02:38:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 15,
+      "title": "前大疆工程师创业，宇树天使投资人出手，仿生柔性机器人公司完成新融资｜硬氪首发",
+      "summary": "3月4日消息，深圳擎羽科技完成数千万元天使轮融资，该公司由前大疆工程师创立，专注于仿生柔性机器人研发，采用自适应柔驱技术解决传统机器人的刚性限制问题。",
+      "importance": "低",
+      "reason": "中国机器人初创公司获得融资，属于AI/机器人领域的商业动态，但金额和影响力相对前述新闻较小。",
+      "tags": [
+        "机器人",
+        "融资",
+        "初创公司"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/FUngaML4kxA0cuFL.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-03 03:03:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 16,
+      "title": "阳台储能公司获数千万融资，用消费硬件逻辑重新定义户用储能｜硬氪首发",
+      "summary": "3月4日消息，家庭阳台储能方案服务商临阁能源完成数千万元天使轮融资，该公司集成AI能源算法，致力于构建一体化家庭能源生态，推动家庭用电智能化与低碳化。",
+      "importance": "低",
+      "reason": "中国AI+能源硬件公司获得融资，属于商业动态，但赛道相对垂直，影响力有限。",
+      "tags": [
+        "AI+能源",
+        "硬件",
+        "融资"
+      ],
+      "url": "https://36kr.com/p/3707029227499651?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-03 09:57:08",
+      "impact_score": 190.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "UK bets £40mn on frontier AI research lab in push for tech independence",
+      "summary": "3月4日消息，英国政府宣布投资4000万英镑成立前沿AI研究实验室，旨在推动科学、医疗和交通领域的AI突破，以寻求技术独立。",
+      "importance": "高",
+      "reason": "属于【重大政策与法规】类别。这是国家层面的重大战略投资，旨在建立独立的前沿AI研发能力，具有显著的政策导向和产业影响。",
+      "tags": [
+        "英国政府",
+        "AI研究",
+        "国家战略"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-03/lin-bin-to-buy-miami-dolphins-stake-at-12-5-billion-valuation",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-03 20:13:40",
+      "impact_score": 255.0
+    },
+    {
+      "index": 2,
+      "title": "AI companies are spending millions to thwart this former tech exec’s congressional bid",
+      "summary": "3月4日消息，一个由科技亿万富翁支持的超级政治行动委员会计划投入1.25亿美元，旨在削弱那些推动AI监管的候选人，凸显了产业界与监管者之间的激烈博弈。",
+      "importance": "高",
+      "reason": "属于【重大政策与法规】类别。涉及巨额资金介入政治选举以影响AI监管进程，直接关系到未来AI政策的走向，是产业与政策博弈的典型事件。",
+      "tags": [
+        "AI监管",
+        "政治游说",
+        "政策博弈"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-03/thrive-capital-andreessen-to-lead-4-billion-anduril-round",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-03 17:46:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 3,
+      "title": "Altman Tells Staff OpenAI Has No Say Over Pentagon Decisions",
+      "summary": "3月4日消息，OpenAI首席执行官Sam Altman向员工表示，公司无权决定美国国防部如何使用其AI软件，并暗示与五角大楼的紧张关系部分源于此。",
+      "importance": "高",
+      "reason": "属于【安全与伦理】类别。涉及AI公司与军方合作的伦理边界和责任界定，是当前AI安全与治理的核心争议话题，影响深远。",
+      "tags": [
+        "OpenAI",
+        "军事AI",
+        "AI伦理"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-04/altman-tells-staff-openai-has-no-say-over-pentagon-decisions",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-04 00:22:50",
+      "impact_score": 180.0
+    },
+    {
+      "index": 4,
+      "title": "OpenAI makes changes to ‘opportunistic and sloppy’ Pentagon deal",
+      "summary": "3月4日消息，OpenAI首席执行官Sam Altman表示，公司正在与美国国防部修改合作协议条款，增加关于禁止大规模监控的条款。",
+      "importance": "高",
+      "reason": "属于【安全与伦理】类别。这是对上一则新闻的后续，具体说明了OpenAI如何应对与军方合作的伦理挑战，直接涉及AI应用的伦理红线。",
+      "tags": [
+        "OpenAI",
+        "国防部",
+        "AI伦理",
+        "大规模监控"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-03/pantera-s-morehead-discusses-crypto-prices-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-03 19:44:06",
+      "impact_score": 180.0
+    },
+    {
+      "index": 5,
+      "title": "Kushner’s Thrive, Andreessen Lead $4 Billion Anduril Round",
+      "summary": "3月4日消息，由Josh Kushner的Thrive Capital和风投公司Andreessen Horowitz共同领投，为国防科技初创公司Anduril Industries Inc.筹集了40亿美元融资，其估值可能翻倍。",
+      "importance": "高",
+      "reason": "属于【重大商业动态】类别。涉及国防AI领域的巨额融资，金额巨大（40亿美元），且由顶级风投领投，反映了资本对AI军事应用的强烈兴趣和押注。",
+      "tags": [
+        "Anduril",
+        "国防AI",
+        "巨额融资",
+        "风险投资"
+      ],
+      "url": "https://techcrunch.com/2026/03/03/ai-companies-are-spending-millions-to-thwart-this-former-tech-execs-congressional-bid/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-03-03 21:44:09",
+      "impact_score": 160.0
+    },
+    {
+      "index": 6,
+      "title": "Nvidia to invest $4 billion into photonics companies Coherent and Lumentum",
+      "summary": "3月4日消息，英伟达宣布向光子学公司Coherent和Lumentum进行总计40亿美元的战略投资，每家公司将获得20亿美元，以押注数据中心对先进光学组件的持续需求。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】类别。作为AI芯片巨头，英伟达的大额战略投资指向了AI算力基础设施的关键上游环节（光子学），具有重要的产业布局意义。",
+      "tags": [
+        "英伟达",
+        "战略投资",
+        "光子学",
+        "AI基础设施"
+      ],
+      "url": "https://arxiv.org/abs/2603.02359",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-04 05:00:00",
+      "impact_score": 150.0
+    },
+    {
+      "index": 7,
+      "title": "Anthropic Nears $20 Billion Revenue Run Rate Amid Pentagon Feud",
+      "summary": "3月4日消息，AI公司Anthropic PBC的年化收入运行率预计将接近200亿美元，较去年底翻倍，这一快速增长发生在其与五角大楼发生冲突的背景下。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】类别。展示了顶级AI初创公司惊人的商业化速度和收入规模（200亿美元运行率），同时其与政府的关系也构成商业环境的一部分。",
+      "tags": [
+        "Anthropic",
+        "商业化",
+        "高增长",
+        "政府关系"
+      ],
+      "url": "https://www.cnbc.com/2026/03/02/nvidia-investment-coherent-lumentum.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-03-03 14:47:09",
+      "impact_score": 150.0
+    },
+    {
+      "index": 8,
+      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+      "summary": "3月4日消息，谷歌DeepMind发布了Gemini 3.1 Flash-Lite模型，宣称这是其Gemini 3系列中最快、成本效益最高的模型，专为大规模智能应用设计。",
+      "importance": "中",
+      "reason": "属于【重大产品发布】类别。这是谷歌旗舰AI模型系列的重要迭代，专注于提升推理速度和降低成本，对AI服务的规模化部署有直接影响。",
+      "tags": [
+        "谷歌",
+        "DeepMind",
+        "Gemini",
+        "AI模型发布"
+      ],
+      "url": "https://arxiv.org/abs/2603.02504",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-04 05:00:00",
+      "impact_score": 145.0
+    },
+    {
+      "index": 9,
+      "title": "ChatGPT’s new GPT-5.3 Instant model will stop telling you to calm down",
+      "summary": "3月4日消息，OpenAI发布了新的GPT-5.3 Instant模型，该模型将减少令用户反感的“说教式”回应，旨在改善用户体验。",
+      "importance": "中",
+      "reason": "属于【重大产品发布】类别。涉及OpenAI核心产品GPT系列的重要更新（GPT-5.3），虽然侧重体验优化，但仍是主流模型的重要迭代。",
+      "tags": [
+        "OpenAI",
+        "GPT-5",
+        "产品迭代",
+        "用户体验"
+      ],
+      "url": "https://www.ft.com/content/41f522fc-10f5-4e5e-b64a-eb515799c265",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-03-04 05:00:23",
+      "impact_score": 142.5
+    },
+    {
+      "index": 10,
+      "title": "NeuroProlog: Multi-Task Fine-Tuning for Neurosymbolic Mathematical Reasoning via the Cocktail Effect",
+      "summary": "3月4日消息，研究人员提出NeuroProlog，一种神经符号框架，通过“鸡尾酒效应”进行多任务微调，旨在解决大语言模型在数学推理中生成流畅但逻辑不一致答案的问题。",
+      "importance": "中",
+      "reason": "属于【重大学术突破】类别。针对LLM在数学推理上的核心弱点提出新的神经符号框架，是提升AI可靠性和逻辑能力的重要研究方向。",
+      "tags": [
+        "学术研究",
+        "神经符号AI",
+        "数学推理",
+        "LLM"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-03/nvidia-invests-2b-in-photonics-firm-coherent-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-03 19:10:01",
+      "impact_score": 142.5
+    },
+    {
+      "index": 11,
+      "title": "Why AI startups are selling the same equity at two different prices",
+      "summary": "3月4日消息，报道揭示了一些AI初创公司创始人采用一种新颖的估值机制，以两种不同价格出售相同股权，旨在人为制造“独角兽”地位。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】类别。揭露了AI投资热潮中可能存在的估值泡沫和财务操作，反映了当前AI创业与融资生态的一个侧面，具有行业警示意义。",
+      "tags": [
+        "AI初创公司",
+        "估值",
+        "融资",
+        "行业现象"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-03/asm-s-revenue-outlook-beats-estimates-on-ai-investments-china",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-03 17:29:53",
+      "impact_score": 142.5
+    },
+    {
+      "index": 12,
+      "title": "Sam Altman tells OpenAI staffers that military's 'operational decisions' are up to the government",
+      "summary": "3月4日消息，OpenAI首席执行官Sam Altman在一次全体员工会议上表示，公司无法选择军方如何使用其技术，军事行动的决策权在于政府。",
+      "importance": "中",
+      "reason": "属于【安全与伦理】类别。与第3、24条新闻相关，进一步阐述了OpenAI在军事AI应用上的立场，是AI公司划定责任边界的重要表态。",
+      "tags": [
+        "OpenAI",
+        "Sam Altman",
+        "军事AI",
+        "企业责任"
+      ],
+      "url": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+      "source": "DeepMind Blog",
+      "original_pub_date": "2026-03-03 16:35:55",
+      "impact_score": 135.0
+    },
+    {
+      "index": 13,
+      "title": "Billionaire Tesla Whale Says He Bought 1 Million Nvidia Shares",
+      "summary": "3月4日消息，亿万富翁、特斯拉大股东Leo KoGuan表示，他在周二买入了100万股英伟达公司股票，显示出顶级投资者对AI算力龙头股的持续看好。",
+      "importance": "低",
+      "reason": "属于【重大商业动态】类别。反映了资本市场关键人物对英伟达（AI核心标的）的巨额个人投资行为，是市场信心和资本流向的一个信号。",
+      "tags": [
+        "英伟达",
+        "资本市场",
+        "个人投资",
+        "AI算力"
+      ],
+      "url": "https://arxiv.org/abs/2603.02908",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-04 05:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 14,
+      "title": "Stem cell therapies ‘come of age’ with two conditional approvals in Japan",
+      "summary": "3月4日消息，日本有条件批准了两项基于诱导多能干细胞的疗法，用于治疗心脏和脑部疾病，标志着干细胞疗法进入新阶段。",
+      "importance": "低",
+      "reason": "属于【国际动态】（日本）。虽然主题是生物技术，但“诱导多能干细胞”领域与AI驱动的生命科学研究高度相关，且是重要的国际监管动态。",
+      "tags": [
+        "日本",
+        "干细胞疗法",
+        "监管批准",
+        "生物科技"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-04/billionaire-tesla-whale-says-he-bought-1-million-nvidia-shares",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-04 08:34:13",
+      "impact_score": 127.5
+    }
+  ],
+  "summary": "今日从148条原始信息中精选出16条国内动态和14条国际动态，其中11条为高重要性。 重点关注：何小鹏：未来1-3年完全自动驾驶将真正到来｜最前线；地平线HSD首搭硬派SUV iCAR V27，“城野皆好开”全场景智驾落地；全球大模型竞技场：多款国产模型上榜，Seed 2.0排名领先。",
+  "statistics": {
+    "raw_domestic": 47,
+    "raw_international": 101,
+    "raw_total": 148,
+    "final_domestic": 16,
+    "final_international": 14
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "3月4日消息，小鹏汽车董事长何小鹏宣布，公司第二代VLA技术已具备从L2直接进入L4自动驾驶的可能性，并跳过L3阶段，将自动驾驶视为通用人工智能（AGI）在物理世界的落地，通过内部测评显示其技术领先行业一流选手接近5倍。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "3月4日消息，地平线与iCAR联合发布搭载地平线HSD全场景辅助驾驶系统的量产车型iCAR V27，该车采用征程6P芯片与端到端大模型技术，实现了在多城市复杂场景下的高阶智能驾驶能力落地。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "3月4日消息，在全球大模型竞技场LMArena最新榜单中，字节跳动旗下Seed 2.0首次亮相即跻身全球前十，GLM-5、文心5.0、Qwen 3.5、Kimi K2.5等多款国产旗舰大模型同步上榜，标志着国产大模型集群冲击全球技术最高水平。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "3月4日消息，最新AI产品榜显示，阿里巴巴旗下千问以2.03亿月活用户和552%的增速，成为全球第三大AI应用，与豆包共同形成国内AI应用双雄格局，其春节“请客活动”显著推动了用户增长和商业化落地。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "3月4日消息，阿里巴巴开源了Qwen3.5系列的4款小尺寸模型，覆盖0.8B到9B参数范围，继承了多模态能力与最新架构，旨在满足从资源受限到高性能轻量级应用的不同需求，并获得业界高度关注。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "3月4日消息，英国政府宣布投资4000万英镑成立前沿AI研究实验室，旨在推动科学、医疗和交通领域的AI突破，以寻求技术独立。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "3月4日消息，一个由科技亿万富翁支持的超级政治行动委员会计划投入1.25亿美元，旨在削弱那些推动AI监管的候选人，凸显了产业界与监管者之间的激烈博弈。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "3月4日消息，OpenAI首席执行官Sam Altman向员工表示，公司无权决定美国国防部如何使用其AI软件，并暗示与五角大楼的紧张关系部分源于此。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "3月4日消息，OpenAI首席执行官Sam Altman表示，公司正在与美国国防部修改合作协议条款，增加关于禁止大规模监控的条款。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "3月4日消息，由Josh Kushner的Thrive Capital和风投公司Andreessen Horowitz共同领投，为国防科技初创公司Anduril Industries Inc.筹集了40亿美元融资，其估值可能翻倍。",
+      "importance": "高"
+    }
+  ]
+}
