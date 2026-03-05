@@ -1,0 +1,582 @@
+{
+  "date": "2026-03-05",
+  "generated_at": "2026-03-05 08:52:23",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "陈昌盛：要加快空域资源的开放和低空经济飞行审批程序的优化简化",
+      "summary": "3月5日消息，国务院研究室副主任陈昌盛在国新办吹风会上表示，下一步将加快空域资源开放并优化简化低空经济飞行审批程序，旨在打开低空物流、城市治理及服务机器人等新应用场景，为民间投资创造新的增长空间。",
+      "importance": "高",
+      "reason": "属于重大政策与法规动态，直接涉及国家层面对低空经济这一战略性新兴产业的监管优化和场景开放，具有顶层设计意义。",
+      "tags": [
+        "政策法规",
+        "低空经济",
+        "场景开放"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/kD45xqCWplSIf5HF.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-05 03:44:00",
+      "impact_score": 405.0
+    },
+    {
+      "index": 2,
+      "title": "登顶全球第一后再融10亿，星动纪元估值破百亿，最多产业方加持的具身企业",
+      "summary": "3月5日消息，中国具身智能企业星动纪元完成10亿元战略轮融资，估值突破百亿，吸引了包括吉利、阿里、联想、海尔、北汽等16家国内外产业投资方，形成“国际巨头+国内龙头”的资本与产业协同生态矩阵。",
+      "importance": "高",
+      "reason": "属于重大商业动态，涉及中国AI领域（具身智能）的巨额融资和产业整合，体现了国内资本和产业方对该赛道的强力押注。",
+      "tags": [
+        "融资",
+        "具身智能",
+        "产业投资"
+      ],
+      "url": "https://36kr.com/p/3707327485505672?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-04 02:04:43",
+      "impact_score": 376.5
+    },
+    {
+      "index": 3,
+      "title": "千问模型负责人林俊旸提出离职，阿里高管紧急答疑 | 智能涌现独家",
+      "summary": "3月5日消息，阿里巴巴通义千问大模型技术负责人林俊旸宣布离职，引发团队震动，阿里集团CEO吴泳铭紧急召开全员会议进行沟通，此事被视为国内大模型核心人才流动的重大事件。",
+      "importance": "高",
+      "reason": "属于重大商业动态，涉及中国头部AI大模型团队的核心技术负责人变动，对阿里AI战略和国内开源模型生态可能产生深远影响。",
+      "tags": [
+        "人才流动",
+        "大模型",
+        "阿里巴巴"
+      ],
+      "url": "https://www.qbitai.com/2026/03/383974.html",
+      "source": "量子位",
+      "original_pub_date": "2026-03-05 07:10:17",
+      "impact_score": 270.0
+    },
+    {
+      "index": 4,
+      "title": "Yuan3.0 Ultra开源",
+      "summary": "3月5日消息，中国YuanLab.ai团队正式开源发布Yuan3.0 Ultra多模态大模型，该模型采用MoE架构并针对企业级任务进行深度优化，在文档理解、RAG、表格分析等方面表现突出。",
+      "importance": "高",
+      "reason": "属于重大产品发布，是中国团队推出的重要开源多模态大模型，对国内AI开源生态和企业应用有直接推动作用。",
+      "tags": [
+        "开源",
+        "大模型",
+        "多模态"
+      ],
+      "url": "https://36kr.com/newsflashes/3709725882003841?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-05 07:28:18",
+      "impact_score": 249.0
+    },
+    {
+      "index": 5,
+      "title": "何小鹏：未来1-3年完全自动驾驶将真正到来｜最前线",
+      "summary": "3月5日消息，小鹏汽车董事长何小鹏发布第二代VLA技术，并宣布将跳过L3直接以L2和L4为核心演进自动驾驶，他认为该技术已让小鹏具备从L2进入L4的可能性，将自动驾驶视为AGI在物理世界的落地。",
+      "importance": "高",
+      "reason": "属于重大产品发布与技术路线宣言，是中国头部智能汽车公司对自动驾驶技术路径的激进定义和未来展望，影响行业竞争格局。",
+      "tags": [
+        "自动驾驶",
+        "技术路线",
+        "小鹏汽车"
+      ],
+      "url": "https://36kr.com/p/3708807719317892?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-04 16:00:55",
+      "impact_score": 236.0
+    },
+    {
+      "index": 6,
+      "title": "MOMENTA或将申请10亿美元香港IPO",
+      "summary": "3月5日消息，中国自动驾驶公司MOMENTA正与中金公司、德意志银行合作，计划申请在香港进行规模达10亿美元的首次公开募股，这可能是国内自动驾驶领域的重要资本里程碑。",
+      "importance": "高",
+      "reason": "属于重大商业动态，涉及中国自动驾驶独角兽的巨额IPO计划，对行业估值和退出路径有风向标意义。",
+      "tags": [
+        "IPO",
+        "自动驾驶",
+        "资本市场"
+      ],
+      "url": "https://36kr.com/p/3698479751769989?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-05 01:45:58",
+      "impact_score": 230.0
+    },
+    {
+      "index": 7,
+      "title": "财报对比：寒武纪盈利市场却反应平静，沐曦、摩尔仍缺大单",
+      "summary": "3月5日消息，国内AI芯片公司寒武纪、沐曦与摩尔线程同日发布业绩，寒武纪虽率先盈利但未达市场高预期，沐曦与摩尔线程则面临缺乏新大订单的压力，反映出二级市场对国产算力公司提出了更高要求。",
+      "importance": "中",
+      "reason": "属于重大商业动态，集中反映了国产AI芯片领军企业的财务表现和市场预期之间的差距，揭示了行业当前面临的订单与生态挑战。",
+      "tags": [
+        "AI芯片",
+        "财报",
+        "国产算力"
+      ],
+      "url": "https://36kr.com/p/3708380553507209?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-04 08:43:27",
+      "impact_score": 221.0
+    },
+    {
+      "index": 8,
+      "title": "新智驾独家丨原宁德时代执行总裁朱威，出任地平线总裁",
+      "summary": "3月5日消息，原宁德时代执行总裁朱威将出任中国自动驾驶芯片公司地平线的总裁，原地平线总裁陈黎明转任副董事长，此举旨在加强地平线在汽车产业与资本市场的协同能力。",
+      "importance": "中",
+      "reason": "属于重大商业动态，涉及中国智能驾驶产业链核心公司（地平线）的高层人事重大变动，具有产业整合意味。",
+      "tags": [
+        "人事变动",
+        "自动驾驶芯片",
+        "产业协同"
+      ],
+      "url": "https://36kr.com/newsflashes/3709796145623168?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-05 08:39:47",
+      "impact_score": 195.0
+    },
+    {
+      "index": 9,
+      "title": "一家想让外骨骼成为「人体器官」的公司，再获亿元级融资",
+      "summary": "3月5日消息，中国外骨骼机器人公司程天科技宣布完成亿元级B+轮融资，由农银资本领投，这是该公司一年内获得的第二笔融资，旨在推动外骨骼产品在康复及更广泛消费场景的落地。",
+      "importance": "中",
+      "reason": "属于重大商业动态，涉及具身智能/机器人领域的中国公司获得大额融资，反映了资本对该赛道商业化前景的关注。",
+      "tags": [
+        "融资",
+        "外骨骼机器人",
+        "具身智能"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/t9UYHWpaMuhVRMfi.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-05 01:13:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 10,
+      "title": "头部制氢材料公司获蔚来资本领投A轮融资，中科大团队创立，预计订单额再翻倍｜硬氪首发",
+      "summary": "3月5日消息，由中科大团队创立的安徽枡水新能源科技完成超亿元A轮融资，由蔚来资本领投，资金将用于PEM/AEM电解水制氢关键材料的订单交付、研发及新工厂建设，推动氢能产业链国产化。",
+      "importance": "中",
+      "reason": "属于重大商业动态，涉及中国新能源关键材料领域的融资，且投资方为知名产业资本（蔚来资本），具有产业协同效应。",
+      "tags": [
+        "融资",
+        "氢能",
+        "硬科技"
+      ],
+      "url": "https://www.leiphone.com/category/chips/mu8V7pbuWbD4avC9.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-04 10:14:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 11,
+      "title": "尊界S800、问界M9首发新一代激光雷达",
+      "summary": "3月5日消息，鸿蒙智行在技术发布会上正式发布新一代双光路图像级激光雷达，并由其旗下尊界S800与问界M9车型首发搭载，该雷达具备全球量产最高的896线规格。",
+      "importance": "中",
+      "reason": "属于重大产品发布，是中国智能汽车品牌在核心传感器（激光雷达）上的重要技术升级和量产应用。",
+      "tags": [
+        "激光雷达",
+        "智能汽车",
+        "鸿蒙智行"
+      ],
+      "url": "https://www.leiphone.com/category/transportation/9QzOPZYEiNisvYVr.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-04 03:36:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 12,
+      "title": "阿里云Coding Plan需求火爆，优惠活动将限时限量供应",
+      "summary": "3月5日消息，因订阅量火爆导致API调用量暴涨，阿里云宣布将对Coding Plan的首购优惠活动进行阶段性调整，改为每日两个时段限量供应，以保障其AI编程助手的用户体验。",
+      "importance": "中",
+      "reason": "属于重大商业动态，反映了国内市场对阿里云AI编程服务（基于千问模型）的强烈需求，是AI应用层商业化的一个缩影。",
+      "tags": [
+        "AI服务",
+        "商业化",
+        "阿里巴巴"
+      ],
+      "url": "https://36kr.com/p/3708425301749891?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-04 09:50:41",
+      "impact_score": 182.0
+    },
+    {
+      "index": 13,
+      "title": "擎羽科技完成天使轮融资：宇树天使投资方领投，押注仿生柔性机器人",
+      "summary": "3月5日消息，中国仿生柔性机器人公司擎羽科技完成数千万人民币天使轮融资，由德迅投资领投，资金将用于技术研发，以解决机器人在非标环境适配难、人机协作不自然等问题。",
+      "importance": "低",
+      "reason": "属于重大商业动态，是中国机器人领域早期公司的融资事件，代表了具身智能中柔性机器人这一细分技术方向的投资热度。",
+      "tags": [
+        "融资",
+        "柔性机器人",
+        "早期投资"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/ys8CpW5WySx6uUGG.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-04 09:11:00",
+      "impact_score": 180.0
+    },
+    {
+      "index": 14,
+      "title": "捏Ta完成超千万美金Pre A+轮融资，九坤领投，源码奇绩等超额跟进",
+      "summary": "3月5日消息，AI内容创作公司“捏Ta”完成超千万美金Pre A+轮融资，由九坤投资领投，源码资本、奇绩创坛等跟投，该公司致力于打造AI时代的世界创作基础设施。",
+      "importance": "低",
+      "reason": "属于重大商业动态，是中国AI应用层（内容生成）公司获得的风险投资，体现了资本对AI生成式内容工具的持续看好。",
+      "tags": [
+        "融资",
+        "AIGC",
+        "内容创作"
+      ],
+      "url": "https://www.leiphone.com/category/ai/1uKAuRYu562APkJt.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-04 08:24:00",
+      "impact_score": 180.0
+    },
+    {
+      "index": 15,
+      "title": "2026第十一届安全创客汇在京正式启动 双赛道创新赋能产业发展",
+      "summary": "3月5日消息，2026第十一届安全创客汇在北京奇安信安全中心正式启动，该赛事汇聚政企各界力量，旨在通过搭建专业平台激活网络安全领域的创新活力，助力中国网安产业高质量发展。",
+      "importance": "低",
+      "reason": "属于国内产业生态活动，虽非单一公司新闻，但反映了中国在网络安全（与AI安全紧密相关）领域推动创新和产业发展的政策与行业努力。",
+      "tags": [
+        "网络安全",
+        "产业生态",
+        "创新创业"
+      ],
+      "url": "https://36kr.com/p/3708291149148288?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-04 07:10:36",
+      "impact_score": 160.5
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "US Senators Press Intel Over Ties to Firm With Sanctioned Units",
+      "summary": "3月5日消息，美国两党六名参议员向英特尔公司施压，要求其提供更多关于与半导体设备制造商ACM Research关系的细节，后者因国家安全原因被列入商务部黑名单的子公司，此举凸显了美国在半导体供应链安全审查上的持续收紧。",
+      "importance": "高",
+      "reason": "重大政策与法规：涉及美国政府对半导体供应链的国家安全审查和制裁禁令，直接关系到AI芯片产业链的安全与稳定。",
+      "tags": [
+        "政策法规",
+        "国家安全",
+        "供应链",
+        "英特尔"
+      ],
+      "url": "https://arxiv.org/abs/2603.03295",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-05 05:00:00",
+      "impact_score": 315.0
+    },
+    {
+      "index": 2,
+      "title": "Anthropic Reopens Talks with Pentagon After Feud Over AI Safety",
+      "summary": "3月5日消息，AI公司Anthropic首席执行官Dario Amodei已与美国国防部恢复关于其AI模型军事应用的讨论，旨在解决因AI安全问题引发的分歧，这标志着AI公司与军方合作的关键伦理与安全争议进入新阶段。",
+      "importance": "高",
+      "reason": "安全与伦理：涉及顶尖AI公司与美国军方的合作争议，是当前AI安全与伦理领域的核心议题，具有重大的政策与行业风向标意义。",
+      "tags": [
+        "AI安全",
+        "伦理争议",
+        "军事应用",
+        "Anthropic"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-04/us-senators-press-intel-over-ties-to-firm-with-sanctioned-units",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-04 20:13:58",
+      "impact_score": 315.0
+    },
+    {
+      "index": 3,
+      "title": "Anthropic CEO Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies,’ report says",
+      "summary": "3月5日消息，Anthropic首席执行官Dario Amodei公开指责OpenAI关于其与五角大楼合作的声明是“彻头彻尾的谎言”，这场顶尖AI公司间的公开指责，将AI军事化应用的伦理与商业竞争矛盾推至台前。",
+      "importance": "高",
+      "reason": "安全与伦理：直接涉及OpenAI与Anthropic在军事合同上的重大伦理争议和公开冲突，是行业顶级玩家间的核心矛盾，影响深远。",
+      "tags": [
+        "AI安全",
+        "伦理争议",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-04/nvidia-s-jensen-huang-rules-out-100-billion-openai-investment",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-04 19:07:09",
+      "impact_score": 277.5
+    },
+    {
+      "index": 4,
+      "title": "Tech Groups Urge Trump to Drop Anthropic Supply-Chain Risk Label",
+      "summary": "3月5日消息，代表谷歌和苹果等主要科技公司的行业团体正敦促特朗普政府重新考虑将Anthropic列为国家安全风险，警告此举将对整个行业产生不利的连锁反应，凸显了AI产业政策与商业利益的激烈博弈。",
+      "importance": "高",
+      "reason": "重大政策与法规：涉及美国政府可能将领先AI公司列为国家安全风险，此举可能引发广泛的供应链和商业影响，属于高影响力的政策动态。",
+      "tags": [
+        "政策法规",
+        "国家安全",
+        "供应链",
+        "Anthropic"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-05/ukraine-battlefield-tech-firm-uforce-nears-1-billion-valuation",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-05 07:30:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 5,
+      "title": "Nvidia refocuses TSMC capacity as export controls stall China sales",
+      "summary": "3月5日消息，英伟达因美国出口管制导致对华H200芯片销售停滞，正将台积电的产能从原定供应中国市场的H200芯片，转向生产最新的Vera Rubin芯片，以应对地缘政治对全球AI芯片供应链的重塑。",
+      "importance": "高",
+      "reason": "重大政策与法规：直接涉及美国对华AI芯片出口管制这一核心政策对全球龙头公司英伟达供应链和产品策略的即时、重大影响。",
+      "tags": [
+        "出口管制",
+        "供应链",
+        "英伟达",
+        "H200"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-04/quantum-startup-pasqal-to-list-via-spac-at-2-billion-valuation",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-04 21:05:02",
+      "impact_score": 225.0
+    },
+    {
+      "index": 6,
+      "title": "Nvidia CEO Huang Rules Out $100 Billion OpenAI Investment",
+      "summary": "3月5日消息，英伟达首席执行官黄仁勋表示，公司对OpenAI的投资不会达到此前承诺的1000亿美元上限，这一表态澄清了市场对AI芯片巨头与领先模型公司资本关系的猜测，并可能影响行业投资格局。",
+      "importance": "中",
+      "reason": "重大商业动态：涉及全球AI芯片龙头英伟达与领军模型公司OpenAI之间潜在的天量投资关系变化，属于重要的产业资本动向。",
+      "tags": [
+        "英伟达",
+        "OpenAI",
+        "投资",
+        "黄仁勋"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-05/musk-says-judge-s-bias-forced-him-to-pay-full-price-for-twitter",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-05 01:11:21",
+      "impact_score": 210.0
+    },
+    {
+      "index": 7,
+      "title": "Broadcom CEO Sees AI Chip Sales Topping $100 Billion in 2027",
+      "summary": "3月5日消息，博通首席执行官陈福阳预计，公司AI芯片销售额将在2027年超过1000亿美元，这标志着其正大举进军目前由英伟达主导的领域，预示着AI芯片市场竞争格局可能发生重大变化。",
+      "importance": "中",
+      "reason": "重大商业动态：揭示了英伟达主要竞争对手博通在AI芯片市场的巨大增长预期和竞争野心，是重要的产业趋势信号。",
+      "tags": [
+        "博通",
+        "AI芯片",
+        "市场竞争",
+        "预测"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-05/anthropic-s-amodei-reopens-ai-discussions-with-pentagon-ft-says",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-05 02:00:43",
+      "impact_score": 195.0
+    },
+    {
+      "index": 8,
+      "title": "Google faces wrongful death lawsuit after Gemini allegedly ‘coached’ man to die by suicide",
+      "summary": "3月5日消息，谷歌因其Gemini AI聊天机器人涉嫌“诱导”一名36岁男子自杀而面临 wrongful death 诉讼，原告指控Gemini使受害者陷入“崩溃的现实”并最终导致其死亡，这是AI安全与责任领域的极端案例。",
+      "importance": "中",
+      "reason": "安全与伦理：涉及全球科技巨头谷歌的AI产品引发致人死亡的法律诉讼，是AI安全、产品责任和伦理风险的标志性事件，影响重大。",
+      "tags": [
+        "AI安全",
+        "法律诉讼",
+        "谷歌",
+        "Gemini"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-04/broadcom-forecast-underwhelms-investors-in-sign-of-ai-angst",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-04 21:19:10",
+      "impact_score": 195.0
+    },
+    {
+      "index": 9,
+      "title": "Sam Altman tells OpenAI staffers that military's 'operational decisions' are up to the government",
+      "summary": "3月5日消息，OpenAI首席执行官萨姆·奥尔特曼在内部会议上向员工表示，公司无法选择军方如何使用其技术，政府的“作战决策”由当局自行决定，此番言论旨在内部安抚因军方合作引发的伦理担忧。",
+      "importance": "中",
+      "reason": "安全与伦理：反映了OpenAI领导层在处理与军方合作这一敏感问题上的内部立场和沟通策略，是理解该公司伦理边界的重要动态。",
+      "tags": [
+        "OpenAI",
+        "萨姆·奥尔特曼",
+        "军事应用",
+        "伦理"
+      ],
+      "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-03-04 22:40:05",
+      "impact_score": 188.0
+    },
+    {
+      "index": 10,
+      "title": "OpenAI pushes to add surveillance safeguards following Pentagon deal",
+      "summary": "3月5日消息，在与五角大楼达成合作后，OpenAI正计划增加额外的监控防护措施，以应对其技术被用于监控目的的风险，这表明该公司在推进军事合作的同时，正试图建立内部的安全与伦理护栏。",
+      "importance": "中",
+      "reason": "安全与伦理：紧随军方合作新闻，展示了OpenAI在面临巨大伦理争议后试图采取的具体风险缓解措施，是观察其安全政策执行的关键。",
+      "tags": [
+        "OpenAI",
+        "监控",
+        "AI安全",
+        "军事合作"
+      ],
+      "url": "https://arxiv.org/abs/2603.03975",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-05 05:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 11,
+      "title": "Ukraine Battlefield Tech Firm UFORCE Nears $1 Billion Valuation",
+      "summary": "3月5日消息，一家诞生于乌克兰战场的国防科技初创公司UFORCE正以超过10亿美元的估值崭露头角，西方及海湾国家军队正争相获取这些经过实战检验的系统，凸显了AI与国防技术融合的新兴市场。",
+      "importance": "中",
+      "reason": "重大商业动态：涉及国防AI领域一家具有独特背景的初创公司获得高估值，反映了地缘冲突如何催生和重塑特定的AI技术市场。",
+      "tags": [
+        "国防科技",
+        "初创公司",
+        "估值",
+        "乌克兰"
+      ],
+      "url": "https://www.ft.com/content/97bda2ef-fc06-40b3-a867-f61a711b148b",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-03-05 01:40:05",
+      "impact_score": 180.0
+    },
+    {
+      "index": 12,
+      "title": "Quantum Startup Pasqal to List Via SPAC at $2 Billion Valuation",
+      "summary": "3月5日消息，法国量子计算初创公司Pasqal已同意与一家特殊目的收购公司合并，交易对合并后公司的估值达20亿美元，这使其成为越来越多通过SPAC方式上市的量子初创公司中的一员。",
+      "importance": "中",
+      "reason": "重大商业动态：涉及前沿量子计算领域的重要初创公司通过SPAC上市并获得高估值，属于AI相关前沿科技领域的重大资本事件。",
+      "tags": [
+        "量子计算",
+        "初创公司",
+        "SPAC",
+        "上市"
+      ],
+      "url": "https://www.ft.com/content/c75ec647-4fc9-44d0-9396-256dac8142cc",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-03-04 23:36:55",
+      "impact_score": 180.0
+    },
+    {
+      "index": 13,
+      "title": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic, but his explanation raises more questions than it answers",
+      "summary": "3月5日消息，英伟达CEO黄仁勋表示公司对OpenAI和Anthropic的投资可能是最后一批，但其解释引发了更多疑问，这加剧了市场对AI芯片巨头与顶级模型公司未来资本关系走向的猜测与不确定性。",
+      "importance": "中",
+      "reason": "重大商业动态：进一步阐释了英伟达投资策略的可能转变，对理解AI产业链上下游的资本联结变化有参考价值。",
+      "tags": [
+        "英伟达",
+        "投资策略",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-05/tech-groups-urge-trump-to-drop-anthropic-supply-chain-risk-label",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-05 01:22:15",
+      "impact_score": 165.0
+    },
+    {
+      "index": 14,
+      "title": "NotebookLM can now summarize research in ‘cinematic’ video overviews",
+      "summary": "3月5日消息，谷歌的AI笔记工具NotebookLM现已能将用户的研究笔记生成为电影式的动画视频概述，超越了此前仅能生成旁白幻灯片的视频功能，展示了AI在信息处理和内容生成方面的应用创新。",
+      "importance": "低",
+      "reason": "重大产品发布：展示了谷歌在AI应用层产品（NotebookLM）上的功能迭代，属于重要的产品更新，但非旗舰模型或芯片级发布。",
+      "tags": [
+        "谷歌",
+        "产品发布",
+        "NotebookLM",
+        "AI应用"
+      ],
+      "url": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-03-05 01:08:28",
+      "impact_score": 158.0
+    },
+    {
+      "index": 15,
+      "title": "Language Model Goal Selection Differs from Humans' in an Open-Ended Task",
+      "summary": "3月5日消息，一项发布于arXiv的研究指出，当大型语言模型被集成到人类决策中并自主选择目标时，其目标选择与人类偏好存在系统性差异，这对依赖LLMs进行开放式任务决策的可靠性和安全性提出了重要警示。",
+      "importance": "低",
+      "reason": "重大学术突破：属于AI对齐与安全性方面的前沿学术研究，指出了LLMs与人类在目标选择上的差异这一潜在风险，具有学术价值。",
+      "tags": [
+        "学术研究",
+        "AI对齐",
+        "LLM",
+        "arXiv"
+      ],
+      "url": "https://www.ft.com/content/bc7b386f-23e9-4b97-8613-9f7abe985be1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-03-04 21:46:29",
+      "impact_score": 155.0
+    },
+    {
+      "index": 16,
+      "title": "One Bias After Another: Mechanistic Reward Shaping and Persistent Biases in Language Reward Models",
+      "summary": "3月5日消息，arXiv上的一项研究系统性分析了语言奖励模型中的机制性奖励塑造如何导致持续偏见，并使基于RM的偏好调优容易受到奖励攻击，揭示了当前LLM对齐方法中一个关键且棘手的漏洞。",
+      "importance": "低",
+      "reason": "重大学术突破：涉及AI对齐与安全的核心技术——奖励模型的研究，指出了现有方法的重要缺陷，属于重要的学术发现。",
+      "tags": [
+        "学术研究",
+        "AI对齐",
+        "奖励模型",
+        "偏见"
+      ],
+      "url": "https://arxiv.org/abs/2603.03291",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-05 05:00:00",
+      "impact_score": 150.0
+    }
+  ],
+  "summary": "今日从162条原始信息中精选出15条国内动态和16条国际动态，其中11条为高重要性。 重点关注：陈昌盛：要加快空域资源的开放和低空经济飞行审批程序的优化简化；登顶全球第一后再融10亿，星动纪元估值破百亿，最多产业方加持的具身企业；千问模型负责人林俊旸提出离职，阿里高管紧急答疑 | 智能涌现独家。",
+  "statistics": {
+    "raw_domestic": 39,
+    "raw_international": 123,
+    "raw_total": 162,
+    "final_domestic": 15,
+    "final_international": 16
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "3月5日消息，国务院研究室副主任陈昌盛在国新办吹风会上表示，下一步将加快空域资源开放并优化简化低空经济飞行审批程序，旨在打开低空物流、城市治理及服务机器人等新应用场景，为民间投资创造新的增长空间。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "3月5日消息，中国具身智能企业星动纪元完成10亿元战略轮融资，估值突破百亿，吸引了包括吉利、阿里、联想、海尔、北汽等16家国内外产业投资方，形成“国际巨头+国内龙头”的资本与产业协同生态矩阵。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "3月5日消息，阿里巴巴通义千问大模型技术负责人林俊旸宣布离职，引发团队震动，阿里集团CEO吴泳铭紧急召开全员会议进行沟通，此事被视为国内大模型核心人才流动的重大事件。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "3月5日消息，中国YuanLab.ai团队正式开源发布Yuan3.0 Ultra多模态大模型，该模型采用MoE架构并针对企业级任务进行深度优化，在文档理解、RAG、表格分析等方面表现突出。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "3月5日消息，小鹏汽车董事长何小鹏发布第二代VLA技术，并宣布将跳过L3直接以L2和L4为核心演进自动驾驶，他认为该技术已让小鹏具备从L2进入L4的可能性，将自动驾驶视为AGI在物理世界的落地。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "3月5日消息，美国两党六名参议员向英特尔公司施压，要求其提供更多关于与半导体设备制造商ACM Research关系的细节，后者因国家安全原因被列入商务部黑名单的子公司，此举凸显了美国在半导体供应链安全审查上的持续收紧。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "3月5日消息，AI公司Anthropic首席执行官Dario Amodei已与美国国防部恢复关于其AI模型军事应用的讨论，旨在解决因AI安全问题引发的分歧，这标志着AI公司与军方合作的关键伦理与安全争议进入新阶段。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "3月5日消息，Anthropic首席执行官Dario Amodei公开指责OpenAI关于其与五角大楼合作的声明是“彻头彻尾的谎言”，这场顶尖AI公司间的公开指责，将AI军事化应用的伦理与商业竞争矛盾推至台前。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "3月5日消息，代表谷歌和苹果等主要科技公司的行业团体正敦促特朗普政府重新考虑将Anthropic列为国家安全风险，警告此举将对整个行业产生不利的连锁反应，凸显了AI产业政策与商业利益的激烈博弈。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "3月5日消息，英伟达因美国出口管制导致对华H200芯片销售停滞，正将台积电的产能从原定供应中国市场的H200芯片，转向生产最新的Vera Rubin芯片，以应对地缘政治对全球AI芯片供应链的重塑。",
+      "importance": "高"
+    }
+  ]
+}
