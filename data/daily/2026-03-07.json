@@ -1,0 +1,562 @@
+{
+  "date": "2026-03-07",
+  "generated_at": "2026-03-07 08:37:58",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "上交所总经理蔡建春：科创板要落实好关键核心技术领域企业常态化上市机制",
+      "summary": "3月7日消息，全国政协委员、上交所总经理蔡建春在两会期间表示，科创板需重点支持科技创新与转型升级类企业融资并购，并落实好关键核心技术领域科技型企业的常态化上市机制，以强化资本市场的融资功能。",
+      "importance": "高",
+      "reason": "属于重大政策与法规范畴，涉及国家核心资本市场对AI及科技企业的关键支持机制，由官方监管机构高层发声，政策导向性强。",
+      "tags": [
+        "政策",
+        "融资",
+        "科创板"
+      ],
+      "url": "https://36kr.com/p/3711355370615169?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-06 11:06:15",
+      "impact_score": 396.0
+    },
+    {
+      "index": 2,
+      "title": "周鸿祎委员两会关注数据流通安全治理 为数据要素市场筑牢安全底座",
+      "summary": "3月7日消息，全国政协委员、360集团创始人周鸿祎在两会期间建议完善数据流通安全合规体系，强调在AI与数字经济快速发展背景下，需在安全可控前提下实现数据高效流通，以释放数据要素价值并响应国家战略部署。",
+      "importance": "高",
+      "reason": "属于重大政策与法规及安全与伦理范畴，涉及国家级两会提案，聚焦AI时代核心生产要素（数据）的安全治理，具有顶层设计意义。",
+      "tags": [
+        "政策",
+        "AI安全",
+        "数据要素"
+      ],
+      "url": "https://36kr.com/newsflashes/3712406430724488?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-07 08:27:48",
+      "impact_score": 307.5
+    },
+    {
+      "index": 3,
+      "title": "无问智科重磅发布业界首个物理AI数据基座平台",
+      "summary": "3月7日消息，中国公司无问智科在德清正式发布业界首个物理AI数据基座平台“无垠”，旨在为具身智能领域提供数据采集与训练解决方案，汇聚了产业、学术及政府多方代表共同探讨技术落地新路径。",
+      "importance": "高",
+      "reason": "属于重大产品发布范畴，是中国公司在具身智能前沿领域推出的业界首个基础平台，技术突破性和产业影响力显著。",
+      "tags": [
+        "产品发布",
+        "具身智能",
+        "数据基座"
+      ],
+      "url": "https://36kr.com/newsflashes/3712320657453192?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-07 05:41:42",
+      "impact_score": 307.5
+    },
+    {
+      "index": 4,
+      "title": "Momenta获行业首个安全机制关键中间件ASIL D全认证，实现智驾安全新突破",
+      "summary": "3月7日消息，中国自动驾驶公司Momenta宣布其自研的三款关键中间件产品均获得最高等级ISO 26262 ASIL D功能安全认证，成为业界首个实现此全认证的企业，标志着其在智驾安全底层架构上达到国际领先水平。",
+      "importance": "高",
+      "reason": "属于重大学术/技术突破范畴，在智能驾驶核心安全领域取得里程碑式认证，代表了技术壁垒和行业标准的突破。",
+      "tags": [
+        "技术突破",
+        "自动驾驶",
+        "功能安全"
+      ],
+      "url": "https://36kr.com/p/3712170172264838?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-07 00:57:15",
+      "impact_score": 279.0
+    },
+    {
+      "index": 5,
+      "title": "高德发布全球首个由大模型驱动的视觉认知步行导引系统",
+      "summary": "3月7日消息，中国公司高德地图发布全球首个由大模型驱动的视觉认知步行导引系统，该系统实现了空间智能应用的可视化与实用化，标志着AI在具体生活服务场景中的深度融合与创新。",
+      "importance": "高",
+      "reason": "属于重大产品发布范畴，是中国公司在全球范围内推出的首个结合大模型与具体应用（步行导航）的创新产品，具有技术领先性和场景开创性。",
+      "tags": [
+        "产品发布",
+        "大模型",
+        "空间智能"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/LU1hS4DVxHroyDBn.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-06 03:45:00",
+      "impact_score": 260.0
+    },
+    {
+      "index": 6,
+      "title": "氪星晚报｜蜜雪冰城公司已公布多项咖啡相关专利；证监会同意春光集团创业板IPO注册；千问持续推进AI生活服务落地",
+      "summary": "3月7日消息，商汤科技联合南洋理工大学发布了NEO-unify技术博客，预览了一种摒弃传统架构、直接从像素与文本学习的端到端原生多模态统一模型，展示了其在图像重建等方面的技术探索。",
+      "importance": "中",
+      "reason": "属于重大学术/技术突破范畴，展示了中国AI领军企业在多模态基础模型架构上的前沿探索，但尚处于技术博客预览阶段。",
+      "tags": [
+        "技术突破",
+        "多模态",
+        "商汤科技"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/c94KIpPbhKgQmseL.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-06 01:20:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 7,
+      "title": "西井科技更新IPO辅导备案",
+      "summary": "3月7日消息，专注于无人驾驶商用车的中国科技企业西井科技已更新A股IPO辅导备案，由申万宏源证券辅导，该公司此前已完成多轮融资，致力于通过AI为物流行业提供数字化与绿色转型解决方案。",
+      "importance": "中",
+      "reason": "属于重大商业动态范畴，AI独角兽企业推进IPO进程，涉及关键核心技术领域企业的资本市场化，是行业发展的重要风向标。",
+      "tags": [
+        "IPO",
+        "自动驾驶",
+        "融资"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/X5fGvGxgzXHxNIVn.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-06 07:15:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 8,
+      "title": "魔法原子管理团队完成升级 锚定具身智能研发攻坚 加码全球市场拓展步伐",
+      "summary": "3月7日消息，中国人形机器人公司魔法原子宣布进行高层管理团队调整，旨在强化核心领导力，深化具身智能技术研发、数据体系建设及全球商业化布局，以推动产业规模化落地。",
+      "importance": "中",
+      "reason": "属于重大商业动态范畴，涉及国内具身智能头部企业的战略组织升级，反映了该领域加速商业化竞争的趋势。",
+      "tags": [
+        "组织升级",
+        "具身智能",
+        "商业化"
+      ],
+      "url": "https://36kr.com/newsflashes/3712256711930241?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-07 03:26:16",
+      "impact_score": 195.0
+    },
+    {
+      "index": 9,
+      "title": "7000+Offer！字节跳动最大规模转正实习生招聘启动",
+      "summary": "3月7日消息，字节跳动启动史上最大规模转正实习生招聘，计划面向全球高校招聘超7000名实习生，岗位重点向研发、产品与AI领域倾斜，其中研发类岗位超4800个，以扩大AI时代的人才储备。",
+      "importance": "中",
+      "reason": "属于重大商业动态范畴，反映了中国头部科技公司在AI竞争白热化阶段对顶尖人才的战略性争夺，规模空前。",
+      "tags": [
+        "人才招聘",
+        "AI人才",
+        "字节跳动"
+      ],
+      "url": "https://www.qbitai.com/2026/03/384449.html",
+      "source": "量子位",
+      "original_pub_date": "2026-03-06 06:58:34",
+      "impact_score": 170.0
+    },
+    {
+      "index": 10,
+      "title": "华软科技拟3.24亿元收购莱恩光电67.411%股权",
+      "summary": "3月7日消息，上市公司华软科技发布公告，拟以3.24亿元收购莱恩光电67.411%的股权，交易完成后莱恩光电将成为其控股子公司，此举旨在拓展公司在光电科技领域的布局。",
+      "importance": "中",
+      "reason": "属于重大商业动态范畴，涉及上市公司数亿元规模的并购，虽然不直接是AI公司，但并购行为本身是重要的产业资本动态。",
+      "tags": [
+        "并购",
+        "资本运作"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/voVUxxrlDLiKKLaY.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-06 06:50:00",
+      "impact_score": 170.0
+    },
+    {
+      "index": 11,
+      "title": "青岛：发布首批OPC AI工具包清单",
+      "summary": "3月7日消息，青岛人工智能产业协会发布了首批面向一人公司（OPC）的AI工具包清单，涵盖13款集成内容生成、数据处理等能力的工具，旨在为单人创业者提供全链条AI赋能。",
+      "importance": "中",
+      "reason": "属于政策与商业结合动态，由地方产业协会推动，发布针对创业者的普惠性AI工具，有助于AI技术下沉和生态培育。",
+      "tags": [
+        "政策支持",
+        "AI工具",
+        "产业生态"
+      ],
+      "url": "https://www.qbitai.com/2026/03/384557.html",
+      "source": "量子位",
+      "original_pub_date": "2026-03-06 11:10:03",
+      "impact_score": 150.0
+    },
+    {
+      "index": 12,
+      "title": "超智算智能算力中心揭牌暨AI算力设备点亮仪式成功举行",
+      "summary": "3月7日消息，北京在算力基础设施建设上迈出关键一步，超智算智能算力中心正式揭牌并完成AI算力设备点亮仪式，这为区域AI产业发展提供了重要的底层基础设施支撑。",
+      "importance": "中",
+      "reason": "属于重大商业/基础设施动态，算力是AI发展的基石，地方重大算力中心的建成是产业发展的关键支撑事件。",
+      "tags": [
+        "算力基建",
+        "基础设施"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/Mmis93dvkF1z9Dan.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-06 06:34:00",
+      "impact_score": 145.0
+    },
+    {
+      "index": 13,
+      "title": "涨价潮席卷手机市场，华为Mate X7等机型“逆势”出圈成真香首选！",
+      "summary": "3月7日消息，在存储芯片涨价导致手机行业普遍提价的背景下，华为多款在售机型包括Mate X7等坚持稳价甚至延续优惠，使其市场关注度和竞争力在“涨声”中凸显。",
+      "importance": "低",
+      "reason": "属于商业动态，反映了中国头部科技公司在供应链波动下的市场策略，但非直接的AI产品发布或技术突破。",
+      "tags": [
+        "市场策略",
+        "消费电子"
+      ],
+      "url": "https://36kr.com/p/3711294378930306?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-06 10:16:48",
+      "impact_score": 140.5
+    },
+    {
+      "index": 14,
+      "title": "美团联合联想百应上线OpenClaw远程部署服务",
+      "summary": "3月7日消息，美团联合联想旗下服务品牌联想百应，面向全国用户推出OpenClaw远程部署服务，提供一站式解决方案，相关搜索量短期内环比增长超3倍。",
+      "importance": "低",
+      "reason": "属于商业动态，是中国公司针对海外热门AI工具（OpenClaw）提供的配套服务，反映了市场快速响应能力，但主体服务对象是海外产品。",
+      "tags": [
+        "商业合作",
+        "本地服务"
+      ],
+      "url": "https://36kr.com/newsflashes/3712402928775554?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-07 07:58:55",
+      "impact_score": 132.0
+    },
+    {
+      "index": 15,
+      "title": "倒计时10天，2026 AI最佳场景渗透案例火热征集中",
+      "summary": "3月7日消息，文章回顾了2026年初中国AI领域的亮点，包括人形机器人在春晚的集体亮相以及中国企业在国际展会上的突出表现，展现了AI技术从实验室走向大众和全球市场的加速进程。",
+      "importance": "低",
+      "reason": "属于行业综述与观察，概括了国内AI产业（特别是具身智能）的积极发展态势，但非单一具体事件。",
+      "tags": [
+        "产业观察",
+        "具身智能"
+      ],
+      "url": "https://36kr.com/newsflashes/3712312016286086?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-07 04:45:13",
+      "impact_score": 132.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts",
+      "summary": "3月7日消息，美国国防部因与AI公司Anthropic在模型控制权上存在分歧，正式将其列为供应链风险，导致一项价值2亿美元的合同破裂，并引发关于AI用于自主武器和国内大规模监控的伦理与法律争议。",
+      "importance": "高",
+      "reason": "重大政策与法规：涉及美国国防部对AI公司的官方风险认定，触及AI军事化、监控伦理等核心政策与安全问题，影响深远。",
+      "tags": [
+        "重大政策与法规",
+        "安全与伦理",
+        "Anthropic",
+        "美国国防部"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-06/the-close-3-6-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-06 23:24:00",
+      "impact_score": 262.5
+    },
+    {
+      "index": 2,
+      "title": "Trump Signs Order to Bolster Efforts to Combat Cybercrime",
+      "summary": "3月7日消息，美国总统特朗普签署了一项旨在打击网络犯罪的行政命令，指示官员们识别强有力的工具来打击针对美国家庭、企业和基础设施的跨国犯罪组织。",
+      "importance": "高",
+      "reason": "重大政策与法规：美国总统签署的行政命令，属于国家级网络安全政策，对科技和AI行业有直接影响。",
+      "tags": [
+        "重大政策与法规",
+        "网络安全",
+        "行政命令",
+        "美国"
+      ],
+      "url": "https://www.ft.com/content/1d3fa4f9-ec94-49ff-b22f-bd69b92be8ce",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-03-07 01:10:33",
+      "impact_score": 180.0
+    },
+    {
+      "index": 3,
+      "title": "Oracle, OpenAI End Plans to Expand Flagship Data Center",
+      "summary": "3月7日消息，甲骨文与OpenAI因融资谈判和需求变化，已放弃在德克萨斯州扩建旗舰人工智能数据中心的计划，此举为Meta等公司介入提供了机会。",
+      "importance": "高",
+      "reason": "重大商业动态：涉及全球顶级AI公司OpenAI与科技巨头甲骨文的重大合作项目终止，影响AI基础设施布局，属于重要商业变动。",
+      "tags": [
+        "重大商业动态",
+        "OpenAI",
+        "甲骨文",
+        "AI基础设施"
+      ],
+      "url": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-03-06 18:09:11",
+      "impact_score": 171.0
+    },
+    {
+      "index": 4,
+      "title": "Anthropic to challenge DOD’s supply-chain label in court",
+      "summary": "3月7日消息，Anthropic首席执行官Dario Amodei表示，计划就美国国防部将其AI公司列为供应链风险的决定提起诉讼，声称该标签不影响其绝大多数客户。",
+      "importance": "高",
+      "reason": "重大政策与法规：AI头部公司对美国政府部门的政策决定发起法律挑战，是行业与监管冲突的典型案例，具有风向标意义。",
+      "tags": [
+        "重大政策与法规",
+        "法律诉讼",
+        "Anthropic",
+        "美国国防部"
+      ],
+      "url": "https://techcrunch.com/podcast/anthropic-vs-the-pentagon-the-saaspocalypse-and-why-competitions-is-good-actually/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-03-06 18:01:38",
+      "impact_score": 171.0
+    },
+    {
+      "index": 5,
+      "title": "Iran hits Amazon data centres in jolt to Gulf AI drive",
+      "summary": "3月7日消息，伊朗对亚马逊数据中心发动了首次已知的军事打击，此举动摇了海湾地区建设价值数十亿美元云设施以推动AI发展的雄心，凸显了关键数字基础设施的地缘政治风险。",
+      "importance": "高",
+      "reason": "安全与伦理：首次针对美国超大规模云服务商的军事打击事件，直接威胁全球AI基础设施安全，属于重大安全事件。",
+      "tags": [
+        "安全与伦理",
+        "地缘政治",
+        "基础设施安全",
+        "亚马逊AWS"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-07/nintendo-files-lawsuit-seeking-refunds-on-trump-s-tariffs",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-07 03:34:52",
+      "impact_score": 165.0
+    },
+    {
+      "index": 6,
+      "title": "OpenAI Releases AI Agent Security Tool for Research Preview",
+      "summary": "3月7日消息，OpenAI发布了一款旨在帮助安全团队在大型数据库中发现和修补漏洞的AI智能体工具，并已开放研究预览，此举可能冲击传统网络安全公司的市场需求。",
+      "importance": "中",
+      "reason": "重大产品发布：OpenAI发布新的AI安全产品，属于其产品线的重要扩展，可能重塑网络安全工具市场格局。",
+      "tags": [
+        "重大产品发布",
+        "OpenAI",
+        "AI安全",
+        "网络安全"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-06/trump-signs-order-to-bolster-efforts-to-combat-cybercrime",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-06 20:13:04",
+      "impact_score": 165.0
+    },
+    {
+      "index": 7,
+      "title": "AI Chipmaker Cerebras Taps Morgan Stanley for IPO Return",
+      "summary": "3月7日消息，人工智能芯片制造商Cerebras Systems已选择摩根士丹利牵头其首次公开募股，正重新尝试上市，此举被视为AI芯片领域竞争加剧和资本市场关注度提升的信号。",
+      "importance": "中",
+      "reason": "重大商业动态：知名AI芯片初创公司筹备IPO，属于重要的资本市场活动，反映了AI硬件领域的融资和发展动态。",
+      "tags": [
+        "重大商业动态",
+        "IPO",
+        "AI芯片",
+        "Cerebras"
+      ],
+      "url": "https://www.ft.com/content/9ab91d10-e1f9-4142-a11e-efcc319d00e8",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-03-06 03:33:38",
+      "impact_score": 165.0
+    },
+    {
+      "index": 8,
+      "title": "Anthropic Unveils Amazon-Inspired Marketplace for AI Software",
+      "summary": "3月7日消息，Anthropic为其企业客户推出了一个购买第三方软件的新平台，仿效亚马逊模式打造AI软件市场，旨在拓宽其产品供应，以应对与五角大楼对峙带来的业务不确定性。",
+      "importance": "中",
+      "reason": "重大产品发布：Anthropic推出重要的商业平台产品，是其构建AI生态和寻求新增长点的重要战略举措。",
+      "tags": [
+        "重大产品发布",
+        "Anthropic",
+        "AI市场",
+        "商业战略"
+      ],
+      "url": "https://www.wired.com/story/jack-dorsey-explains-block-layoffs/",
+      "source": "Wired AI",
+      "original_pub_date": "2026-03-06 10:00:00",
+      "impact_score": 158.0
+    },
+    {
+      "index": 9,
+      "title": "Google gives CEO Sundar Pichai new pay deal worth up to $692mn",
+      "summary": "3月7日消息，谷歌母公司Alphabet授予首席执行官桑达尔·皮查伊一份新的薪酬方案，其价值高达6.92亿美元，该方案与未来三年的股价及Waymo的增长表现挂钩。",
+      "importance": "中",
+      "reason": "重大商业动态：涉及全球科技巨头谷歌CEO的天价薪酬方案，属于重要的公司治理和高管激励动态，反映了公司对AI未来（尤其是Waymo）的押注。",
+      "tags": [
+        "重大商业动态",
+        "谷歌",
+        "高管薪酬",
+        "Waymo"
+      ],
+      "url": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-03-06 01:28:54",
+      "impact_score": 158.0
+    },
+    {
+      "index": 10,
+      "title": "Rebellions Eyes Competition With Nvidia, AMD in AI Chips",
+      "summary": "3月7日消息，韩国AI半导体初创公司Rebellions的首席执行官朴成贤讨论了其公司计划如何在AI芯片领域与英伟达和AMD等巨头竞争，展现了全球AI芯片市场格局的新挑战者。",
+      "importance": "中",
+      "reason": "重大商业动态：海外AI芯片初创公司公开挑战行业巨头，反映了AI芯片市场日益激烈的竞争态势和新的市场参与者。",
+      "tags": [
+        "重大商业动态",
+        "AI芯片",
+        "Rebellions",
+        "市场竞争"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-06/openai-releases-ai-agent-security-tool-for-research-preview",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-06 18:00:00",
+      "impact_score": 150.0
+    },
+    {
+      "index": 11,
+      "title": "Top Korea Power Firm Revs Up US Growth Betting on AI Supercycle",
+      "summary": "3月7日消息，韩国顶级电力设备制造商HD现代电气公司正在加速其美国扩张，押注人工智能“超级周期”将推动新一轮电力消耗，从而引发对变压器和开关设备的需求激增。",
+      "importance": "中",
+      "reason": "重大商业动态：海外公司（韩国）基于AI发展趋势进行的重大战略投资和地域扩张，反映了AI发展对全球产业链（如电力基础设施）的拉动效应。",
+      "tags": [
+        "重大商业动态",
+        "AI基础设施",
+        "电力设备",
+        "韩国",
+        "美国扩张"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-06/anthropic-unveils-amazon-inspired-marketplace-for-ai-software",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-06 17:00:02",
+      "impact_score": 150.0
+    },
+    {
+      "index": 12,
+      "title": "Is the Pentagon allowed to surveil Americans with AI?",
+      "summary": "3月7日消息，美国国防部与Anthropic公司的公开争执引发了一个深层次且尚未解答的问题：法律是否真的允许美国政府使用AI对美国人进行大规模监控？这暴露了AI时代法律与伦理的模糊地带。",
+      "importance": "中",
+      "reason": "安全与伦理：深入探讨美国政府使用AI进行监控的合法性问题，触及AI伦理、公民隐私和国家安全法的核心交叉点，具有重要的公共政策讨论价值。",
+      "tags": [
+        "安全与伦理",
+        "AI监控",
+        "法律争议",
+        "公民隐私"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-06/oracle-openai-end-plans-to-expand-flagship-data-center-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-06 23:16:48",
+      "impact_score": 142.5
+    },
+    {
+      "index": 13,
+      "title": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
+      "summary": "3月7日消息，在与Mozilla近期的安全合作中，Anthropic的Claude模型在两周内发现了Firefox浏览器中的22个独立漏洞，其中14个被归类为“高危”，展示了AI在增强软件安全方面的潜力。",
+      "importance": "低",
+      "reason": "重大学术/技术突破：展示了领先AI模型在代码安全审计方面的实际应用和显著成效，属于AI赋能网络安全的技术进展案例。",
+      "tags": [
+        "技术突破",
+        "AI安全",
+        "Anthropic",
+        "Mozilla"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-06/axel-springer-nears-500-million-deal-for-telegraph-ft-reports",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-06 11:54:59",
+      "impact_score": 142.5
+    },
+    {
+      "index": 14,
+      "title": "Google joins Microsoft in telling users Anthropic is still available outside defense projects",
+      "summary": "3月7日消息，在国防部将Anthropic列入黑名单后，谷歌跟随微软的步伐，告知其云客户仍可访问Anthropic流行的AI工具，表明主要云厂商试图减轻政府制裁对商业生态的影响。",
+      "importance": "低",
+      "reason": "商业动态：反映了大型科技公司在政府政策与商业合作之间的应对策略，是Anthropic-五角大楼事件的后续市场反应。",
+      "tags": [
+        "商业动态",
+        "谷歌",
+        "微软",
+        "云服务",
+        "政策应对"
+      ],
+      "url": "https://www.cnbc.com/2026/03/06/google-says-anthropic-remains-available-outside-of-defense-projects.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-03-06 19:53:35",
+      "impact_score": 130.0
+    },
+    {
+      "index": 15,
+      "title": "Jack Dorsey Is Ready to Explain the Block Layoffs",
+      "summary": "3月7日消息，Block联合创始人兼首席执行官杰克·多西在独家采访中解释，他裁掉了公司40%的员工，目的是为了将公司“重建为一个智能体”，反映了企业为转向AI而进行的激进重组。",
+      "importance": "低",
+      "reason": "商业动态：知名科技公司（Block）为向AI转型而进行大规模裁员，属于行业结构调整和战略转向的典型案例。",
+      "tags": [
+        "商业动态",
+        "组织重组",
+        "AI转型",
+        "Block"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-06/ai-chipmaker-cerebras-said-to-tap-morgan-stanley-for-ipo-return",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-06 20:20:09",
+      "impact_score": 127.5
+    }
+  ],
+  "summary": "今日从109条原始信息中精选出15条国内动态和15条国际动态，其中10条为高重要性。 重点关注：上交所总经理蔡建春：科创板要落实好关键核心技术领域企业常态化上市机制；周鸿祎委员两会关注数据流通安全治理 为数据要素市场筑牢安全底座；无问智科重磅发布业界首个物理AI数据基座平台。",
+  "statistics": {
+    "raw_domestic": 34,
+    "raw_international": 75,
+    "raw_total": 109,
+    "final_domestic": 15,
+    "final_international": 15
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "3月7日消息，全国政协委员、上交所总经理蔡建春在两会期间表示，科创板需重点支持科技创新与转型升级类企业融资并购，并落实好关键核心技术领域科技型企业的常态化上市机制，以强化资本市场的融资功能。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "3月7日消息，全国政协委员、360集团创始人周鸿祎在两会期间建议完善数据流通安全合规体系，强调在AI与数字经济快速发展背景下，需在安全可控前提下实现数据高效流通，以释放数据要素价值并响应国家战略部署。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "3月7日消息，中国公司无问智科在德清正式发布业界首个物理AI数据基座平台“无垠”，旨在为具身智能领域提供数据采集与训练解决方案，汇聚了产业、学术及政府多方代表共同探讨技术落地新路径。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "3月7日消息，中国自动驾驶公司Momenta宣布其自研的三款关键中间件产品均获得最高等级ISO 26262 ASIL D功能安全认证，成为业界首个实现此全认证的企业，标志着其在智驾安全底层架构上达到国际领先水平。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "3月7日消息，中国公司高德地图发布全球首个由大模型驱动的视觉认知步行导引系统，该系统实现了空间智能应用的可视化与实用化，标志着AI在具体生活服务场景中的深度融合与创新。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "3月7日消息，美国国防部因与AI公司Anthropic在模型控制权上存在分歧，正式将其列为供应链风险，导致一项价值2亿美元的合同破裂，并引发关于AI用于自主武器和国内大规模监控的伦理与法律争议。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "3月7日消息，美国总统特朗普签署了一项旨在打击网络犯罪的行政命令，指示官员们识别强有力的工具来打击针对美国家庭、企业和基础设施的跨国犯罪组织。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "3月7日消息，甲骨文与OpenAI因融资谈判和需求变化，已放弃在德克萨斯州扩建旗舰人工智能数据中心的计划，此举为Meta等公司介入提供了机会。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "3月7日消息，Anthropic首席执行官Dario Amodei表示，计划就美国国防部将其AI公司列为供应链风险的决定提起诉讼，声称该标签不影响其绝大多数客户。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "3月7日消息，伊朗对亚马逊数据中心发动了首次已知的军事打击，此举动摇了海湾地区建设价值数十亿美元云设施以推动AI发展的雄心，凸显了关键数字基础设施的地缘政治风险。",
+      "importance": "高"
+    }
+  ]
+}
