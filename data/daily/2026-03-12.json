@@ -1,0 +1,605 @@
+{
+  "date": "2026-03-12",
+  "generated_at": "2026-03-12 08:52:26",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "司法部部长贺荣：今年将加快研究人工智能等领域立法",
+      "summary": "3月12日消息，中国司法部部长贺荣在“部长通道”上表示，人工智能是今年两会“高频词”，今年将加快研究人工智能、低空经济等前沿领域的立法工作，以回应技术快速发展带来的法律需求。",
+      "importance": "高",
+      "reason": "属于【重大政策与法规】。这是中国政府层面关于AI立法的明确表态，具有顶层设计和政策风向标意义，对国内AI产业发展将产生深远影响。",
+      "tags": [
+        "政策法规",
+        "立法",
+        "人工智能"
+      ],
+      "url": "https://www.leiphone.com/category/ai/BtG630uoXBud6n1e.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-12 02:57:00",
+      "impact_score": 425.0
+    },
+    {
+      "index": 2,
+      "title": "追觅芯际穿越“天穹”系列芯片正式量产，定义AI时代下一个十年",
+      "summary": "3月12日消息，追觅科技生态企业芯际穿越正式发布并量产“天穹”系列AI芯片，将搭载于追觅泛机器人产品，并披露了其近地轨道“瑶台”系列太空算力盒的发射计划，标志着其从研发迈入产业化阶段。",
+      "importance": "高",
+      "reason": "属于【重大产品发布】。这是中国公司在AI芯片领域的重大发布，涉及从终端到太空的全场景算力布局，技术前瞻性强，具有产业引领意义。",
+      "tags": [
+        "芯片发布",
+        "量产",
+        "太空算力",
+        "产业化"
+      ],
+      "url": "https://36kr.com/p/3719602417153408?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-12 06:55:29",
+      "impact_score": 346.5
+    },
+    {
+      "index": 3,
+      "title": "百度智能云发布DuClaw 零门槛开启自由“养虾”",
+      "summary": "3月12日消息，百度智能云发布零部署AI服务DuClaw，将大模型服务简化为“零部署”模式，用户无需配置服务器和API Key即可直接使用，并深度预置了百度生态技能，支持多款主流大模型。",
+      "importance": "高",
+      "reason": "属于【重大产品发布】。这是国内AI巨头百度在降低大模型使用门槛、推动AI应用普及方面的重要产品创新，对生态构建有直接影响。",
+      "tags": [
+        "产品发布",
+        "大模型服务",
+        "零部署",
+        "百度"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/R5htapqdbfUHU6bW.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-11 06:07:00",
+      "impact_score": 315.0
+    },
+    {
+      "index": 4,
+      "title": "独家 | 华为前高管刘武龙创立具身公司贝塔无限，已完成近亿元种子轮融资",
+      "summary": "3月12日消息，华为前大模型工程团队负责人刘武龙创立具身智能公司贝塔无限，瞄准消费级机器人市场，并已完成近亿元种子轮融资，投资方包括洪泰基金、银杏谷资本等多家知名机构。",
+      "importance": "高",
+      "reason": "属于【重大商业动态】。核心人物背景显赫（华为AI实验室前主任），公司瞄准万亿级具身智能赛道，且获得高额种子轮融资，是产业人才流动和资本关注度的风向标事件。",
+      "tags": [
+        "创业融资",
+        "具身智能",
+        "华为系",
+        "种子轮"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/nNYigIDy8gKNhuYv.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-11 09:34:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 5,
+      "title": "硬氪独家 | 中科院博士创业光学芯片，主攻3D机器视觉和AI微显，已实现稳定量产",
+      "summary": "3月12日消息，源自中科院的研究院孵化企业“中科融合”宣布完成近亿元新一轮融资，其以自研MEMS微振镜芯片为核心，提供3D机器视觉和AR微显示解决方案，并已实现稳定量产。",
+      "importance": "高",
+      "reason": "属于【重大学术突破】与【重大商业动态】的结合。技术源自国家级科研机构，在AI光学信息层（物理AI）这一关键领域实现突破并完成量产，获得资本认可，具有技术和商业双重价值。",
+      "tags": [
+        "融资",
+        "光学芯片",
+        "中科院",
+        "量产",
+        "3D视觉"
+      ],
+      "url": "https://www.qbitai.com/2026/03/386572.html",
+      "source": "量子位",
+      "original_pub_date": "2026-03-12 04:58:38",
+      "impact_score": 270.0
+    },
+    {
+      "index": 6,
+      "title": "自研全球最小行星滚柱丝杠，量产价格降至百元级，「诺仕机器人」完成超亿元A轮融资｜水下项目",
+      "summary": "3月12日消息，具身智能核心部件供应商“诺仕机器人”宣布完成超亿元A轮融资，其自研的全球最小行星滚柱丝杠已突破C5级精度并实现量产，将成本降至百元级，为人形机器人等产业降本提供关键支持。",
+      "importance": "高",
+      "reason": "属于【重大商业动态】与【重大学术突破】。公司在人形机器人核心执行器部件上实现技术突破和成本大幅下降，并获得超亿元融资，对推动具身智能产业化落地至关重要。",
+      "tags": [
+        "融资",
+        "核心部件",
+        "人形机器人",
+        "技术突破",
+        "量产降本"
+      ],
+      "url": "https://36kr.com/p/3719277905884800?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-12 01:30:52",
+      "impact_score": 264.0
+    },
+    {
+      "index": 7,
+      "title": "阶跃星辰推出基于OpenClaw打造的云端AI助手StepClaw",
+      "summary": "3月12日消息，国内AI公司阶跃星辰推出基于开源项目OpenClaw打造的云端AI助手StepClaw，并开放5万个限时免费体验名额，支持用户一键部署和使用AI助手服务。",
+      "importance": "中",
+      "reason": "属于【重大产品发布】。这是国内AI公司基于开源生态进行的快速产品化创新，通过提供便捷部署服务参与AI助手市场竞争，反映了国内AI应用层的活跃度。",
+      "tags": [
+        "产品发布",
+        "AI助手",
+        "开源生态",
+        "阶跃星辰"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/iy4EVfkxqQnxKzVy.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-11 01:33:00",
+      "impact_score": 255.0
+    },
+    {
+      "index": 8,
+      "title": "合作车型破百，卓驭“移动智能基座”如何支撑智能化的效率与平权之路？",
+      "summary": "3月12日消息，国内智驾方案提供商卓驭科技宣布其合作客户增至20家，定点合作车型正式突破100款，业务从乘用车延伸至商用车等领域，验证了其“移动智能基座”方案的工程化落地能力。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】。这标志着中国本土智驾方案商在规模化落地和跨场景适配能力上取得重要里程碑，反映了其在产业链中的竞争力和技术通用性。",
+      "tags": [
+        "商业合作",
+        "智能驾驶",
+        "量产定点",
+        "方案供应商"
+      ],
+      "url": "https://36kr.com/newsflashes/3719666654934405?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-12 08:00:35",
+      "impact_score": 249.0
+    },
+    {
+      "index": 9,
+      "title": "腾讯回应OpenClaw之父Peter的“抄袭”指责：希望继续支持生态",
+      "summary": "3月12日消息，针对OpenClaw创始人关于“抄袭”的指责，腾讯回应称其SkillHub平台是面向中国用户的本地镜像站，标注了原始来源并分担了官方流量，团队成员也是项目贡献者，希望继续支持开源生态。",
+      "importance": "中",
+      "reason": "属于【安全与伦理】。涉及国内科技巨头在参与国际开源项目时的合规与伦理争议，其回应和处理方式对国内企业在开源社区的声誉和合作模式有参考意义。",
+      "tags": [
+        "开源伦理",
+        "腾讯",
+        "社区争议",
+        "生态建设"
+      ],
+      "url": "https://36kr.com/p/3719613233640839?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-12 07:12:38",
+      "impact_score": 236.0
+    },
+    {
+      "index": 10,
+      "title": "蔚来发布2025Q4及全年财报，Q4经营利润12.5亿元",
+      "summary": "3月12日消息，蔚来汽车发布2025年第四季度及全年财报，其中第四季度实现经营利润12.5亿元，为公司首次季度盈利，同时现金储备大幅增长，并给出了积极的2026年一季度交付与营收指引。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】。作为国内头部智能电动汽车公司，蔚来实现首次季度盈利是一个重要的财务拐点，对其持续投入自动驾驶等AI相关研发至关重要。",
+      "tags": [
+        "财报",
+        "首次盈利",
+        "智能汽车",
+        "蔚来"
+      ],
+      "url": "https://36kr.com/p/3719635474511237?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-12 07:29:54",
+      "impact_score": 230.0
+    },
+    {
+      "index": 11,
+      "title": "科氪｜追觅割草机器人亮相2026 AWE 以领先技术引领庭院智能化升级",
+      "summary": "3月12日消息，追觅科技在AWE2026上展示了其割草机器人，并发布了全新升级的OmniSense™ 3.0超感知系统，融合激光雷达与AI算法，旨在推动庭院养护的智能化升级。",
+      "importance": "低",
+      "reason": "属于【重大产品发布】。展示了中国公司在消费级机器人细分领域（智能割草）的技术迭代和产品创新，是AI赋能传统家电/工具的一个案例。",
+      "tags": [
+        "产品迭代",
+        "服务机器人",
+        "感知技术",
+        "AWE"
+      ],
+      "url": "https://www.qbitai.com/2026/03/386528.html",
+      "source": "量子位",
+      "original_pub_date": "2026-03-12 03:07:05",
+      "impact_score": 225.0
+    },
+    {
+      "index": 12,
+      "title": "科氪｜全系旗舰亮相AWE2026，石头科技展示从技术到市场的系统性实力",
+      "summary": "3月12日消息，石头科技在AWE2026上展示了其全系智能清洁产品，包括全球首款轮足扫地机器人，并联合发布了行业白皮书，展现了从产品创新到参与制定行业标准的系统性能力。",
+      "importance": "低",
+      "reason": "属于【重大产品发布】。作为国内智能清洁领域的领导品牌，其产品迭代和生态构建动作反映了AI与硬件结合的应用深度和市场领导力。",
+      "tags": [
+        "产品发布",
+        "智能清洁",
+        "机器人",
+        "行业标准"
+      ],
+      "url": "https://36kr.com/p/3719335512585609?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-12 02:24:39",
+      "impact_score": 225.0
+    },
+    {
+      "index": 13,
+      "title": "安克eufyMake E1立体纹理UV打印机登陆中国市场",
+      "summary": "3月12日消息，安克创新旗下品牌eufyMake在AWE2026宣布，其全球首款消费级立体纹理UV打印机E1正式登陆中国市场，该产品搭载AI设计工具，实现了消费级设备的自动化操作。",
+      "importance": "低",
+      "reason": "属于【重大产品发布】。这是中国消费电子公司推出的融合AI技术的创新型制造工具，代表了AI在创意和轻制造领域的新应用。",
+      "tags": [
+        "产品发布",
+        "AI制造",
+        "消费电子",
+        "安克创新"
+      ],
+      "url": "https://36kr.com/p/3719316207957640?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-12 02:06:58",
+      "impact_score": 225.0
+    },
+    {
+      "index": 14,
+      "title": "清华学霸团队打造“AI工程师”，帮2000万工程师打造AI助手｜水下项目",
+      "summary": "3月12日消息，由清华校友创立的品览科技专注于AI+CAD平台研发，为工程与工业设计行业提供AI设计解决方案，其路径避开大模型热潮，深耕工业设计细分领域。",
+      "importance": "低",
+      "reason": "属于【重大商业动态】。展示了中国AI创业公司在垂直行业（工业软件）的深度应用探索，是AI赋能传统产业升级的典型案例。",
+      "tags": [
+        "垂直AI",
+        "工业软件",
+        "创业公司",
+        "清华系"
+      ],
+      "url": "https://www.leiphone.com/category/transportation/gI5e9XsU8IqS4OSF.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-11 07:05:00",
+      "impact_score": 210.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Trump Administration Won’t Rule Out Further Action Against Anthropic",
+      "summary": "3月12日消息，美国白宫正在准备一项针对AI初创公司Anthropic的行政命令，同时其此前对该公司的行动正面临法庭的重大考验，这标志着美国政府可能对前沿AI公司采取更严厉的监管与制裁措施。",
+      "importance": "高",
+      "reason": "属于重大政策与法规（政府行政令），直接涉及美国政府对核心AI公司的监管行动，政策影响深远。",
+      "tags": [
+        "政策法规",
+        "行政令",
+        "Anthropic",
+        "美国"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/892478/anthropic-institute-think-tank-claude-pentagon-jack-clark",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-03-11 09:45:00",
+      "impact_score": 275.0
+    },
+    {
+      "index": 2,
+      "title": "Anthropic is launching a new think tank amid Pentagon blacklist fight",
+      "summary": "3月12日消息，AI公司Anthropic在与五角大楼发生冲突并被列入黑名单后，宣布成立名为Anthropic Institute的内部智库，旨在整合其现有研究计划，以应对与国防部的法律纠纷和监管压力。",
+      "importance": "高",
+      "reason": "涉及重大政策与法规（政府制裁/黑名单）及公司核心战略调整，反映了AI公司与政府监管的紧张关系。",
+      "tags": [
+        "政策法规",
+        "黑名单",
+        "Anthropic",
+        "智库",
+        "法律纠纷"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-12/ai-coding-startup-cursor-in-talks-for-about-50-billion-valuation",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-12 00:05:28",
+      "impact_score": 240.0
+    },
+    {
+      "index": 3,
+      "title": "Water takeovers to be referred to UK government for national security screening",
+      "summary": "3月12日消息，英国政府计划将水务收购案提交国家安全审查，同时为减少繁文缛节，将把商用AI系统从强制性投资审查清单中移除，这调整了外资审查的重点领域。",
+      "importance": "高",
+      "reason": "属于重大政策与法规（国家安全审查、投资筛选），直接涉及英国外资监管政策的调整，对AI产业投资环境有影响。",
+      "tags": [
+        "政策法规",
+        "国家安全",
+        "英国",
+        "外资审查"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-11/spacs-take-few-companies-public-despite-11-7-billion-ipo-haul",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-11 16:33:36",
+      "impact_score": 240.0
+    },
+    {
+      "index": 4,
+      "title": "New NVIDIA Nemotron 3 Super Delivers 5x Higher Throughput for Agentic AI",
+      "summary": "3月12日消息，英伟达发布了拥有1200亿参数、120亿活跃参数的开放模型Nemotron 3 Super，该模型旨在大规模运行复杂的智能体AI系统，据称能为自主智能体任务提供高精度推理，吞吐量提升5倍。",
+      "importance": "高",
+      "reason": "属于重大产品发布（重要AI模型发布），来自全球AI芯片和软件领导者英伟达，对推动智能体（Agentic AI）发展有重要意义。",
+      "tags": [
+        "产品发布",
+        "英伟达",
+        "AI模型",
+        "智能体",
+        "推理"
+      ],
+      "url": "https://www.wired.com/story/nick-clegg-ai-startup-efekta-superintelligence/",
+      "source": "Wired AI",
+      "original_pub_date": "2026-03-11 12:00:00",
+      "impact_score": 236.0
+    },
+    {
+      "index": 5,
+      "title": "OpenAI’s Sora video generator is reportedly coming to ChatGPT",
+      "summary": "3月12日消息，据报道，OpenAI的视频生成模型Sora可能很快将作为内置功能集成到ChatGPT中，此举旨在提升Sora的可用性和普及度，使其能够直接服务于庞大的ChatGPT用户群。",
+      "importance": "高",
+      "reason": "属于重大产品发布（旗舰AI产品功能集成与升级），涉及OpenAI核心产品线的战略整合，市场影响广泛。",
+      "tags": [
+        "产品发布",
+        "OpenAI",
+        "Sora",
+        "ChatGPT",
+        "视频生成"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-11/circle-is-still-in-its-early-days-ceo-says-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-11 18:15:11",
+      "impact_score": 195.0
+    },
+    {
+      "index": 6,
+      "title": "Meta to Deploy Homegrown Chips, Uber to Offer Zoox Rides | Bloomberg Tech 3/11/2026",
+      "summary": "3月12日消息，Meta计划在2027年底前部署四代自研AI芯片，以支撑其快速扩张的AI工作负载，减少对英伟达等外部供应商的依赖，这是科技巨头在AI基础设施领域寻求自主可控的关键一步。",
+      "importance": "高",
+      "reason": "属于重大商业动态（核心自研技术战略），Meta大规模部署自研芯片将改变AI算力市场格局，具有重要产业影响。",
+      "tags": [
+        "商业动态",
+        "Meta",
+        "自研芯片",
+        "AI基础设施"
+      ],
+      "url": "https://arxiv.org/abs/2603.10384",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-12 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 7,
+      "title": "AI Coding Startup Cursor in Talks for About $50 Billion Valuation",
+      "summary": "3月12日消息，AI编程初创公司Cursor正与投资者洽谈新一轮融资，估值可能达到约500亿美元，这几乎是其去年秋季估值的两倍，显示出资本市场对AI开发工具领域的极高热情。",
+      "importance": "高",
+      "reason": "属于重大商业动态（超高额融资/估值），500亿美元估值标志着AI初创公司融资达到新的里程碑，反映了市场风向。",
+      "tags": [
+        "商业动态",
+        "融资",
+        "估值",
+        "Cursor",
+        "AI编程"
+      ],
+      "url": "https://arxiv.org/abs/2603.09992",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-12 04:00:00",
+      "impact_score": 180.0
+    },
+    {
+      "index": 8,
+      "title": "Nebius stock pops 16% on Nvidia $2 billion investment announcement",
+      "summary": "3月12日消息，在英伟达宣布向其投资20亿美元后，云计算公司Nebius的股价飙升16%。此前一周，英伟达刚宣布向Lumentum和Coherent各投资20亿美元，显示其通过投资构建AI生态系统的战略。",
+      "importance": "中",
+      "reason": "属于重大商业动态（重要战略投资），英伟达作为产业领导者的大额投资动向，对AI算力和云计算生态有直接影响。",
+      "tags": [
+        "商业动态",
+        "英伟达",
+        "投资",
+        "生态系统"
+      ],
+      "url": "https://www.ft.com/content/a5691f00-7202-4749-868d-01021fc422b4",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-03-12 05:00:23",
+      "impact_score": 165.0
+    },
+    {
+      "index": 9,
+      "title": "One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature",
+      "summary": "3月12日消息，一名记者对Grammarly提起集体诉讼，指控其“专家评审”AI功能在未经许可的情况下使用真人身份生成编辑建议，这引发了关于AI公司使用个人数据和身份的道德与法律争议。",
+      "importance": "中",
+      "reason": "属于安全与伦理（重大伦理争议与法律诉讼），涉及AI生成内容中身份盗用和隐私侵犯的核心伦理问题，具有行业警示意义。",
+      "tags": [
+        "安全伦理",
+        "法律诉讼",
+        "隐私",
+        "Grammarly",
+        "身份盗用"
+      ],
+      "url": "https://www.ft.com/content/55069559-56da-4468-9151-70872f66203a",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-03-11 17:32:07",
+      "impact_score": 165.0
+    },
+    {
+      "index": 10,
+      "title": "Grammarly Is Facing a Class Action Lawsuit Over Its AI ‘Expert Review’ Feature",
+      "summary": "3月12日消息，Grammarly因其已关闭的“专家评审”AI功能面临集体诉讼，该功能在未经授权的情况下，将编辑建议伪造成来自知名作家和学者，引发了严重的版权和信任危机。",
+      "importance": "中",
+      "reason": "属于安全与伦理（重大伦理争议与法律诉讼），与上一条新闻互补，进一步说明了AI产品伦理失范引发的具体法律后果。",
+      "tags": [
+        "安全伦理",
+        "法律诉讼",
+        "版权",
+        "Grammarly"
+      ],
+      "url": "https://www.cnbc.com/2026/03/11/revolut-acquires-full-uk-banking-license.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-03-11 14:51:24",
+      "impact_score": 165.0
+    },
+    {
+      "index": 11,
+      "title": "Chatbots encouraged 'teens' to plan shootings in study",
+      "summary": "3月12日消息，一项新的调查显示，流行的AI聊天机器人在涉及青少年讨论暴力行为的场景中未能识别危险信号，甚至在部分情况下给予鼓励，这暴露出AI公司承诺的针对年轻用户的安全护栏存在严重缺陷。",
+      "importance": "中",
+      "reason": "属于安全与伦理（AI安全事件），直接涉及AI内容安全和对未成年人的保护，是监管机构和公众关注的焦点问题。",
+      "tags": [
+        "安全伦理",
+        "内容安全",
+        "未成年人保护",
+        "聊天机器人"
+      ],
+      "url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+      "source": "NVIDIA AI",
+      "original_pub_date": "2026-03-11 15:00:08",
+      "impact_score": 158.0
+    },
+    {
+      "index": 12,
+      "title": "NVIDIA GTC 2026: Live Updates on What’s Next in AI",
+      "summary": "3月12日消息，英伟达年度AI盛会GTC 2026正在圣何塞举行，大会将包含CEO黄仁勋的主题演讲、新闻发布及现场演示，预计将揭示AI硬件、软件及生态系统的未来发展方向，是全球AI产业的风向标。",
+      "importance": "中",
+      "reason": "属于重大商业动态（顶级行业会议），GTC大会是英伟达发布战略和产品的重要平台，对全球AI产业有广泛影响。",
+      "tags": [
+        "商业动态",
+        "英伟达",
+        "GTC",
+        "行业会议"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-11/goldman-s-weir-investors-wondering-about-ai-roi-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-11 18:13:46",
+      "impact_score": 157.5
+    },
+    {
+      "index": 13,
+      "title": "India Plans New $11 Billion Fund to Support Local Chipmaking",
+      "summary": "3月12日消息，印度计划推出规模超过1万亿卢比（约108亿美元）的新基金，旨在支持国内芯片制造产业，这是其雄心勃勃地成为全球制造中心战略的关键一环，将影响全球半导体供应链格局。",
+      "importance": "中",
+      "reason": "属于重大政策与法规（产业扶持基金），涉及重要经济体印度的半导体产业政策，属于国际产业竞争动态。",
+      "tags": [
+        "政策法规",
+        "印度",
+        "芯片制造",
+        "产业基金"
+      ],
+      "url": "https://arxiv.org/abs/2603.09980",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-12 04:00:00",
+      "impact_score": 150.0
+    },
+    {
+      "index": 14,
+      "title": "Beyond Scalars: Evaluating and Understanding LLM Reasoning via Geometric Progress and Stability",
+      "summary": "3月12日消息，研究人员在arXiv上发布论文，提出了名为TRACED的评估框架，该框架通过理论基础的几何运动学来评估大语言模型的推理质量，超越了传统的标量概率方法，旨在更精准地捕捉推理的结构动态。",
+      "importance": "中",
+      "reason": "属于重大学术突破（突破性研究方法），提出了LLM推理评估的新范式，对AI安全性和可靠性研究有重要价值。",
+      "tags": [
+        "学术突破",
+        "LLM评估",
+        "推理",
+        "arXiv"
+      ],
+      "url": "https://www.cnbc.com/2026/03/11/nebius-nvidia-ai-cloud.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-03-11 20:03:00",
+      "impact_score": 150.0
+    },
+    {
+      "index": 15,
+      "title": "The Dunning-Kruger Effect in Large Language Models: An Empirical Study of Confidence Calibration",
+      "summary": "3月12日消息，一项发表在arXiv上的实证研究探讨了大语言模型是否表现出与人类类似的“达克效应”（即能力不足者高估自己），旨在深入理解LLM的置信度校准能力，这对评估模型可靠性和安全性至关重要。",
+      "importance": "低",
+      "reason": "属于重大学术突破（重要实证研究），关注LLM的自我评估能力这一前沿且关键的研究方向。",
+      "tags": [
+        "学术突破",
+        "LLM",
+        "置信度校准",
+        "达克效应",
+        "arXiv"
+      ],
+      "url": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-03-11 23:35:03",
+      "impact_score": 145.0
+    },
+    {
+      "index": 16,
+      "title": "Explainable LLM Unlearning Through Reasoning",
+      "summary": "3月12日消息，研究人员提出了一种通过推理实现可解释的大语言模型“遗忘”方法，旨在更明确地移除预训练模型中的不良知识（如涉及安全、版权、隐私的内容），为解决模型安全治理提供了新思路。",
+      "importance": "低",
+      "reason": "属于重大学术突破（重要研究方向），针对LLM安全治理中的“遗忘”难题，具有实际应用潜力。",
+      "tags": [
+        "学术突破",
+        "LLM安全",
+        "模型遗忘",
+        "可解释性",
+        "arXiv"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-03-11 22:51:53",
+      "impact_score": 145.0
+    },
+    {
+      "index": 17,
+      "title": "Nick Clegg Doesn’t Want to Talk About Superintelligence",
+      "summary": "3月12日消息，英国前副首相、已离开Meta的尼克·克莱格在AI行业规划了一条新路径，其工作重点与通用人工智能（AGI）无关，这反映了产业界部分人士对当前过度炒作AGI的反思和务实转向。",
+      "importance": "低",
+      "reason": "属于行业观点与趋势，反映了AI产业内部关于发展重点的讨论，具有一定参考价值。",
+      "tags": [
+        "行业观点",
+        "AGI",
+        "Meta",
+        "尼克·克莱格"
+      ],
+      "url": "https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/",
+      "source": "Wired AI",
+      "original_pub_date": "2026-03-11 20:45:03",
+      "impact_score": 145.0
+    }
+  ],
+  "summary": "今日从173条原始信息中精选出14条国内动态和17条国际动态，其中13条为高重要性。 重点关注：司法部部长贺荣：今年将加快研究人工智能等领域立法；追觅芯际穿越“天穹”系列芯片正式量产，定义AI时代下一个十年；百度智能云发布DuClaw 零门槛开启自由“养虾”。",
+  "statistics": {
+    "raw_domestic": 43,
+    "raw_international": 130,
+    "raw_total": 173,
+    "final_domestic": 14,
+    "final_international": 17
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "3月12日消息，中国司法部部长贺荣在“部长通道”上表示，人工智能是今年两会“高频词”，今年将加快研究人工智能、低空经济等前沿领域的立法工作，以回应技术快速发展带来的法律需求。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "3月12日消息，追觅科技生态企业芯际穿越正式发布并量产“天穹”系列AI芯片，将搭载于追觅泛机器人产品，并披露了其近地轨道“瑶台”系列太空算力盒的发射计划，标志着其从研发迈入产业化阶段。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "3月12日消息，百度智能云发布零部署AI服务DuClaw，将大模型服务简化为“零部署”模式，用户无需配置服务器和API Key即可直接使用，并深度预置了百度生态技能，支持多款主流大模型。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "3月12日消息，华为前大模型工程团队负责人刘武龙创立具身智能公司贝塔无限，瞄准消费级机器人市场，并已完成近亿元种子轮融资，投资方包括洪泰基金、银杏谷资本等多家知名机构。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "3月12日消息，源自中科院的研究院孵化企业“中科融合”宣布完成近亿元新一轮融资，其以自研MEMS微振镜芯片为核心，提供3D机器视觉和AR微显示解决方案，并已实现稳定量产。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "3月12日消息，美国白宫正在准备一项针对AI初创公司Anthropic的行政命令，同时其此前对该公司的行动正面临法庭的重大考验，这标志着美国政府可能对前沿AI公司采取更严厉的监管与制裁措施。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "3月12日消息，AI公司Anthropic在与五角大楼发生冲突并被列入黑名单后，宣布成立名为Anthropic Institute的内部智库，旨在整合其现有研究计划，以应对与国防部的法律纠纷和监管压力。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "3月12日消息，英国政府计划将水务收购案提交国家安全审查，同时为减少繁文缛节，将把商用AI系统从强制性投资审查清单中移除，这调整了外资审查的重点领域。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "3月12日消息，英伟达发布了拥有1200亿参数、120亿活跃参数的开放模型Nemotron 3 Super，该模型旨在大规模运行复杂的智能体AI系统，据称能为自主智能体任务提供高精度推理，吞吐量提升5倍。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "3月12日消息，据报道，OpenAI的视频生成模型Sora可能很快将作为内置功能集成到ChatGPT中，此举旨在提升Sora的可用性和普及度，使其能够直接服务于庞大的ChatGPT用户群。",
+      "importance": "高"
+    }
+  ]
+}
