@@ -1,0 +1,660 @@
+{
+  "date": "2026-03-24",
+  "generated_at": "2026-03-24 08:59:06",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "氪星晚报 ｜阿里明日或将发布重要芯片产品；全球首个脑机接口创新产品获得医保编码；LG电子称今年将全力推进机器人业务",
+      "summary": "3月24日消息，中国科技巨头阿里巴巴计划发布重要芯片产品，此举被视为其强化自研算力、应对国际竞争的关键一步，同时国内在脑机接口等前沿领域的创新产品也获得了医保编码等政策层面的支持。",
+      "importance": "高",
+      "reason": "重大产品发布（中国公司阿里发布重要芯片）",
+      "tags": [
+        "重大产品发布",
+        "芯片",
+        "阿里巴巴"
+      ],
+      "url": "https://36kr.com/p/3736572995813636?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-24 06:44:30",
+      "impact_score": 532.5
+    },
+    {
+      "index": 2,
+      "title": "8点1氪丨13年来首次，国家对油价临时调控；影石回应被大疆起诉；雷军称小米新一代SU7锁单超过3万台",
+      "summary": "3月24日消息，国家发改委为应对国际油价异常波动，宣布对国内成品油价格采取临时调控措施，这是13年来的首次，旨在保障经济平稳运行和减轻民生负担。",
+      "importance": "高",
+      "reason": "重大政策与法规（国家层面的临时价格调控）",
+      "tags": [
+        "重大政策",
+        "价格调控",
+        "发改委"
+      ],
+      "url": "https://36kr.com/p/3735459789242375?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-23 11:52:21",
+      "impact_score": 396.0
+    },
+    {
+      "index": 3,
+      "title": "阿里达摩院与开芯院、中科院软件所达成战略合作，共推RISC-V开源架构",
+      "summary": "3月24日消息，阿里巴巴达摩院与北京开源芯片研究院、中国科学院软件研究所签署战略合作协议，共同研发下一代开源RISC-V CPU“香山”，旨在推进RISC-V技术创新与高性能软件生态建设。",
+      "importance": "高",
+      "reason": "重大商业动态（顶尖研究机构与科技巨头的战略合作，涉及核心芯片架构）",
+      "tags": [
+        "战略合作",
+        "RISC-V",
+        "阿里巴巴",
+        "中科院"
+      ],
+      "url": "https://36kr.com/p/3735324365094918?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-24 02:00:00",
+      "impact_score": 342.5
+    },
+    {
+      "index": 4,
+      "title": "趋境科技迎重磅加盟，院士+教授领衔，领跑高效能AI Token生产新生态",
+      "summary": "3月24日消息，趋境科技宣布中国工程院院士郑纬民与清华大学教授武永卫正式加盟，分别出任首席科学顾问与首席科学家，此举将极大夯实公司在高效能AI推理与Token生产领域的技术壁垒与战略根基。",
+      "importance": "高",
+      "reason": "重大学术突破/商业动态（顶尖学者加盟中国AI公司，强化产学研）",
+      "tags": [
+        "学术突破",
+        "人才引进",
+        "清华大学",
+        "高效能计算"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/rFeuvZCYsc6GOqfn.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-23 02:07:00",
+      "impact_score": 290.0
+    },
+    {
+      "index": 5,
+      "title": "独家丨华为具身智能「1号员工」周顺波离职创业",
+      "summary": "3月24日消息，华为云具身智能领域核心负责人、首席技术专家周顺波已正式离职并创立新公司“欧拉万象”，他曾从0到1搭建华为具身智能团队并主导完成了技术到产品的商业闭环。",
+      "importance": "中",
+      "reason": "重大商业动态（中国头部科技公司核心AI人才流动与创业）",
+      "tags": [
+        "人才流动",
+        "创业",
+        "华为",
+        "具身智能"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/lA9KFsIvqf4Ozvgy.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-24 06:52:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 6,
+      "title": "独家｜华为云新加坡总经理胡维琦将加入MiniMax，或向贠烨祎汇报",
+      "summary": "3月24日消息，原华为云新加坡总经理胡维琦将加入中国AI独角兽MiniMax，预计将负责公司的B端业务及中国区市场，这是华为云核心高管向国内AI明星公司流动的又一案例。",
+      "importance": "中",
+      "reason": "重大商业动态（中国AI公司引入巨头高管，强化业务布局）",
+      "tags": [
+        "人才流动",
+        "MiniMax",
+        "华为",
+        "云计算"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/a6MRb7oWS3HKM9fh.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-24 03:50:00",
+      "impact_score": 275.0
+    },
+    {
+      "index": 7,
+      "title": "拒多家车企邀约，前理想端到端负责人夏中谱加入无界动力｜36氪独家",
+      "summary": "3月24日消息，前理想汽车智驾端到端负责人夏中谱拒绝多家车企邀请，选择加入由前地平线副总裁创办的具身智能公司“无界动力”，该公司已完成多轮融资，聚焦机器人“通用大脑”研发。",
+      "importance": "中",
+      "reason": "重大商业动态（中国自动驾驶核心人才流向具身智能赛道）",
+      "tags": [
+        "人才流动",
+        "具身智能",
+        "理想汽车",
+        "创业公司"
+      ],
+      "url": "https://36kr.com/p/3735669905670408?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-24 01:00:04",
+      "impact_score": 256.0
+    },
+    {
+      "index": 8,
+      "title": "字节版龙虾架构火爆GitHub！开源获35k+ Star，内置Skill全家桶，原生适配飞书",
+      "summary": "3月24日消息，字节跳动开源其AI Agent架构项目，在GitHub上获得超过3.5万星标，该项目内置丰富技能并原生适配飞书等国内办公平台，显示出中国大厂在AI Agent开源生态上的积极布局。",
+      "importance": "中",
+      "reason": "重大产品发布/商业动态（中国公司发布重要开源AI项目，获得全球关注）",
+      "tags": [
+        "开源",
+        "AI Agent",
+        "字节跳动",
+        "GitHub"
+      ],
+      "url": "https://36kr.com/p/3736178996658435?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-24 00:01:22",
+      "impact_score": 251.0
+    },
+    {
+      "index": 9,
+      "title": "余承东：华为手机终于实现了全面回归！网友：至此，全是麒麟；疑员工内涵小鹏智驾靠吹和后期？地平线余凯回应；小米老是赶潮流？雷军回应",
+      "summary": "3月24日消息，华为余承东宣布华为手机已实现全面回归，并全部采用自研麒麟芯片，标志着其在核心供应链上取得关键突破；同时，国内智驾芯片公司地平线CEO就相关争议进行了回应。",
+      "importance": "中",
+      "reason": "重大产品发布（华为宣布手机业务及芯片全面回归）",
+      "tags": [
+        "产品发布",
+        "华为",
+        "麒麟芯片",
+        "回归"
+      ],
+      "url": "https://www.leiphone.com/category/weiwu/f32Nkbrx6MERSZLB.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-24 02:15:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 10,
+      "title": "东壁科技数据发布《Dongbi Index全球高质量期刊列表》",
+      "summary": "3月24日消息，东壁科技数据有限责任公司正式发布完全自主研发的《Dongbi Index全球高质量期刊列表》，首次实现对全球十大关键学科上万种期刊的全覆盖分级评价，标志着中国自主的学术评价体系建成。",
+      "importance": "中",
+      "reason": "重大学术突破（中国公司发布具有完全自主知识产权的全球期刊评价体系）",
+      "tags": [
+        "学术评价",
+        "自主创新",
+        "首次发布",
+        "东壁科技"
+      ],
+      "url": "https://36kr.com/p/3736702595301638?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-24 08:51:17",
+      "impact_score": 230.0
+    },
+    {
+      "index": 11,
+      "title": "珀乐互动完成天使轮融资，以AI+IP重塑数字内容生态 | 36氪首发",
+      "summary": "3月24日消息，AI数字内容公司珀乐互动完成数千万元人民币天使轮融资，由星连资本领投，资金将用于AI技术研发与IP商业化，旨在通过“AI+IP”模式重塑数字内容开发生态。",
+      "importance": "低",
+      "reason": "重大商业动态（中国AI+内容公司获得融资）",
+      "tags": [
+        "融资",
+        "AI+IP",
+        "数字内容",
+        "珀乐互动"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/SW4hVLCkUX9nIs7m.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-23 09:18:00",
+      "impact_score": 225.0
+    },
+    {
+      "index": 12,
+      "title": "36氪首发 | 红杉、明势给远距影像硬件公司投资千万美金，创始人为前海康萤石产品负责人",
+      "summary": "3月24日消息，远距影像硬件公司“大览科技”连续完成天使轮及Pre-A轮千万美元融资，由红杉中国、明势创投领投，其创始团队来自海康威视旗下萤石，产品已进入量产关键阶段。",
+      "importance": "低",
+      "reason": "重大商业动态（中国硬件科技公司获得知名机构投资）",
+      "tags": [
+        "融资",
+        "硬件",
+        "红杉中国",
+        "远距影像"
+      ],
+      "url": "https://www.leiphone.com/category/robot/hxOjW3WsUIXvWXhs.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-23 09:21:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 13,
+      "title": "独家 | 大疆系仿生柔性机器人擎羽科技，连续完成两轮数千万元融资",
+      "summary": "3月24日消息，仿生柔性机器人公司擎羽科技在2026年初连续完成两轮数千万元融资，投资方包括东方富海等，资金将用于技术研发与产品迭代，团队核心成员具有大疆等公司背景。",
+      "importance": "低",
+      "reason": "重大商业动态（中国机器人公司获得融资）",
+      "tags": [
+        "融资",
+        "机器人",
+        "仿生柔性",
+        "擎羽科技"
+      ],
+      "url": "https://www.leiphone.com/category/ai/FzpnMQYz0iVOPf1t.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-24 03:29:00",
+      "impact_score": 205.0
+    },
+    {
+      "index": 14,
+      "title": "36氪首发 | 斯坦福博士做分子检测平台，产品已进入北大、清华",
+      "summary": "3月24日消息，广州洞察科技完成数千万元Pre-A轮融资，由联想创投领投，该公司专注于固态纳米孔单分子检测技术，其产品已进入北京大学、清华大学等顶级学术机构。",
+      "importance": "低",
+      "reason": "重大商业动态（中国硬科技公司获得融资，产品进入顶尖学府）",
+      "tags": [
+        "融资",
+        "硬科技",
+        "分子检测",
+        "联想创投"
+      ],
+      "url": "https://36kr.com/newsflashes/3736695857332229?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-24 08:43:35",
+      "impact_score": 195.0
+    },
+    {
+      "index": 15,
+      "title": "小米新SU7上市72小时：客流被稀释，要拼产品硬功夫",
+      "summary": "3月24日消息，小米新一代SU7上市后，部分门店客流相比首代车型有所稀释，表明市场竞争加剧，小米汽车正面临从流量爆发到依靠产品硬实力持续吸引用户的关键阶段。",
+      "importance": "低",
+      "reason": "重大商业动态（中国智能汽车产品市场表现追踪）",
+      "tags": [
+        "产品发布",
+        "小米汽车",
+        "SU7",
+        "市场竞争"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/tcZpKTzqlz97BVVU.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-24 01:19:00",
+      "impact_score": 195.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Musk’s Mega Plan for Chip Manufacturing | Bloomberg Tech 3/23/2026",
+      "summary": "3月24日消息，埃隆·马斯克宣布其宏大的芯片制造计划，旨在为机器人、人工智能和太空数据中心自主生产芯片，该计划将涉及特斯拉和SpaceX两家公司，并可能在美国德克萨斯州启动制造设施。",
+      "importance": "高",
+      "reason": "重大商业动态：全球科技领袖埃隆·马斯克宣布其核心公司（特斯拉、SpaceX）将联合进军AI芯片制造领域，这是对全球AI基础设施格局可能产生深远影响的战略性举措。",
+      "tags": [
+        "芯片制造",
+        "埃隆·马斯克",
+        "战略布局"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-23/john-ternus-emerges-as-tim-cook-s-possible-successor-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-23 21:33:40",
+      "impact_score": 277.5
+    },
+    {
+      "index": 2,
+      "title": "Nvidia CEO Jensen Huang says ‘I think we’ve achieved AGI’",
+      "summary": "3月24日消息，英伟达CEO黄仁勋在播客节目中公开宣称“我认为我们已经实现了通用人工智能（AGI）”，这一关于AI发展终极目标的论断引发了业界关于AGI定义与现状的广泛讨论与争议。",
+      "importance": "高",
+      "reason": "重大行业论断：作为全球AI算力领导者，英伟达CEO对AGI状态的公开宣称具有极高的行业影响力和舆论引导力，触及AI发展的核心伦理与未来议题。",
+      "tags": [
+        "AGI",
+        "黄仁勋",
+        "行业论断"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-23/bloomberg-tech-3-23-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-23 20:41:35",
+      "impact_score": 255.0
+    },
+    {
+      "index": 3,
+      "title": "Musk Says Tesla, SpaceX Chip Project to Kick Off in Texas",
+      "summary": "3月24日消息，埃隆·马斯克证实，特斯拉和SpaceX将在美国德克萨斯州奥斯汀联合运营一个先进的芯片制造工厂，启动名为“Terafab”的项目，以支持其AI、机器人和太空业务对专用芯片的需求。",
+      "importance": "高",
+      "reason": "重大商业动态：具体化了马斯克的芯片制造计划，涉及实体工厂落地，是科技巨头垂直整合供应链、争夺AI硬件主导权的关键一步。",
+      "tags": [
+        "芯片制造",
+        "特斯拉",
+        "SpaceX",
+        "德克萨斯州"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-03-23 19:42:33",
+      "impact_score": 251.0
+    },
+    {
+      "index": 4,
+      "title": "Nscale Reaches $14.6 Billion Valuation, Adds Sandberg to Board",
+      "summary": "3月24日消息，英国数据中心开发商Nscale在完成20亿美元融资后，估值达到146亿美元，成为欧洲最具价值的初创公司之一，并任命前Meta首席运营官雪莉·桑德伯格加入其董事会。",
+      "importance": "高",
+      "reason": "重大商业动态：欧洲AI基础设施领域出现高估值独角兽，且吸引顶级科技高管加入，反映了AI算力需求的爆炸性增长和资本市场的狂热追捧。",
+      "tags": [
+        "数据中心",
+        "融资",
+        "估值",
+        "雪莉·桑德伯格"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-23/musk-says-tesla-spacex-chip-project-to-start-in-texas-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-23 20:20:00",
+      "impact_score": 247.5
+    },
+    {
+      "index": 5,
+      "title": "Sen. Warren questions DOD about Anthropic blacklist that 'appears to be retaliation'",
+      "summary": "3月24日消息，美国参议员伊丽莎白·沃伦致信国防部，就AI公司Anthropic疑似因国防合同争议而遭“黑名单”处理一事提出质询，要求提供OpenAI与国防部合同的更多细节，此事涉及AI公司与政府合作的伦理与透明度问题。",
+      "importance": "高",
+      "reason": "重大政策与法规：美国国会议员直接介入调查AI巨头（Anthropic、OpenAI）与国防部的合作及潜在的报复性行为，涉及AI军事化、政府合同透明度和企业合规等核心政策议题。",
+      "tags": [
+        "政策质询",
+        "Anthropic",
+        "国防合同",
+        "AI伦理"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-23/nscale-reaches-14-6b-valuation-adds-sandberg-to-board-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-23 18:29:58",
+      "impact_score": 240.0
+    },
+    {
+      "index": 6,
+      "title": "FCC Bans Wireless Router Imports, Citing Security Concerns",
+      "summary": "3月24日消息，美国联邦通信委员会以国家安全威胁为由，下令禁止进口新型外国制造的消费级无线路由器，这一举措反映了在物联网和网络设备领域，地缘政治与供应链安全考量正日益影响科技产品的流通。",
+      "importance": "高",
+      "reason": "重大政策与法规：美国政府机构（FCC）基于国家安全理由实施进口禁令，属于明确的贸易管制和供应链安全政策行动，对全球科技硬件供应链有直接影响。",
+      "tags": [
+        "进口禁令",
+        "国家安全",
+        "FCC",
+        "供应链安全"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-23/musk-must-face-suit-alleging-power-overreach-as-trump-adviser",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-23 22:51:57",
+      "impact_score": 195.0
+    },
+    {
+      "index": 7,
+      "title": "HPE Struggled With Asset Sale Required in DOJ Antitrust Deal",
+      "summary": "3月24日消息，慧与科技在完成对瞻博网络的收购过程中，为满足美国司法部的反垄断要求而需要出售部分资产，但出售过程遇冷，报价远低于预期，凸显了在政府监管下完成大型科技并购的复杂性。",
+      "importance": "高",
+      "reason": "重大政策与法规：涉及美国司法部的反垄断审查及强制资产剥离，是科技行业并购活动受政府严格监管的典型案例，对行业整合趋势有指示意义。",
+      "tags": [
+        "反垄断",
+        "并购监管",
+        "HPE",
+        "美国司法部"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-23/lead-edge-capital-closes-new-3-5-billion-fund-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-23 19:31:01",
+      "impact_score": 195.0
+    },
+    {
+      "index": 8,
+      "title": "SK Hynix to Buy $8 Billion of Top-End ASML Chipmaking Gear",
+      "summary": "3月24日消息，韩国SK海力士计划斥资约79亿美元购买阿斯麦的尖端极紫外光刻设备，这是该公司为满足快速增长的AI需求、深化下一代内存芯片制造能力而进行的大规模资本支出。",
+      "importance": "高",
+      "reason": "重大商业动态：全球领先的内存芯片制造商进行巨额资本投资，采购最先进的半导体制造设备，直接服务于AI算力需求，是AI硬件供应链上游的关键动态。",
+      "tags": [
+        "半导体设备",
+        "资本支出",
+        "SK海力士",
+        "阿斯麦"
+      ],
+      "url": "https://arxiv.org/abs/2603.20260",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-24 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 9,
+      "title": "Sam Altman-backed fusion startup Helion in talks to sell power to OpenAI",
+      "summary": "3月24日消息，由山姆·奥特曼支持的核聚变初创公司Helion正在与OpenAI谈判一项电力供应协议，计划将其12.5%的电力产出出售给后者，与此同时奥特曼已卸任Helion董事会主席职务。",
+      "importance": "中",
+      "reason": "重大商业动态：OpenAI与前沿能源公司达成潜在战略合作，旨在解决AI发展面临的巨大能源消耗问题，是AI产业向能源领域延伸布局的重要信号。",
+      "tags": [
+        "能源合作",
+        "OpenAI",
+        "核聚变",
+        "山姆·奥特曼"
+      ],
+      "url": "https://arxiv.org/abs/2603.20620",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-24 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 10,
+      "title": "ProMAS: Proactive Error Forecasting for Multi-Agent Systems Using Markov Transition Dynamics",
+      "summary": "3月24日消息，arXiv发布新研究ProMAS，该研究针对集成大语言模型的多智能体系统，提出了一种基于马尔可夫转移动态的主动错误预测框架，旨在增强复杂、长周期任务中协作推理的鲁棒性，防止因单个逻辑谬误导致的系统性崩溃。",
+      "importance": "中",
+      "reason": "重大学术突破：针对当前热门的AI智能体协作与可靠性问题，提出了前瞻性的错误预测方法，对推动多智能体系统走向实际应用具有重要学术价值。",
+      "tags": [
+        "多智能体系统",
+        "AI安全",
+        "学术研究",
+        "可靠性"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-23/nextera-ceo-ketchum-on-energy-demand-ai-power-needs-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-23 22:27:22",
+      "impact_score": 180.0
+    },
+    {
+      "index": 11,
+      "title": "Reasoning Traces Shape Outputs but Models Won't Say So",
+      "summary": "3月24日消息，arXiv发布新研究，通过引入“思维注入”方法，探究大推理模型产生的推理轨迹是否真实反映了驱动模型输出的原因，以及模型是否会诚实报告其影响，这对评估AI推理的可解释性与可信度至关重要。",
+      "importance": "中",
+      "reason": "重大学术突破：研究触及AI可解释性（XAI）的核心挑战，即模型内部推理过程的忠实性问题，对于构建可信赖的AI系统具有基础性意义。",
+      "tags": [
+        "可解释AI",
+        "推理模型",
+        "学术研究",
+        "AI伦理"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-23/apple-s-heir-apparent-steps-into-the-spotlight-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-23 19:39:08",
+      "impact_score": 165.0
+    },
+    {
+      "index": 12,
+      "title": "NextEra CEO John Ketchum on Energy Demand, AI Power Needs at CERAWeek",
+      "summary": "3月24日消息，美国最大可再生能源公司NextEra Energy的CEO在CERAWeek能源会议上讨论不断上升的能源需求，特别是AI驱动下的电力需求激增，以及相关的投资和并购机会。",
+      "importance": "中",
+      "reason": "重大商业动态：能源行业巨头公开讨论AI对电力需求的颠覆性影响，标志着AI的能源消耗问题已成为能源战略和投资决策的核心考量因素。",
+      "tags": [
+        "AI能耗",
+        "能源需求",
+        "NextEra",
+        "行业会议"
+      ],
+      "url": "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/",
+      "source": "MIT Technology Review",
+      "original_pub_date": "2026-03-23 12:17:33",
+      "impact_score": 165.0
+    },
+    {
+      "index": 13,
+      "title": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy",
+      "summary": "3月24日消息，MIT科技评论报道，白宫公布了其人工智能政策，同时旧金山湾区的动物福利运动正尝试招募AI技术以推进其事业，显示了AI技术正渗透到社会政策与公益活动的各个领域。",
+      "importance": "中",
+      "reason": "重大政策与法规：涉及美国政府（白宫）的AI政策发布，属于国家级别的AI治理动态，同时展现了AI技术应用的多元化社会影响。",
+      "tags": [
+        "AI政策",
+        "白宫",
+        "技术应用",
+        "社会影响"
+      ],
+      "url": "https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-03-23 15:03:36",
+      "impact_score": 158.0
+    },
+    {
+      "index": 14,
+      "title": "FactorSmith: Agentic Simulation Generation via Markov Decision Process Decomposition with Planner-Designer-Critic Refinement",
+      "summary": "3月24日消息，arXiv发布新研究FactorSmith，该研究提出一种通过马尔可夫决策过程分解与规划者-设计者-批评家精炼框架，来从自然语言规范生成可执行模拟的智能体方法，以解决大语言模型在大型代码库上推理能力有限的问题。",
+      "importance": "中",
+      "reason": "重大学术突破：提出了提升AI智能体代码生成与复杂任务执行能力的新框架，对于推动AI向更自主的“智能体”方向发展有学术贡献。",
+      "tags": [
+        "AI智能体",
+        "代码生成",
+        "学术研究",
+        "任务规划"
+      ],
+      "url": "https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-03-23 13:30:00",
+      "impact_score": 158.0
+    },
+    {
+      "index": 15,
+      "title": "Nvidia-Backed Firmus Names Three Directors Ahead of Mooted IPO",
+      "summary": "3月24日消息，获得英伟达支持的澳大利亚人工智能初创公司Firmus Technologies在预计于今年晚些时候进行首次公开募股之前，任命了三位新的公司董事，为上市做准备。",
+      "importance": "中",
+      "reason": "重大商业动态：英伟达投资的AI初创公司筹备IPO，反映了AI产业链中资本从巨头向生态初创企业流动的趋势，以及资本市场对AI标的的持续兴趣。",
+      "tags": [
+        "IPO筹备",
+        "英伟达投资",
+        "AI初创公司",
+        "澳大利亚"
+      ],
+      "url": "https://www.cnbc.com/2026/03/24/revolut-2025-earnings-record-profit.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-03-24 07:54:52",
+      "impact_score": 150.0
+    },
+    {
+      "index": 16,
+      "title": "How Autonomous AI Agents Become Secure by Design With NVIDIA OpenShell",
+      "summary": "3月24日消息，英伟达发布技术文章，介绍其OpenShell如何通过安全设计原则使自主AI智能体变得安全，这些智能体能够执行读取文件、使用工具、编写运行代码及跨企业系统执行工作流等操作。",
+      "importance": "中",
+      "reason": "重大产品发布（技术框架）：英伟达作为行业领导者，发布关于AI智能体安全性的技术框架和最佳实践，旨在引导和规范快速发展的自主AI智能体领域，涉及核心的安全与伦理议题。",
+      "tags": [
+        "AI安全",
+        "自主智能体",
+        "英伟达",
+        "技术框架"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-24/alibaba-unveils-new-chip-design-to-meet-surging-demand-for-ai",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-24 02:25:08",
+      "impact_score": 150.0
+    },
+    {
+      "index": 17,
+      "title": "John Ternus Emerges as Tim Cook's Possible Successor",
+      "summary": "3月24日消息，苹果公司硬件工程高级副总裁约翰·特努斯已成为接替CEO蒂姆·库克的主要候选人，他在公司产品和营销方面的职责日益扩大，被视为这家科技巨头未来的潜在领导者。",
+      "importance": "低",
+      "reason": "重大商业动态（人事）：涉及全球市值最高科技公司之一的潜在领导权交接，对苹果公司未来的战略方向，包括其在AI领域的布局，可能产生长期影响。",
+      "tags": [
+        "苹果公司",
+        "CEO继任",
+        "人事变动",
+        "领导层"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-23/fcc-bans-all-foreign-made-routers-citing-security-risks",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-23 22:31:01",
+      "impact_score": 150.0
+    },
+    {
+      "index": 18,
+      "title": "Apple’s Heir Apparent Steps Into the Spotlight",
+      "summary": "3月24日消息，苹果公司硬件工程负责人约翰·特努斯正逐步走向台前，承担起监督公司产品和营销的更大职责，巩固了其作为CEO蒂姆·库克潜在接班人的地位。",
+      "importance": "低",
+      "reason": "重大商业动态（人事）：与新闻1内容互补，进一步确认了苹果公司内部权力交接的动向，属于重要的企业治理新闻。",
+      "tags": [
+        "苹果公司",
+        "领导层过渡",
+        "约翰·特努斯"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-23/hpe-assets-struggled-with-buyer-interest-in-antitrust-divestment",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-23 17:22:49",
+      "impact_score": 150.0
+    },
+    {
+      "index": 19,
+      "title": "Confronting the CEO of the AI company that impersonated me",
+      "summary": "3月24日消息，媒体对话Superhuman公司（原Grammarly）CEO希希尔·梅赫罗特拉，该公司因AI产品涉嫌模仿他人而引发争议，此次访谈涉及AI伦理、产品责任及数字身份保护等话题。",
+      "importance": "低",
+      "reason": "安全与伦理：涉及AI应用引发的具体伦理争议（模仿真人），并通过媒体对话形式探讨企业责任，属于AI治理和商业伦理范畴的典型案例。",
+      "tags": [
+        "AI伦理",
+        "数字身份",
+        "企业访谈",
+        "产品争议"
+      ],
+      "url": "https://arxiv.org/abs/2603.20270",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-24 04:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 20,
+      "title": "Vibe-coding startup Lovable is on the hunt for acquisitions",
+      "summary": "3月24日消息，快速增长的“氛围编码”初创公司Lovable的创始人表示，该公司正在寻找合适的初创公司和团队进行收购，以加速其扩张步伐。",
+      "importance": "低",
+      "reason": "重大商业动态：反映了AI编程工具领域初创公司的活跃并购策略，是AI赋能软件开发细分市场动态的一个缩影。",
+      "tags": [
+        "AI编程",
+        "初创公司",
+        "并购",
+        "开发者工具"
+      ],
+      "url": "https://arxiv.org/abs/2603.20425",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-24 04:00:00",
+      "impact_score": 130.0
+    }
+  ],
+  "summary": "今日从140条原始信息中精选出15条国内动态和20条国际动态，其中12条为高重要性。 重点关注：氪星晚报 ｜阿里明日或将发布重要芯片产品；全球首个脑机接口创新产品获得医保编码；LG电子称今年将全力推进机器人业务；8点1氪丨13年来首次，国家对油价临时调控；影石回应被大疆起诉；雷军称小米新一代SU7锁单超过3万台；阿里达摩院与开芯院、中科院软件所达成战略合作，共推RISC-V开源架构。",
+  "statistics": {
+    "raw_domestic": 39,
+    "raw_international": 101,
+    "raw_total": 140,
+    "final_domestic": 15,
+    "final_international": 20
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "3月24日消息，中国科技巨头阿里巴巴计划发布重要芯片产品，此举被视为其强化自研算力、应对国际竞争的关键一步，同时国内在脑机接口等前沿领域的创新产品也获得了医保编码等政策层面的支持。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "3月24日消息，国家发改委为应对国际油价异常波动，宣布对国内成品油价格采取临时调控措施，这是13年来的首次，旨在保障经济平稳运行和减轻民生负担。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "3月24日消息，阿里巴巴达摩院与北京开源芯片研究院、中国科学院软件研究所签署战略合作协议，共同研发下一代开源RISC-V CPU“香山”，旨在推进RISC-V技术创新与高性能软件生态建设。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "3月24日消息，趋境科技宣布中国工程院院士郑纬民与清华大学教授武永卫正式加盟，分别出任首席科学顾问与首席科学家，此举将极大夯实公司在高效能AI推理与Token生产领域的技术壁垒与战略根基。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "3月24日消息，华为云具身智能领域核心负责人、首席技术专家周顺波已正式离职并创立新公司“欧拉万象”，他曾从0到1搭建华为具身智能团队并主导完成了技术到产品的商业闭环。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "3月24日消息，埃隆·马斯克宣布其宏大的芯片制造计划，旨在为机器人、人工智能和太空数据中心自主生产芯片，该计划将涉及特斯拉和SpaceX两家公司，并可能在美国德克萨斯州启动制造设施。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "3月24日消息，英伟达CEO黄仁勋在播客节目中公开宣称“我认为我们已经实现了通用人工智能（AGI）”，这一关于AI发展终极目标的论断引发了业界关于AGI定义与现状的广泛讨论与争议。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "3月24日消息，埃隆·马斯克证实，特斯拉和SpaceX将在美国德克萨斯州奥斯汀联合运营一个先进的芯片制造工厂，启动名为“Terafab”的项目，以支持其AI、机器人和太空业务对专用芯片的需求。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "3月24日消息，英国数据中心开发商Nscale在完成20亿美元融资后，估值达到146亿美元，成为欧洲最具价值的初创公司之一，并任命前Meta首席运营官雪莉·桑德伯格加入其董事会。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "3月24日消息，美国参议员伊丽莎白·沃伦致信国防部，就AI公司Anthropic疑似因国防合同争议而遭“黑名单”处理一事提出质询，要求提供OpenAI与国防部合同的更多细节，此事涉及AI公司与政府合作的伦理与透明度问题。",
+      "importance": "高"
+    }
+  ]
+}
