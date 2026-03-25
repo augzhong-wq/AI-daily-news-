@@ -1,0 +1,661 @@
+{
+  "date": "2026-03-25",
+  "generated_at": "2026-03-25 08:58:10",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "IDG资本领投天使轮，阿里系+清华具身项目半年融超1亿元｜36氪首发",
+      "summary": "3月25日消息，由前阿里巴巴高德技术总监与清华大学教授联合创办的工业具身智能企业光象科技，在半年内完成多轮融资，累计金额超1亿元人民币，由IDG资本、东方富海等机构领投，资金将用于核心技术研发与产品商业化，并已成为多家汽车主机厂的战略合作方。",
+      "importance": "高",
+      "reason": "重大商业动态：中国AI初创公司（阿里系+清华背景）获得超亿元大额融资，属于典型的国内重大商业事件。",
+      "tags": [
+        "融资",
+        "具身智能",
+        "商业动态"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/VumodM2N8a0faAlv.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-25 01:33:00",
+      "impact_score": 380.0
+    },
+    {
+      "index": 2,
+      "title": "增程+R7世界模型，上汽大众能否跻身新能源主流玩家？",
+      "summary": "3月25日消息，中国自动驾驶公司Momenta CEO在上汽大众技术发布会上宣布，其R7强化学习世界模型即将推出，并将首发搭载于上汽大众全新旗舰SUV，标志着国内车企与AI供应商在智能驾驶领域的深度战略合作。",
+      "importance": "高",
+      "reason": "重大产品发布/商业动态：中国AI公司（Momenta）的重要模型（R7世界模型）发布并与国内大型车企（上汽大众）达成首发合作，兼具产品发布与战略合作属性。",
+      "tags": [
+        "产品发布",
+        "战略合作",
+        "智能驾驶"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/HTTtQF4QBGzxQpLH.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-25 06:54:00",
+      "impact_score": 355.0
+    },
+    {
+      "index": 3,
+      "title": "阿里云JVS Claw 全面开放 轻松实现手机“一键养虾”",
+      "summary": "3月25日消息，阿里云宣布其AI智能体产品JVS Claw全面开放，无需邀请码即可使用，并新增语音输入、专属文件空间等多项功能，同时推出付费套餐，旨在降低用户使用门槛并探索商业化路径。",
+      "importance": "高",
+      "reason": "重大产品发布：中国科技巨头（阿里云）的重要AI产品（JVS Claw）结束内测全面开放，并推出商业化方案，属于国内AI应用层的重要进展。",
+      "tags": [
+        "产品发布",
+        "AI应用",
+        "商业化"
+      ],
+      "url": "https://36kr.com/p/3737667859398665?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-25 01:15:40",
+      "impact_score": 327.5
+    },
+    {
+      "index": 4,
+      "title": "闲鱼重磅上线：5秒即可完成商品发布，还可AI辅助定价！",
+      "summary": "3月25日消息，阿里巴巴旗下二手交易平台闲鱼正式发布“闲鱼AI相机”新产品，用户通过拍照即可实现5秒一键发布商品，并由AI自动生成描述文案和提供辅助定价，大幅降低了商品发布门槛并提升交易效率。",
+      "importance": "高",
+      "reason": "重大产品发布：中国头部互联网公司（阿里/闲鱼）推出深度融合AI功能的创新产品，直接面向海量用户，具有重要的商业应用价值。",
+      "tags": [
+        "产品发布",
+        "AI应用",
+        "电商"
+      ],
+      "url": "https://36kr.com/p/3738023110230272?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-25 07:23:01",
+      "impact_score": 322.5
+    },
+    {
+      "index": 5,
+      "title": "黑科技王者性能再进化，华为Mate 80 Pro Max 风驰版实力破圈",
+      "summary": "3月25日消息，华为终端正式推出华为Mate 80 Pro Max风驰版旗舰手机，该机型首发搭载多项自研创新技术，实现了整机性能的显著提升，是华为在端侧AI与硬件性能协同创新上的最新成果。",
+      "importance": "高",
+      "reason": "重大产品发布：中国科技领军企业（华为）发布旗舰消费电子产品，深度融合自研AI与硬件技术，属于国内硬科技与AI结合的重要动态。",
+      "tags": [
+        "产品发布",
+        "硬件",
+        "端侧AI"
+      ],
+      "url": "https://www.leiphone.com/category/weiwu/aCn4nKlaVt6hkS9S.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-25 06:52:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 6,
+      "title": "快手：可灵AI四季度营收达3.4亿元，12月单月收入突破2000万美元",
+      "summary": "3月25日消息，快手发布财报披露其AI生成视频模型“可灵”在2025年第四季度营收达3.4亿元，其中12月单月收入突破2000万美元，年化运行率可观，显示其AI业务已形成规模化收入。",
+      "importance": "高",
+      "reason": "重大商业动态：中国互联网公司（快手）的核心AI业务（可灵）财务数据亮眼，证明了AI模型在国内实现大规模商业变现的能力，是重要的行业风向标。",
+      "tags": [
+        "商业变现",
+        "财务数据",
+        "AIGC"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/LpGNroIqDhnemmX5.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-24 15:03:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 7,
+      "title": "全球场景在上海汇聚：需求清单如何成为AI的试金石",
+      "summary": "3月25日消息，上海正通过“需求榜单+场景征集+揭榜挂帅”的组合拳，将整座城市作为AI技术的“试验场”，吸引全球开发者基于真实城市需求进行技术验证与产业迭代，推动AI与城市治理、生活的深度融合。",
+      "importance": "中",
+      "reason": "重大政策与产业生态：描述了中国核心城市（上海）推动AI产业发展的独特模式和开放生态，属于地方性产业政策与创新环境建设的重要动态。",
+      "tags": [
+        "产业政策",
+        "城市应用",
+        "生态建设"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/lA9KFsIvqf4Ozvgy.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-24 06:52:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 8,
+      "title": "你的模型真的会”举一反三”吗？RoboChallenge Table30 V2 正式发布，泛化时代开幕",
+      "summary": "3月25日消息，具身智能基准测试平台RoboChallenge Table30 V2正式发布，旨在为全球研究者提供精准的“泛化标尺”与真机竞技场，推动机器人泛化能力的研究与评估标准化。",
+      "importance": "中",
+      "reason": "重大学术/产业基础工具发布：该基准测试平台的发布有助于推动具身智能领域的研究进展，属于国内在AI基础科研设施建设方面的贡献。",
+      "tags": [
+        "基准测试",
+        "具身智能",
+        "科研工具"
+      ],
+      "url": "https://www.leiphone.com/category/transportation/91jfmuT0DxCNLHkf.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-25 04:51:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 9,
+      "title": "从AI编程到Agent开发 九章云极智算云助力生态普惠升级",
+      "summary": "3月25日消息，九章云极正式推出AI编码平台Alaya Code，该平台聚合了国内多家主流开源编程模型，为企业开发者提供一站式AI编程与模型调用服务，旨在降低开发门槛并避免模型厂商锁定。",
+      "importance": "中",
+      "reason": "重大产品发布：中国AI公司（九章云极）发布面向开发者的工具平台，促进国内AI开发生态，属于产业链中的重要环节。",
+      "tags": [
+        "开发者工具",
+        "AI编程",
+        "开源模型"
+      ],
+      "url": "https://www.qbitai.com/2026/03/391830.html",
+      "source": "量子位",
+      "original_pub_date": "2026-03-25 03:36:58",
+      "impact_score": 270.0
+    },
+    {
+      "index": 10,
+      "title": "腾讯元宝派推出电脑版，一键开启龙虾社交新体验",
+      "summary": "3月25日消息，腾讯旗下AI原生应用“元宝”正式推出“元宝派”电脑版，支持大屏多任务操作、多端消息同步及一键创建或关联AI智能体（“龙虾”），旨在拓展其AI社交与智能体生态的桌面使用场景。",
+      "importance": "中",
+      "reason": "重大产品发布：中国互联网巨头（腾讯）对其核心AI应用进行重要版本升级（推出电脑版），拓展应用场景，属于国内AI应用层竞争的关键动态。",
+      "tags": [
+        "产品发布",
+        "AI应用",
+        "智能体"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/EDz5bxWBFh1Y1Iwf.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-25 03:36:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 11,
+      "title": "首个全品类旅行skill来了！飞猪“flyai”上线ClawHub、GitHub",
+      "summary": "3月25日消息，阿里巴巴旗下旅行平台飞猪的AI产品“flyai”将其旅行技能上线至ClawHub、GitHub等开发者平台，并正陆续接入华为、小米等主流手机厂商，加速其AI能力的开放与生态整合。",
+      "importance": "中",
+      "reason": "重大商业动态/产品发布：中国公司（飞猪）的AI产品进行生态扩张，接入多个开放平台及国内手机厂商，属于AI应用生态建设的重要步骤。",
+      "tags": [
+        "生态合作",
+        "AI应用",
+        "开放平台"
+      ],
+      "url": "https://www.qbitai.com/2026/03/391744.html",
+      "source": "量子位",
+      "original_pub_date": "2026-03-24 08:33:52",
+      "impact_score": 270.0
+    },
+    {
+      "index": 12,
+      "title": "拓竹和泡泡玛特和解，免费打印大牌IP的日子正在倒计时",
+      "summary": "3月25日消息，中国3D打印企业拓竹科技就旗下平台IP侵权问题与潮玩巨头泡泡玛特达成和解并下架相关模型，这一事件为消费级3D打印行业的版权规范敲响警钟，预示着行业将从野蛮生长转向合规发展。",
+      "importance": "中",
+      "reason": "安全与伦理/商业动态：涉及中国AI相关企业（3D打印）的重大知识产权纠纷和解，对行业版权伦理和商业模式有深远影响。",
+      "tags": [
+        "知识产权",
+        "行业规范",
+        "商业伦理"
+      ],
+      "url": "https://36kr.com/p/3737612384043270?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-25 00:19:03",
+      "impact_score": 264.0
+    },
+    {
+      "index": 13,
+      "title": "AI智能体下场：新药开发如何告别单步解题、突破认知盲区？ | 最前线",
+      "summary": "3月25日消息，跨国药企阿斯利康与清华大学签署协议，成立“人工智能药物研发联合研究中心”，旨在将AI深度赋能于新药研发全流程，标志着产学界在AI+生物医药这一前沿领域的重磅合作。",
+      "importance": "中",
+      "reason": "重大学术合作/商业动态：中国顶尖学府（清华大学）与国际药企在AI制药领域达成战略合作，属于国内在AI+前沿科学交叉领域的重要进展。",
+      "tags": [
+        "产研合作",
+        "AI制药",
+        "前沿科学"
+      ],
+      "url": "https://36kr.com/p/3737937096655107?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-25 06:07:59",
+      "impact_score": 236.0
+    },
+    {
+      "index": 14,
+      "title": "地平线能否实现HSD出货40万套的雄心？",
+      "summary": "3月25日消息，中国车载AI芯片公司地平线发布2025年业绩，营收同比增长57.7%，并基于行业高增长趋势，提出了2026年包括HSD芯片出货40万套在内的多项雄心勃勃的业务目标。",
+      "importance": "中",
+      "reason": "重大商业动态：中国AI芯片独角兽发布重要财务数据及未来规划，其发展态势对国内智能驾驶产业链有重要指示作用。",
+      "tags": [
+        "财务数据",
+        "智能驾驶芯片",
+        "行业展望"
+      ],
+      "url": "https://36kr.com/newsflashes/3738026355802118?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-25 07:17:02",
+      "impact_score": 225.0
+    },
+    {
+      "index": 15,
+      "title": "从互连工程到生态协同：TE Connectivity在机器人产业链的双重角色",
+      "summary": "3月25日消息，连接器企业TE Connectivity在苏州举办机器人产业大会，汇聚产业链伙伴探讨核心技术落地，背景是中国政策连续推动“人工智能+”与具身智能未来产业，机器人正从技术验证加速走向工程化与规模化。",
+      "importance": "低",
+      "reason": "产业生态活动：新闻主体TE Connectivity为海外公司，但事件发生在中国（苏州），且核心背景是中国产业政策推动下的国内机器人产业发展动态，可作为国内产业环境观察。",
+      "tags": [
+        "产业会议",
+        "机器人",
+        "政策环境"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/Yix1MlagTs9plPry.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-25 02:54:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 16,
+      "title": "36氪首发丨东方富海投了一个海归博导，要挑战日本高端激光设备巨头",
+      "summary": "3月25日消息，高端工业激光装备制造商中微精仪科技完成数千万元天使轮融资，由东方富海独家投资，该公司由海归博导与清华大学院士联合创立，旨在研发用于碳化硅、金刚石加工的高端激光设备以挑战国际巨头。",
+      "importance": "低",
+      "reason": "商业动态：中国高端制造领域的初创公司获得融资，涉及AI相关的精密加工技术，属于国内硬科技投资案例。",
+      "tags": [
+        "融资",
+        "高端制造",
+        "硬科技"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/WHvWFjBdmoeaIctn.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-03-25 01:56:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 17,
+      "title": "小龙虾成龙记： 为什么创新的答案总能在上海找到",
+      "summary": "3月25日消息，报道以上海开发者利用开源生态快速实现AI智能体（如OpenClaw）创新与商业化为案例，分析了上海在算力、模型、语料及创新土壤方面的优势，如何催生一种快速落地与变现的新创新范式。",
+      "importance": "低",
+      "reason": "产业生态分析：聚焦中国城市（上海）的AI开发生态和创新模式，属于对国内区域创新环境的深度观察。",
+      "tags": [
+        "创新生态",
+        "区域发展",
+        "开源"
+      ],
+      "url": "https://36kr.com/p/3737670256345345?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-03-25 01:15:01",
+      "impact_score": 215.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Judge presses DOD on why Anthropic was blacklisted: 'That seems a pretty low bar'",
+      "summary": "3月25日消息，美国国防部首次将本国AI公司Anthropic列为国家安全风险并禁止联邦政府使用其技术，此举引发法官质疑，认为其标准过低，可能对该公司造成数十亿美元的收入损失。",
+      "importance": "高",
+      "reason": "重大政策与法规：美国政府首次将本国AI公司列入国家安全风险名单，涉及政府禁令，影响深远。",
+      "tags": [
+        "政策法规",
+        "国家安全",
+        "Anthropic"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-25/china-restricts-manus-founders-from-leaving-china-ft-says",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-25 06:12:06",
+      "impact_score": 255.0
+    },
+    {
+      "index": 2,
+      "title": "Judge Calls US Government Ban on Anthropic AI ‘Troubling’",
+      "summary": "3月25日消息，美国法官对特朗普政府禁止联邦机构使用Anthropic公司AI技术的决定表示质疑，认为其理由不充分，这一禁令可能使这家Claude聊天机器人制造商损失数十亿美元收入。",
+      "importance": "高",
+      "reason": "重大政策与法规：涉及美国政府针对核心AI公司的禁令及其司法挑战，政策影响显著。",
+      "tags": [
+        "政策法规",
+        "司法审查",
+        "Anthropic"
+      ],
+      "url": "https://arxiv.org/abs/2603.22793",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-25 04:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 3,
+      "title": "Arm CEO on Selling Own Chips, Meta Is One of First Customers",
+      "summary": "3月25日消息，英国芯片设计巨头Arm宣布将首次自行销售其设计的AGI CPU芯片，Meta Platforms将成为其首个主要客户，标志着Arm从纯IP授权模式向芯片产品销售的重大战略转变。",
+      "importance": "高",
+      "reason": "重大产品发布：Arm首次推出自研芯片产品，并获得Meta作为首发客户，对AI芯片市场格局有潜在影响。",
+      "tags": [
+        "芯片发布",
+        "Arm",
+        "Meta",
+        "AGI"
+      ],
+      "url": "https://www.cnbc.com/2026/03/24/anthropic-lawsuit-pentagon-supply-chain-risk-claude.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-03-24 23:45:50",
+      "impact_score": 200.0
+    },
+    {
+      "index": 4,
+      "title": "Arm’s first CPU ever will plug into Meta’s AI data centers later this year",
+      "summary": "3月25日消息，英国芯片设计公司Arm推出其首款自研芯片Arm AGI CPU，专为AI推理任务设计，并已确定Meta为其首个客户，该芯片将于今年晚些时候部署在Meta的AI数据中心。",
+      "importance": "高",
+      "reason": "重大产品发布：Arm历史上首次推出自研芯片，切入AI推理市场，并与Meta达成重要合作。",
+      "tags": [
+        "芯片发布",
+        "Arm",
+        "Meta",
+        "数据中心"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-25/disney-ceo-s-first-week-marred-by-openai-fortnite-trouble",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-25 01:56:03",
+      "impact_score": 195.0
+    },
+    {
+      "index": 5,
+      "title": "OpenAI to end Disney deal and Sora video app",
+      "summary": "3月25日消息，OpenAI首席执行官Sam Altman决定终止与迪士尼价值数十亿美元的授权协议，并关闭独立的Sora视频生成应用，以将公司战略重心重新聚焦于核心产品。",
+      "importance": "高",
+      "reason": "重大商业动态：OpenAI终止与迪士尼的重大商业合作并关闭重要产品线，属于重大战略调整。",
+      "tags": [
+        "战略调整",
+        "OpenAI",
+        "迪士尼",
+        "Sora"
+      ],
+      "url": "https://www.ft.com/content/7087e252-0c24-4ba3-b64e-d1633a7692f0",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-03-24 22:59:05",
+      "impact_score": 195.0
+    },
+    {
+      "index": 6,
+      "title": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
+      "summary": "3月25日消息，OpenAI正式宣布关闭于2024年底推出的视频生成工具Sora及其独立应用，并终止了仅达成数月的与迪士尼的巨额授权协议，标志着其产品战略的重大收缩。",
+      "importance": "高",
+      "reason": "重大商业动态：OpenAI放弃旗舰视频生成产品及与之关联的巨额商业合作，是重要的商业战略转向。",
+      "tags": [
+        "产品关闭",
+        "OpenAI",
+        "迪士尼",
+        "Sora"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-25/openai-hires-ceo-of-india-s-jiostar-to-head-up-asia-pacific",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-25 06:30:00",
+      "impact_score": 180.0
+    },
+    {
+      "index": 7,
+      "title": "OpenAI Discontinues Support for Sora, Winds Down Disney Deal",
+      "summary": "3月25日消息，OpenAI计划在Sora AI视频生成器独立应用高调发布六个月后停止对其支持，并逐步结束与迪士尼的合作，旨在简化其人工智能产品组合，聚焦核心业务。",
+      "importance": "高",
+      "reason": "重大商业动态：OpenAI主动收缩产品线，终止重大合作，反映了其商业策略的清晰化。",
+      "tags": [
+        "战略聚焦",
+        "OpenAI",
+        "Sora",
+        "迪士尼"
+      ],
+      "url": "https://www.ft.com/content/100d89bb-1b8f-4ca3-bcda-46f802112c04",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-03-25 05:00:03",
+      "impact_score": 180.0
+    },
+    {
+      "index": 8,
+      "title": "OpenAI Set to Raise $10 Billion From MGX, Coatue, Thrive",
+      "summary": "3月25日消息，OpenAI即将从MGX、Coatue、Thrive等风险投资机构筹集约100亿美元资金，使其最新一轮融资总额超过1200亿美元，进一步巩固其全球AI领军企业的资本实力。",
+      "importance": "高",
+      "reason": "重大商业动态：涉及超百亿美元级别的巨额融资，对AI行业资本格局有重大影响。",
+      "tags": [
+        "巨额融资",
+        "OpenAI",
+        "风险投资"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-24/fmr-tesla-president-talks-new-book-on-musk-s-success-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-24 20:51:25",
+      "impact_score": 180.0
+    },
+    {
+      "index": 9,
+      "title": "Baltimore is first U.S. city to sue over Grok deepfake porn as legal pressure mounts on Musk's xAI",
+      "summary": "3月25日消息，美国巴尔的摩市成为首个就Grok聊天机器人生成深度伪造色情内容起诉Elon Musk旗下xAI公司的城市，标志着针对生成式AI安全与伦理问题的法律压力在美国国内持续升级。",
+      "importance": "高",
+      "reason": "安全与伦理：涉及AI生成有害内容（深度伪造色情）引发的首例城市诉讼，属于重大的AI安全与伦理事件。",
+      "tags": [
+        "AI安全",
+        "法律诉讼",
+        "深度伪造",
+        "xAI"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-03-24/arm-ceo-on-selling-own-own-chips-for-first-time-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-24 20:34:40",
+      "impact_score": 180.0
+    },
+    {
+      "index": 10,
+      "title": "Meta Offers Top Execs Stock Options for First Time Since IPO",
+      "summary": "3月25日消息，Meta Platforms Inc.自2012年IPO以来首次向高管提供股票期权，旨在激烈AI竞赛中保留和激励核心管理层，以支持公司持续的巨额AI投资战略。",
+      "importance": "高",
+      "reason": "重大商业动态：Meta为应对AI人才竞争调整核心高管激励策略，反映了行业人才争夺的白热化。",
+      "tags": [
+        "公司治理",
+        "人才激励",
+        "Meta",
+        "AI竞赛"
+      ],
+      "url": "https://www.wired.com/story/book-excerpt-your-data-will-be-used-against-you-andrew-guthrie-ferguson/",
+      "source": "Wired AI",
+      "original_pub_date": "2026-03-24 10:00:00",
+      "impact_score": 171.0
+    },
+    {
+      "index": 11,
+      "title": "OpenAI Hires CEO of India’s JioStar to Head Up Asia-Pacific",
+      "summary": "3月25日消息，OpenAI任命印度流媒体平台JioStar的首席执行官Kiran Mani担任新设立的亚太区业务负责人，此举旨在加强该公司在亚洲快速增长市场的布局和本地化运营。",
+      "importance": "中",
+      "reason": "重大商业动态：OpenAI进行关键区域高管任命，是其全球化扩张战略的重要一步。",
+      "tags": [
+        "人事任命",
+        "区域扩张",
+        "OpenAI",
+        "亚太市场"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-03-24 21:08:10",
+      "impact_score": 162.0
+    },
+    {
+      "index": 12,
+      "title": "Billionaire Qatar Sheikh, Amazon Back Robotics Startup Neura",
+      "summary": "3月25日消息，卡塔尔王室亿万富翁Sheikh Hamad bin Jassim bin Jaber Al Thani与亚马逊公司共同参与了德国机器人初创公司Neura Robotics的最新一轮融资，为该公司拓展全球市场提供资金支持。",
+      "importance": "中",
+      "reason": "重大商业动态：知名跨国资本（亚马逊）与主权财富背景资本共同投资欧洲AI机器人公司，属于重要的产业投资动态。",
+      "tags": [
+        "融资",
+        "机器人",
+        "亚马逊",
+        "Neura Robotics"
+      ],
+      "url": "https://www.ft.com/content/5acd6554-fb76-4d44-9037-47995b8746b9",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-03-25 08:42:17",
+      "impact_score": 150.0
+    },
+    {
+      "index": 13,
+      "title": "Agile Robots becomes the latest robotics company to partner with Google DeepMind",
+      "summary": "3月25日消息，德国机器人公司Agile Robots宣布与Google DeepMind达成合作，将在其机器人中集成后者的机器人基础模型，同时为这家AI研究实验室收集训练数据，推动具身智能发展。",
+      "importance": "中",
+      "reason": "重大商业动态：欧洲机器人公司与顶级AI实验室达成战略合作，涉及技术集成与数据共享，是AI与机器人融合的重要进展。",
+      "tags": [
+        "战略合作",
+        "机器人",
+        "Google DeepMind",
+        "具身智能"
+      ],
+      "url": "https://arxiv.org/abs/2603.22869",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-25 04:00:00",
+      "impact_score": 150.0
+    },
+    {
+      "index": 14,
+      "title": "Dueling AI agents could reveal keys to restoring consciousness",
+      "summary": "3月25日消息，一项新研究通过模拟和分类大脑活动的AI模型来探究意识本质，该研究的神经科学家阐述了其利用对抗性AI智能体揭示意识恢复关键机制的宏大目标。",
+      "importance": "中",
+      "reason": "重大学术突破：涉及利用AI研究意识这一前沿交叉学科领域，具有突破性的学术探索价值。",
+      "tags": [
+        "学术研究",
+        "AI for Science",
+        "意识科学",
+        "神经科学"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-24/openai-plans-to-discontinue-support-for-sora-ai-video-generator",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-03-24 20:08:57",
+      "impact_score": 150.0
+    },
+    {
+      "index": 15,
+      "title": "Disney CEO’s First Week Marred by ‘Fortnite,’ OpenAI Woes",
+      "summary": "3月25日消息，迪士尼新任首席执行官Josh D‘Amaro上任首周即遭遇挫折，其两项价值数十亿美元的技术投资出现波折，其中与OpenAI的AI视频合作已完全瓦解，对公司战略造成冲击。",
+      "importance": "中",
+      "reason": "重大商业动态：迪士尼重大技术合作（与OpenAI）失败，影响其AI战略布局，属于重要的产业动态。",
+      "tags": [
+        "合作终止",
+        "迪士尼",
+        "OpenAI",
+        "战略受挫"
+      ],
+      "url": "https://www.cnbc.com/2026/03/24/revolut-2025-earnings-record-profit.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-03-24 09:30:59",
+      "impact_score": 150.0
+    },
+    {
+      "index": 16,
+      "title": "British fintech Revolut reports record annual profit as it gears up for U.S. push",
+      "summary": "3月25日消息，英国金融科技公司Revolut报告创纪录的年度利润，该公司在2025年估值已达750亿美元，目前正积极筹备进军美国市场，成为欧洲最具价值的私营科技公司之一。",
+      "importance": "中",
+      "reason": "重大商业动态：欧洲头部金融科技公司业绩亮眼并计划进军关键市场，其业务深度依赖AI技术，属于重要的产业动态。",
+      "tags": [
+        "金融科技",
+        "业绩",
+        "Revolut",
+        "市场扩张"
+      ],
+      "url": "https://www.cnbc.com/2026/03/24/musk-xai-sued-baltimore-grok-deepfake-porn.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-03-24 21:15:39",
+      "impact_score": 145.0
+    },
+    {
+      "index": 17,
+      "title": "Thai AI Startup Amity Raises $100 Million in Push Toward IPO",
+      "summary": "3月25日消息，泰国生成式AI企业服务公司Amity成功融资1亿美元，以加速产品推广并为即将到来的首次公开募股做准备，展现了东南亚AI初创企业的增长势头。",
+      "importance": "低",
+      "reason": "重大商业动态：东南亚AI初创公司获得较大额融资并筹备IPO，反映了区域AI产业的发展。",
+      "tags": [
+        "融资",
+        "IPO筹备",
+        "东南亚AI",
+        "Amity"
+      ],
+      "url": "https://www.science.org/content/article/dueling-ai-agents-could-reveal-keys-restoring-consciousness",
+      "source": "Science Magazine",
+      "original_pub_date": "2026-03-24 10:45:00",
+      "impact_score": 142.5
+    },
+    {
+      "index": 18,
+      "title": "SpaceX to File for US IPO Soon as This Week, Information Says",
+      "summary": "3月25日消息，据The Information报道，SpaceX计划最早于本周提交在美国首次公开募股的招股说明书，启动本年度最受期待的市场亮相之一，其星链等业务与AI紧密相关。",
+      "importance": "低",
+      "reason": "重大商业动态：SpaceX的IPO是全球科技界重大事件，其业务（如星链）是AI基础设施的重要部分。",
+      "tags": [
+        "IPO",
+        "SpaceX",
+        "资本市场"
+      ],
+      "url": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-03-24 23:57:55",
+      "impact_score": 132.0
+    },
+    {
+      "index": 19,
+      "title": "Your Body Is Betraying Your Right to Privacy",
+      "summary": "3月25日消息，评论文章指出，人们对智能设备和生物识别监控的依赖使美国人比以往任何时候都更容易受到警方搜查的侵害，若不加控制，这种由AI驱动的隐私侵蚀趋势将会持续恶化。",
+      "importance": "低",
+      "reason": "安全与伦理：涉及AI与生物识别技术带来的隐私和公民权利挑战，属于重要的社会伦理讨论。",
+      "tags": [
+        "AI伦理",
+        "隐私安全",
+        "生物识别",
+        "监控"
+      ],
+      "url": "https://arxiv.org/abs/2603.22791",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-03-25 04:00:00",
+      "impact_score": 130.0
+    }
+  ],
+  "summary": "今日从174条原始信息中精选出17条国内动态和19条国际动态，其中16条为高重要性。 重点关注：IDG资本领投天使轮，阿里系+清华具身项目半年融超1亿元｜36氪首发；增程+R7世界模型，上汽大众能否跻身新能源主流玩家？；阿里云JVS Claw 全面开放 轻松实现手机“一键养虾”。",
+  "statistics": {
+    "raw_domestic": 50,
+    "raw_international": 124,
+    "raw_total": 174,
+    "final_domestic": 17,
+    "final_international": 19
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "3月25日消息，由前阿里巴巴高德技术总监与清华大学教授联合创办的工业具身智能企业光象科技，在半年内完成多轮融资，累计金额超1亿元人民币，由IDG资本、东方富海等机构领投，资金将用于核心技术研发与产品商业化，并已成为多家汽车主机厂的战略合作方。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "3月25日消息，中国自动驾驶公司Momenta CEO在上汽大众技术发布会上宣布，其R7强化学习世界模型即将推出，并将首发搭载于上汽大众全新旗舰SUV，标志着国内车企与AI供应商在智能驾驶领域的深度战略合作。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "3月25日消息，阿里云宣布其AI智能体产品JVS Claw全面开放，无需邀请码即可使用，并新增语音输入、专属文件空间等多项功能，同时推出付费套餐，旨在降低用户使用门槛并探索商业化路径。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "3月25日消息，阿里巴巴旗下二手交易平台闲鱼正式发布“闲鱼AI相机”新产品，用户通过拍照即可实现5秒一键发布商品，并由AI自动生成描述文案和提供辅助定价，大幅降低了商品发布门槛并提升交易效率。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "3月25日消息，华为终端正式推出华为Mate 80 Pro Max风驰版旗舰手机，该机型首发搭载多项自研创新技术，实现了整机性能的显著提升，是华为在端侧AI与硬件性能协同创新上的最新成果。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "3月25日消息，美国国防部首次将本国AI公司Anthropic列为国家安全风险并禁止联邦政府使用其技术，此举引发法官质疑，认为其标准过低，可能对该公司造成数十亿美元的收入损失。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "3月25日消息，美国法官对特朗普政府禁止联邦机构使用Anthropic公司AI技术的决定表示质疑，认为其理由不充分，这一禁令可能使这家Claude聊天机器人制造商损失数十亿美元收入。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "3月25日消息，英国芯片设计巨头Arm宣布将首次自行销售其设计的AGI CPU芯片，Meta Platforms将成为其首个主要客户，标志着Arm从纯IP授权模式向芯片产品销售的重大战略转变。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "3月25日消息，英国芯片设计公司Arm推出其首款自研芯片Arm AGI CPU，专为AI推理任务设计，并已确定Meta为其首个客户，该芯片将于今年晚些时候部署在Meta的AI数据中心。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "3月25日消息，OpenAI首席执行官Sam Altman决定终止与迪士尼价值数十亿美元的授权协议，并关闭独立的Sora视频生成应用，以将公司战略重心重新聚焦于核心产品。",
+      "importance": "高"
+    }
+  ]
+}
