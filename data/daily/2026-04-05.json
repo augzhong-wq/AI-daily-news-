@@ -1,0 +1,375 @@
+{
+  "date": "2026-04-05",
+  "generated_at": "2026-04-05 08:52:25",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "阿里千问3.6Plus大模型登顶全球模型调用排行榜首",
+      "summary": "4月5日消息，阿里巴巴旗下通义千问发布新模型Qwen3.6-Plus，在全球知名大模型API调用平台OpenRouter的日榜中登顶，日调用量突破1.4万亿Token，打破了该平台的单日单模型调用量全球纪录，成为当下最受企业和开发者热捧的大模型。",
+      "importance": "高",
+      "reason": "重大产品发布：中国顶尖科技公司的旗舰AI模型取得全球性市场突破，性能指标创纪录，属于重大产品发布。",
+      "tags": [
+        "大模型",
+        "发布",
+        "突破"
+      ],
+      "url": "https://36kr.com/newsflashes/3753419658806022?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-05 04:15:55",
+      "impact_score": 307.5
+    },
+    {
+      "index": 2,
+      "title": "易烊千玺遭AI短剧“盗脸”牟利，平台方已下架相关产品",
+      "summary": "4月5日消息，艺人易烊千玺工作室发布声明称，其肖像被部分网络平台擅自用于生成AI剧集并牟利，相关平台已下架部分侵权作品，此事件凸显了AI技术滥用引发的肖像权与内容安全等重大伦理与法律问题。",
+      "importance": "高",
+      "reason": "安全与伦理：涉及中国公众人物，是典型的AI技术滥用、侵犯肖像权及内容安全事件，属于重大伦理与安全争议范畴。",
+      "tags": [
+        "AI安全",
+        "伦理争议",
+        "肖像权"
+      ],
+      "url": "https://36kr.com/p/3752260051616512?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-05 01:10:00",
+      "impact_score": 245.0
+    },
+    {
+      "index": 3,
+      "title": "泉智博高爆发关节自动化产线投产，加速具身智能商业化",
+      "summary": "4月5日消息，中国机器人核心部件公司泉智博在无锡正式投产“高爆发一体化关节自动化产线”，该产线突破了人形机器人动力核心的量产瓶颈，标志着其产业化进程取得实质性进展，并已获得过亿元A+轮融资支持。",
+      "importance": "高",
+      "reason": "重大商业动态与产品突破：中国公司在人形机器人核心部件领域实现量产突破，并伴随大额融资，对具身智能商业化具有重大推动作用。",
+      "tags": [
+        "具身智能",
+        "商业化",
+        "融资",
+        "突破"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/pWoHJBvmcpwoaqRM.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-04 05:56:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 4,
+      "title": "36氪首发 | 清华系团队研发矿石AI智能分选机，完成近2亿元C轮融资",
+      "summary": "4月5日消息，源自清华大学团队的北京霍里思特科技有限公司完成近2亿元C轮融资，该公司专注于研发矿石AI智能分选设备，其技术已在全矿种实现大量落地应用，本轮融资将用于核心技术研发与全球化业务拓展。",
+      "importance": "高",
+      "reason": "重大商业动态：中国AI+工业领域的公司获得近2亿元大额融资，且核心团队源自顶尖高校，具有重要的技术和商业价值。",
+      "tags": [
+        "融资",
+        "AI+工业",
+        "清华大学"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/TKvC6lx8Q7TzO0NN.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-04 01:53:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 5,
+      "title": "香港财政司司长陈茂波：目前轮候来港上市申请个案已超过500宗",
+      "summary": "4月5日消息，香港财政司司长陈茂波表示，香港IPO市场持续活跃，首季集资额全球第一，且排队申请上市的企业超过500家，其中人工智能、半导体等新兴产业占比显著，显示香港作为中国AI等科技企业重要融资窗口的地位。",
+      "importance": "中",
+      "reason": "重大商业动态（宏观）：涉及中国特别行政区，反映了AI等科技产业在资本市场的活跃度和融资趋势，对中国AI产业发展有重要影响。",
+      "tags": [
+        "IPO",
+        "融资",
+        "资本市场"
+      ],
+      "url": "https://36kr.com/newsflashes/3753627196097026?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-05 07:47:02",
+      "impact_score": 195.0
+    },
+    {
+      "index": 6,
+      "title": "高端智能投影品牌AWOL Vision获近亿元B轮融资，新品拿下近2000万美金众筹｜硬氪首发",
+      "summary": "4月5日消息，中国高端智能投影品牌AWOL Vision完成近亿元B轮融资，其新款超短焦激光投影产品在海外众筹平台取得近2000万美元佳绩，资金将用于研发“家庭AI智能娱乐平台”及全球化拓展。",
+      "importance": "中",
+      "reason": "重大商业动态：中国AI硬件公司获得近亿元融资，并在海外市场取得显著商业成功，属于重要的商业进展。",
+      "tags": [
+        "融资",
+        "AI硬件",
+        "全球化"
+      ],
+      "url": "https://36kr.com/p/3753526848897792?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-05 06:05:09",
+      "impact_score": 182.0
+    },
+    {
+      "index": 7,
+      "title": "19岁，常青藤辍学，这群中国年轻人重构了AI记忆",
+      "summary": "4月5日消息，由一群中国年轻极客组成的团队在AI记忆领域取得突破性研究成果，其开发的模型在指代消解等核心任务上实现原生支持，并在相关基准测试中取得现象级领先性能。",
+      "importance": "中",
+      "reason": "重大学术/技术突破：新闻主体是中国年轻研发团队，在AI基础研究领域取得突破性进展，属于重要的学术或技术突破。",
+      "tags": [
+        "学术突破",
+        "AI基础研究",
+        "创新"
+      ],
+      "url": "https://www.qbitai.com/2026/04/396366.html",
+      "source": "量子位",
+      "original_pub_date": "2026-04-05 04:49:33",
+      "impact_score": 150.0
+    },
+    {
+      "index": 8,
+      "title": "一群00后极客和这家机器人公司共处72小时",
+      "summary": "4月5日消息，全球首届具身智能开发者大会在深圳举行，吸引了众多中国年轻开发者参与，大会提供了丰富的机器人硬件、算力及开源模型资源，旨在推动中国具身智能生态的快速发展与应用创新。",
+      "importance": "中",
+      "reason": "重大商业/生态动态：事件发生在中国深圳，聚焦于中国具身智能开发者生态的构建，对产业人才培养和技术落地有积极意义。",
+      "tags": [
+        "具身智能",
+        "开发者生态",
+        "开源"
+      ],
+      "url": "https://www.qbitai.com/2026/04/396358.html",
+      "source": "量子位",
+      "original_pub_date": "2026-04-05 02:24:23",
+      "impact_score": 150.0
+    },
+    {
+      "index": 9,
+      "title": "富士康3月营收8037.4亿新台币，同比增长45.6%",
+      "summary": "4月5日消息，富士康发布业绩报告显示其3月营收同比大幅增长，并预计第二季度业绩将持续增长，其中人工智能服务器业务被明确列为保持增长态势的关键驱动因素。",
+      "importance": "低",
+      "reason": "重大商业动态（产业链）：富士康作为全球重要电子制造服务商，其AI服务器业务的增长反映了中国在全球AI硬件产业链中的关键地位和市场需求。",
+      "tags": [
+        "AI服务器",
+        "产业链",
+        "业绩"
+      ],
+      "url": "https://36kr.com/newsflashes/3753591788323589?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-05 07:11:01",
+      "impact_score": 147.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "UK courts Anthropic to expand in London after US defence clash",
+      "summary": "4月5日消息，英国政府正积极争取美国AI初创公司Anthropic扩大其在伦敦的业务布局，此举被视为英国在脱欧后巩固其全球AI领导地位的关键战略举措，旨在吸引顶尖AI人才和投资。",
+      "importance": "高",
+      "reason": "属于【重大政策与法规】范畴，涉及国家层面的产业政策与地缘竞争，主体是英国政府（国际）和美国公司Anthropic（国际）。",
+      "tags": [
+        "政策法规",
+        "产业竞争",
+        "Anthropic"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-04-04/russia-s-vpn-crackdown-caused-bank-outage-telegram-founder-says",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-04 12:07:17",
+      "impact_score": 172.5
+    },
+    {
+      "index": 2,
+      "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+      "summary": "4月5日消息，美国AI公司Anthropic的私人股份在二级市场交易异常活跃，成为最热门的标的，而SpaceX即将进行的IPO可能重塑整个私人市场格局，显示出资本对前沿AI公司的高度追捧。",
+      "importance": "高",
+      "reason": "属于【重大商业动态】，涉及顶级AI初创公司的市场估值和资本流动，主体均为美国公司（国际）。",
+      "tags": [
+        "融资与估值",
+        "二级市场",
+        "Anthropic"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-04-04/napster-is-evolving-in-the-ai-era-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-04 15:44:01",
+      "impact_score": 157.5
+    },
+    {
+      "index": 3,
+      "title": "OpenAI's Fidji Simo takes medical leave, announces leadership changes",
+      "summary": "4月5日消息，OpenAI产品总裁Fidji Simo因健康原因暂时休假，公司宣布由总裁Greg Brockman在此期间接管产品团队，这是这家全球领先AI公司在关键发展时期的一次重要人事调整。",
+      "importance": "高",
+      "reason": "属于【重大商业动态】，涉及全球AI领军企业OpenAI的核心管理层变动，可能影响其产品路线图和战略执行。",
+      "tags": [
+        "公司治理",
+        "人事变动",
+        "OpenAI"
+      ],
+      "url": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
+      "source": "Wired AI",
+      "original_pub_date": "2026-04-04 10:30:00",
+      "impact_score": 145.0
+    },
+    {
+      "index": 4,
+      "title": "Apple at 50: The iPhone maker 'blew a 5-year lead' on AI, but former insiders say it can still win",
+      "summary": "4月5日消息，前苹果内部人士分析指出，尽管苹果在消费设备领域占据主导并强调隐私，但在AI竞赛中已落后竞争对手数年；其未来竞争力可能取决于如何在AI时代调整其隐私策略与技术路线。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】，对全球科技巨头苹果在AI战略上的得失进行深度分析，涉及产业竞争格局。",
+      "tags": [
+        "战略分析",
+        "产业竞争",
+        "苹果"
+      ],
+      "url": "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
+      "source": "NVIDIA AI",
+      "original_pub_date": "2026-04-04 17:00:59",
+      "impact_score": 125.5
+    },
+    {
+      "index": 5,
+      "title": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
+      "summary": "4月5日消息，英伟达在美国国家机器人周期间重点展示了其在具身AI和机器人领域的最新突破，包括机器人学习、仿真和基础模型方面的进展，旨在推动AI在农业、制造、能源等物理世界的应用。",
+      "importance": "中",
+      "reason": "属于【重大学术突破】与【重大产品发布】的结合，展示了英伟达（国际公司）在机器人AI前沿的技术进展和生态布局。",
+      "tags": [
+        "技术突破",
+        "机器人",
+        "英伟达"
+      ],
+      "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-04-04 01:31:00",
+      "impact_score": 112.5
+    },
+    {
+      "index": 6,
+      "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
+      "summary": "4月5日消息，黑客在泄露美国AI公司Anthropic旗下Claude模型代码的同时，还捆绑了恶意软件进行传播，此举加剧了AI模型源代码的安全风险，并可能对用户系统造成进一步危害。",
+      "importance": "中",
+      "reason": "属于【安全与伦理】范畴，涉及核心AI模型（Claude）的源代码安全事件，主体是海外公司和黑客。",
+      "tags": [
+        "网络安全",
+        "代码泄露",
+        "Anthropic"
+      ],
+      "url": "https://www.cnbc.com/2026/04/03/openai-fidji-simo-medical-leave-executive-changes.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-04-04 19:05:14",
+      "impact_score": 105.0
+    },
+    {
+      "index": 7,
+      "title": "A folk musician became a target for AI fakes and a copyright troll",
+      "summary": "4月5日消息，一位美国民谣音乐家发现其未经授权的AI仿制歌曲被上传至Spotify等流媒体平台，随后还遭到版权流氓的骚扰，凸显了生成式AI滥用对创作者权益造成的直接侵害和新型挑战。",
+      "importance": "中",
+      "reason": "属于【安全与伦理】范畴，是具体的AI滥用和伦理争议案例，发生在海外并涉及海外平台。",
+      "tags": [
+        "AI滥用",
+        "版权伦理",
+        "生成式AI"
+      ],
+      "url": "https://www.zdnet.com/article/dont-plug-common-household-gadgets-into-an-extension-cord/",
+      "source": "ZDNet AI",
+      "original_pub_date": "2026-04-04 20:15:17",
+      "impact_score": 100.0
+    },
+    {
+      "index": 8,
+      "title": "Really, you made this without AI? Prove it",
+      "summary": "4月5日消息，随着生成式AI技术日益逼真，网络社区中对人类创作真实性的普遍怀疑正在蔓延，作者和艺术家被迫需要自证作品非AI生成，这反映了AI技术对社会信任和创作生态的深层冲击。",
+      "importance": "低",
+      "reason": "属于【安全与伦理】范畴，探讨了生成式AI带来的社会信任危机和伦理困境，是基于海外社会现象的评论。",
+      "tags": [
+        "社会伦理",
+        "信任危机",
+        "生成式AI"
+      ],
+      "url": "https://www.cnbc.com/2026/04/04/apple-50-anniversary-ai-iphone-siri.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-04-04 12:00:01",
+      "impact_score": 75.0
+    },
+    {
+      "index": 9,
+      "title": "What’s the point of an AI novel?",
+      "summary": "4月5日消息，评论文章指出，AI小说的真正危险并非取代人类作者，而在于可能导致社会整体上不再关心优秀的写作本身，这引发了关于AI在文化创作领域中价值与意义的深层思考。",
+      "importance": "低",
+      "reason": "属于【安全与伦理】范畴，是对AI在文学创作领域影响的评论性分析，源自海外媒体。",
+      "tags": [
+        "AI与创作",
+        "文化评论",
+        "伦理思考"
+      ],
+      "url": "https://www.zdnet.com/article/privacybee-data-removal-review/",
+      "source": "ZDNet AI",
+      "original_pub_date": "2026-04-04 00:52:00",
+      "impact_score": 60.0
+    },
+    {
+      "index": 10,
+      "title": "Napster is Evolving in the AI Era",
+      "summary": "4月5日消息，老牌音乐服务Napster的CEO表示，公司正进行战略转型，从传统音乐流媒体转向所谓的“流媒体智能”，旨在利用AI技术重塑其业务模式和用户体验。",
+      "importance": "低",
+      "reason": "属于【重大商业动态】，但公司（Napster）当前影响力和转型的具体内容未明确，重要性相对较低。主体为美国公司。",
+      "tags": [
+        "业务转型",
+        "AI应用",
+        "Napster"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-04-05/nvidia-partner-hon-hai-s-sales-meet-estimates-on-solid-ai-demand",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-05 07:49:37",
+      "impact_score": 45.0
+    }
+  ],
+  "summary": "今日从40条原始信息中精选出9条国内动态和10条国际动态，其中7条为高重要性。 重点关注：阿里千问3.6Plus大模型登顶全球模型调用排行榜首；易烊千玺遭AI短剧“盗脸”牟利，平台方已下架相关产品；泉智博高爆发关节自动化产线投产，加速具身智能商业化。",
+  "statistics": {
+    "raw_domestic": 21,
+    "raw_international": 19,
+    "raw_total": 40,
+    "final_domestic": 9,
+    "final_international": 10
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "4月5日消息，阿里巴巴旗下通义千问发布新模型Qwen3.6-Plus，在全球知名大模型API调用平台OpenRouter的日榜中登顶，日调用量突破1.4万亿Token，打破了该平台的单日单模型调用量全球纪录，成为当下最受企业和开发者热捧的大模型。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "4月5日消息，艺人易烊千玺工作室发布声明称，其肖像被部分网络平台擅自用于生成AI剧集并牟利，相关平台已下架部分侵权作品，此事件凸显了AI技术滥用引发的肖像权与内容安全等重大伦理与法律问题。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "4月5日消息，中国机器人核心部件公司泉智博在无锡正式投产“高爆发一体化关节自动化产线”，该产线突破了人形机器人动力核心的量产瓶颈，标志着其产业化进程取得实质性进展，并已获得过亿元A+轮融资支持。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "4月5日消息，源自清华大学团队的北京霍里思特科技有限公司完成近2亿元C轮融资，该公司专注于研发矿石AI智能分选设备，其技术已在全矿种实现大量落地应用，本轮融资将用于核心技术研发与全球化业务拓展。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "4月5日消息，香港财政司司长陈茂波表示，香港IPO市场持续活跃，首季集资额全球第一，且排队申请上市的企业超过500家，其中人工智能、半导体等新兴产业占比显著，显示香港作为中国AI等科技企业重要融资窗口的地位。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "4月5日消息，英国政府正积极争取美国AI初创公司Anthropic扩大其在伦敦的业务布局，此举被视为英国在脱欧后巩固其全球AI领导地位的关键战略举措，旨在吸引顶尖AI人才和投资。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "4月5日消息，美国AI公司Anthropic的私人股份在二级市场交易异常活跃，成为最热门的标的，而SpaceX即将进行的IPO可能重塑整个私人市场格局，显示出资本对前沿AI公司的高度追捧。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "4月5日消息，OpenAI产品总裁Fidji Simo因健康原因暂时休假，公司宣布由总裁Greg Brockman在此期间接管产品团队，这是这家全球领先AI公司在关键发展时期的一次重要人事调整。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "4月5日消息，前苹果内部人士分析指出，尽管苹果在消费设备领域占据主导并强调隐私，但在AI竞赛中已落后竞争对手数年；其未来竞争力可能取决于如何在AI时代调整其隐私策略与技术路线。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "4月5日消息，英伟达在美国国家机器人周期间重点展示了其在具身AI和机器人领域的最新突破，包括机器人学习、仿真和基础模型方面的进展，旨在推动AI在农业、制造、能源等物理世界的应用。",
+      "importance": "中"
+    }
+  ]
+}
