@@ -1,0 +1,501 @@
+{
+  "date": "2026-04-07",
+  "generated_at": "2026-04-07 09:10:26",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "红熊AI完成2.1亿元A轮融资，切入物理AI赛道｜36氪首发",
+      "summary": "4月7日消息，中国企业级AI解决方案供应商红熊AI完成2.1亿元A轮融资，投后估值超15亿元，由华禹创投领投。该公司主打“记忆科学+全模态大模型”技术路线，致力于让AI具备类似人类的“情节记忆”能力，以在物理世界实现更精准的感知、决策与行动，并计划于2027年向港交所递表。",
+      "importance": "高",
+      "reason": "重大商业动态：中国AI初创公司获得大额融资，切入具身智能/物理AI赛道，估值超15亿，属于国内AI产业重要资本事件。",
+      "tags": [
+        "融资",
+        "大模型",
+        "具身智能"
+      ],
+      "url": "https://36kr.com/p/3750675963904513?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-07 02:00:00",
+      "impact_score": 455.0
+    },
+    {
+      "index": 2,
+      "title": "科氪 | 荣耀与京东签订战略合作协议 推进AI、机器人、C2M共创合作",
+      "summary": "4月7日消息，中国科技公司荣耀与京东签订全方位战略合作协议，双方将围绕AI、机器人、AIoT等领域进行产品共创、用户共营和生态共享，致力于实现三年累计规模超1000亿元的全领域合作目标，共同打造行业爆品和创新项目。",
+      "importance": "高",
+      "reason": "重大商业动态：中国两大科技巨头（荣耀、京东）达成重大战略合作，涉及AI、机器人等前沿领域，合作规模巨大（千亿级），对国内AI产业生态有重要影响。",
+      "tags": [
+        "战略合作",
+        "AI",
+        "机器人"
+      ],
+      "url": "https://36kr.com/p/3755161993675523?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-06 09:48:30",
+      "impact_score": 376.5
+    },
+    {
+      "index": 3,
+      "title": "第一视角效率超过真机，深度机智发布全球首个以人类学习范式构建的具身基座模型",
+      "summary": "4月7日消息，中国AI公司深度机智发布了全球首个以人类学习范式构建的具身基座模型，其第一视角学习效率据称超过真机数据训练，旨在解决当前具身智能领域数据利用效率低、技术路线不明确的核心问题，为机器人学习提供了新范式。",
+      "importance": "高",
+      "reason": "重大学术/产品突破：中国公司在具身智能这一全球前沿领域发布突破性基座模型，提出新的技术路线（人类学习范式），并宣称效率超越现有主流方法，属于重要的技术进展。",
+      "tags": [
+        "具身智能",
+        "基座模型",
+        "技术突破"
+      ],
+      "url": "https://36kr.com/p/3754821568578050?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-07 01:30:00",
+      "impact_score": 322.5
+    },
+    {
+      "index": 4,
+      "title": "华为汪涛当值轮值董事长，孟晚舟谈战略聚焦；Claude Code源码意外「被开源」，51万行代码令全网狂欢；奇瑞宣布放1天春假，还用年假抵扣",
+      "summary": "4月7日消息，华为公司完成轮值董事长交接，汪涛当值，孟晚舟在致辞中强调公司战略聚焦；同时，该新闻摘要中提及Nature杂志称赞中国基础研究投入增长超美国，并点名称赞了小米、腾讯等中国公司的贡献。",
+      "importance": "中",
+      "reason": "重大商业动态（部分）：涉及中国科技巨头华为的高层人事变动及战略表态，同时引用了国际权威期刊对中国基础研究及企业（小米、腾讯）的正面评价，反映了国内科技产业的整体进展。",
+      "tags": [
+        "华为",
+        "战略",
+        "基础研究"
+      ],
+      "url": "https://www.leiphone.com/category/ai/BLS2oRfBOj5bwGyP.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-07 07:04:00",
+      "impact_score": 300.0
+    },
+    {
+      "index": 5,
+      "title": "让大模型多模态检索全面超越SOTA！ReCALL框架化解生成式与判别式的范式冲突｜CVPR’26",
+      "summary": "4月7日消息，一项由中国研究团队提出的名为ReCALL的创新框架，成功化解了生成式与判别式模型的范式冲突，使得大模型在多模态检索任务上的性能全面超越了当前的SOTA（最优）水平，相关成果被CVPR’26收录。",
+      "importance": "高",
+      "reason": "重大学术突破：中国研究团队在顶级计算机视觉会议CVPR上发表了突破性成果，提出了解决多模态检索核心难题的新框架，并实现了性能的全面超越，属于重要的学术进展。",
+      "tags": [
+        "多模态检索",
+        "SOTA",
+        "学术突破"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/OSd4ovZLTC2e5W4M.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-07 00:30:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 6,
+      "title": "36氪首发 | 领跑全彩AR微显示屏产品化落地，赛富乐斯完成3亿元C轮融资",
+      "summary": "4月7日消息，中国AR显示技术企业赛富乐斯完成3亿元C轮融资，投资方包括多家地方国资及产业基金。该公司专注于Micro-LED显示技术，致力于加速AR用全彩微显示屏的量产交付，推动相关技术的规模商业化。",
+      "importance": "中",
+      "reason": "重大商业动态：中国AR上游核心硬件（Micro-LED微显示屏）公司获得大额融资，且投资方包含多地政府产业基金，显示国内对AR/AI硬件关键环节的支持，对产业链有重要意义。",
+      "tags": [
+        "融资",
+        "AR硬件",
+        "Micro-LED"
+      ],
+      "url": "https://www.qbitai.com/2026/04/396863.html",
+      "source": "量子位",
+      "original_pub_date": "2026-04-06 15:30:59",
+      "impact_score": 270.0
+    },
+    {
+      "index": 7,
+      "title": "达闼科技陨落一周年：具身独角兽的消亡史",
+      "summary": "4月7日消息，媒体回顾了中国前具身智能独角兽达闼科技的衰落历程。该公司估值曾超200亿元，但其陨落并非简单源于资金断裂，更深层原因在于技术路线摇摆、过度依赖单一客户以及复杂的股权和控制权纠纷，为当前火热的具身智能行业提供了重要警示案例。",
+      "importance": "中",
+      "reason": "重大商业动态/安全与伦理（反思）：深度分析中国AI/机器人领域曾具代表性的独角兽公司失败案例，涉及商业策略、公司治理和技术路线选择，对行业有重要的借鉴和警示意义。",
+      "tags": [
+        "具身智能",
+        "商业案例",
+        "行业反思"
+      ],
+      "url": "https://36kr.com/p/3756111263384071?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-07 01:57:48",
+      "impact_score": 245.0
+    },
+    {
+      "index": 8,
+      "title": "持续霸榜！阿里千问3.6Plus问鼎全球大模型调用周榜冠军",
+      "summary": "4月7日消息，阿里巴巴旗下的大模型通义千问（Qwen）系列取得重要市场进展，其Qwen3.6-Plus模型在全球最大的大模型API平台OpenRouter上持续霸榜，并成为该平台首个单日调用量突破1万亿Token的模型，显示了其强大的市场接受度和技术竞争力。",
+      "importance": "高",
+      "reason": "重大产品发布/商业动态：中国头部科技公司（阿里）的旗舰大模型在全球性第三方平台上取得调用量第一的里程碑式成绩，这是中国大模型在国际市场竞争力和影响力的直接体现。",
+      "tags": [
+        "大模型",
+        "阿里",
+        "市场表现"
+      ],
+      "url": "https://www.leiphone.com/category/ai/wzcQ6oXkI7YqxGV2.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-07 07:09:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 9,
+      "title": "印奇带队千里首个完整年：营收近百亿，智驾毛利率达30.8%",
+      "summary": "4月7日消息，中国自动驾驶公司千里智驾（由印奇带队）在首个完整运营年度业绩表现亮眼，营收接近百亿规模，并且其智能驾驶业务的毛利率达到了30.8%，首次对外披露了具体的财务数据，展现了其在商业化落地方面的强劲势头。",
+      "importance": "高",
+      "reason": "重大商业动态：中国自动驾驶头部公司披露关键财务数据，营收规模巨大且毛利率健康，这标志着中国高级别自动驾驶技术商业化进入规模化盈利验证的关键阶段，是行业发展的风向标。",
+      "tags": [
+        "自动驾驶",
+        "商业化",
+        "财务披露"
+      ],
+      "url": "https://36kr.com/p/3756486340199170?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-07 08:16:13",
+      "impact_score": 230.0
+    },
+    {
+      "index": 10,
+      "title": "下一代OpenClaw来了？“龙虾之父”称将率先支持阿里千问",
+      "summary": "4月7日消息，下一代热门开源智能体框架OpenClaw（龙虾）的创始人透露，其新产品将率先提供对中国阿里巴巴通义千问大模型的官方支持。此举是在阿里千问系列模型近期全球影响力飙升的背景下发生，标志着中国大模型在国际主流AI开发框架中地位提升。",
+      "importance": "中",
+      "reason": "重大产品发布/商业动态：国际主流开源AI框架（OpenClaw）将中国大模型（阿里千问）列为首发支持对象，反映了中国AI模型技术实力获得全球开发者生态的认可，是重要的生态合作动态。",
+      "tags": [
+        "开源框架",
+        "阿里千问",
+        "生态合作"
+      ],
+      "url": "https://36kr.com/p/3754812277998083?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-06 03:53:43",
+      "impact_score": 225.0
+    },
+    {
+      "index": 11,
+      "title": "曝亚马逊5月又要裁1.4万人，比裁员更可怕的是「随机点名」；侮辱消费者像狗后，罗技官号再被扒出争议广告；苹果首款折叠屏手机已在试产",
+      "summary": "4月7日消息，该综合新闻中提及多项国内AI相关动态，包括：多部AI短剧盗用明星人脸（易烊千玺）引发侵权争议；鸿蒙智行新款问界M9无伪装上路；以及吉利旗下沃飞长空启动科创板IPO辅导，冲击“eVTOL第一股”。",
+      "importance": "中",
+      "reason": "安全与伦理/商业动态：综合新闻中包含多条国内重要信息：AI生成内容侵权事件（安全与伦理）、华为鸿蒙智行新品动态（产品）、以及中国eVTOL（电动垂直起降飞行器）公司冲刺IPO（商业动态），均属国内AI及前沿科技领域热点。",
+      "tags": [
+        "AI伦理",
+        "鸿蒙智行",
+        "eVTOL",
+        "IPO"
+      ],
+      "url": "https://36kr.com/newsflashes/3756523963122441?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-07 08:53:47",
+      "impact_score": 221.0
+    },
+    {
+      "index": 12,
+      "title": "美国绕月飞船一上天，厕所就坏了！网友热议：为何「只绕不登」；假洋牌曝光！董宇辉致歉冲上热搜，被全网审判；年薪1.24亿！优必选招首席",
+      "summary": "4月7日消息，该综合新闻中涉及数条国内AI产业动态：中国机器人公司优必选以超高年薪招聘“首席”职位；传闻字节跳动豆包AI手机与多家大厂接洽；飞猪与阿里千问合作的“AI订旅行”服务获更多品牌加码；以及前荣耀高管加入智界汽车。",
+      "importance": "中",
+      "reason": "重大商业动态/产品发布：新闻集纳了多个国内AI及科技公司的关键动向，包括优必选的人才战略、字节跳动AI硬件进展、阿里AI在垂直场景（旅行）的生态扩张，以及汽车行业（智界）的高管变动，信息密度高。",
+      "tags": [
+        "人才招聘",
+        "AI硬件",
+        "生态合作",
+        "高管变动"
+      ],
+      "url": "https://www.qbitai.com/2026/04/396950.html",
+      "source": "量子位",
+      "original_pub_date": "2026-04-07 04:00:52",
+      "impact_score": 150.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "OpenAI Releases Policy Recommendations for AI Age",
+      "summary": "4月7日消息，OpenAI发布了针对AI驱动社会快速变革的政策建议，其全球事务主管阐述了旨在“确保AI惠及所有人”的构想，这标志着领先AI公司开始主动参与并试图塑造全球AI治理框架。",
+      "importance": "高",
+      "reason": "属于【重大政策与法规】范畴。OpenAI作为全球AI领军企业，主动发布政策建议，试图影响全球AI治理方向，具有重要的政策风向标意义。",
+      "tags": [
+        "政策建议",
+        "AI治理",
+        "OpenAI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-04-07/ackman-s-pershing-square-offers-to-buy-universal-music-group",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-07 06:29:57",
+      "impact_score": 240.0
+    },
+    {
+      "index": 2,
+      "title": "OpenAI Calls for Investigation Into Musk by California, Delaware",
+      "summary": "4月7日消息，OpenAI敦促加州和特拉华州总检察长调查埃隆·马斯克可能存在的“不当及反竞争行为”，指控其试图阻止OpenAI重组为营利性公司，此举将科技巨头间的法律与商业纠纷升级至政府监管层面。",
+      "importance": "高",
+      "reason": "属于【重大商业动态】与潜在的法律监管事件。涉及OpenAI与埃隆·马斯克（特斯拉、xAI创始人）的重大纠纷，可能引发反垄断调查，影响行业格局。",
+      "tags": [
+        "法律纠纷",
+        "反垄断",
+        "OpenAI",
+        "埃隆·马斯克"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-04-06/spacex-expected-to-kick-off-a-wave-of-mega-ipos-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-06 17:42:14",
+      "impact_score": 240.0
+    },
+    {
+      "index": 3,
+      "title": "Anthropic in chips deals with Google and Broadcom worth hundreds of billions",
+      "summary": "4月7日消息，AI初创公司Anthropic与谷歌和博通达成了价值数千亿美元的芯片合作协议，以保障其激增的算力需求，同时其年化收入运行率已突破300亿美元，凸显了顶级AI模型公司对算力的巨大投入和商业成功。",
+      "importance": "高",
+      "reason": "属于【重大商业动态】。涉及金额巨大（数千亿美元），合作方为谷歌（云/AI巨头）和博通（芯片巨头），且Anthropic营收飙升至300亿美元运行率，是AI产业核心资源争夺与商业扩张的标志性事件。",
+      "tags": [
+        "芯片合作",
+        "巨额融资",
+        "Anthropic",
+        "算力"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-04-06/openai-releases-policy-recommendations-for-ai-age-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-06 16:58:17",
+      "impact_score": 195.0
+    },
+    {
+      "index": 4,
+      "title": "Samsung Beats High Estimates After AI Chip Sales Defy War Fears",
+      "summary": "4月7日消息，三星电子季度利润实现远超预期的八倍增长，主要得益于AI内存芯片的强劲需求，这一表现克服了中东战争引发的市场动荡，印证了AI硬件供应链的持续繁荣。",
+      "importance": "高",
+      "reason": "属于【重大商业动态】。三星作为全球领先的存储芯片制造商，其业绩是AI硬件需求的关键风向标，利润暴增直接反映了AI基础设施建设的火热程度。",
+      "tags": [
+        "AI芯片",
+        "财报",
+        "三星",
+        "内存"
+      ],
+      "url": "https://arxiv.org/abs/2604.03393",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-04-07 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 5,
+      "title": "Iran threatens OpenAI’s Stargate data center in Abu Dhabi",
+      "summary": "4月7日消息，伊朗伊斯兰革命卫队发布视频，威胁将攻击OpenAI计划在阿布扎比建设的“星际之门”数据中心，以此回应美国可能对其发电厂发动的攻击，将地缘政治冲突直接引入AI核心基础设施领域。",
+      "importance": "高",
+      "reason": "属于【安全与伦理】及地缘政治风险。国家级行为体公开威胁全球最重要AI公司的关键基础设施，是前所未有的AI安全与地缘政治交织的重大事件。",
+      "tags": [
+        "地缘政治",
+        "基础设施安全",
+        "OpenAI",
+        "伊朗"
+      ],
+      "url": "https://arxiv.org/abs/2604.03565",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-04-07 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 6,
+      "title": "Jeff Bezos’s new lab hires xAI co-founder from OpenAI",
+      "summary": "4月7日消息，杰夫·贝佐斯新成立的秘密实验室“普罗米修斯计划”聘请了xAI联合创始人凯尔·科西奇，该实验室致力于开发能够理解物理世界的系统，标志着科技巨头在具身智能与物理AI领域的人才争夺战加剧。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】中的人才流动。涉及亚马逊创始人贝佐斯的新项目、马斯克旗下xAI的联合创始人，是顶级AI人才在巨头间流动的典型案例，指向物理AI这一前沿方向。",
+      "tags": [
+        "人才争夺",
+        "具身智能",
+        "贝佐斯",
+        "xAI"
+      ],
+      "url": "https://arxiv.org/abs/2604.03630",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-04-07 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 7,
+      "title": "The Ridiculously Nerdy Intel Bet That Could Rake in Billions",
+      "summary": "4月7日消息，英特尔正全力押注先进的芯片封装技术，该技术已成为AI热潮的核心环节，有望为公司带来数十亿美元的收入，这是英特尔在AI芯片竞争中追赶英伟达等对手的关键战略。",
+      "importance": "中",
+      "reason": "属于【重大产品发布】相关的核心技术竞争。芯片先进封装是提升AI算力密度的关键技术，英特尔的“全力投入”关乎全球AI芯片供应链格局。",
+      "tags": [
+        "芯片封装",
+        "英特尔",
+        "AI硬件",
+        "竞争"
+      ],
+      "url": "https://arxiv.org/abs/2604.03660",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-04-07 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 8,
+      "title": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
+      "summary": "4月7日消息，英伟达在美国国家机器人周期间重点展示了将AI带入物理世界的最新突破，包括机器人学习、仿真和基础模型方面的进展，这些技术正在变革农业、制造、能源等多个行业。",
+      "importance": "中",
+      "reason": "属于【重大产品发布】与【重大学术突破】的结合。英伟达作为AI算力龙头，系统性地展示其在物理AI（机器人）领域的技术突破与生态布局，具有行业引领作用。",
+      "tags": [
+        "机器人",
+        "物理AI",
+        "英伟达",
+        "突破"
+      ],
+      "url": "https://www.ft.com/content/e03c235d-8637-41e5-9e63-a872e398897a",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-04-07 04:00:45",
+      "impact_score": 180.0
+    },
+    {
+      "index": 9,
+      "title": "TABQAWORLD: Optimizing Multimodal Reasoning for Multi-Turn Table Question Answering",
+      "summary": "4月7日消息，一项名为TABQAWORLD的新研究提出优化多模态推理框架，以提升模型在复杂多轮表格问答中的推理能力，该方法通过工具使用和奖励建模改进推理精度，突破了固定文本模式的限制。",
+      "importance": "中",
+      "reason": "属于【重大学术突破】。该研究针对多模态大模型在专业领域（如金融、医疗）表格推理的瓶颈提出新方法，对提升AI的复杂信息处理能力有重要意义。",
+      "tags": [
+        "多模态推理",
+        "表格问答",
+        "学术研究",
+        "基准测试"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-04-06/openai-calls-for-investigation-into-musk-by-california-delaware",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-06 22:32:21",
+      "impact_score": 180.0
+    },
+    {
+      "index": 10,
+      "title": "TableVision: A Large-Scale Benchmark for Spatially Grounded Reasoning over Complex Hierarchical Tables",
+      "summary": "4月7日消息，研究人员发布了TableVision，一个用于评估多模态大语言模型在复杂分层表格上进行空间接地推理的大规模基准测试，旨在解决当前模型在专业领域表格理解上的性能局限。",
+      "importance": "中",
+      "reason": "属于【重大学术突破】。发布大规模基准是推动AI技术进步的关键基础设施工作，尤其针对金融、科研等领域的复杂表格理解这一实用且具有挑战性的任务。",
+      "tags": [
+        "基准测试",
+        "表格理解",
+        "多模态LLM",
+        "评估"
+      ],
+      "url": "https://arxiv.org/abs/2604.03376",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-04-07 04:00:00",
+      "impact_score": 145.0
+    },
+    {
+      "index": 11,
+      "title": "Structural Rigidity and the 57-Token Predictive Window: A Physical Framework for Inference-Layer Governability in Large Language Models",
+      "summary": "4月7日消息，一项新研究提出基于结构刚度和57个令牌预测窗口的物理框架，旨在实现大语言模型推理层的可治理性，以解决当前行为监控和事后对齐方法在多数指令微调模型中无法检测到预承诺信号的问题。",
+      "importance": "中",
+      "reason": "属于【安全与伦理】及【重大学术突破】。该研究从理论物理角度探索AI安全的基础问题（可治理性），是试图从根本上改进AI对齐与安全机制的前沿探索。",
+      "tags": [
+        "AI安全",
+        "可治理性",
+        "大语言模型",
+        "对齐"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-04-06/samsung-profit-up-eight-fold-after-ai-chip-sales-defy-war-fears",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-06 22:49:10",
+      "impact_score": 142.5
+    },
+    {
+      "index": 12,
+      "title": "A Multimodal Foundation Model of Spatial Transcriptomics and Histology for Biological Discovery and Clinical Prediction",
+      "summary": "4月7日消息，研究人员提出了一种结合空间转录组学和组织学（H&E染色）的多模态基础模型，旨在弥补分子分辨率与形态学信息之间的鸿沟，为生物发现和临床预测提供新工具。",
+      "importance": "低",
+      "reason": "属于【重大学术突破】。该研究位于AI for Science前沿，将多模态AI应用于生命科学的尖端领域（空间转录组学），具有重要的科研和医疗应用潜力。",
+      "tags": [
+        "AI for Science",
+        "多模态模型",
+        "生物医学",
+        "基础模型"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-04-06/meet-the-next-generation-of-bitcoin-etfs-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-06 18:52:42",
+      "impact_score": 142.5
+    },
+    {
+      "index": 13,
+      "title": "Automated Analysis of Global AI Safety Initiatives: A Taxonomy-Driven LLM Approach",
+      "summary": "4月7日消息，研究人员提出了一种自动化框架，利用大语言模型驱动的分类法来分析和比较全球AI安全政策文件，旨在为AI治理提供系统化的评估工具，以应对政策激增带来的分析挑战。",
+      "importance": "低",
+      "reason": "属于【安全与伦理】及方法论研究。利用AI分析AI安全政策本身是一个元问题，对于理解和协调全球日益复杂的AI治理行动具有工具性价值。",
+      "tags": [
+        "AI安全",
+        "政策分析",
+        "AI治理",
+        "大语言模型应用"
+      ],
+      "url": "https://www.wired.com/story/why-chip-packaging-could-decide-the-next-phase-of-the-ai-boom/",
+      "source": "Wired AI",
+      "original_pub_date": "2026-04-06 09:00:00",
+      "impact_score": 140.5
+    },
+    {
+      "index": 14,
+      "title": "Personality Requires Struggle: Three Regimes of the Baldwin Effect in Neuroevolved Chess Agents",
+      "summary": "4月7日消息，一项通过神经进化象棋智能体的研究发现，终身学习可以通过鲍德温效应在进化时间上扩展行为多样性而非减少它，这对理解智能体行为复杂性的产生机制提供了新视角。",
+      "importance": "低",
+      "reason": "属于【重大学术突破】。该研究涉及进化、学习与行为多样性等基础AI理论问题，对于AGI和具身智能的研究有启发意义，但距离直接应用较远。",
+      "tags": [
+        "进化算法",
+        "行为多样性",
+        "AGI理论",
+        "学术研究"
+      ],
+      "url": "https://arxiv.org/abs/2604.03356",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-04-07 04:00:00",
+      "impact_score": 135.0
+    }
+  ],
+  "summary": "今日从124条原始信息中精选出12条国内动态和14条国际动态，其中11条为高重要性。 重点关注：红熊AI完成2.1亿元A轮融资，切入物理AI赛道｜36氪首发；科氪 | 荣耀与京东签订战略合作协议 推进AI、机器人、C2M共创合作；第一视角效率超过真机，深度机智发布全球首个以人类学习范式构建的具身基座模型。",
+  "statistics": {
+    "raw_domestic": 32,
+    "raw_international": 92,
+    "raw_total": 124,
+    "final_domestic": 12,
+    "final_international": 14
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "4月7日消息，中国企业级AI解决方案供应商红熊AI完成2.1亿元A轮融资，投后估值超15亿元，由华禹创投领投。该公司主打“记忆科学+全模态大模型”技术路线，致力于让AI具备类似人类的“情节记忆”能力，以在物理世界实现更精准的感知、决策与行动，并计划于2027年向港交所递表。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "4月7日消息，中国科技公司荣耀与京东签订全方位战略合作协议，双方将围绕AI、机器人、AIoT等领域进行产品共创、用户共营和生态共享，致力于实现三年累计规模超1000亿元的全领域合作目标，共同打造行业爆品和创新项目。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "4月7日消息，中国AI公司深度机智发布了全球首个以人类学习范式构建的具身基座模型，其第一视角学习效率据称超过真机数据训练，旨在解决当前具身智能领域数据利用效率低、技术路线不明确的核心问题，为机器人学习提供了新范式。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "4月7日消息，一项由中国研究团队提出的名为ReCALL的创新框架，成功化解了生成式与判别式模型的范式冲突，使得大模型在多模态检索任务上的性能全面超越了当前的SOTA（最优）水平，相关成果被CVPR’26收录。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "4月7日消息，阿里巴巴旗下的大模型通义千问（Qwen）系列取得重要市场进展，其Qwen3.6-Plus模型在全球最大的大模型API平台OpenRouter上持续霸榜，并成为该平台首个单日调用量突破1万亿Token的模型，显示了其强大的市场接受度和技术竞争力。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "4月7日消息，OpenAI发布了针对AI驱动社会快速变革的政策建议，其全球事务主管阐述了旨在“确保AI惠及所有人”的构想，这标志着领先AI公司开始主动参与并试图塑造全球AI治理框架。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "4月7日消息，OpenAI敦促加州和特拉华州总检察长调查埃隆·马斯克可能存在的“不当及反竞争行为”，指控其试图阻止OpenAI重组为营利性公司，此举将科技巨头间的法律与商业纠纷升级至政府监管层面。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "4月7日消息，AI初创公司Anthropic与谷歌和博通达成了价值数千亿美元的芯片合作协议，以保障其激增的算力需求，同时其年化收入运行率已突破300亿美元，凸显了顶级AI模型公司对算力的巨大投入和商业成功。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "4月7日消息，三星电子季度利润实现远超预期的八倍增长，主要得益于AI内存芯片的强劲需求，这一表现克服了中东战争引发的市场动荡，印证了AI硬件供应链的持续繁荣。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "4月7日消息，伊朗伊斯兰革命卫队发布视频，威胁将攻击OpenAI计划在阿布扎比建设的“星际之门”数据中心，以此回应美国可能对其发电厂发动的攻击，将地缘政治冲突直接引入AI核心基础设施领域。",
+      "importance": "高"
+    }
+  ]
+}
