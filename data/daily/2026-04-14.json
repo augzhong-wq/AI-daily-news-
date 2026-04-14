@@ -1,0 +1,546 @@
+{
+  "date": "2026-04-14",
+  "generated_at": "2026-04-14 09:24:56",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "我国最大规模科学智能计算集群投入使用",
+      "summary": "4月14日消息，我国在郑州国家超算互联网核心节点正式投用了最大规模的科学智能计算集群，这标志着我国在人工智能驱动科学研究的算力基础设施领域实现了关键性突破，将有力支撑抢占人工智能产业应用的制高点。",
+      "importance": "高",
+      "reason": "属于【重大产品发布/基础设施】。这是国家级重大AI算力基础设施的突破，具有战略意义，符合国内动态且重要性极高。",
+      "tags": [
+        "基础设施",
+        "算力",
+        "突破"
+      ],
+      "url": "https://36kr.com/p/3766434507440903?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-14 09:09:33",
+      "impact_score": 327.5
+    },
+    {
+      "index": 2,
+      "title": "火山引擎：Seedance 2.0 API 服务全面开放",
+      "summary": "4月14日消息，字节跳动旗下火山引擎正式全面开放其全球SOTA视频生成模型Seedance 2.0的API服务，企业和个人用户可调用该服务以重塑工作流，该模型支持多模态输入，在物理准确度和可控性上显著增强，更贴合工业级创作需求。",
+      "importance": "高",
+      "reason": "属于【重大产品发布】。中国公司（字节跳动/火山引擎）发布了全球SOTA级别的视频生成模型并开放商用，技术影响力大，商业前景广阔。",
+      "tags": [
+        "视频生成",
+        "SOTA",
+        "产品发布"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/9o3XSNA2iHkJjJwU.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-14 06:53:00",
+      "impact_score": 300.0
+    },
+    {
+      "index": 3,
+      "title": "击败PI ，清华系具身公司包揽「具身奥林匹克」三项全球第一，刷新世界纪录！",
+      "summary": "4月14日消息，中国具身智能公司星动纪元在全球顶尖的具身灵巧操作赛事Benjie's Olympics中，凭借自研模型一举包揽三项核心任务全球第一，创下新世界纪录，并以显著优势击败了国际顶尖对手Physical Intelligence。",
+      "importance": "高",
+      "reason": "属于【重大学术/技术突破】。中国公司在具身智能这一前沿领域的国际顶级赛事中取得历史性突破，击败国际强敌，技术含金量极高。",
+      "tags": [
+        "具身智能",
+        "世界纪录",
+        "技术突破"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/aiDP2A7dwvwQL6Ue.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-13 04:12:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 4,
+      "title": "最前线 | 远见智存发布HBM3/3e高带宽存储芯片，带宽迈入800GB/s级别",
+      "summary": "4月14日消息，深圳远见智存科技有限公司发布了其HBM3/3e高带宽存储芯片产品，提供12GB与24GB两种容量，带宽达到819GB/s，对标国际标准，旨在突破AI算力中的“内存墙”瓶颈。",
+      "importance": "高",
+      "reason": "属于【重大产品发布】。中国公司发布了关键的AI算力组件HBM芯片，技术门槛高，对国产AI芯片生态有重要意义。",
+      "tags": [
+        "HBM",
+        "芯片",
+        "算力"
+      ],
+      "url": "https://www.leiphone.com/category/ai/SjJFJkVt2aQjt3XC.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-14 02:41:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 5,
+      "title": "荣耀做了个“养虾本”，预制5大主虾，要重新定义AI PC｜最前线",
+      "summary": "4月13日消息，荣耀正式发布自研终端侧AI智能体YOYO Claw，并宣布将其首发搭载于荣耀MagicBook系列轻薄本中，旨在将PC从个人电脑升级为具备深度AI能力的“伙伴创造者”。",
+      "importance": "高",
+      "reason": "属于【重大产品发布】。中国主流消费电子公司荣耀发布自研终端AI智能体并集成于PC，是AI PC赛道的重要商业动作。",
+      "tags": [
+        "AI PC",
+        "终端智能体",
+        "产品发布"
+      ],
+      "url": "https://www.leiphone.com/category/chips/bwKuuKUGYn8a3IbY.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-13 04:56:00",
+      "impact_score": 255.0
+    },
+    {
+      "index": 6,
+      "title": "别克×火山引擎：至境E7行业首发搭载豆包大模型最新版",
+      "summary": "4月14日消息，上汽通用别克旗下至境E7车型行业首发搭载字节跳动豆包大模型最新版，打造具备陪伴、娱乐、用车等五大核心功能的车载智能体，实现了从“懂人心”到“能办事”的智能座舱交互升级。",
+      "importance": "高",
+      "reason": "属于【重大产品发布/战略合作】。中国汽车品牌与中国顶尖AI公司（字节跳动）深度合作，将大模型首次大规模应用于量产汽车，是AI落地的重要场景。",
+      "tags": [
+        "大模型落地",
+        "智能汽车",
+        "战略合作"
+      ],
+      "url": "https://36kr.com/p/3765331768967686?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-13 15:56:59",
+      "impact_score": 251.0
+    },
+    {
+      "index": 7,
+      "title": "宁德时代、智元、银河通用联合投资，六维力传感器头部企业「蓝点触控」完成超亿元C+轮融资",
+      "summary": "4月14日消息，机器人力传感器头部企业蓝点触控（北京）完成超亿元C+轮融资，投资方包括宁德时代旗下资本、智元机器人、银河通用等产业资本，资金将用于深化其在人形机器人专用力传感器等领域的平台型技术布局。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】。涉及多家中国AI及机器人领域头部产业资本（宁德时代、智元、银河通用）的联合投资，金额大，且标的公司是机器人核心零部件供应商，产业协同意义显著。",
+      "tags": [
+        "融资",
+        "机器人",
+        "产业投资"
+      ],
+      "url": "https://36kr.com/p/3764953900990977?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-14 01:10:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 8,
+      "title": "推理卡毛利率下滑超7%，天数智芯「降价换量」的买卖值不值？",
+      "summary": "4月14日消息，国产GPU公司天数智芯发布2025年财报，显示全年营收10.34亿元，同比增长91.6%，但推理卡业务毛利率出现超过7个百分点的下滑，引发市场对其“降价换量”策略及未来盈利能力的讨论。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】。作为已上市的国产AI芯片重要公司，其财报表现和战略选择反映了国产GPU行业的竞争态势与盈利挑战，具有行业风向标意义。",
+      "tags": [
+        "财报",
+        "国产GPU",
+        "商业分析"
+      ],
+      "url": "https://36kr.com/p/3765932138103554?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-14 00:26:45",
+      "impact_score": 240.0
+    },
+    {
+      "index": 9,
+      "title": "群核科技结束招股，券商统计获千倍超额认购",
+      "summary": "4月14日消息，被称为“杭州六小龙”之一的AI设计软件公司群核科技港股IPO申购结束，公开发售获得约1071倍的超额认购，融资申购额达1312亿港元，显示出资本市场对国内AI SaaS龙头企业的热烈追捧。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】。中国AI独角兽公司上市并获得超高倍数认购，是AI产业资本市场的标志性事件，反映了市场情绪和估值水平。",
+      "tags": [
+        "IPO",
+        "AI SaaS",
+        "资本市场"
+      ],
+      "url": "https://36kr.com/p/3765146768376326?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-13 11:09:12",
+      "impact_score": 225.0
+    },
+    {
+      "index": 10,
+      "title": "图速科技发布三款新品：其具身打磨机器人全栈自研，打磨效率为人工3-4倍丨最前线",
+      "summary": "4月10日消息，图速自动化科技（上海）有限公司发布砺眸®具身智能平台、图御™在线路径规划系统及图匠®具身打磨机器人三款新品，其自研的打磨机器人效率可达人工的3-4倍，标志着公司向具身智能表面处理技术平台转型。",
+      "importance": "中",
+      "reason": "属于【重大产品发布】。中国公司发布全栈自研的具身智能工业机器人及平台，在AI+制造的具体场景（打磨）实现效率突破，具有明确的商业应用价值。",
+      "tags": [
+        "具身智能",
+        "工业机器人",
+        "产品发布"
+      ],
+      "url": "https://36kr.com/p/3766410231726855?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-14 08:33:36",
+      "impact_score": 210.0
+    },
+    {
+      "index": 11,
+      "title": "明日新程完成连续两轮融资，领跑Harness群体多智能体赛道",
+      "summary": "4月14日消息，由微软小冰原班人马成立的AI公司“明日新程”宣布已连续完成两轮融资，投资方包括创新工场等，公司重仓布局Harness群体多智能体赛道，并已募得供未来三到五年持续创新的资金。",
+      "importance": "中",
+      "reason": "属于【重大商业动态】。由顶尖华人AI团队创立、聚焦前沿多智能体赛道的中国公司获得知名机构连续投资，代表了资本对下一代AI技术方向的押注。",
+      "tags": [
+        "融资",
+        "多智能体",
+        "初创公司"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/AxTObh0jEmDy2IEp.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-14 02:37:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 12,
+      "title": "8点1氪丨“马斯克版微信”将于4月17日上线；美军开始拦截进出霍尔木兹海峡船只；字节与荣耀合作“豆包手机”细节尚未达成一致",
+      "summary": "4月14日消息，据8点1氪报道，关于字节跳动与荣耀合作推出“豆包手机”的细节双方尚未达成一致，同时该资讯汇总也提及了中央网信办加强网络直播打赏规范管理等国内监管动态。",
+      "importance": "中",
+      "reason": "属于【重大商业动态/政策】。涉及中国两大科技巨头（字节、荣耀）潜在的重要硬件合作进展，以及中国政府的网络内容监管政策，均为国内产业关键信息。",
+      "tags": [
+        "战略合作",
+        "监管政策",
+        "产业动态"
+      ],
+      "url": "https://36kr.com/newsflashes/3766419974996489?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-14 08:40:31",
+      "impact_score": 195.0
+    },
+    {
+      "index": 13,
+      "title": "「作弊」内幕曝光！3DMark回应将某知名国产手机除名；李想朋友圈炮轰东风日产恶意拉踩，后者高管回应；美的空调又发行业首创产品",
+      "summary": "4月14日消息，该资讯汇总提及，国产AI公司深度求索（DeepSeek）内部透露其下一代大模型V4将于4月下旬发布，这是国内大模型领域的重要产品更新预告。",
+      "importance": "中",
+      "reason": "属于【重大产品发布】。从资讯中提取出关键信息：中国头部大模型公司深度求索（DeepSeek）预告了其重要模型V4的发布时间，属于国内AI核心进展。",
+      "tags": [
+        "大模型",
+        "产品预告",
+        "DeepSeek"
+      ],
+      "url": "https://36kr.com/newsflashes/3766407294616327?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-14 08:27:37",
+      "impact_score": 195.0
+    },
+    {
+      "index": 14,
+      "title": "半年融资近2亿，他要用AI发球机器人解决全球1亿人的训练难题｜硬氪专访",
+      "summary": "4月14日消息，AI体育训练机器人公司庞伯特在半年内完成近2亿元融资，其创始人利用自研的AI发球机器人进行网球训练并达到进阶水平，公司旨在用AI机器人解决全球运动训练难题。",
+      "importance": "低",
+      "reason": "属于【重大商业动态】。中国AI+体育机器人公司获得大额融资，展示了AI在垂直场景（体育训练）的应用和商业化潜力。",
+      "tags": [
+        "融资",
+        "AI+体育",
+        "机器人"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/aAthIc8n66aAjB1c.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-13 01:34:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 15,
+      "title": "吴清会见马来西亚证券委员会主席拿督穆罕默德·法伊兹·阿兹米",
+      "summary": "4月9日消息，中国证监会主席吴清在京会见了马来西亚证券委员会主席，双方就当前国际经济金融形势和进一步深化两国资本市场及证券期货监管机构之间的务实合作交换了意见。",
+      "importance": "低",
+      "reason": "属于【政策与监管动态】。中国金融监管机构负责人开展国际交流合作，虽不直接针对AI，但涉及资本市场开放与合作，对AI等科技公司的融资环境有间接影响。",
+      "tags": [
+        "金融监管",
+        "国际合作"
+      ],
+      "url": "https://36kr.com/newsflashes/3766443330847232?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-14 09:04:17",
+      "impact_score": 162.0
+    },
+    {
+      "index": 16,
+      "title": "李云泽会见美国桥水投资公司创始人瑞·达利欧",
+      "summary": "4月14日消息，国家金融监督管理总局党委书记、局长李云泽会见了美国桥水投资公司创始人瑞·达利欧一行，双方就全球经济金融形势、中国金融业发展以及中美金融合作等议题进行了交流。",
+      "importance": "低",
+      "reason": "属于【政策与监管动态】。中国最高金融监管机构与全球顶级投资机构交流，传递出中国金融市场开放和吸引外资的信号，对科技及AI领域的投资环境有参考意义。",
+      "tags": [
+        "金融监管",
+        "外资",
+        "国际合作"
+      ],
+      "url": "https://36kr.com/newsflashes/3766448282223108?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-14 09:09:19",
+      "impact_score": 160.5
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "OpenAI investors question $852bn valuation as strategy shifts",
+      "summary": "4月14日消息，OpenAI投资者对其高达8520亿美元的估值提出质疑，因公司战略转向，而竞争对手Anthropic正测试其早期领先优势，这反映了市场对顶级AI公司商业模式和长期价值的重新评估。",
+      "importance": "高",
+      "reason": "重大商业动态：涉及全球AI领军企业OpenAI的巨额估值争议及战略调整，对行业格局有重要影响。",
+      "tags": [
+        "OpenAI",
+        "估值",
+        "战略调整",
+        "Anthropic"
+      ],
+      "url": "https://arxiv.org/abs/2604.09608",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-04-14 04:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 2,
+      "title": "Texas Man Charged With Attempted Murder in Altman Attack",
+      "summary": "4月14日消息，一名德克萨斯州男子因涉嫌向OpenAI首席执行官萨姆·阿尔特曼的住所投掷燃烧弹并试图闯入公司总部，被联邦和地方检察官以谋杀未遂等罪名起诉，事件凸显了AI行业领袖面临的安全风险。",
+      "importance": "高",
+      "reason": "安全与伦理：针对全球AI领域最具影响力的公司CEO的暴力袭击事件，涉及公共安全与AI伦理争议，影响重大。",
+      "tags": [
+        "OpenAI",
+        "Sam Altman",
+        "安全事件",
+        "伦理争议"
+      ],
+      "url": "https://www.ft.com/content/04ac7917-940b-4606-be5f-9eb895a7d982",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-04-14 04:00:15",
+      "impact_score": 195.0
+    },
+    {
+      "index": 3,
+      "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman's home and OpenAI’s HQ",
+      "summary": "4月14日消息，嫌疑人丹尼尔·莫雷诺-加马因从德州前往加州意图杀害OpenAI CEO萨姆·阿尔特曼，并在实施袭击后被逮捕，现面临联邦指控，其动机据称与对AI导致人类灭绝的担忧有关。",
+      "importance": "高",
+      "reason": "安全与伦理：详细描述了针对OpenAI高管的蓄意袭击事件及其背后的极端AI安全担忧，是重大的安全与伦理事件。",
+      "tags": [
+        "OpenAI",
+        "Sam Altman",
+        "联邦指控",
+        "AI安全"
+      ],
+      "url": "https://arxiv.org/abs/2604.09609",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-04-14 04:00:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 4,
+      "title": "Meta builds AI version of Mark Zuckerberg to interact with staff",
+      "summary": "4月14日消息，Meta公司首席执行官马克·扎克伯格正在训练和测试自己的AI数字分身，以用于与员工互动，这是该公司更广泛的“个人超级智能”开发计划的一部分，标志着AI在企业管理中的前沿应用。",
+      "importance": "高",
+      "reason": "重大产品/技术动态：全球科技巨头Meta在AI代理和数字人领域的前沿探索，具有重要的技术和商业示范效应。",
+      "tags": [
+        "Meta",
+        "AI数字分身",
+        "超级智能",
+        "企业管理"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-04-13/roblox-adds-youth-accounts-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-13 20:29:42",
+      "impact_score": 195.0
+    },
+    {
+      "index": 5,
+      "title": "Public Investors Missed the AI Growth, Baillie Gifford’s Singlehurst Says",
+      "summary": "4月14日消息，贝利·吉福德私募团队负责人彼得·辛格赫斯特表示，公开市场投资者已错过AI领域的许多增长机会，而SpaceX、Anthropic和OpenAI等高估值公司预计将在未来几个月上市，揭示了私募与公开市场的AI投资落差。",
+      "importance": "中",
+      "reason": "重大商业动态：涉及AI领域顶级未上市公司的上市预期及市场投资机会分析，对资本市场有重要参考价值。",
+      "tags": [
+        "IPO",
+        "Anthropic",
+        "OpenAI",
+        "投资"
+      ],
+      "url": "https://arxiv.org/abs/2604.09596",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-04-14 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 6,
+      "title": "Google Faces Mass Arbitration by Advertisers Seeking Billions",
+      "summary": "4月14日消息， Alphabet旗下谷歌公司因在线搜索和广告技术业务被法院裁定为非法垄断，正面临广告商发起的大规模仲裁，潜在索赔金额高达数十亿美元，这是对其核心商业模式的一次重大法律挑战。",
+      "importance": "高",
+      "reason": "重大政策与法规：涉及全球科技巨头谷歌的反垄断法律纠纷，金额巨大，可能对其广告业务产生深远影响。",
+      "tags": [
+        "Google",
+        "反垄断",
+        "仲裁",
+        "广告业务"
+      ],
+      "url": "https://arxiv.org/abs/2604.09686",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-04-14 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 7,
+      "title": "Suspect in attack at Sam Altman's house aimed to kill OpenAI CEO, warned of humanity's extinction from AI",
+      "summary": "4月14日消息，袭击萨姆·阿尔特曼住所的嫌疑人意图杀害这位OpenAI首席执行官，警方从其文件中发现其动机源于对AI导致人类灭绝的警告，此事件将AI安全与伦理争议推向了现实暴力的极端层面。",
+      "importance": "高",
+      "reason": "安全与伦理：进一步补充了针对OpenAI CEO袭击事件的细节，明确将动机与AI灭绝风险关联，是极具代表性的AI伦理与安全危机事件。",
+      "tags": [
+        "OpenAI",
+        "Sam Altman",
+        "AI安全",
+        "伦理争议"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-04-13/texas-man-charged-with-throwing-molotov-cocktail-at-altman-home",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-13 22:43:21",
+      "impact_score": 180.0
+    },
+    {
+      "index": 8,
+      "title": "OpenAI has bought AI personal finance startup Hiro",
+      "summary": "4月14日消息，OpenAI收购了AI个人理财初创公司Hiro，此举表明OpenAI正将个人财务规划能力构建到其ChatGPT产品中，标志着其在AI应用垂直领域和商业化拓展上的新动向。",
+      "importance": "中",
+      "reason": "重大商业动态：全球AI领军企业OpenAI的收购行为，揭示了其产品功能扩展和商业化战略的新方向。",
+      "tags": [
+        "OpenAI",
+        "收购",
+        "ChatGPT",
+        "金融科技"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-04-14 00:02:38",
+      "impact_score": 158.0
+    },
+    {
+      "index": 9,
+      "title": "Nvidia Denies Acquisition Rumor That Sparked Dell, HP Rise",
+      "summary": "4月14日消息，英伟达公司否认了其正在寻求收购一家将“重塑PC格局”的大型公司的市场传闻，该传闻此前曾推动戴尔和惠普等PC制造商股价上涨，英伟达的澄清平息了市场对行业重大并购的猜测。",
+      "importance": "中",
+      "reason": "重大商业动态：涉及全球AI芯片霸主英伟达的重大并购传闻及澄清，对半导体和PC产业链有直接影响。",
+      "tags": [
+        "Nvidia",
+        "收购传闻",
+        "PC产业",
+        "市场波动"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-04-13/aon-ceo-pursuing-tremendous-ai-opportunity-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-13 21:22:12",
+      "impact_score": 157.5
+    },
+    {
+      "index": 10,
+      "title": "OpenAI announces first permanent London office after halting UK Stargate project",
+      "summary": "4月14日消息，OpenAI在暂停英国“星门”超级计算机项目后，宣布在伦敦设立其在美国以外的首个永久性办公室，并计划将其打造为海外最大研究枢纽，这标志着其全球研发布局的战略调整。",
+      "importance": "中",
+      "reason": "重大商业动态：OpenAI全球扩张和研发布局的重要举措，尽管调整了原“星门”计划，但仍显示其对英国及欧洲市场的持续投入。",
+      "tags": [
+        "OpenAI",
+        "全球扩张",
+        "研发中心",
+        "伦敦"
+      ],
+      "url": "https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-04-13 04:00:04",
+      "impact_score": 157.5
+    },
+    {
+      "index": 11,
+      "title": "Roblox Adds Youth Accounts As Push for Social Media Bans Grows",
+      "summary": "4月14日消息，在线游戏平台Roblox为应对日益增长的法律诉讼和社交媒体禁令压力，推出了针对低龄儿童和青少年的专用账户，旨在将其游戏平台与社交媒体的属性进行分离，以加强未成年人保护。",
+      "importance": "中",
+      "reason": "重大政策与法规（关联）：平台为应对全球范围内（尤其是美国）针对社交媒体和未成年人保护的监管压力而采取的重大产品策略调整。",
+      "tags": [
+        "Roblox",
+        "未成年人保护",
+        "社交媒体监管",
+        "产品策略"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-04-14/taiwanese-stocks-refresh-record-high-on-ai-trade-comeback",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-14 01:05:52",
+      "impact_score": 142.5
+    },
+    {
+      "index": 12,
+      "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+      "summary": "4月14日消息，开发工具平台Vercel的CEO吉列尔莫·劳赫表示公司已为IPO做好准备，其营收因AI生成应用和智能体（Agents）的爆发而大幅增长，显示了AI浪潮对传统开发者工具公司的重塑与赋能。",
+      "importance": "中",
+      "reason": "重大商业动态：一家成熟的科技公司在AI时代成功转型并准备IPO的案例，反映了AI对产业链的广泛影响。",
+      "tags": [
+        "Vercel",
+        "IPO",
+        "AI应用",
+        "开发者工具"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-04-13/public-investors-missed-the-ai-growth-baillie-gifford-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-13 20:17:53",
+      "impact_score": 142.5
+    },
+    {
+      "index": 13,
+      "title": "Intel’s $100 Billion April Rally Makes It Market’s Hottest Stock",
+      "summary": "4月14日消息，英特尔公司在四月经历连续九天的股价飙升，市值增加超过1000亿美元，使其迅速成为标普500指数中最热门的股票之一，这反映了市场对其在AI时代芯片制造领域复苏前景的强烈预期。",
+      "importance": "中",
+      "reason": "重大商业动态：传统芯片巨头英特尔在AI浪潮中市值剧烈波动，反映了资本市场对AI算力格局变化的敏感反应。",
+      "tags": [
+        "Intel",
+        "市值",
+        "AI芯片",
+        "资本市场"
+      ],
+      "url": "https://arxiv.org/abs/2604.09580",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-04-14 04:00:00",
+      "impact_score": 130.0
+    }
+  ],
+  "summary": "今日从139条原始信息中精选出16条国内动态和13条国际动态，其中12条为高重要性。 重点关注：我国最大规模科学智能计算集群投入使用；火山引擎：Seedance 2.0 API 服务全面开放；击败PI ，清华系具身公司包揽「具身奥林匹克」三项全球第一，刷新世界纪录！。",
+  "statistics": {
+    "raw_domestic": 41,
+    "raw_international": 98,
+    "raw_total": 139,
+    "final_domestic": 16,
+    "final_international": 13
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "4月14日消息，我国在郑州国家超算互联网核心节点正式投用了最大规模的科学智能计算集群，这标志着我国在人工智能驱动科学研究的算力基础设施领域实现了关键性突破，将有力支撑抢占人工智能产业应用的制高点。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "4月14日消息，字节跳动旗下火山引擎正式全面开放其全球SOTA视频生成模型Seedance 2.0的API服务，企业和个人用户可调用该服务以重塑工作流，该模型支持多模态输入，在物理准确度和可控性上显著增强，更贴合工业级创作需求。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "4月14日消息，中国具身智能公司星动纪元在全球顶尖的具身灵巧操作赛事Benjie's Olympics中，凭借自研模型一举包揽三项核心任务全球第一，创下新世界纪录，并以显著优势击败了国际顶尖对手Physical Intelligence。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "4月14日消息，深圳远见智存科技有限公司发布了其HBM3/3e高带宽存储芯片产品，提供12GB与24GB两种容量，带宽达到819GB/s，对标国际标准，旨在突破AI算力中的“内存墙”瓶颈。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "4月13日消息，荣耀正式发布自研终端侧AI智能体YOYO Claw，并宣布将其首发搭载于荣耀MagicBook系列轻薄本中，旨在将PC从个人电脑升级为具备深度AI能力的“伙伴创造者”。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "4月14日消息，OpenAI投资者对其高达8520亿美元的估值提出质疑，因公司战略转向，而竞争对手Anthropic正测试其早期领先优势，这反映了市场对顶级AI公司商业模式和长期价值的重新评估。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "4月14日消息，一名德克萨斯州男子因涉嫌向OpenAI首席执行官萨姆·阿尔特曼的住所投掷燃烧弹并试图闯入公司总部，被联邦和地方检察官以谋杀未遂等罪名起诉，事件凸显了AI行业领袖面临的安全风险。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "4月14日消息，嫌疑人丹尼尔·莫雷诺-加马因从德州前往加州意图杀害OpenAI CEO萨姆·阿尔特曼，并在实施袭击后被逮捕，现面临联邦指控，其动机据称与对AI导致人类灭绝的担忧有关。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "4月14日消息，Meta公司首席执行官马克·扎克伯格正在训练和测试自己的AI数字分身，以用于与员工互动，这是该公司更广泛的“个人超级智能”开发计划的一部分，标志着AI在企业管理中的前沿应用。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "4月14日消息， Alphabet旗下谷歌公司因在线搜索和广告技术业务被法院裁定为非法垄断，正面临广告商发起的大规模仲裁，潜在索赔金额高达数十亿美元，这是对其核心商业模式的一次重大法律挑战。",
+      "importance": "高"
+    }
+  ]
+}
