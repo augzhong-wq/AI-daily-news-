@@ -1,0 +1,475 @@
+{
+  "date": "2026-04-23",
+  "generated_at": "2026-04-23 09:49:05",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "曝两家科技大厂争投DeepSeek，估值飙至200亿美元；小米深夜放大招！最强大模型MiMo-V2.5系列发布；微软 Xbox 部门将裁员15%",
+      "summary": "4月23日消息，DeepSeek获两家科技大厂争相投资，估值飙升至200亿美元，同时小米发布最强大模型MiMo-V2.5系列，展现国内AI领域强劲发展势头。",
+      "importance": "高",
+      "reason": "DeepSeek融资和小米模型发布均为国内重大商业和产品动态，估值和模型性能具有行业影响力。",
+      "tags": [
+        "融资",
+        "估值",
+        "大模型",
+        "小米",
+        "DeepSeek"
+      ],
+      "url": "https://36kr.com/p/3774776026874375?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-22 11:26:21",
+      "impact_score": 431.0
+    },
+    {
+      "index": 2,
+      "title": "阿里云：企业级Agent构建平台JVS Crew上线",
+      "summary": "4月23日消息，阿里云正式推出企业级智能体构建平台JVS Crew，以“被集成”为设计理念，企业可快速嵌入现有应用，零门槛获得生产级AI Agent构建能力。",
+      "importance": "高",
+      "reason": "阿里云作为国内头部云厂商，推出企业级Agent平台，对国内AI应用生态有重要影响。",
+      "tags": [
+        "阿里云",
+        "AI Agent",
+        "平台上线",
+        "企业服务"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/LhySxpmfbe0aqU7Q.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-23 01:02:00",
+      "impact_score": 345.0
+    },
+    {
+      "index": 3,
+      "title": "腾讯混元Hy3 preview发布并开源",
+      "summary": "4月23日消息，腾讯混元发布并开源Hy3 preview语言模型，总参数295B，激活参数21B，支持256K上下文，是混元迄今最智能的模型。",
+      "importance": "高",
+      "reason": "腾讯发布并开源旗舰大模型，参数规模和技术指标领先，对国内开源社区和AI发展有重大意义。",
+      "tags": [
+        "腾讯",
+        "混元",
+        "开源",
+        "大模型",
+        "发布"
+      ],
+      "url": "https://36kr.com/newsflashes/3779185301361920?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-23 09:06:05",
+      "impact_score": 260.0
+    },
+    {
+      "index": 4,
+      "title": "智能密度再创新高！阿里开源智能体编程模型Qwen3.6-27B",
+      "summary": "4月23日消息，阿里开源千问3.6系列最新模型Qwen3.6-27B，以270亿参数性能媲美千亿参数模型，创下智能密度新高，家用显卡即可运行。",
+      "importance": "高",
+      "reason": "阿里开源高性能稠密模型，在编程能力上达到SOTA，对AI编程应用落地有重要推动作用。",
+      "tags": [
+        "阿里",
+        "千问",
+        "开源",
+        "编程模型",
+        "智能密度"
+      ],
+      "url": "https://36kr.com/p/3778732502095106?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-23 01:26:23",
+      "impact_score": 256.0
+    },
+    {
+      "index": 5,
+      "title": "科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆",
+      "summary": "4月23日消息，科大讯飞发布燎原N30m笔记本，定位全栈国产AIPC新标杆，推动国产AI硬件在个人计算领域的应用。",
+      "importance": "中",
+      "reason": "科大讯飞作为国内AI龙头，推出国产AIPC产品，体现国产替代和AI硬件创新趋势。",
+      "tags": [
+        "科大讯飞",
+        "AIPC",
+        "国产",
+        "笔记本",
+        "发布"
+      ],
+      "url": "https://36kr.com/p/3778121523025154?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-23 00:30:30",
+      "impact_score": 255.0
+    },
+    {
+      "index": 6,
+      "title": "ThinkPad发布AI主机，可一键部署“龙虾”、较云主机三年总成本可节省48%",
+      "summary": "4月23日消息，ThinkPad发布联想AI主机，可一键部署AI应用，较云主机三年总成本节省48%，推动AI本地化部署。",
+      "importance": "中",
+      "reason": "联想作为国内PC巨头，推出AI边缘设备，降低AI部署成本，对中小企业AI应用有实际价值。",
+      "tags": [
+        "联想",
+        "AI主机",
+        "边缘计算",
+        "成本节省",
+        "部署"
+      ],
+      "url": "https://36kr.com/newsflashes/3779141566846212?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-23 08:21:36",
+      "impact_score": 249.0
+    },
+    {
+      "index": 7,
+      "title": "阶跃和千里科技官宣战略合作：打造原生智驾基座模型，提升物理AI能力上限",
+      "summary": "4月23日消息，阶跃和千里科技达成战略合作，共同打造原生智驾基座模型，为智能汽车和具身智能提供强大AI大脑。",
+      "importance": "中",
+      "reason": "国内AI公司与自动驾驶公司合作，推动端到端智驾技术发展，具有行业协同意义。",
+      "tags": [
+        "阶跃",
+        "千里科技",
+        "智驾",
+        "合作",
+        "基座模型"
+      ],
+      "url": "https://36kr.com/newsflashes/3779165640692992?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-23 08:46:05",
+      "impact_score": 234.0
+    },
+    {
+      "index": 8,
+      "title": "金山办公发布全新WPS多维表格",
+      "summary": "4月23日消息，金山办公发布全新WPS多维表格，WPS AI月活用户超8000万，自研表格AI引擎Qingqiu Agent在全球测试榜单排名第二。",
+      "importance": "中",
+      "reason": "金山办公作为国内办公软件龙头，发布AI增强产品，月活数据亮眼，体现AI办公落地进展。",
+      "tags": [
+        "金山办公",
+        "WPS",
+        "多维表格",
+        "AI引擎",
+        "月活"
+      ],
+      "url": "https://36kr.com/p/3778135439709446?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-23 00:30:30",
+      "impact_score": 225.0
+    },
+    {
+      "index": 9,
+      "title": "最前线｜华为猛士深化战略合作，新技术将逐步落地4款以上全新车型",
+      "summary": "4月23日消息，华为与猛士汽车深化战略合作，联合发布智能越野黑科技，未来两年将新技术落地到4款以上全新车型。",
+      "importance": "中",
+      "reason": "华为与国内车企深化合作，推动智能驾驶技术在越野车领域的应用，体现华为汽车生态扩展。",
+      "tags": [
+        "华为",
+        "猛士",
+        "智能越野",
+        "合作",
+        "车型"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/1qi7Bh5usKdjhiRL.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-23 06:12:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 10,
+      "title": "特斯拉开源硬件，中国公司回应来了：直接把机器人大脑开源了",
+      "summary": "4月23日消息，针对特斯拉开源硬件，中国公司智平方回应并开源其机器人大脑，展现国内企业在机器人AI领域的开放态度。",
+      "importance": "低",
+      "reason": "国内公司对国际开源动作的回应，体现技术互动，但影响力相对有限。",
+      "tags": [
+        "智平方",
+        "开源",
+        "机器人",
+        "AI",
+        "回应"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/ylBVSWWLnhDMyW9M.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-23 06:36:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 11,
+      "title": "PixVerse 成为联合国 2026 AI for Good 全球峰会AI合作伙伴",
+      "summary": "4月23日消息，国内AI视频工具PixVerse成为联合国2026 AI for Good全球峰会AI合作伙伴，面向全球创作者征集AI视频作品。",
+      "importance": "低",
+      "reason": "国内AI公司获得国际组织认可，提升品牌影响力，但商业影响尚不显著。",
+      "tags": [
+        "PixVerse",
+        "联合国",
+        "AI for Good",
+        "合作",
+        "视频"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/mKkO7YC6HuCcOkFM.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-23 02:52:00",
+      "impact_score": 185.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
+      "summary": "4月23日消息，SpaceX向Cursor提出600亿美元收购要约并支付100亿美元合作费，导致Cursor暂停20亿美元融资谈判。",
+      "importance": "高",
+      "reason": "重大商业动态，涉及巨额收购和融资，主体SpaceX为美国公司",
+      "tags": [
+        "商业动态",
+        "收购",
+        "融资"
+      ],
+      "url": "https://arxiv.org/abs/2604.19172",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-04-23 04:00:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 2,
+      "title": "Nvidia backs AI company Vast Data at $30 billion valuation",
+      "summary": "4月23日消息，英伟达投资AI公司Vast Data，使其估值达到300亿美元，芯片巨头正加大对AI领域公司的投资力度。",
+      "importance": "高",
+      "reason": "重大商业动态，英伟达为美国公司，大额投资影响AI基础设施市场",
+      "tags": [
+        "商业动态",
+        "投资",
+        "英伟达"
+      ],
+      "url": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-04-22 19:51:51",
+      "impact_score": 210.0
+    },
+    {
+      "index": 3,
+      "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multibillion-dollar deal",
+      "summary": "4月23日消息，Mira Murati创立的Thinking Machines Lab与谷歌云签署数十亿美元协议，使用英伟达最新GB300芯片的AI基础设施。",
+      "importance": "高",
+      "reason": "重大商业动态，谷歌为美国公司，涉及数十亿美元合作",
+      "tags": [
+        "商业动态",
+        "合作",
+        "谷歌云"
+      ],
+      "url": "https://arxiv.org/abs/2604.19022",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-04-23 04:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 4,
+      "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+      "summary": "4月23日消息，谷歌云发布两款新型TPU芯片，性能更快、成本更低，旨在与英伟达竞争，但短期内仍将继续使用英伟达产品。",
+      "importance": "高",
+      "reason": "重大产品发布，谷歌为美国公司，芯片竞争影响全球AI硬件格局",
+      "tags": [
+        "产品发布",
+        "芯片",
+        "谷歌"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/deutsche-telekom-s-ceo-lays-groundwork-for-career-defining-deal",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-23 08:03:19",
+      "impact_score": 165.0
+    },
+    {
+      "index": 5,
+      "title": "SoftBank Seeks $10 Billion Loan Backed by OpenAI Shares",
+      "summary": "4月23日消息，软银集团正寻求以所持OpenAI股份为抵押获得100亿美元贷款，以加大AI领域投资力度。",
+      "importance": "高",
+      "reason": "重大商业动态，软银为日本公司，涉及OpenAI股份和巨额贷款",
+      "tags": [
+        "商业动态",
+        "融资",
+        "软银"
+      ],
+      "url": "https://www.cnbc.com/2026/04/22/nvidia-backs-ai-company-vast-data.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-04-22 16:27:22",
+      "impact_score": 165.0
+    },
+    {
+      "index": 6,
+      "title": "Deutsche Telekom’s CEO Lays Groundwork for Career-Defining Deal",
+      "summary": "4月23日消息，德国电信CEO Timotheus Höttges正筹备其职业生涯中最大规模的并购交易，可能成为史上最大M&A案。",
+      "importance": "中",
+      "reason": "重大商业动态，德国电信为德国公司，涉及潜在大型并购",
+      "tags": [
+        "商业动态",
+        "并购",
+        "德国电信"
+      ],
+      "url": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
+      "source": "MIT Technology Review",
+      "original_pub_date": "2026-04-22 12:10:00",
+      "impact_score": 150.0
+    },
+    {
+      "index": 7,
+      "title": "EssilorLuxottica AI Glasses-Led Sales Gains Disappoint",
+      "summary": "4月23日消息，EssilorLuxottica公布第一季度销售增长不及预期，与Meta合作的AI眼镜业务受美元走弱影响。",
+      "importance": "中",
+      "reason": "商业动态，涉及Meta AI眼镜合作，主体为意大利/法国公司",
+      "tags": [
+        "商业动态",
+        "AI眼镜",
+        "Meta"
+      ],
+      "url": "https://arxiv.org/abs/2604.18946",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-04-23 04:00:00",
+      "impact_score": 145.0
+    },
+    {
+      "index": 8,
+      "title": "Google unveils chips for AI training and inference in latest shot at Nvidia",
+      "summary": "4月23日消息，谷歌发布用于AI训练和推理的新芯片，集成大量静态随机存取内存，直接对标英伟达产品。",
+      "importance": "中",
+      "reason": "产品发布，谷歌为美国公司，与新闻12内容相关但侧重不同",
+      "tags": [
+        "产品发布",
+        "芯片",
+        "谷歌"
+      ],
+      "url": "https://www.ft.com/content/48afd7b9-43b7-4776-8b65-7f5bb2f97c3a",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-04-23 04:00:19",
+      "impact_score": 142.5
+    },
+    {
+      "index": 9,
+      "title": "IBM shares drop as company beats but opts to maintain guidance",
+      "summary": "4月23日消息，IBM股价下跌，尽管Z系列大型机硬件收入增长51%，但公司选择维持业绩指引令投资者失望。",
+      "importance": "中",
+      "reason": "商业动态，IBM为美国公司，涉及AI对大型机业务影响",
+      "tags": [
+        "商业动态",
+        "IBM",
+        "业绩"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-04-22/essilorluxottica-posts-11-sales-jump-extends-ai-glasses-boost",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-22 16:00:00",
+      "impact_score": 142.5
+    },
+    {
+      "index": 10,
+      "title": "Quant pioneer Martin Lueck warns against handing over trading to AI",
+      "summary": "4月23日消息，量化先驱Martin Lueck警告不要将交易完全交给AI，此前亿万富翁Cliff Asness决定向机器投降。",
+      "importance": "中",
+      "reason": "安全与伦理讨论，涉及AI在金融领域的风险，主体为海外人物",
+      "tags": [
+        "安全与伦理",
+        "AI交易",
+        "风险"
+      ],
+      "url": "https://www.science.org/content/article/vaginal-bacteria-turn-newborn-skin-beneficial-bioreactor",
+      "source": "Science Magazine",
+      "original_pub_date": "2026-04-22 04:50:58",
+      "impact_score": 142.5
+    },
+    {
+      "index": 11,
+      "title": "Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn't Exist",
+      "summary": "4月23日消息，Sam Altman的Orb公司宣传与Bruno Mars的合作关系，但后者发言人否认曾有任何合作讨论。",
+      "importance": "中",
+      "reason": "安全与伦理争议，涉及Sam Altman（OpenAI CEO）关联公司，主体为美国",
+      "tags": [
+        "安全与伦理",
+        "争议",
+        "Sam Altman"
+      ],
+      "url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-04-22 12:00:00",
+      "impact_score": 132.5
+    },
+    {
+      "index": 12,
+      "title": "Intel’s $240 Billion Rally Slams Into a Potential Earnings Wall",
+      "summary": "4月23日消息，英特尔股价过去12个月飙升235%，但即将发布的第一季度财报可能成为涨势的障碍。",
+      "importance": "低",
+      "reason": "商业动态，英特尔为美国公司，但AI关联度较低",
+      "tags": [
+        "商业动态",
+        "英特尔",
+        "股价"
+      ],
+      "url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-04-22 18:39:27",
+      "impact_score": 132.0
+    },
+    {
+      "index": 13,
+      "title": "The Quiet AI Trade That’s Raking in Billions",
+      "summary": "4月23日消息，半导体领域一个长期被忽视的复杂部分现在可供散户投资者使用，正带来数十亿美元收益。",
+      "importance": "低",
+      "reason": "商业动态，涉及AI相关半导体投资，但主体不明确",
+      "tags": [
+        "商业动态",
+        "半导体",
+        "投资"
+      ],
+      "url": "https://arxiv.org/abs/2604.19060",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-04-23 04:00:00",
+      "impact_score": 130.0
+    }
+  ],
+  "summary": "今日从169条原始信息中精选出11条国内动态和13条国际动态，其中9条为高重要性。 重点关注：曝两家科技大厂争投DeepSeek，估值飙至200亿美元；小米深夜放大招！最强大模型MiMo-V2.5系列发布；微软 Xbox 部门将裁员15%；阿里云：企业级Agent构建平台JVS Crew上线；腾讯混元Hy3 preview发布并开源。",
+  "statistics": {
+    "raw_domestic": 39,
+    "raw_international": 130,
+    "raw_total": 169,
+    "final_domestic": 11,
+    "final_international": 13
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "4月23日消息，DeepSeek获两家科技大厂争相投资，估值飙升至200亿美元，同时小米发布最强大模型MiMo-V2.5系列，展现国内AI领域强劲发展势头。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "4月23日消息，阿里云正式推出企业级智能体构建平台JVS Crew，以“被集成”为设计理念，企业可快速嵌入现有应用，零门槛获得生产级AI Agent构建能力。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "4月23日消息，腾讯混元发布并开源Hy3 preview语言模型，总参数295B，激活参数21B，支持256K上下文，是混元迄今最智能的模型。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "4月23日消息，阿里开源千问3.6系列最新模型Qwen3.6-27B，以270亿参数性能媲美千亿参数模型，创下智能密度新高，家用显卡即可运行。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "4月23日消息，科大讯飞发布燎原N30m笔记本，定位全栈国产AIPC新标杆，推动国产AI硬件在个人计算领域的应用。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "4月23日消息，SpaceX向Cursor提出600亿美元收购要约并支付100亿美元合作费，导致Cursor暂停20亿美元融资谈判。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "4月23日消息，英伟达投资AI公司Vast Data，使其估值达到300亿美元，芯片巨头正加大对AI领域公司的投资力度。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "4月23日消息，Mira Murati创立的Thinking Machines Lab与谷歌云签署数十亿美元协议，使用英伟达最新GB300芯片的AI基础设施。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "4月23日消息，谷歌云发布两款新型TPU芯片，性能更快、成本更低，旨在与英伟达竞争，但短期内仍将继续使用英伟达产品。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "4月23日消息，软银集团正寻求以所持OpenAI股份为抵押获得100亿美元贷款，以加大AI领域投资力度。",
+      "importance": "高"
+    }
+  ]
+}
