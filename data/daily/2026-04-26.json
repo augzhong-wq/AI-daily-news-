@@ -1,0 +1,616 @@
+{
+  "date": "2026-04-26",
+  "generated_at": "2026-04-26 09:08:12",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
+      "summary": "4月26日消息，工业智能体公司智用开物完成近亿元天使+轮融资，由瑞枫资本领投，将用于建设全球首个面向产业的“工业语义引擎”及制造业高价值岗位智能体研发。",
+      "importance": "高",
+      "reason": "中国公司获得大额融资，聚焦工业AI落地，属于重大商业动态。",
+      "tags": [
+        "AI",
+        "融资",
+        "工业智能",
+        "天使轮"
+      ],
+      "url": "https://36kr.com/p/3781548853533959?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-25 01:10:38",
+      "impact_score": 342.5
+    },
+    {
+      "index": 2,
+      "title": "全球首个医疗视频理解大模型开源！6k+组精标测试集与英雄榜同步上线，开发者速来！",
+      "summary": "4月26日消息，全球首个医疗视频理解大模型正式开源，同步上线6000余组精标测试集与英雄榜，为开发者提供医疗AI研发新工具。",
+      "importance": "高",
+      "reason": "中国研究机构开源全球首个医疗视频理解大模型，属于重大学术突破。",
+      "tags": [
+        "开源",
+        "大模型",
+        "医疗AI",
+        "学术突破"
+      ],
+      "url": "https://36kr.com/p/3782434723355655?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-25 16:11:41",
+      "impact_score": 304.0
+    },
+    {
+      "index": 3,
+      "title": "真无图小竹T5 Pro实力出圈，佑驾创新强势开启无人物流新纪元",
+      "summary": "4月26日消息，佑驾创新在北京车展发布国内首款“真无图”L4级无人物流车小竹T5 Pro，标志着中国无人物流技术进入新阶段。",
+      "importance": "高",
+      "reason": "中国公司发布国内首款L4级无图无人物流车，属于重大产品发布。",
+      "tags": [
+        "无人驾驶",
+        "物流",
+        "L4",
+        "北京车展"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/4rQtoyVlOs1IRN18.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-25 15:56:00",
+      "impact_score": 300.0
+    },
+    {
+      "index": 4,
+      "title": "赋能汽车智能进化，商汤绝影舱驾一体全场景智能体产品亮相北京车展",
+      "summary": "4月26日消息，商汤绝影在北京车展发布面向舱驾一体全场景智能体的智能座舱与智能驾驶全系产品，首发Sage Box千机智盒，实现“一脑多形”赋能全场景终端。",
+      "importance": "高",
+      "reason": "中国AI公司商汤发布重要智能汽车产品，属于重大产品发布。",
+      "tags": [
+        "AI",
+        "智能座舱",
+        "智能驾驶",
+        "商汤",
+        "北京车展"
+      ],
+      "url": "https://www.qbitai.com/2026/04/407486.html",
+      "source": "量子位",
+      "original_pub_date": "2026-04-26 05:24:56",
+      "impact_score": 285.0
+    },
+    {
+      "index": 5,
+      "title": "润芯微“国产软硬一体AI智能基座”发布，破解行业稀缺难题带动多端智能变革",
+      "summary": "4月26日消息，润芯微在北京车展发布“国产软硬一体AI智能基座”，推出“1+4+N”战略体系，打造自主可控的芯片+操作系统+AI全栈解决方案。",
+      "importance": "高",
+      "reason": "中国公司发布国产软硬一体AI基座，属于重大产品发布，具有战略意义。",
+      "tags": [
+        "AI",
+        "芯片",
+        "操作系统",
+        "国产化",
+        "北京车展"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/FW7eSnc2GlPCEsUV.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-25 07:01:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 6,
+      "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
+      "summary": "4月26日消息，海康机器人2025年营收突破64.52亿元，机器视觉产品出货超1000万台，移动机器人累计下线超18万台，将继续推进AI融合与具身智能布局。",
+      "importance": "中",
+      "reason": "中国公司海康机器人发布亮眼业绩，并宣布AI战略方向，属于重要商业动态。",
+      "tags": [
+        "AI",
+        "机器人",
+        "营收",
+        "具身智能"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/0qmufYl7dHm7YFY1.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-25 04:12:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 7,
+      "title": "北京车展首日！轻舟智航物理AI模型亮相，用超500TOPS智驾对标上千TOPS体验",
+      "summary": "4月26日消息，轻舟智航在北京车展发布物理AI模型，战略重心从“无人驾驶”升级至“通用物理AI”，推出超500TOPS算力的“轻舟乘风MAX”城市NOA方案。",
+      "importance": "高",
+      "reason": "中国自动驾驶公司发布物理AI模型，属于重大产品发布和技术升级。",
+      "tags": [
+        "AI",
+        "自动驾驶",
+        "物理AI",
+        "北京车展"
+      ],
+      "url": "https://36kr.com/p/3782901034785801?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-26 00:08:39",
+      "impact_score": 279.0
+    },
+    {
+      "index": 8,
+      "title": "曹操出行深度定制原生Robotaxi亮相北京车展，2030年剑指10万辆规模",
+      "summary": "4月26日消息，曹操出行在北京车展亮相中国首款原生开发Robotaxi原型车Eva Cab，并宣布2030年目标运营10万辆规模。",
+      "importance": "高",
+      "reason": "中国公司发布首款原生Robotaxi，属于重大产品发布，具有行业里程碑意义。",
+      "tags": [
+        "Robotaxi",
+        "自动驾驶",
+        "曹操出行",
+        "北京车展"
+      ],
+      "url": "https://36kr.com/p/3781532841581576?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-25 01:01:05",
+      "impact_score": 255.0
+    },
+    {
+      "index": 9,
+      "title": "华为发布ADS 5！强化世界模型路线，今年投入180亿",
+      "summary": "4月26日消息，华为发布ADS 5智能驾驶系统，强化世界模型技术路线，并宣布今年将投入180亿元用于研发。",
+      "importance": "高",
+      "reason": "中国科技巨头华为发布重要智能驾驶系统，属于重大产品发布。",
+      "tags": [
+        "华为",
+        "智能驾驶",
+        "ADS",
+        "世界模型"
+      ],
+      "url": "https://36kr.com/p/3782137908403457?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-25 11:15:26",
+      "impact_score": 251.0
+    },
+    {
+      "index": 10,
+      "title": "直击北京车展 | 元戎 CEO 周光：目标成为物理世界的 AI 基础设施",
+      "summary": "4月26日消息，元戎启行在北京车展发布物理AI领域最新进展，CEO周光表示公司目标成为物理世界的AI基础设施，首席科学家首次公开分享基座模型技术架构。",
+      "importance": "中",
+      "reason": "中国自动驾驶公司发布物理AI战略和技术架构，属于重要产品发布。",
+      "tags": [
+        "AI",
+        "自动驾驶",
+        "物理AI",
+        "元戎启行",
+        "北京车展"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/sLWhJwSiWlDWDFw7.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-25 11:04:00",
+      "impact_score": 230.0
+    },
+    {
+      "index": 11,
+      "title": "芯擎科技发布新一代AI座舱芯片“龍鹰二号”，将于2027年Q1启动适配",
+      "summary": "4月26日消息，芯擎科技在北京车展发布新一代AI座舱芯片“龍鹰二号”，AI算力高达200 TOPS，原生支持7B+多模态大模型，将于2027年Q1启动适配。",
+      "importance": "高",
+      "reason": "中国芯片公司发布高性能AI座舱芯片，属于重大产品发布。",
+      "tags": [
+        "芯片",
+        "AI座舱",
+        "芯擎科技",
+        "北京车展"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/fJyupT0tBvqarqJW.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-25 03:46:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 12,
+      "title": "Momenta曹旭东：希望和中国所有AI公司书写东方硅谷传奇",
+      "summary": "4月26日消息，Momenta在北京车展宣布R7强化学习世界模型量产首发，已交付超70款量产车型，累计定点超200款，搭载系统车辆超80万台。",
+      "importance": "高",
+      "reason": "中国自动驾驶公司Momenta发布量产世界模型，属于重大产品发布和商业成就。",
+      "tags": [
+        "自动驾驶",
+        "世界模型",
+        "Momenta",
+        "量产",
+        "北京车展"
+      ],
+      "url": "https://36kr.com/newsflashes/3783353736649734?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-26 08:26:19",
+      "impact_score": 195.0
+    },
+    {
+      "index": 13,
+      "title": "摩尔线程：一季报营收7.38亿元，同比增长155.35%",
+      "summary": "4月26日消息，摩尔线程发布2026年一季报，营收7.38亿元，同比增长155.35%，归母净利润扭亏为盈，实现0.29亿元。",
+      "importance": "中",
+      "reason": "中国GPU公司摩尔线程营收大幅增长并扭亏，属于重要商业动态。",
+      "tags": [
+        "GPU",
+        "营收",
+        "扭亏",
+        "摩尔线程"
+      ],
+      "url": "https://www.leiphone.com/category/transportation/k6J3TdNuxWZ3z0Dn.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-25 03:29:00",
+      "impact_score": 180.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Can AI discriminate if it can’t justify itself?",
+      "summary": "4月26日消息，埃隆·马斯克对科罗拉多州提起诉讼，引发关于人工智能在无法自我解释时是否会产生歧视的深层哲学问题，涉及AI与民主的关系。",
+      "importance": "高",
+      "reason": "涉及AI伦理与法律诉讼，属于重大政策与法规及安全与伦理议题",
+      "tags": [
+        "AI伦理",
+        "法律诉讼",
+        "民主"
+      ],
+      "url": "https://www.ft.com/content/47f73399-df62-4683-93c2-ee210d983460",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-04-26 04:00:16",
+      "impact_score": 180.0
+    },
+    {
+      "index": 2,
+      "title": "Beijing Warns EU After China Firms Included in Russia Sanctions",
+      "summary": "4月26日消息，欧盟将中国实体纳入最新对俄制裁后，中国警告将采取必要措施，所有后果由欧盟承担，影响AI芯片等科技出口。",
+      "importance": "高",
+      "reason": "涉及欧盟制裁与出口管制，属于重大政策与法规",
+      "tags": [
+        "制裁",
+        "出口管制",
+        "欧盟"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-04-26/beijing-warns-eu-after-china-firms-included-in-russia-sanctions",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-26 02:26:24",
+      "impact_score": 165.0
+    },
+    {
+      "index": 3,
+      "title": "Understanding the Most Viral Chart in Artificial Intelligence | Odd Lots",
+      "summary": "4月26日消息，AI评估机构METR专注于衡量AI模型执行自主复杂任务的能力，认为这是重要基准，因AI未来可能实现递归自我改进。",
+      "importance": "高",
+      "reason": "涉及AI安全评估与学术突破，属于重大学术突破及安全与伦理",
+      "tags": [
+        "AI评估",
+        "自主任务",
+        "安全"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-04-25/understanding-the-most-viral-chart-in-ai-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-25 08:31:01",
+      "impact_score": 165.0
+    },
+    {
+      "index": 4,
+      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+      "summary": "4月26日消息，OpenAI CEO萨姆·奥尔特曼向加拿大Tumbler Ridge社区致歉，因公司未能及时向执法部门通报近期大规模枪击案嫌疑人信息。",
+      "importance": "高",
+      "reason": "涉及AI安全事件与伦理争议，属于安全与伦理",
+      "tags": [
+        "AI安全",
+        "伦理",
+        "OpenAI"
+      ],
+      "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-04-25 17:17:56",
+      "impact_score": 158.0
+    },
+    {
+      "index": 5,
+      "title": "Why Tokyo is the most important tech destination of 2026",
+      "summary": "4月26日消息，SusHi Tech Tokyo 2026聚焦四个技术领域，通过现场演示和专题展区展示全球最新AI技术，凸显东京作为科技目的地的重要性。",
+      "importance": "中",
+      "reason": "涉及国际AI会议与商业动态，属于重大商业动态",
+      "tags": [
+        "AI会议",
+        "东京",
+        "技术展示"
+      ],
+      "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-04-25 15:03:00",
+      "impact_score": 145.0
+    },
+    {
+      "index": 6,
+      "title": "From car and phone to tractor owners, a populist wave is rising to end the 'captive' repair economy",
+      "summary": "4月26日消息，美国各地政治候选人将“维修权”立法纳入可负担性议题，推动结束受控维修经济，影响AI设备生态。",
+      "importance": "中",
+      "reason": "涉及美国立法动态，属于重大政策与法规",
+      "tags": [
+        "维修权",
+        "立法",
+        "美国"
+      ],
+      "url": "https://www.cnbc.com/2026/04/25/right-to-repair-consumer-prices-affordability-economy-elections.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-04-25 14:17:59",
+      "impact_score": 130.0
+    },
+    {
+      "index": 7,
+      "title": "From Anthropic’s Mythos to the Birkin bag, scarcity sells",
+      "summary": "4月26日消息，Anthropic的Mythos模型因稀缺性被认为有利于公司估值，类似奢侈品营销策略，引发市场关注。",
+      "importance": "中",
+      "reason": "涉及AI公司商业策略与估值，属于重大商业动态",
+      "tags": [
+        "Anthropic",
+        "估值",
+        "稀缺性"
+      ],
+      "url": "https://www.ft.com/content/78a2a363-a3e2-44a4-b3df-7f2f68c6f302",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-04-25 04:00:30",
+      "impact_score": 112.5
+    },
+    {
+      "index": 8,
+      "title": "Oracle Data Center $16 Billion Financing Gets Over The Line",
+      "summary": "4月26日消息，甲骨文在密歇根州的数据中心获得160亿美元融资，经过数月谈判后完成，支持AI基础设施扩张。",
+      "importance": "高",
+      "reason": "涉及大额融资与AI基础设施，属于重大商业动态",
+      "tags": [
+        "甲骨文",
+        "数据中心",
+        "融资"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-04-25/oracle-data-center-16-billion-financing-gets-over-the-line",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-25 00:00:12",
+      "impact_score": 112.5
+    },
+    {
+      "index": 9,
+      "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
+      "summary": "4月26日消息，谷歌云CEO托马斯·库里安表示，其AI芯片和模型将帮助数据中心业务追赶亚马逊和微软，强化云市场竞争。",
+      "importance": "高",
+      "reason": "涉及重大产品发布与商业竞争，属于重大产品发布及商业动态",
+      "tags": [
+        "谷歌云",
+        "AI芯片",
+        "竞争"
+      ],
+      "url": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-04-26 04:00:16",
+      "impact_score": 97.5
+    },
+    {
+      "index": 10,
+      "title": "AI Chip Surge Elevates Taiwan, Korea in Global Equity Rankings",
+      "summary": "4月26日消息，人工智能芯片热潮推动台湾和韩国在全球股市排名中超越欧洲国家，重塑全球股权市场格局。",
+      "importance": "中",
+      "reason": "涉及AI芯片对全球市场的影响，属于重大商业动态",
+      "tags": [
+        "AI芯片",
+        "股市",
+        "台湾",
+        "韩国"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-04-25/ai-chip-surge-elevates-taiwan-korea-in-global-equity-rankings",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-25 00:00:00",
+      "impact_score": 90.0
+    },
+    {
+      "index": 11,
+      "title": "Companies with Mythos access urge joint defence of infrastructure",
+      "summary": "4月26日消息，获得Anthropic Mythos访问权限的公司呼吁联合防御基础设施，网络安全负责人警告新工具部署需政府与企业密切协调。",
+      "importance": "中",
+      "reason": "涉及AI安全与基础设施防御，属于安全与伦理",
+      "tags": [
+        "网络安全",
+        "基础设施",
+        "Anthropic"
+      ],
+      "url": "https://www.ft.com/content/31f80e68-dc0a-4251-a657-351e2e614fe2",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-04-26 04:00:07",
+      "impact_score": 82.5
+    },
+    {
+      "index": 12,
+      "title": "Apple under Ternus: what comes next for the tech giant’s hardware strategy",
+      "summary": "4月26日消息，苹果即将上任的CEO约翰·特努斯是硬件专家，预示苹果可能将设备重新置于战略核心，影响AI硬件布局。",
+      "importance": "中",
+      "reason": "涉及苹果高层变动与硬件战略，属于重大商业动态",
+      "tags": [
+        "苹果",
+        "CEO",
+        "硬件战略"
+      ],
+      "url": "https://www.ft.com/content/e96bc361-d222-4190-80fe-e357fa86ef4d",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-04-25 11:00:10",
+      "impact_score": 82.5
+    },
+    {
+      "index": 13,
+      "title": "Jeff Bezos’s AI lab in talks over taking London office space at King’s Cross",
+      "summary": "4月26日消息，杰夫·贝佐斯的AI实验室“普罗米修斯计划”正在洽谈租用伦敦国王十字区办公室，扩展全球业务。",
+      "importance": "中",
+      "reason": "涉及AI公司全球扩张，属于重大商业动态",
+      "tags": [
+        "贝佐斯",
+        "AI实验室",
+        "伦敦"
+      ],
+      "url": "https://www.cnbc.com/2026/04/24/aerospace-and-defense-as-growth-drivers-for-etfs-amid-iran-war.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-04-25 12:26:41",
+      "impact_score": 75.0
+    },
+    {
+      "index": 14,
+      "title": "China Says US Export Bills Risk Disrupting Chip Supply Chains",
+      "summary": "4月26日消息，中国密切关注美国众议院外交委员会推进的半导体出口管制法案，警告若通过将扰乱全球芯片供应链。",
+      "importance": "高",
+      "reason": "涉及美国出口管制政策，属于重大政策与法规",
+      "tags": [
+        "出口管制",
+        "半导体",
+        "供应链"
+      ],
+      "url": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-04-25 15:00:00",
+      "impact_score": 71.5
+    },
+    {
+      "index": 15,
+      "title": "Investors push for higher yield on $14bn of Oracle-backed data centre debt",
+      "summary": "4月26日消息，投资者要求甲骨文支持的140亿美元数据中心债券提供更高收益率，因担忧科技巨头债务负担及AI相关发行激增。",
+      "importance": "中",
+      "reason": "涉及大额债务融资与AI基础设施，属于重大商业动态",
+      "tags": [
+        "甲骨文",
+        "数据中心",
+        "债券"
+      ],
+      "url": "https://www.ft.com/content/c0e16cf8-b44b-435f-9b07-83d8f011693a",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-04-26 04:00:16",
+      "impact_score": 45.0
+    },
+    {
+      "index": 16,
+      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+      "summary": "4月26日消息，Anthropic创建了一个分类市场实验，让AI代理代表买卖双方进行真实商品和货币交易，探索代理间商业。",
+      "importance": "低",
+      "reason": "涉及AI代理商业实验，属于重大学术突破",
+      "tags": [
+        "AI代理",
+        "商业实验",
+        "Anthropic"
+      ],
+      "url": "https://www.ft.com/content/4aff59a7-2792-4200-8fd5-a741754eaa1d",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-04-26 04:00:08",
+      "impact_score": 45.0
+    },
+    {
+      "index": 17,
+      "title": "Maine’s governor vetoes data center moratorium",
+      "summary": "4月26日消息，缅因州州长否决了全美首个数据中心建设暂停法案L.D. 307，该法案原定暂停至2027年11月。",
+      "importance": "中",
+      "reason": "涉及美国州级数据政策，属于重大政策与法规",
+      "tags": [
+        "数据中心",
+        "立法",
+        "缅因州"
+      ],
+      "url": "https://www.ft.com/content/1c9c4694-2ed3-4aac-8f64-2cbc5fb0e7cc",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-04-25 10:00:09",
+      "impact_score": 45.0
+    },
+    {
+      "index": 18,
+      "title": "Why Cohere is merging with Aleph Alpha",
+      "summary": "4月26日消息，加拿大AI初创公司Cohere在政府支持下收购德国Aleph Alpha，旨在为欧洲企业提供美国主导AI领域的本土替代方案。",
+      "importance": "中",
+      "reason": "涉及AI公司并购与主权AI战略，属于重大商业动态",
+      "tags": [
+        "Cohere",
+        "并购",
+        "主权AI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-04-25/graticule-s-levinson-open-to-iran-resolution-ahead-of-rally",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-25 04:55:33",
+      "impact_score": 45.0
+    },
+    {
+      "index": 19,
+      "title": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
+      "summary": "4月26日消息，Discord侦探未经授权访问Anthropic的Mythos模型，同时间谍公司利用全球电信漏洞追踪目标，50万英国健康记录在阿里平台出售。",
+      "importance": "低",
+      "reason": "涉及AI安全事件与数据泄露，属于安全与伦理",
+      "tags": [
+        "安全漏洞",
+        "数据泄露",
+        "Anthropic"
+      ],
+      "url": "https://www.ft.com/content/f55c4eba-6e10-4283-8eae-e9f475048b37",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-04-25 04:00:40",
+      "impact_score": 45.0
+    },
+    {
+      "index": 20,
+      "title": "AI talent war: Software industry is a new target as top executives jump ship to OpenAI",
+      "summary": "4月26日消息，软件巨头因AI颠覆担忧股价表现不佳，如今面临高管跳槽至OpenAI的新问题，加剧AI人才争夺战。",
+      "importance": "低",
+      "reason": "涉及AI人才流动与商业动态，属于重大商业动态",
+      "tags": [
+        "人才争夺",
+        "OpenAI",
+        "软件行业"
+      ],
+      "url": "https://www.ft.com/content/5edad923-163e-462f-83bf-dce6f28683a8",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-04-25 04:00:10",
+      "impact_score": 45.0
+    }
+  ],
+  "summary": "今日从71条原始信息中精选出13条国内动态和20条国际动态，其中17条为高重要性。 重点关注：36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里；全球首个医疗视频理解大模型开源！6k+组精标测试集与英雄榜同步上线，开发者速来！；真无图小竹T5 Pro实力出圈，佑驾创新强势开启无人物流新纪元。",
+  "statistics": {
+    "raw_domestic": 42,
+    "raw_international": 29,
+    "raw_total": 71,
+    "final_domestic": 13,
+    "final_international": 20
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "4月26日消息，工业智能体公司智用开物完成近亿元天使+轮融资，由瑞枫资本领投，将用于建设全球首个面向产业的“工业语义引擎”及制造业高价值岗位智能体研发。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "4月26日消息，全球首个医疗视频理解大模型正式开源，同步上线6000余组精标测试集与英雄榜，为开发者提供医疗AI研发新工具。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "4月26日消息，佑驾创新在北京车展发布国内首款“真无图”L4级无人物流车小竹T5 Pro，标志着中国无人物流技术进入新阶段。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "4月26日消息，商汤绝影在北京车展发布面向舱驾一体全场景智能体的智能座舱与智能驾驶全系产品，首发Sage Box千机智盒，实现“一脑多形”赋能全场景终端。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "4月26日消息，润芯微在北京车展发布“国产软硬一体AI智能基座”，推出“1+4+N”战略体系，打造自主可控的芯片+操作系统+AI全栈解决方案。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "4月26日消息，埃隆·马斯克对科罗拉多州提起诉讼，引发关于人工智能在无法自我解释时是否会产生歧视的深层哲学问题，涉及AI与民主的关系。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "4月26日消息，欧盟将中国实体纳入最新对俄制裁后，中国警告将采取必要措施，所有后果由欧盟承担，影响AI芯片等科技出口。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "4月26日消息，AI评估机构METR专注于衡量AI模型执行自主复杂任务的能力，认为这是重要基准，因AI未来可能实现递归自我改进。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "4月26日消息，OpenAI CEO萨姆·奥尔特曼向加拿大Tumbler Ridge社区致歉，因公司未能及时向执法部门通报近期大规模枪击案嫌疑人信息。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "4月26日消息，甲骨文在密歇根州的数据中心获得160亿美元融资，经过数月谈判后完成，支持AI基础设施扩张。",
+      "importance": "高"
+    }
+  ]
+}
