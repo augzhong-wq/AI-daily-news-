@@ -1,0 +1,487 @@
+{
+  "date": "2026-04-27",
+  "generated_at": "2026-04-27 10:23:06",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "润芯微“国产软硬一体AI智能基座”发布，破解行业稀缺难题带动多端智能变革",
+      "summary": "4月27日消息，润芯微发布“国产软硬一体AI智能基座”，该基座是行业稀缺的“芯片+操作系统+AI”全栈解决方案，可应用于车载座舱、两轮车智能终端、机器人算力平台等多端场景，并正式发布“1+4+N”战略体系。",
+      "importance": "高",
+      "reason": "中国公司润芯微发布重要国产AI软硬一体产品，属于重大产品发布。",
+      "tags": [
+        "发布",
+        "国产AI",
+        "全栈解决方案"
+      ],
+      "url": "https://36kr.com/p/3783828639571203?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-27 01:15:00",
+      "impact_score": 307.5
+    },
+    {
+      "index": 2,
+      "title": "李力耘加入众擎，全栈智驾大脑与顶级人形本体的双向奔赴",
+      "summary": "4月27日消息，前小鹏汽车副总裁、自动驾驶一号位李力耘正式加入众擎机器人，其曾带领超1000人团队主导小鹏智驾全链路AI化转型，此次加入被视为全栈智驾大脑与顶级人形本体的结合。",
+      "importance": "高",
+      "reason": "中国公司众擎机器人引入关键人才，属于重大商业动态。",
+      "tags": [
+        "人才引进",
+        "自动驾驶",
+        "人形机器人"
+      ],
+      "url": "https://36kr.com/p/3782901034785801?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-26 00:08:39",
+      "impact_score": 279.0
+    },
+    {
+      "index": 3,
+      "title": "第八届智源大会即将在6月12日-13日正式开启",
+      "summary": "4月27日消息，第八届智源大会将于6月12日至13日举行，大会将聚焦人工智能从“能力竞赛”走向“系统落地”，探讨智能体、世界模型等新一代系统范式，推动AI嵌入人类社会与产业体系。",
+      "importance": "高",
+      "reason": "中国顶级AI学术会议，属于重大学术活动。",
+      "tags": [
+        "智源大会",
+        "学术会议",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/robot/EbmFRcvpt7TBjb3P.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-26 13:15:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 4,
+      "title": "独家｜拿下5亿元海外订单，无界动力完成天使++轮融资，天使轮累计融资超2亿美元",
+      "summary": "4月27日消息，通用具身智能机器人公司无界动力完成天使++轮融资，由远景科技集团、北京市人工智能产业投资基金联合投资，天使轮累计融资超2亿美元，并已拿下5亿元海外订单。",
+      "importance": "高",
+      "reason": "中国公司无界动力获得大额融资及海外订单，属于重大商业动态。",
+      "tags": [
+        "融资",
+        "具身智能",
+        "机器人"
+      ],
+      "url": "https://36kr.com/p/3784365164322055?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-27 01:00:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 5,
+      "title": "摩尔线程最新财报：营收持续高增，推进十万卡级集群建设",
+      "summary": "4月27日消息，国产GPU龙头摩尔线程披露2025年报及2026年一季报，2025年营收15.05亿元，同比增长243.37%，2026年一季度营收7.38亿元，同比增长155.35%，并推进十万卡级集群建设。",
+      "importance": "高",
+      "reason": "中国GPU公司摩尔线程业绩强劲增长，属于重大商业动态。",
+      "tags": [
+        "财报",
+        "GPU",
+        "国产芯片"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/honeL4foM2TQzTPI.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-27 06:21:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 6,
+      "title": "限时29.98万起！ID. ERA 9X正式上市，全球首搭Momenta R7世界模型",
+      "summary": "4月27日消息，上汽大众ID. ERA 9X正式上市，限时权益价29.98万元起，全系标配行云智能辅助驾驶、主动后轮转向等，全球首搭Momenta R7世界模型，提供旗舰级智能驾驶体验。",
+      "importance": "高",
+      "reason": "中国合资车企发布搭载世界模型的新车，属于重大产品发布。",
+      "tags": [
+        "上市",
+        "智能驾驶",
+        "世界模型"
+      ],
+      "url": "https://www.leiphone.com/category/robot/CZNbGI3I0oeeVB1g.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-27 03:46:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 7,
+      "title": "海光DCU Day 0适配商汤科技SenseNova-U1",
+      "summary": "4月27日消息，商汤科技推出并开源新一代原生多模态大模型SenseNova-U1，海光DCU率先完成全量适配，成为国内首批适配该模型的国产芯片厂商，该模型达到开源模型SOTA水平。",
+      "importance": "高",
+      "reason": "中国公司商汤科技发布开源多模态大模型，并与国产芯片适配，属于重大产品发布。",
+      "tags": [
+        "开源",
+        "大模型",
+        "国产芯片"
+      ],
+      "url": "https://www.leiphone.com/category/chips/Pt3hrpuW1rvdyz8a.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-27 02:50:00",
+      "impact_score": 170.0
+    },
+    {
+      "index": 8,
+      "title": "36氪首发 | 全球唯二、中国唯一造出微米级磁悬浮魔毯，已大规模量产",
+      "summary": "4月27日消息，中国公司增广智能自主研发的六自由度平面磁悬浮输送系统（磁悬浮魔毯）已实现大规模量产，该公司是全球唯二、中国唯一掌握该核心技术的企业，可破解工厂流水线效率与柔性不可兼得的痛点。",
+      "importance": "中",
+      "reason": "中国公司实现核心技术突破并量产，属于重大商业动态。",
+      "tags": [
+        "磁悬浮",
+        "智能制造",
+        "量产"
+      ],
+      "url": "https://36kr.com/newsflashes/3784891913772036?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-27 09:51:09",
+      "impact_score": 160.0
+    },
+    {
+      "index": 9,
+      "title": "美团“小团”AI入口升级",
+      "summary": "4月27日消息，美团宣布旗下本地吃喝玩乐AI管家“小团”完成入口升级，迁移至美团App首页核心位置并全量上线，可满足用户五一期间异地旅游、家庭聚餐等复合型场景的攻略需求。",
+      "importance": "中",
+      "reason": "中国公司美团升级AI产品入口，属于重要产品更新。",
+      "tags": [
+        "AI",
+        "美团",
+        "本地生活"
+      ],
+      "url": "https://www.qbitai.com/2026/04/408049.html",
+      "source": "量子位",
+      "original_pub_date": "2026-04-27 08:27:53",
+      "impact_score": 150.0
+    },
+    {
+      "index": 10,
+      "title": "芒果传媒与爱诗科技达成战略合作，全栈AI视频能力接入芒果内容生态",
+      "summary": "4月27日消息，芒果传媒与爱诗科技达成战略合作，爱诗科技的全栈AI视频能力将接入芒果内容生态，标志着AI视频技术进入产业应用阶段。",
+      "importance": "中",
+      "reason": "中国公司之间的战略合作，属于重要商业动态。",
+      "tags": [
+        "合作",
+        "AI视频",
+        "内容生态"
+      ],
+      "url": "https://www.leiphone.com/category/transportation/1NFNsDdjf88BSww3.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-27 03:53:00",
+      "impact_score": 150.0
+    },
+    {
+      "index": 11,
+      "title": "绿色动力：与阿里云签订深化合作框架协议",
+      "summary": "4月27日消息，绿色动力与阿里云签订深化合作框架协议，双方将在固废行业数字化与智能化领域合作，联合开发垃圾吊、飞灰、渗沥液智能化处理等前沿技术，提升垃圾焚烧发电项目运营智能化水平。",
+      "importance": "中",
+      "reason": "中国公司与阿里云合作推进AI在固废处理领域的应用，属于重要商业动态。",
+      "tags": [
+        "合作",
+        "阿里云",
+        "智能化"
+      ],
+      "url": "https://36kr.com/newsflashes/3784862511291652?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-27 09:35:40",
+      "impact_score": 147.0
+    },
+    {
+      "index": 12,
+      "title": "早期项目 | 前地平线产品负责人死磕“拿放”动作，轮式机器人今年锁定百台出货",
+      "summary": "4月27日消息，具身智能企业智往未来由前地平线产品负责人孙浚凯创立，聚焦仓储物流场景，用“轮式底盘+双臂”攻克占人力成本60%的“拿放”动作，今年锁定百台出货目标。",
+      "importance": "中",
+      "reason": "中国初创公司聚焦具身智能细分场景，属于重要商业动态。",
+      "tags": [
+        "具身智能",
+        "仓储物流",
+        "创业"
+      ],
+      "url": "https://36kr.com/p/3783249100397570?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-26 06:00:34",
+      "impact_score": 147.0
+    },
+    {
+      "index": 13,
+      "title": "2026款MG4在2026北京车展正式上市，起售价6.58万元",
+      "summary": "4月27日消息，2026款MG4在北京车展上市，起售价6.58万元，搭载地平线智能驾驶辅助方案，基于博弈大模型支持高速NOA及多种泊车功能，并配备15.6英寸2.5K超清大屏等配置。",
+      "importance": "中",
+      "reason": "中国品牌车型上市并搭载国产智驾方案，属于重要产品发布。",
+      "tags": [
+        "上市",
+        "智能驾驶",
+        "MG"
+      ],
+      "url": "https://36kr.com/p/3784491394784519?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-27 03:05:52",
+      "impact_score": 137.0
+    },
+    {
+      "index": 14,
+      "title": "WPS上线 Markdown（.md）格式支持能力",
+      "summary": "4月27日消息，金山办公宣布旗下WPS正式上线Markdown格式支持能力，用户可直接在WPS云文档中打开、编辑并实时预览.md文件，WPS Office客户端计划于5月上旬完成迭代更新。",
+      "importance": "低",
+      "reason": "中国公司WPS上线新功能，属于一般产品更新。",
+      "tags": [
+        "WPS",
+        "Markdown",
+        "功能更新"
+      ],
+      "url": "https://36kr.com/p/3782960065108996?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-26 01:06:18",
+      "impact_score": 137.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "China Blocks Meta’s $2 Billion Acquisition of AI Firm Manus",
+      "summary": "4月27日消息，中国阻止了Meta以20亿美元收购AI初创公司Manus的交易，该交易因技术泄露风险引发争议。",
+      "importance": "高",
+      "reason": "重大政策与法规：涉及中国政府对海外公司收购的干预，影响国际AI并购格局。",
+      "tags": [
+        "AI",
+        "收购",
+        "政策"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-04-27/china-blocks-meta-s-2-billion-acquisition-of-ai-startup-manus",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-27 08:19:01",
+      "impact_score": 240.0
+    },
+    {
+      "index": 2,
+      "title": "China blocks Meta's acquisition of AI startup Manus",
+      "summary": "4月27日消息，中国宣布阻止Meta以20亿美元收购新加坡AI初创公司Manus，该交易引发技术安全担忧。",
+      "importance": "高",
+      "reason": "重大政策与法规：与新闻1重复，但来源不同，进一步确认事件重要性。",
+      "tags": [
+        "AI",
+        "收购",
+        "政策"
+      ],
+      "url": "https://arxiv.org/abs/2604.22273",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-04-27 04:00:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 3,
+      "title": "Announcing our partnership with the Republic of Korea",
+      "summary": "4月27日消息，Google DeepMind宣布与韩国合作，利用前沿AI模型加速科学突破。",
+      "importance": "高",
+      "reason": "重大商业动态：国际AI巨头与主权国家合作，具有战略意义。",
+      "tags": [
+        "AI",
+        "合作",
+        "韩国"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-04-27/your-next-pair-of-good-american-jeans-won-t-be-designed-by-ai",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-27 05:00:00",
+      "impact_score": 180.0
+    },
+    {
+      "index": 4,
+      "title": "UK ministers resist alignment with EU’s AI rules",
+      "summary": "4月27日消息，英国部长们抵制与欧盟AI规则对齐，担忧损害本国科技行业及与美国的关系。",
+      "importance": "高",
+      "reason": "重大政策与法规：英国与欧盟在AI监管上的分歧，影响国际AI治理格局。",
+      "tags": [
+        "AI",
+        "政策",
+        "英国",
+        "欧盟"
+      ],
+      "url": "https://www.ft.com/content/47f73399-df62-4683-93c2-ee210d983460",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-04-26 04:00:16",
+      "impact_score": 180.0
+    },
+    {
+      "index": 5,
+      "title": "Can AI discriminate if it can’t justify itself?",
+      "summary": "4月27日消息，埃隆·马斯克对科罗拉多州的诉讼引发关于AI歧视与民主的深层哲学问题。",
+      "importance": "中",
+      "reason": "安全与伦理：涉及AI歧视与法律伦理争议，具有社会影响力。",
+      "tags": [
+        "AI",
+        "伦理",
+        "马斯克"
+      ],
+      "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-04-27 09:44:52",
+      "impact_score": 165.0
+    },
+    {
+      "index": 6,
+      "title": "Germany Suspects Russia Behind Cyberattack on Top Officials",
+      "summary": "4月27日消息，德国官员怀疑俄罗斯对高层决策者发动网络攻击，通过Signal应用窃取信息。",
+      "importance": "中",
+      "reason": "安全与伦理：网络攻击涉及AI安全，但主体非AI公司。",
+      "tags": [
+        "网络安全",
+        "俄罗斯",
+        "德国"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-04-26/beijing-warns-eu-after-china-firms-included-in-russia-sanctions",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-26 02:26:24",
+      "impact_score": 165.0
+    },
+    {
+      "index": 7,
+      "title": "The tensions behind Palantir’s efforts to transform English healthcare",
+      "summary": "4月27日消息，Palantir试图用AI软件改革英国医疗系统，但NHS内部对其效果存在分歧。",
+      "importance": "中",
+      "reason": "重大商业动态：美国AI公司进入英国医疗领域，引发争议。",
+      "tags": [
+        "AI",
+        "医疗",
+        "Palantir"
+      ],
+      "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+      "source": "DeepMind Blog",
+      "original_pub_date": "2026-04-27 07:00:06",
+      "impact_score": 157.5
+    },
+    {
+      "index": 8,
+      "title": "Wall Street Split on Quantum Computing Bet",
+      "summary": "4月27日消息，华尔街对量子计算投资存在分歧，专家认为该技术距实际应用仍需数年。",
+      "importance": "中",
+      "reason": "重大商业动态：量子计算与AI相关，但主体为金融投资。",
+      "tags": [
+        "量子计算",
+        "投资",
+        "华尔街"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-04-27/germany-suspects-russia-behind-cyberattack-on-top-officials",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-27 10:12:13",
+      "impact_score": 147.5
+    },
+    {
+      "index": 9,
+      "title": "When Does LLM Self-Correction Help? A Control-Theoretic Markov Diagnostic and Verify-First Intervention",
+      "summary": "4月27日消息，arXiv发布论文提出控制论框架分析LLM自我修正何时有效，为AI推理提供新视角。",
+      "importance": "中",
+      "reason": "重大学术突破：涉及LLM自我修正机制，具有学术价值。",
+      "tags": [
+        "AI",
+        "LLM",
+        "学术"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-04-27/wall-street-split-on-quantum-computing-bet-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-27 08:53:43",
+      "impact_score": 142.5
+    },
+    {
+      "index": 10,
+      "title": "Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework",
+      "summary": "4月27日消息，arXiv发布论文提出AI战略推理风险分类框架，评估LLM的自主行为风险。",
+      "importance": "中",
+      "reason": "重大学术突破：关注AI安全与推理风险，具有前瞻性。",
+      "tags": [
+        "AI",
+        "安全",
+        "推理"
+      ],
+      "url": "https://arxiv.org/abs/2604.21952",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-04-27 04:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 11,
+      "title": "Your Next Pair of Good American Jeans Won’t Be Designed by AI",
+      "summary": "4月27日消息，Good American联合创始人表示AI正在改变业务，但某些设计领域仍禁止使用AI。",
+      "importance": "低",
+      "reason": "商业动态：AI应用边界讨论，但影响力有限。",
+      "tags": [
+        "AI",
+        "时尚",
+        "商业"
+      ],
+      "url": "https://www.ft.com/content/97b7ae41-5133-422a-8b87-1673b8225f38",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-04-27 10:00:03",
+      "impact_score": 127.5
+    },
+    {
+      "index": 12,
+      "title": "Beijing Warns EU After China Firms Included in Russia Sanctions",
+      "summary": "4月27日消息，中国警告欧盟将中国实体纳入对俄制裁的后果，涉及AI技术出口管制。",
+      "importance": "低",
+      "reason": "政策动态：涉及制裁与AI，但主体为中国政府，按规则排除。",
+      "tags": [
+        "制裁",
+        "中国",
+        "欧盟"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-04-27/apollo-said-to-back-sister-led-dental-firm-at-1-billion-value",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-27 10:00:00",
+      "impact_score": 127.5
+    }
+  ],
+  "summary": "今日从114条原始信息中精选出14条国内动态和12条国际动态，其中11条为高重要性。 重点关注：润芯微“国产软硬一体AI智能基座”发布，破解行业稀缺难题带动多端智能变革；李力耘加入众擎，全栈智驾大脑与顶级人形本体的双向奔赴；第八届智源大会即将在6月12日-13日正式开启。",
+  "statistics": {
+    "raw_domestic": 42,
+    "raw_international": 72,
+    "raw_total": 114,
+    "final_domestic": 14,
+    "final_international": 12
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "4月27日消息，润芯微发布“国产软硬一体AI智能基座”，该基座是行业稀缺的“芯片+操作系统+AI”全栈解决方案，可应用于车载座舱、两轮车智能终端、机器人算力平台等多端场景，并正式发布“1+4+N”战略体系。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "4月27日消息，前小鹏汽车副总裁、自动驾驶一号位李力耘正式加入众擎机器人，其曾带领超1000人团队主导小鹏智驾全链路AI化转型，此次加入被视为全栈智驾大脑与顶级人形本体的结合。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "4月27日消息，第八届智源大会将于6月12日至13日举行，大会将聚焦人工智能从“能力竞赛”走向“系统落地”，探讨智能体、世界模型等新一代系统范式，推动AI嵌入人类社会与产业体系。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "4月27日消息，通用具身智能机器人公司无界动力完成天使++轮融资，由远景科技集团、北京市人工智能产业投资基金联合投资，天使轮累计融资超2亿美元，并已拿下5亿元海外订单。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "4月27日消息，国产GPU龙头摩尔线程披露2025年报及2026年一季报，2025年营收15.05亿元，同比增长243.37%，2026年一季度营收7.38亿元，同比增长155.35%，并推进十万卡级集群建设。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "4月27日消息，中国阻止了Meta以20亿美元收购AI初创公司Manus的交易，该交易因技术泄露风险引发争议。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "4月27日消息，中国宣布阻止Meta以20亿美元收购新加坡AI初创公司Manus，该交易引发技术安全担忧。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "4月27日消息，Google DeepMind宣布与韩国合作，利用前沿AI模型加速科学突破。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "4月27日消息，英国部长们抵制与欧盟AI规则对齐，担忧损害本国科技行业及与美国的关系。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "4月27日消息，埃隆·马斯克对科罗拉多州的诉讼引发关于AI歧视与民主的深层哲学问题。",
+      "importance": "中"
+    }
+  ]
+}
