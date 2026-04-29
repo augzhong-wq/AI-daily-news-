@@ -1,0 +1,584 @@
+{
+  "date": "2026-04-29",
+  "generated_at": "2026-04-29 10:11:11",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "8点1氪丨百度废除字母职级标签；Meta被曝准备撤销对Manus收购；张雪称曾拒绝了半个亿的商务合作",
+      "summary": "4月29日消息，百度发布全员信宣布职级体系大调整，将中管层以下专业通道与管理通道全面打通，原有字母标签统一为5级至12级数字职级体系，以适配AI时代对复合型人才的需求。",
+      "importance": "高",
+      "reason": "百度作为中国头部AI公司，其内部组织架构调整反映AI战略转型，属于重大商业动态。",
+      "tags": [
+        "百度",
+        "职级改革",
+        "AI战略"
+      ],
+      "url": "https://36kr.com/p/3787150633065728?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-29 00:11:35",
+      "impact_score": 352.5
+    },
+    {
+      "index": 2,
+      "title": "魔法原子全球具身智能创新大会硅谷落幕 引领具身智能下个十年",
+      "summary": "4月29日消息，魔法原子MagicLab在硅谷举办全球具身智能创新大会，发布前沿技术并链接全球生态，系统性彰显中国智造在具身智能领域的创新实力与全球化布局。",
+      "importance": "高",
+      "reason": "中国公司主导的全球性AI峰会，展示中国在具身智能领域的领先地位，属于重大产品发布与商业动态。",
+      "tags": [
+        "魔法原子",
+        "具身智能",
+        "全球化"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/fVzqHUGeCT0NXApV.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-29 05:10:00",
+      "impact_score": 300.0
+    },
+    {
+      "index": 3,
+      "title": "2026北京车展观察（下）：汽车被AI重新定义，人车交互模式重写",
+      "summary": "4月29日消息，2026北京车展以“领时代，智未来”为主题，华为乾崑、地平线、腾讯智慧出行等中国公司集中展示AI驱动智能座舱与高阶智驾技术，汽车正从工业产品演变为AI智能体。",
+      "importance": "高",
+      "reason": "北京车展是中国AI+汽车产业的重要风向标，多家中国头部公司参与，属于重大产品发布与商业动态。",
+      "tags": [
+        "北京车展",
+        "智能座舱",
+        "AI汽车"
+      ],
+      "url": "https://www.leiphone.com/category/transportation/chvI1Ebva2CnRRfx.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-28 15:16:00",
+      "impact_score": 300.0
+    },
+    {
+      "index": 4,
+      "title": "DeepSeek V4首发适配背后：昇腾为什么坚持不做CUDA兼容层？",
+      "summary": "4月29日消息，DeepSeek V4模型首发适配昇腾平台，昇腾坚持不兼容CUDA而自研底层架构，旨在构建自主AI算力生态，应对模型规模与算力需求持续增长。",
+      "importance": "高",
+      "reason": "涉及中国AI芯片与模型生态自主化，属于重大政策与技术突破。",
+      "tags": [
+        "DeepSeek",
+        "昇腾",
+        "AI芯片"
+      ],
+      "url": "https://www.qbitai.com/2026/04/410772.html",
+      "source": "量子位",
+      "original_pub_date": "2026-04-29 04:10:59",
+      "impact_score": 270.0
+    },
+    {
+      "index": 5,
+      "title": "全面开源！商汤日日新SenseNova U1发布，迈向模型理解生成统一时代",
+      "summary": "4月29日消息，商汤科技发布并开源日日新SenseNova U1系列原生理解生成统一模型，基于自研NEO-unify架构，在单一模型上统一多模态理解、推理与生成，实现范式跨越。",
+      "importance": "高",
+      "reason": "中国AI公司发布重大开源模型，技术架构创新显著，属于重大学术突破与产品发布。",
+      "tags": [
+        "商汤",
+        "开源模型",
+        "多模态"
+      ],
+      "url": "https://www.qbitai.com/2026/04/411205.html",
+      "source": "量子位",
+      "original_pub_date": "2026-04-29 09:08:25",
+      "impact_score": 255.0
+    },
+    {
+      "index": 6,
+      "title": "火速吃瓜：Kimi K2.6设计能力超越Claude Design",
+      "summary": "4月29日消息，月之暗面旗下Kimi K2.6模型在设计能力上超越Claude Design，巩固其全球最强开源模型地位，展现中国AI在创意生成领域的突破。",
+      "importance": "中",
+      "reason": "中国AI模型在特定能力上超越海外竞品，属于重大学术突破。",
+      "tags": [
+        "Kimi",
+        "开源模型",
+        "设计AI"
+      ],
+      "url": "https://36kr.com/p/3787554697895168?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-29 08:33:57",
+      "impact_score": 249.0
+    },
+    {
+      "index": 7,
+      "title": "腾讯开源手机端离线翻译模型，仅0.4G，支持33种语言",
+      "summary": "4月29日消息，腾讯开源手机端离线翻译模型，模型大小仅0.4G，支持33种语言，无需联网即可在手机本地运行，大幅降低AI翻译使用门槛。",
+      "importance": "中",
+      "reason": "中国科技公司开源轻量级AI模型，推动AI普惠化，属于重要产品发布。",
+      "tags": [
+        "腾讯",
+        "开源",
+        "离线翻译"
+      ],
+      "url": "https://36kr.com/p/3786532449312007?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-29 08:24:14",
+      "impact_score": 230.0
+    },
+    {
+      "index": 8,
+      "title": "百度GenFlow 4.0发布，Office三件套全包了，还能养「牛马虾」",
+      "summary": "4月29日消息，百度发布GenFlow 4.0，全面覆盖Office三件套功能，并引入AI智能体“牛马虾”，实现十分钟完成一周工作量，大幅提升办公效率。",
+      "importance": "中",
+      "reason": "百度发布AI办公产品，属于重要产品发布。",
+      "tags": [
+        "百度",
+        "AI办公",
+        "GenFlow"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/ExuZj0uPcqmsRbwn.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-29 02:36:00",
+      "impact_score": 225.0
+    },
+    {
+      "index": 9,
+      "title": "前米哈游高管创业，AI 原生增长 Agent LeapMind Growth 获 CMC 资本领投",
+      "summary": "4月29日消息，前米哈游全球用户增长负责人马如平创立AI原生增长Agent公司LeapMind Growth，完成由CMC资本领投的天使+轮融资，用于核心产品GrowthGPT研发。",
+      "importance": "中",
+      "reason": "中国AI创业公司获得知名资本投资，属于重要商业动态。",
+      "tags": [
+        "LeapMind",
+        "AI Agent",
+        "融资"
+      ],
+      "url": "https://36kr.com/p/3740907027054600?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-29 01:00:33",
+      "impact_score": 215.0
+    },
+    {
+      "index": 10,
+      "title": "慧算账引入腾讯云AI智能体，为会计配备“龙虾助理”提升服务效能",
+      "summary": "4月29日消息，财税SaaS服务商慧算账与腾讯云合作，将腾讯云AI智能体ClawPro集成至核心业务流程，为会计人员配备AI助理，提升中小微企业财税服务效率与质量。",
+      "importance": "低",
+      "reason": "中国公司间的AI合作应用，属于一般商业动态。",
+      "tags": [
+        "慧算账",
+        "腾讯云",
+        "AI智能体"
+      ],
+      "url": "https://www.leiphone.com/category/chips/CqoD5uivrAvZkhZy.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-28 06:16:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 11,
+      "title": "轻舟智航于骞：以车规级量产安全，推动无人物流从万量级迈向真正规模化",
+      "summary": "4月29日消息，轻舟智航在北京车展举行无人物流车产品推介暨战略合作签约仪式，与云衢智联等企业合作，以车规级量产安全推动无人物流规模化落地。",
+      "importance": "低",
+      "reason": "中国自动驾驶公司推进商业化合作，属于一般商业动态。",
+      "tags": [
+        "轻舟智航",
+        "无人物流",
+        "战略合作"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/FXtfsTn7UcEqo3RX.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-29 03:12:00",
+      "impact_score": 200.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Elon Musk tells the jury that all he wants to do is save humanity",
+      "summary": "4月29日消息，马斯克在针对OpenAI的庭审中作证，称其起诉旨在阻止奥特曼将OpenAI从慈善机构转变为营利性企业，并强调此举为其他慈善事业树立了危险先例。",
+      "importance": "高",
+      "reason": "重大政策与法规：涉及AI公司治理与慈善信托的法律诉讼，影响深远",
+      "tags": [
+        "法律诉讼",
+        "OpenAI",
+        "马斯克",
+        "奥特曼"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-04-28 20:46:54",
+      "impact_score": 301.0
+    },
+    {
+      "index": 2,
+      "title": "Elon Musk takes the stand in high-profile trial against OpenAI",
+      "summary": "4月29日消息，马斯克在针对OpenAI的高调庭审中正式作证，指控联合创始人奥特曼和布罗克曼背离了公司最初的慈善使命，转向追求利润。",
+      "importance": "高",
+      "reason": "重大政策与法规：AI行业标志性法律案件，决定OpenAI未来走向",
+      "tags": [
+        "法律诉讼",
+        "OpenAI",
+        "马斯克",
+        "奥特曼"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-04-28 19:00:13",
+      "impact_score": 301.0
+    },
+    {
+      "index": 3,
+      "title": "Musk Testifies He’s Suing OpenAI to Stop Altman’s ‘Looting’",
+      "summary": "4月29日消息，马斯克在庭审中表示起诉OpenAI是为了阻止奥特曼的“掠夺”行为，认为公司从慈善转向营利性企业是错误的，并可能影响其他慈善事业。",
+      "importance": "高",
+      "reason": "重大政策与法规：核心法律争议，涉及AI公司治理与慈善使命",
+      "tags": [
+        "法律诉讼",
+        "OpenAI",
+        "马斯克",
+        "奥特曼"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-04-28/musk-lawyer-says-altman-made-mockery-of-openai-public-mission",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-28 18:26:25",
+      "impact_score": 262.5
+    },
+    {
+      "index": 4,
+      "title": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem",
+      "summary": "4月29日消息，马斯克与奥特曼就OpenAI未来走向对簿公堂，此案可能对AI行业产生深远影响，核心争议在于AI公司是否应优先考虑利润而非人类福祉。",
+      "importance": "高",
+      "reason": "重大政策与法规：AI行业重大法律事件，影响AI发展伦理与商业模式",
+      "tags": [
+        "法律诉讼",
+        "OpenAI",
+        "马斯克",
+        "奥特曼"
+      ],
+      "url": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/",
+      "source": "MIT Technology Review",
+      "original_pub_date": "2026-04-28 12:10:00",
+      "impact_score": 262.5
+    },
+    {
+      "index": 5,
+      "title": "Musk, Altman, Brockman Agree to Stay Off Social Media During Trial",
+      "summary": "4月29日消息，马斯克、奥特曼和布罗克曼同意在庭审期间停止在社交媒体上讨论案件，法官警告双方避免在庭外通过社交媒体激化矛盾。",
+      "importance": "中",
+      "reason": "重大商业动态：庭审程序性安排，反映案件高度关注度",
+      "tags": [
+        "法律诉讼",
+        "社交媒体",
+        "OpenAI"
+      ],
+      "url": "https://www.theinformation.com/briefings/musk-altman-brockman-agree-stay-social-media-trial",
+      "source": "The Information",
+      "original_pub_date": "2026-04-28 16:11:07",
+      "impact_score": 244.5
+    },
+    {
+      "index": 6,
+      "title": "How Nadella and Altman Averted a Legal War Over AWS",
+      "summary": "4月29日消息，微软CEO纳德拉与OpenAI CEO奥特曼通过谈判避免了因OpenAI与AWS合作引发的法律纠纷，此前OpenAI与AWS的协议可能违反微软的独家销售权。",
+      "importance": "中",
+      "reason": "重大商业动态：涉及微软与OpenAI的复杂商业合作与潜在法律冲突",
+      "tags": [
+        "微软",
+        "OpenAI",
+        "AWS",
+        "商业合作"
+      ],
+      "url": "https://www.theinformation.com/articles/nadella-altman-averted-legal-war-aws",
+      "source": "The Information",
+      "original_pub_date": "2026-04-28 13:44:27",
+      "impact_score": 244.5
+    },
+    {
+      "index": 7,
+      "title": "The Asterisk on Benchmark’s Manus Exit",
+      "summary": "4月29日消息，Benchmark对AI初创公司Manus的投资曾因国家安全风险受到批评，Meta以20亿美元收购Manus后，中国监管机构要求撤销交易，Meta可能面临交易解除的复杂局面。",
+      "importance": "高",
+      "reason": "重大政策与法规：涉及跨国并购、国家安全审查与监管冲突",
+      "tags": [
+        "收购",
+        "国家安全",
+        "Meta",
+        "Manus"
+      ],
+      "url": "https://www.theinformation.com/articles/asterisk-benchmarks-manus-exit",
+      "source": "The Information",
+      "original_pub_date": "2026-04-29 00:27:01",
+      "impact_score": 225.0
+    },
+    {
+      "index": 8,
+      "title": "Meta Prepares for Possible Unwinding of $2 Billion Manus Acquisition",
+      "summary": "4月29日消息，Meta正在准备可能撤销对AI初创公司Manus的20亿美元收购，此前中国监管机构要求撤销该交易，解除收购可能面临复杂程序。",
+      "importance": "高",
+      "reason": "重大商业动态：20亿美元级并购面临监管否决，影响跨国AI投资",
+      "tags": [
+        "收购",
+        "Meta",
+        "Manus",
+        "监管"
+      ],
+      "url": "https://www.theinformation.com/briefings/meta-prepares-possible-unwinding-2-billion-manus-acquisition",
+      "source": "The Information",
+      "original_pub_date": "2026-04-28 10:34:57",
+      "impact_score": 210.0
+    },
+    {
+      "index": 9,
+      "title": "Microsoft Comes Out of OpenAI Deal a Winner; Risks in AI Financing",
+      "summary": "4月29日消息，微软在与OpenAI的合作中成为赢家，但AI融资领域仍存在巨大风险，投资者对即将到来的SpaceX IPO持谨慎乐观态度。",
+      "importance": "中",
+      "reason": "重大商业动态：分析微软与OpenAI合作成果及AI融资风险",
+      "tags": [
+        "微软",
+        "OpenAI",
+        "融资",
+        "IPO"
+      ],
+      "url": "https://www.theinformation.com/articles/microsoft-comes-openai-deal-winner-risks-ai-financing",
+      "source": "The Information",
+      "original_pub_date": "2026-04-28 00:00:19",
+      "impact_score": 210.0
+    },
+    {
+      "index": 10,
+      "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
+      "summary": "4月29日消息，在Anthropic拒绝允许美国国防部将其AI用于国内大规模监控和自主武器后，谷歌与五角大楼签署新合同，扩大其AI模型在国防领域的应用。",
+      "importance": "高",
+      "reason": "重大政策与法规：涉及AI军事应用、伦理争议与国家安全",
+      "tags": [
+        "谷歌",
+        "五角大楼",
+        "AI军事应用",
+        "伦理"
+      ],
+      "url": "https://arxiv.org/abs/2604.22934",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-04-29 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 11,
+      "title": "EU takes action against Meta over failure to protect children on social media",
+      "summary": "4月29日消息，欧盟对Meta未能保护社交媒体上的儿童采取行动，可能对其处以罚款，欧洲关于禁止未成年人使用社交平台的争论日益激烈。",
+      "importance": "高",
+      "reason": "重大政策与法规：欧盟监管行动，涉及AI平台儿童保护与罚款",
+      "tags": [
+        "欧盟",
+        "Meta",
+        "儿童保护",
+        "监管"
+      ],
+      "url": "https://arxiv.org/abs/2604.22951",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-04-29 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 12,
+      "title": "EU Escalates Meta Probe for Failing to Stop Kids Signing Up",
+      "summary": "4月29日消息，欧盟指控Meta未能阻止未成年人注册其服务，升级调查可能导致巨额罚款，这是欧盟加强科技监管的最新举措。",
+      "importance": "高",
+      "reason": "重大政策与法规：欧盟对Meta的监管升级，可能产生重大罚款",
+      "tags": [
+        "欧盟",
+        "Meta",
+        "监管",
+        "罚款"
+      ],
+      "url": "https://arxiv.org/abs/2604.23198",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-04-29 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 13,
+      "title": "OpenAI's revenue, growth estimates fall short as company races toward IPO: Report",
+      "summary": "4月29日消息，报告显示OpenAI的收入和增长预期未达目标，公司正加速推进IPO，其与数据中心相关的数百亿美元计算交易与IPO紧密相关。",
+      "importance": "中",
+      "reason": "重大商业动态：OpenAI IPO进展及财务表现，影响AI行业估值",
+      "tags": [
+        "OpenAI",
+        "IPO",
+        "收入",
+        "数据中心"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-04-29/china-s-meta-backlash-renders-manus-model-officially-dead",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-29 01:25:00",
+      "impact_score": 177.5
+    },
+    {
+      "index": 14,
+      "title": "China blocks Meta's $2 billion takeover of AI startup Manus",
+      "summary": "4月29日消息，中国监管机构决定阻止Meta以20亿美元收购新加坡AI初创公司Manus，该交易因国家安全风险被否决。",
+      "importance": "高",
+      "reason": "重大政策与法规：中国监管否决跨国AI并购，涉及国家安全与地缘政治",
+      "tags": [
+        "收购",
+        "Meta",
+        "Manus",
+        "监管"
+      ],
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-04-28 19:27:50",
+      "impact_score": 173.0
+    },
+    {
+      "index": 15,
+      "title": "Court Selects Jury for Musk-Altman Trial",
+      "summary": "4月29日消息，法院为马斯克与奥特曼的诉讼案选出9人陪审团，陪审员背景多样且对AI有不同经验，此案将决定OpenAI的慈善信托争议。",
+      "importance": "中",
+      "reason": "重大政策与法规：庭审程序进展，案件进入实质性审理阶段",
+      "tags": [
+        "法律诉讼",
+        "陪审团",
+        "OpenAI"
+      ],
+      "url": "https://www.wired.com/story/some-musk-v-altman-jurors-dont-like-elon-musk/",
+      "source": "Wired AI",
+      "original_pub_date": "2026-04-28 00:39:30",
+      "impact_score": 173.0
+    },
+    {
+      "index": 16,
+      "title": "Elon Musk Testifies That He Started OpenAI to Prevent a ‘Terminator Outcome’",
+      "summary": "4月29日消息，马斯克在庭审中作证称其创立OpenAI是为了防止“终结者式”的AI灾难，法官警告双方避免在社交媒体上激化矛盾。",
+      "importance": "高",
+      "reason": "重大政策与法规：核心证词涉及AI安全与公司使命，影响案件走向",
+      "tags": [
+        "法律诉讼",
+        "AI安全",
+        "马斯克",
+        "OpenAI"
+      ],
+      "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-04-28 18:15:00",
+      "impact_score": 171.0
+    },
+    {
+      "index": 17,
+      "title": "Google and Pentagon reportedly agree on deal for ‘any lawful’ use of AI",
+      "summary": "4月29日消息，谷歌与美国国防部签署机密协议，允许五角大楼将谷歌AI模型用于“任何合法政府目的”，此前谷歌员工曾要求阻止该合作。",
+      "importance": "高",
+      "reason": "重大政策与法规：AI军事应用协议，涉及伦理争议与国家安全",
+      "tags": [
+        "谷歌",
+        "五角大楼",
+        "AI军事应用",
+        "协议"
+      ],
+      "url": "https://www.ft.com/content/65e9c42b-d0ee-4511-96e7-2784a7d4e240",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-04-29 07:41:41",
+      "impact_score": 165.0
+    },
+    {
+      "index": 18,
+      "title": "NVIDIA Launches Nemotron 3 Nano Omni Model, Unifying Vision, Audio and Language for up to 9x More Efficient AI Agents",
+      "summary": "4月29日消息，英伟达发布Nemotron 3 Nano Omni多模态模型，统一视觉、音频和语言处理，使AI代理效率提升高达9倍，支持更高效的智能体系统。",
+      "importance": "中",
+      "reason": "重大产品发布：英伟达新多模态模型，提升AI代理效率",
+      "tags": [
+        "英伟达",
+        "多模态模型",
+        "AI代理",
+        "发布"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-04-29/eu-escalates-probe-into-meta-for-failing-to-stop-kids-signing-up",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-29 07:00:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 19,
+      "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
+      "summary": "4月29日消息，亚马逊在产品页面推出AI驱动的音频问答功能“Join the chat”，用户可提问并获得AI生成的音频回答，提升购物体验。",
+      "importance": "低",
+      "reason": "重大产品发布：亚马逊AI功能更新，但影响相对有限",
+      "tags": [
+        "亚马逊",
+        "AI问答",
+        "音频",
+        "电商"
+      ],
+      "url": "https://www.ft.com/content/c9cd5751-8d2d-4f24-b676-7c3ec349e404",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-04-29 04:00:27",
+      "impact_score": 165.0
+    },
+    {
+      "index": 20,
+      "title": "Pentagon AI chief confirms DOD's expanded use of Google, says reliance on one model 'never a good thing'",
+      "summary": "4月29日消息，五角大楼AI负责人确认国防部扩大使用谷歌AI模型，并指出依赖单一模型“从来不是好事”，此前Anthropic被列入黑名单。",
+      "importance": "中",
+      "reason": "重大政策与法规：美国国防部AI采购策略，涉及供应商多元化",
+      "tags": [
+        "五角大楼",
+        "谷歌",
+        "AI采购",
+        "Anthropic"
+      ],
+      "url": "https://www.cnbc.com/2026/04/28/openais-revenue-growth-estimates-fall-short-report.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-04-28 14:02:45",
+      "impact_score": 165.0
+    }
+  ],
+  "summary": "今日从184条原始信息中精选出11条国内动态和20条国际动态，其中17条为高重要性。 重点关注：8点1氪丨百度废除字母职级标签；Meta被曝准备撤销对Manus收购；张雪称曾拒绝了半个亿的商务合作；魔法原子全球具身智能创新大会硅谷落幕 引领具身智能下个十年；2026北京车展观察（下）：汽车被AI重新定义，人车交互模式重写。",
+  "statistics": {
+    "raw_domestic": 46,
+    "raw_international": 138,
+    "raw_total": 184,
+    "final_domestic": 11,
+    "final_international": 20
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "4月29日消息，百度发布全员信宣布职级体系大调整，将中管层以下专业通道与管理通道全面打通，原有字母标签统一为5级至12级数字职级体系，以适配AI时代对复合型人才的需求。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "4月29日消息，魔法原子MagicLab在硅谷举办全球具身智能创新大会，发布前沿技术并链接全球生态，系统性彰显中国智造在具身智能领域的创新实力与全球化布局。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "4月29日消息，2026北京车展以“领时代，智未来”为主题，华为乾崑、地平线、腾讯智慧出行等中国公司集中展示AI驱动智能座舱与高阶智驾技术，汽车正从工业产品演变为AI智能体。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "4月29日消息，DeepSeek V4模型首发适配昇腾平台，昇腾坚持不兼容CUDA而自研底层架构，旨在构建自主AI算力生态，应对模型规模与算力需求持续增长。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "4月29日消息，商汤科技发布并开源日日新SenseNova U1系列原生理解生成统一模型，基于自研NEO-unify架构，在单一模型上统一多模态理解、推理与生成，实现范式跨越。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "4月29日消息，马斯克在针对OpenAI的庭审中作证，称其起诉旨在阻止奥特曼将OpenAI从慈善机构转变为营利性企业，并强调此举为其他慈善事业树立了危险先例。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "4月29日消息，马斯克在针对OpenAI的高调庭审中正式作证，指控联合创始人奥特曼和布罗克曼背离了公司最初的慈善使命，转向追求利润。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "4月29日消息，马斯克在庭审中表示起诉OpenAI是为了阻止奥特曼的“掠夺”行为，认为公司从慈善转向营利性企业是错误的，并可能影响其他慈善事业。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "4月29日消息，马斯克与奥特曼就OpenAI未来走向对簿公堂，此案可能对AI行业产生深远影响，核心争议在于AI公司是否应优先考虑利润而非人类福祉。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "4月29日消息，Benchmark对AI初创公司Manus的投资曾因国家安全风险受到批评，Meta以20亿美元收购Manus后，中国监管机构要求撤销交易，Meta可能面临交易解除的复杂局面。",
+      "importance": "高"
+    }
+  ]
+}
