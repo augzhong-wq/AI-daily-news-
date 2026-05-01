@@ -1,0 +1,518 @@
+{
+  "date": "2026-05-01",
+  "generated_at": "2026-05-01 09:51:32",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "杭州为具身智能机器人立法，今起施行",
+      "summary": "5月1日消息，杭州正式施行全国首部具身智能机器人领域地方性法规《杭州市促进具身智能机器人产业发展条例》，该市已集聚机器人产业相关企业700余家，2025年产业集群产值达1068亿元。",
+      "importance": "高",
+      "reason": "重大政策与法规：国内首部具身智能机器人地方性法规，具有里程碑意义。",
+      "tags": [
+        "立法",
+        "具身智能",
+        "机器人"
+      ],
+      "url": "https://36kr.com/newsflashes/3790383428082946?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-01 07:16:20",
+      "impact_score": 390.0
+    },
+    {
+      "index": 2,
+      "title": "阿里云领跑智能体安全，四项满分彰显AI安全硬实力",
+      "summary": "5月1日消息，阿里云在IDC《2026中国智能体威胁检测技术评估》报告中获总分最高、满分项最多，其Agent安全中心产品斩获4项满分，在漏洞检测、运行时检测、MCP安全检测三大维度表现优异。",
+      "importance": "高",
+      "reason": "重大商业动态：阿里云在AI安全领域取得领先地位，体现国内AI安全实力。",
+      "tags": [
+        "阿里云",
+        "AI安全",
+        "智能体"
+      ],
+      "url": "https://www.leiphone.com/category/ai/YyxSmUuKujqkj0vN.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-30 08:45:00",
+      "impact_score": 390.0
+    },
+    {
+      "index": 3,
+      "title": "HappyHorse没有惊喜",
+      "summary": "5月1日消息，阿里巴巴ATH事业群旗下创新事业部研发的视频模型HappyHorse开启灰测并接入千问App，该模型曾在盲测平台Artificial Analysis AI Video Arena登顶，但正式测试未达预期。",
+      "importance": "中",
+      "reason": "重大产品发布：阿里巴巴发布重要视频模型，虽未达预期但关注度高。",
+      "tags": [
+        "阿里巴巴",
+        "视频模型",
+        "HappyHorse"
+      ],
+      "url": "https://36kr.com/p/3785172264197384?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-30 10:34:03",
+      "impact_score": 352.5
+    },
+    {
+      "index": 4,
+      "title": "氪星晚报｜澳门一季度GDP按年实质增长7.1%；小红书发内部信：加大AI投入，柯南出任总裁",
+      "summary": "5月1日消息，小红书发布内部信宣布加大AI投入，柯南出任总裁；同时阿里云域名产品因上游成本上调将于5月12日调价，联发科一季度毛利率同比下滑1.8个百分点。",
+      "importance": "中",
+      "reason": "重大商业动态：小红书加大AI投入并调整高管，反映国内AI战略布局。",
+      "tags": [
+        "小红书",
+        "AI投入",
+        "高管变动"
+      ],
+      "url": "https://36kr.com/p/3787830454787330?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-01 01:42:35",
+      "impact_score": 322.5
+    },
+    {
+      "index": 5,
+      "title": "阿里发布数字员工产品QoderWake，可承担工程师、运营、销售等岗位角色",
+      "summary": "5月1日消息，阿里发布数字员工产品QoderWake，该产品可根据企业业务流程定制专属数字员工，能够承担工程师、运营、销售等多种岗位角色。",
+      "importance": "中",
+      "reason": "重大产品发布：阿里推出创新数字员工产品，拓展AI应用场景。",
+      "tags": [
+        "阿里",
+        "数字员工",
+        "AI应用"
+      ],
+      "url": "https://www.leiphone.com/category/yanxishe/rT2PkHFzmsUrpPbo.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-30 11:59:00",
+      "impact_score": 315.0
+    },
+    {
+      "index": 6,
+      "title": "北京人形将发布天工Omni机器人",
+      "summary": "5月1日消息，北京人形机器人创新中心发布预告，即将发布天工Omni机器人，该产品有望推动国内人形机器人技术发展。",
+      "importance": "中",
+      "reason": "重大产品发布：国内人形机器人领域重要产品预告。",
+      "tags": [
+        "人形机器人",
+        "天工Omni",
+        "北京"
+      ],
+      "url": "https://www.leiphone.com/category/ai/55omS4DRgRAktha9.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-30 08:26:00",
+      "impact_score": 315.0
+    },
+    {
+      "index": 7,
+      "title": "云深处科技完成IPO辅导",
+      "summary": "5月1日消息，杭州云深处科技股份有限公司完成IPO辅导，辅导券商中信建投向浙江证监局提交《辅导工作完成报告》，该公司于去年12月启动上市辅导。",
+      "importance": "中",
+      "reason": "重大商业动态：国内机器人公司推进IPO，反映资本市场对AI领域关注。",
+      "tags": [
+        "IPO",
+        "云深处",
+        "机器人"
+      ],
+      "url": "https://www.leiphone.com/category/academic/pNVXLgzCg8mIBdH9.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-30 11:17:00",
+      "impact_score": 300.0
+    },
+    {
+      "index": 8,
+      "title": "36氪首发｜国内首家落地“筷子夹”塔架回收技术的商业航天公司，完成5亿元融资",
+      "summary": "5月1日消息，上海大航跃迁航天科技有限公司完成5亿元融资，用于加速国内首款塔架回收运载火箭“跃迁一号”研制与首飞，该公司是国内首家落地“筷子夹”塔架式回收技术的二代民营火箭企业。",
+      "importance": "中",
+      "reason": "重大商业动态：国内商业航天公司获大额融资，技术领先。",
+      "tags": [
+        "融资",
+        "商业航天",
+        "火箭回收"
+      ],
+      "url": "https://36kr.com/p/3789057332043016?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-30 09:33:41",
+      "impact_score": 266.0
+    },
+    {
+      "index": 9,
+      "title": "元禾原点领投，硫化物固态电解质材料商「天石科丰」完成数千万元pre-A轮融资 | 36氪首发",
+      "summary": "5月1日消息，武汉天石科丰新能源科技有限公司完成数千万元pre-A轮融资，由元禾原点领投，资金用于产品研发及百吨级产线落地，该公司聚焦硫化物固态电解质粉体材料研发。",
+      "importance": "低",
+      "reason": "重大商业动态：国内新能源材料公司获融资，但金额较小。",
+      "tags": [
+        "融资",
+        "固态电池",
+        "新能源"
+      ],
+      "url": "https://36kr.com/p/3789235646094339?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-04-30 11:32:16",
+      "impact_score": 256.0
+    },
+    {
+      "index": 10,
+      "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+      "summary": "5月1日消息，国内团队开源新一代具身智能仿真框架，突破视觉仿真算力瓶颈，实现高吞吐并行高保真渲染，助力规模化训练并支持真机部署“零微调”。",
+      "importance": "中",
+      "reason": "重大学术突破：国内开源具身智能仿真框架，推动技术发展。",
+      "tags": [
+        "开源",
+        "具身智能",
+        "仿真"
+      ],
+      "url": "https://www.leiphone.com/category/ai/y228id3tl4peblUV.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-04-30 08:51:00",
+      "impact_score": 255.0
+    },
+    {
+      "index": 11,
+      "title": "我所知道的代季峰：从微软亚研7万次引用，到盛大3亿美金风暴",
+      "summary": "5月1日消息，陈天桥创立的MiroMind正式亮相，由计算机视觉泰斗代季峰领导，团队推出全栈开源深度研究系统MiroMind，被视为下一个DeepSeek，背后有千亿现金支持。",
+      "importance": "中",
+      "reason": "重大商业动态：国内AGI领域新公司亮相，团队实力雄厚。",
+      "tags": [
+        "AGI",
+        "MiroMind",
+        "代季峰"
+      ],
+      "url": "https://36kr.com/newsflashes/3790477862755586?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-01 08:40:17",
+      "impact_score": 221.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Starcloud in Talks for $2.2 Billion Valuation as SpaceX Stirs Interest",
+      "summary": "5月1日消息，太空数据中心初创公司Starcloud正与投资者洽谈，计划以约22亿美元估值融资至少2亿美元，引发市场关注。",
+      "importance": "中",
+      "reason": "海外初创公司重大融资动态，涉及AI与太空技术结合",
+      "tags": [
+        "融资",
+        "太空数据中心",
+        "AI"
+      ],
+      "url": "https://www.theinformation.com/articles/starcloud-talks-2-2-billion-valuation-spacex-stirs-interest",
+      "source": "The Information",
+      "original_pub_date": "2026-04-30 21:24:31",
+      "impact_score": 322.5
+    },
+    {
+      "index": 2,
+      "title": "Musk Battles OpenAI Lawyer Over Claims Co-Founders Stole a Charity",
+      "summary": "5月1日消息，马斯克与OpenAI的诉讼案进入高潮，OpenAI律师在交叉质询中质疑马斯克的动机，指控其心怀不满并背信弃义。",
+      "importance": "高",
+      "reason": "重大法律纠纷，涉及AI行业核心公司OpenAI的未来走向",
+      "tags": [
+        "诉讼",
+        "OpenAI",
+        "马斯克"
+      ],
+      "url": "https://www.theinformation.com/articles/musk-battles-openai-lawyer-claims-co-founders-stole-charity",
+      "source": "The Information",
+      "original_pub_date": "2026-04-30 03:01:10",
+      "impact_score": 290.0
+    },
+    {
+      "index": 3,
+      "title": "AI Payoff in Focus During Tech Earnings Bonanza | Bloomberg Tech 4/30/2026",
+      "summary": "5月1日消息，科技巨头财报显示AI投资回报分化，Alphabet和亚马逊AI支出成效显著，而Meta落后；同时Anthropic考虑新一轮融资，估值超9000亿美元。",
+      "importance": "高",
+      "reason": "重大商业动态，涉及多家海外科技巨头AI投资回报及Anthropic巨额融资",
+      "tags": [
+        "财报",
+        "AI投资",
+        "Anthropic"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-04-30/137-ventures-eyes-10-billion-spacex-windfall-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-30 17:36:29",
+      "impact_score": 270.0
+    },
+    {
+      "index": 4,
+      "title": "SoftBank reportedly weighs $100 billion valuation for new AI and robotics spinout in potential U.S. IPO",
+      "summary": "5月1日消息，软银集团计划创建并分拆一家名为“Roze”的独立AI与机器人公司，估值或达1000亿美元，并考虑在美国上市。",
+      "importance": "高",
+      "reason": "重大商业动态，软银巨额估值分拆AI公司，影响全球AI产业格局",
+      "tags": [
+        "软银",
+        "AI",
+        "IPO"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-04-30/bloomberg-tech-4-30-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-30 20:31:02",
+      "impact_score": 240.0
+    },
+    {
+      "index": 5,
+      "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+      "summary": "5月1日消息，知情人士透露，AI公司Anthropic已收到多份主动报价，计划以8500亿至9000亿美元估值融资500亿美元。",
+      "importance": "高",
+      "reason": "重大融资事件，Anthropic估值逼近万亿，显示AI行业资本热度",
+      "tags": [
+        "融资",
+        "Anthropic",
+        "估值"
+      ],
+      "url": "https://www.cnbc.com/2026/04/30/softbank-roze-ai-robotics-ipo-100-billion-ft-report.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-04-30 05:12:54",
+      "impact_score": 240.0
+    },
+    {
+      "index": 6,
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "summary": "5月1日消息，马斯克与奥特曼在法庭对峙，马斯克指控OpenAI背离造福人类的创始使命，转向盈利，此案可能改变OpenAI及ChatGPT的未来。",
+      "importance": "高",
+      "reason": "重大法律纠纷，直接影响OpenAI治理和AI行业发展方向",
+      "tags": [
+        "诉讼",
+        "OpenAI",
+        "马斯克"
+      ],
+      "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-04-30 00:07:15",
+      "impact_score": 210.0
+    },
+    {
+      "index": 7,
+      "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
+      "summary": "5月1日消息，旧金山初创公司Goodfire发布新工具Silico，允许研究人员和工程师在训练过程中深入查看并调整AI模型参数，实现更精细的行为控制。",
+      "importance": "中",
+      "reason": "重大学术/技术突破，提升LLM可解释性和可控性",
+      "tags": [
+        "可解释性",
+        "LLM",
+        "调试工具"
+      ],
+      "url": "https://arxiv.org/abs/2604.27195",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-01 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 8,
+      "title": "Musk Says xAI Has Distilled OpenAI’s Models",
+      "summary": "5月1日消息，马斯克在诉讼交叉质询中承认，其旗下xAI公司部分使用了OpenAI模型的知识蒸馏技术来开发自有模型。",
+      "importance": "中",
+      "reason": "涉及AI模型技术争议，与诉讼案相关",
+      "tags": [
+        "蒸馏",
+        "xAI",
+        "OpenAI"
+      ],
+      "url": "https://arxiv.org/abs/2604.27217",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-01 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 9,
+      "title": "Microsoft Pushes Usage-Based Pricing as AI Eats into Cloud Margins",
+      "summary": "5月1日消息，微软CEO纳德拉表示AI应用使用量激增，但拖累云业务利润率，微软因此推动基于使用量的定价模式以提升收入。",
+      "importance": "中",
+      "reason": "重大商业动态，微软调整AI定价策略，影响云计算市场",
+      "tags": [
+        "微软",
+        "定价",
+        "AI"
+      ],
+      "url": "https://arxiv.org/abs/2604.27274",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-01 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 10,
+      "title": "Shares in Japanese toilet maker Toto soar on AI-related pivot",
+      "summary": "5月1日消息，日本卫浴公司Toto因宣布扩大半导体组件生产计划，股价飙升，市场看好其向AI相关业务转型。",
+      "importance": "低",
+      "reason": "海外公司业务转型动态，但影响相对有限",
+      "tags": [
+        "Toto",
+        "AI",
+        "转型"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-04-30/stay-away-from-ipo-until-it-gets-its-footing-forrest-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-04-30 18:42:52",
+      "impact_score": 180.0
+    },
+    {
+      "index": 11,
+      "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+      "summary": "5月1日消息，OpenAI宣布为ChatGPT账户推出可选高级安全功能，并与安全密钥提供商Yubico合作，增强用户账户保护。",
+      "importance": "中",
+      "reason": "安全与伦理动态，提升AI产品安全性",
+      "tags": [
+        "安全",
+        "OpenAI",
+        "合作"
+      ],
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-04-30 16:57:14",
+      "impact_score": 173.0
+    },
+    {
+      "index": 12,
+      "title": "These Men Allegedly Profit Off Teaching People How to Make AI Porn",
+      "summary": "5月1日消息，三名亚利桑那州女性起诉一群男子，指控其利用她们的照片制作AI色情内容，并开设在线课程教他人牟利。",
+      "importance": "低",
+      "reason": "AI伦理与法律事件，但影响范围较小",
+      "tags": [
+        "AI色情",
+        "诉讼",
+        "伦理"
+      ],
+      "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
+      "source": "MIT Technology Review",
+      "original_pub_date": "2026-04-30 15:59:41",
+      "impact_score": 165.0
+    },
+    {
+      "index": 13,
+      "title": "UK Group Says OpenAI’s GPT-5.5 is Comparable to Anthropic Mythos in Cybersecurity Capabilities",
+      "summary": "5月1日消息，英国政府网络安全测试小组称，OpenAI的GPT-5.5模型在部分任务中与Anthropic的Claude Mythos模型能力相当，均能完成复杂网络攻击模拟。",
+      "importance": "中",
+      "reason": "重大产品发布，涉及GPT-5.5与Mythos的对比评测",
+      "tags": [
+        "GPT-5.5",
+        "网络安全",
+        "评测"
+      ],
+      "url": "https://www.theinformation.com/briefings/musk-says-xai-distilled-openais-models",
+      "source": "The Information",
+      "original_pub_date": "2026-04-30 18:48:06",
+      "impact_score": 160.0
+    },
+    {
+      "index": 14,
+      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+      "summary": "5月1日消息，OpenAI宣布其网络安全测试工具GPT-5.5 Cyber将首先仅向“关键网络防御者”开放，此前曾批评Anthropic限制Mythos访问。",
+      "importance": "中",
+      "reason": "重大产品发布，涉及AI安全工具访问限制",
+      "tags": [
+        "GPT-5.5",
+        "安全",
+        "访问限制"
+      ],
+      "url": "https://www.theinformation.com/articles/microsoft-pushes-usage-based-pricing-ai-eats-cloud-margins",
+      "source": "The Information",
+      "original_pub_date": "2026-04-30 18:59:03",
+      "impact_score": 158.0
+    },
+    {
+      "index": 15,
+      "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
+      "summary": "5月1日消息，支付公司Stripe推出数字钱包Link，支持用户连接卡片和银行账户，并授权自主AI代理通过审批流程安全消费。",
+      "importance": "中",
+      "reason": "重大商业动态，AI代理支付基础设施创新",
+      "tags": [
+        "Stripe",
+        "AI代理",
+        "支付"
+      ],
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/",
+      "source": "Wired AI",
+      "original_pub_date": "2026-04-30 18:54:54",
+      "impact_score": 158.0
+    },
+    {
+      "index": 16,
+      "title": "X announces a rebuilt ad platform powered by AI",
+      "summary": "5月1日消息，X平台宣布推出由AI驱动的全新广告平台，旨在提升广告收入并恢复增长。",
+      "importance": "中",
+      "reason": "重大商业动态，X平台AI广告平台重建",
+      "tags": [
+        "X",
+        "广告",
+        "AI"
+      ],
+      "url": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-04-30 17:53:53",
+      "impact_score": 158.0
+    },
+    {
+      "index": 17,
+      "title": "NSA Uses Anthropic’s Mythos to Find Microsoft Tech Flaws",
+      "summary": "5月1日消息，美国国家安全局使用Anthropic的Mythos模型查找微软软件安全漏洞，旨在利用AI增强网络情报能力。",
+      "importance": "高",
+      "reason": "重大政策与安全动态，政府机构使用AI进行网络安全行动",
+      "tags": [
+        "NSA",
+        "Anthropic",
+        "网络安全"
+      ],
+      "url": "https://www.ft.com/content/38969e97-92e4-4066-a554-27274d32d545",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-05-01 05:17:56",
+      "impact_score": 150.0
+    }
+  ],
+  "summary": "今日从195条原始信息中精选出11条国内动态和17条国际动态，其中8条为高重要性。 重点关注：杭州为具身智能机器人立法，今起施行；阿里云领跑智能体安全，四项满分彰显AI安全硬实力；Musk Battles OpenAI Lawyer Over Claims Co-Founders Stole a Charity。",
+  "statistics": {
+    "raw_domestic": 37,
+    "raw_international": 158,
+    "raw_total": 195,
+    "final_domestic": 11,
+    "final_international": 17
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "5月1日消息，杭州正式施行全国首部具身智能机器人领域地方性法规《杭州市促进具身智能机器人产业发展条例》，该市已集聚机器人产业相关企业700余家，2025年产业集群产值达1068亿元。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "5月1日消息，阿里云在IDC《2026中国智能体威胁检测技术评估》报告中获总分最高、满分项最多，其Agent安全中心产品斩获4项满分，在漏洞检测、运行时检测、MCP安全检测三大维度表现优异。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "5月1日消息，阿里巴巴ATH事业群旗下创新事业部研发的视频模型HappyHorse开启灰测并接入千问App，该模型曾在盲测平台Artificial Analysis AI Video Arena登顶，但正式测试未达预期。",
+      "importance": "中"
+    },
+    {
+      "index": 4,
+      "summary": "5月1日消息，小红书发布内部信宣布加大AI投入，柯南出任总裁；同时阿里云域名产品因上游成本上调将于5月12日调价，联发科一季度毛利率同比下滑1.8个百分点。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "5月1日消息，阿里发布数字员工产品QoderWake，该产品可根据企业业务流程定制专属数字员工，能够承担工程师、运营、销售等多种岗位角色。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "5月1日消息，马斯克与OpenAI的诉讼案进入高潮，OpenAI律师在交叉质询中质疑马斯克的动机，指控其心怀不满并背信弃义。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "5月1日消息，科技巨头财报显示AI投资回报分化，Alphabet和亚马逊AI支出成效显著，而Meta落后；同时Anthropic考虑新一轮融资，估值超9000亿美元。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "5月1日消息，软银集团计划创建并分拆一家名为“Roze”的独立AI与机器人公司，估值或达1000亿美元，并考虑在美国上市。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "5月1日消息，知情人士透露，AI公司Anthropic已收到多份主动报价，计划以8500亿至9000亿美元估值融资500亿美元。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "5月1日消息，马斯克与奥特曼在法庭对峙，马斯克指控OpenAI背离造福人类的创始使命，转向盈利，此案可能改变OpenAI及ChatGPT的未来。",
+      "importance": "高"
+    }
+  ]
+}
