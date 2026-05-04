@@ -1,0 +1,305 @@
+{
+  "date": "2026-05-04",
+  "generated_at": "2026-05-04 10:18:13",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+      "summary": "5月4日消息，国内研究团队开源新一代具身智能仿真框架，通过高吞吐并行高保真渲染技术突破视觉仿真算力瓶颈，助力规模化训练，推动具身智能创新。",
+      "importance": "高",
+      "reason": "国内研究团队在具身智能领域取得重大技术突破并开源，属于重大学术突破，对AI产业发展有重要推动作用。",
+      "tags": [
+        "学术突破",
+        "开源",
+        "具身智能"
+      ],
+      "url": "https://www.qbitai.com/2026/05/412870.html",
+      "source": "量子位",
+      "original_pub_date": "2026-05-03 03:56:44",
+      "impact_score": 270.0
+    },
+    {
+      "index": 2,
+      "title": "豆包将在免费模式外新增付费订阅，推出三档月包/年包价格｜最前线",
+      "summary": "5月4日消息，字节跳动旗下豆包在App Store页面披露付费版本服务声明，推出标准版、加强版、专业版三档订阅价格，月费分别为68元、200元、500元，官方回应称付费功能仍在测试阶段。",
+      "importance": "高",
+      "reason": "字节跳动旗下AI产品豆包探索付费模式，属于重大商业动态，反映国内AI产品商业化趋势。",
+      "tags": [
+        "商业动态",
+        "付费订阅",
+        "字节跳动"
+      ],
+      "url": "https://36kr.com/p/3794799114476809?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-04 09:49:40",
+      "impact_score": 234.0
+    },
+    {
+      "index": 3,
+      "title": "豆包将在免费模式外新增付费订阅 主打生产力场景",
+      "summary": "5月4日消息，字节跳动旗下豆包计划推出付费订阅服务，主打PPT生成、数据分析、影视制作等生产力场景，免费版本继续面向日常使用，相关方案细节仍在测试中。",
+      "importance": "高",
+      "reason": "进一步明确豆包付费功能聚焦生产力场景，属于重大商业动态，体现国内AI产品差异化竞争策略。",
+      "tags": [
+        "商业动态",
+        "付费订阅",
+        "字节跳动"
+      ],
+      "url": "https://36kr.com/newsflashes/3794527211707398?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-04 05:12:41",
+      "impact_score": 221.0
+    },
+    {
+      "index": 4,
+      "title": "豆包将在免费模式外新增付费订阅，官方回应",
+      "summary": "5月4日消息，豆包官方回应付费订阅传闻，称始终提供免费服务，同时探索增值服务，付费功能将专注复杂任务和生产力场景，如PPT生成、数据分析、影视制作等。",
+      "importance": "中",
+      "reason": "官方确认付费计划，属于重要商业动态，但信息与前两条重复，重要性略低。",
+      "tags": [
+        "商业动态",
+        "付费订阅",
+        "字节跳动"
+      ],
+      "url": "https://36kr.com/newsflashes/3794749752728585?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-04 09:05:02",
+      "impact_score": 210.0
+    },
+    {
+      "index": 5,
+      "title": "精锻科技：当前公司机器人业务尚未形成销售收入",
+      "summary": "5月4日消息，精锻科技在业绩说明会表示，公司机器人相关业务仍处于研发和市场开拓阶段，量产设备计划于2026年到位，当前尚未形成销售收入。",
+      "importance": "低",
+      "reason": "国内公司披露机器人业务进展，属于一般商业动态，但信息较为常规，重要性较低。",
+      "tags": [
+        "商业动态",
+        "机器人",
+        "精锻科技"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/kBkPw2ouMFRso8Nm.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-04 05:26:00",
+      "impact_score": 180.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "SpaceX IPO Set to Drive Billions in Tech Stock Sales",
+      "summary": "5月4日消息，SpaceX邀请近200名华尔街大型基金投资者参加高管演示会，其IPO预计将推动数十亿美元科技股销售。",
+      "importance": "高",
+      "reason": "SpaceX作为海外公司，其IPO属于重大商业动态，涉及巨额融资，影响全球科技股市场。",
+      "tags": [
+        "IPO",
+        "融资",
+        "SpaceX"
+      ],
+      "url": "https://www.theinformation.com/articles/spacex-ipo-set-drive-billions-tech-stock-sales",
+      "source": "The Information",
+      "original_pub_date": "2026-05-03 15:00:14",
+      "impact_score": 322.5
+    },
+    {
+      "index": 2,
+      "title": "Musk Messaged Brockman About Settlement",
+      "summary": "5月4日消息，马斯克在庭审前向OpenAI总裁布罗克曼发送信息，试探就其对OpenAI的诉讼达成和解的可能性。",
+      "importance": "高",
+      "reason": "涉及马斯克与OpenAI之间的重大法律纠纷，属于安全与伦理及商业动态，影响AI行业格局。",
+      "tags": [
+        "诉讼",
+        "马斯克",
+        "OpenAI"
+      ],
+      "url": "https://arxiv.org/abs/2605.00224",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-04 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 3,
+      "title": "‘This is fine’ creator says AI startup stole his art",
+      "summary": "5月4日消息，知名漫画《This is fine》创作者指控AI初创公司Artisan在广告中未经授权使用其艺术作品，引发AI版权争议。",
+      "importance": "中",
+      "reason": "涉及AI伦理与版权问题，属于安全与伦理类别，引发行业关注。",
+      "tags": [
+        "版权",
+        "AI伦理",
+        "争议"
+      ],
+      "url": "https://arxiv.org/abs/2605.00438",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-04 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 4,
+      "title": "Software group IFS gears up for listing amid AI unease",
+      "summary": "5月4日消息，工业软件集团IFS正筹备在伦敦、欧洲或纽约上市，CEO表示将考虑市场时机，但AI行业不确定性带来挑战。",
+      "importance": "中",
+      "reason": "IFS作为海外软件公司，其IPO计划属于重大商业动态，反映AI行业融资环境。",
+      "tags": [
+        "IPO",
+        "工业软件",
+        "融资"
+      ],
+      "url": "https://www.theinformation.com/briefings/musk-messaged-brockman-settlement",
+      "source": "The Information",
+      "original_pub_date": "2026-05-04 07:22:18",
+      "impact_score": 160.0
+    },
+    {
+      "index": 5,
+      "title": "Nvidia’s Push Into Physical AI Sparks Rally in Asian Partners",
+      "summary": "5月4日消息，英伟达进军物理AI领域，带动其亚洲合作伙伴股价上涨，进一步整合区域业务生态系统。",
+      "importance": "高",
+      "reason": "英伟达作为海外AI芯片巨头，其战略动向影响全球AI产业链，属于重大产品发布与商业动态。",
+      "tags": [
+        "英伟达",
+        "物理AI",
+        "合作伙伴"
+      ],
+      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-05-03 20:16:51",
+      "impact_score": 145.0
+    },
+    {
+      "index": 6,
+      "title": "Anthropic Near to Finalizing $1.5 Billion Private Equity Joint Venture: Report",
+      "summary": "5月4日消息，AI公司Anthropic接近完成与私募股权公司黑石和Hellman & Friedman的15亿美元合资企业，向客户销售AI服务。",
+      "importance": "高",
+      "reason": "Anthropic作为海外AI明星公司，大额融资属于重大商业动态，显示AI商业化加速。",
+      "tags": [
+        "融资",
+        "合资",
+        "Anthropic"
+      ],
+      "url": "https://www.ft.com/content/91aa6922-a6e1-4383-83bd-af5899587fd8",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-05-03 04:00:05",
+      "impact_score": 142.5
+    },
+    {
+      "index": 7,
+      "title": "Start-ups move fast with AI-generated code",
+      "summary": "5月4日消息，初创公司利用AI生成代码加速产品开发，克服了长期存在的开发瓶颈，提升效率。",
+      "importance": "中",
+      "reason": "反映海外AI应用趋势，属于商业动态，但影响力相对较低。",
+      "tags": [
+        "AI代码",
+        "初创公司",
+        "效率"
+      ],
+      "url": "https://arxiv.org/abs/2605.00276",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-04 04:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 8,
+      "title": "State Healthcare Sites Are Sharing Personal Data with Big Tech",
+      "summary": "5月4日消息，美国多个州医疗网站将位置、种族、移民数据等个人信息分享给TikTok、Meta等科技公司，专家称现有隐私法不足。",
+      "importance": "高",
+      "reason": "涉及重大隐私与安全事件，属于安全与伦理类别，影响公众对AI数据使用的信任。",
+      "tags": [
+        "隐私",
+        "数据安全",
+        "医疗"
+      ],
+      "url": "https://www.theinformation.com/briefings/gamestop-makes-bid-buy-ebay-56-billion",
+      "source": "The Information",
+      "original_pub_date": "2026-05-04 05:50:28",
+      "impact_score": 127.5
+    },
+    {
+      "index": 9,
+      "title": "‘It’s crucial’: how AI is reshaping the fragrance industry",
+      "summary": "5月4日消息，AI正在重塑香水行业，从超个性化定制到降低成本，人工智能逐渐渗透到香水制造领域。",
+      "importance": "低",
+      "reason": "属于AI行业应用案例，但影响力有限，属于关注级别。",
+      "tags": [
+        "AI应用",
+        "香水",
+        "个性化"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-05-03/asian-stocks-soar-as-nvidia-increases-supply-chain-reliance-to-90-in-asia",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-03 00:00:00",
+      "impact_score": 127.5
+    },
+    {
+      "index": 10,
+      "title": "ASX Warns Firms About ‘Ramping’ AI Upside to Push Stock Prices",
+      "summary": "5月4日消息，澳大利亚证券交易所警告企业不要夸大AI对业务的影响以推高股价，称将监控市场中的“拉抬”行为。",
+      "importance": "中",
+      "reason": "涉及监管机构对AI炒作行为的警告，属于政策与法规类别，影响市场规范。",
+      "tags": [
+        "监管",
+        "AI炒作",
+        "澳大利亚"
+      ],
+      "url": "https://arxiv.org/abs/2605.00334",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-04 04:00:00",
+      "impact_score": 120.0
+    }
+  ],
+  "summary": "今日从82条原始信息中精选出5条国内动态和10条国际动态，其中8条为高重要性。 重点关注：突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练；豆包将在免费模式外新增付费订阅，推出三档月包/年包价格｜最前线；豆包将在免费模式外新增付费订阅 主打生产力场景。",
+  "statistics": {
+    "raw_domestic": 16,
+    "raw_international": 66,
+    "raw_total": 82,
+    "final_domestic": 5,
+    "final_international": 10
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "5月4日消息，国内研究团队开源新一代具身智能仿真框架，通过高吞吐并行高保真渲染技术突破视觉仿真算力瓶颈，助力规模化训练，推动具身智能创新。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "5月4日消息，字节跳动旗下豆包在App Store页面披露付费版本服务声明，推出标准版、加强版、专业版三档订阅价格，月费分别为68元、200元、500元，官方回应称付费功能仍在测试阶段。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "5月4日消息，字节跳动旗下豆包计划推出付费订阅服务，主打PPT生成、数据分析、影视制作等生产力场景，免费版本继续面向日常使用，相关方案细节仍在测试中。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "5月4日消息，豆包官方回应付费订阅传闻，称始终提供免费服务，同时探索增值服务，付费功能将专注复杂任务和生产力场景，如PPT生成、数据分析、影视制作等。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "5月4日消息，SpaceX邀请近200名华尔街大型基金投资者参加高管演示会，其IPO预计将推动数十亿美元科技股销售。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "5月4日消息，马斯克在庭审前向OpenAI总裁布罗克曼发送信息，试探就其对OpenAI的诉讼达成和解的可能性。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "5月4日消息，英伟达进军物理AI领域，带动其亚洲合作伙伴股价上涨，进一步整合区域业务生态系统。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "5月4日消息，AI公司Anthropic接近完成与私募股权公司黑石和Hellman & Friedman的15亿美元合资企业，向客户销售AI服务。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "5月4日消息，美国多个州医疗网站将位置、种族、移民数据等个人信息分享给TikTok、Meta等科技公司，专家称现有隐私法不足。",
+      "importance": "高"
+    }
+  ]
+}
