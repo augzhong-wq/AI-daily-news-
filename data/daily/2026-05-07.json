@@ -1,0 +1,438 @@
+{
+  "date": "2026-05-07",
+  "generated_at": "2026-05-07 10:29:36",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "8点1氪丨三星宣布停止在中国大陆市场销售所有家电产品；李嘉诚抛售资产套现约455亿；月之暗面将完成20亿美元新融资，估值破200亿美元",
+      "summary": "5月7日消息，月之暗面将完成20亿美元新融资，投后估值突破200亿美元，成为国内AI领域估值最高的独角兽之一。",
+      "importance": "高",
+      "reason": "月之暗面是中国AI公司，获得大额融资，属于重大商业动态。",
+      "tags": [
+        "融资",
+        "估值",
+        "AI"
+      ],
+      "url": "https://36kr.com/p/3798462137637892?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-06 23:58:15",
+      "impact_score": 352.5
+    },
+    {
+      "index": 2,
+      "title": "一家AI原生健康硬件公司完成近亿元融资，韶音、甘洁出手，高秉强投过｜硬氪首发",
+      "summary": "5月7日消息，AI原生健康硬件公司杉木SHANMU完成近亿元A轮融资，由石溪资本领投，韶音科技等参投，资金将用于消费医疗产品上市和医疗注册证申报。",
+      "importance": "中",
+      "reason": "中国AI硬件公司获得近亿元融资，属于重要商业动态。",
+      "tags": [
+        "融资",
+        "AI",
+        "健康"
+      ],
+      "url": "https://36kr.com/p/3682907323150215?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-06 01:34:20",
+      "impact_score": 342.5
+    },
+    {
+      "index": 3,
+      "title": "中国高校科研 AI 云市场，阿里云第一！",
+      "summary": "5月7日消息，沙利文报告显示阿里云以26%市场份额领跑中国高校科研AI4S云市场，预计2030年该市场规模将达107亿元。",
+      "importance": "中",
+      "reason": "阿里云是中国公司，在高校AI云市场取得领先地位，属于重要商业动态。",
+      "tags": [
+        "AI",
+        "市场",
+        "阿里云"
+      ],
+      "url": "https://36kr.com/newsflashes/3799034181573897?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-07 09:37:24",
+      "impact_score": 292.5
+    },
+    {
+      "index": 4,
+      "title": "斯坦福博士后创立的柔性触觉传感器公司获超亿元融资，低成本触觉手套将量产落地｜硬氪首发",
+      "summary": "5月7日消息，途见科技完成超亿元Pre-A轮及Pre-A+轮融资，投资方包括联想之星等，资金将用于机器人触觉产品矩阵拓展和生产体系升级。",
+      "importance": "中",
+      "reason": "中国触觉传感器公司获得超亿元融资，属于重要商业动态。",
+      "tags": [
+        "融资",
+        "机器人",
+        "传感器"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/oue4W89QPv8sRtVl.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-07 03:35:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 5,
+      "title": "无问芯穹再获超7亿融资：首发AI生产力公式，跻身Token经济枢纽",
+      "summary": "5月7日消息，无问芯穹宣布再获超7亿元融资，由杭州高新金投集团和惠远资本联合领投，资金将用于夯实多元异构技术和软硬协同优势。",
+      "importance": "高",
+      "reason": "中国AI基础设施公司获得超7亿元大额融资，属于重大商业动态。",
+      "tags": [
+        "融资",
+        "AI",
+        "基础设施"
+      ],
+      "url": "https://36kr.com/p/3797482256325888?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-06 11:25:44",
+      "impact_score": 281.0
+    },
+    {
+      "index": 6,
+      "title": "像素绽放PixelBloom完成C轮融资，全面发力AI办公解决方案Agent：从“一分钟生成PPT”到“交付商用级结果”",
+      "summary": "5月7日消息，像素绽放PixelBloom完成C轮融资，由国科投资与商汤国香资本联合领投，资金将用于AI办公解决方案Agent的研发和商业化。",
+      "importance": "中",
+      "reason": "中国AI办公公司完成C轮融资，属于重要商业动态。",
+      "tags": [
+        "融资",
+        "AI",
+        "办公"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/XLaWypQzCBXv3vqU.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-06 06:13:00",
+      "impact_score": 275.0
+    },
+    {
+      "index": 7,
+      "title": "三星官宣家电业务退出中国大陆市场；曝DeepSeek投后估值或达450亿美元；中国航天员中心招募「卧床」志愿者：最高拿7万元，还能玩手机",
+      "summary": "5月7日消息，DeepSeek被曝获国家大基金领投磋商，投后估值或达450亿美元，成为国内AI领域估值最高的公司之一。",
+      "importance": "高",
+      "reason": "DeepSeek是中国AI公司，获得国家大基金领投且估值极高，属于重大商业动态。",
+      "tags": [
+        "融资",
+        "估值",
+        "AI"
+      ],
+      "url": "https://36kr.com/p/3797155747748867?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-07 01:30:00",
+      "impact_score": 271.0
+    },
+    {
+      "index": 8,
+      "title": "豆包将新增付费订阅，主打生产力场景；宇树机器人在美买票坐飞机，电池被没收；亚马逊进军物流行业；红果短剧将收费？抖音副总裁辟谣",
+      "summary": "5月7日消息，豆包将在免费模式外新增付费订阅，主打生产力场景，拓展商业化路径。",
+      "importance": "中",
+      "reason": "豆包是字节跳动旗下AI产品，新增付费订阅属于重要产品动态。",
+      "tags": [
+        "AI",
+        "付费",
+        "字节跳动"
+      ],
+      "url": "https://36kr.com/p/3797662460419337?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-07 01:30:10",
+      "impact_score": 266.0
+    },
+    {
+      "index": 9,
+      "title": "爱芯元智的双轮驱动：车载放量，边缘爆发",
+      "summary": "5月7日消息，爱芯元智在AI芯片领域实现车载智能化和边缘大模型双轮驱动，受益于DeepSeek等大模型突破推动边缘推理发展。",
+      "importance": "中",
+      "reason": "爱芯元智是中国AI芯片公司，其双轮驱动战略属于重要商业动态。",
+      "tags": [
+        "AI芯片",
+        "车载",
+        "边缘计算"
+      ],
+      "url": "https://www.leiphone.com/category/yanxishe/eM6mjqZl27orl1gE.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-07 03:16:00",
+      "impact_score": 250.0
+    },
+    {
+      "index": 10,
+      "title": "云知声山海知医慧保大模型重磅发布：以高密智能深耕高价值场景，重构医疗保险数智新生态",
+      "summary": "5月7日消息，云知声发布山海知医慧保大模型，聚焦医疗保险高价值场景，推动医疗保障体系数智化。",
+      "importance": "中",
+      "reason": "云知声是中国AI公司，发布行业大模型属于重要产品发布。",
+      "tags": [
+        "大模型",
+        "发布",
+        "医疗"
+      ],
+      "url": "https://36kr.com/p/3797787228151048?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-07 01:00:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 11,
+      "title": "独家丨腾讯云成立云产品六部，王慧星担任负责人",
+      "summary": "5月7日消息，腾讯云成立云产品六部，由副总裁王慧星兼任负责人，负责构建AI原生的代码与生产力智能体，推进商业化。",
+      "importance": "中",
+      "reason": "腾讯云是中国公司，成立新部门聚焦AI智能体属于重要商业动态。",
+      "tags": [
+        "腾讯云",
+        "AI",
+        "组织架构"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/hStD94lQmS7vzJG3.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-07 03:24:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 12,
+      "title": "全球首款8K AI拇指运动相机！光子跃迁LEAPTIC Cube正式预售",
+      "summary": "5月7日消息，光子跃迁发布全球首款8K AI拇指运动相机LEAPTIC Cube，该产品曾获CES奖项并登上央视春晚。",
+      "importance": "低",
+      "reason": "中国公司发布AI影像产品，属于产品发布但影响力相对较低。",
+      "tags": [
+        "AI",
+        "相机",
+        "发布"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/N2sl4ulRn8N6QNST.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-06 00:41:00",
+      "impact_score": 210.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "EU agrees to simplify AI rules to boost innovation and ban ‘nudification' apps to protect citizens",
+      "summary": "5月7日消息，欧盟达成政治协议简化AI规则以促进创新，并禁止“深度伪造裸体”应用以保护公民，标志着欧盟AI法案的重大修订。",
+      "importance": "高",
+      "reason": "重大政策与法规：欧盟AI法案修订，直接影响全球AI监管格局",
+      "tags": [
+        "欧盟",
+        "AI法案",
+        "政策法规"
+      ],
+      "url": "https://www.theinformation.com/articles/recap-ipo-reckoning",
+      "source": "The Information",
+      "original_pub_date": "2026-05-06 20:27:09",
+      "impact_score": 240.0
+    },
+    {
+      "index": 2,
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "summary": "5月7日消息，埃隆·马斯克与萨姆·奥尔特曼就OpenAI未来展开高 stakes 法庭对决，马斯克指控OpenAI背离造福人类的创始使命，转向追求利润。",
+      "importance": "高",
+      "reason": "重大商业动态与安全伦理：OpenAI创始人与CEO的法律纠纷，影响AI治理方向",
+      "tags": [
+        "OpenAI",
+        "马斯克",
+        "诉讼"
+      ],
+      "url": "https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/",
+      "source": "Wired AI",
+      "original_pub_date": "2026-05-06 23:23:45",
+      "impact_score": 229.5
+    },
+    {
+      "index": 3,
+      "title": "Anthropic’s Amodei Says ‘80X’ Revenue, Usage Increase Surprised Company",
+      "summary": "5月7日消息，Anthropic CEO Dario Amodei表示第一季度收入和客户AI使用量增长80倍，远超公司预期，在开发者大会上透露这一惊人增长。",
+      "importance": "高",
+      "reason": "重大商业动态：AI独角兽营收爆发式增长，反映行业需求强劲",
+      "tags": [
+        "Anthropic",
+        "营收增长",
+        "AI商业"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-05-07/skyroot-rockets-to-unicorn-status-backed-by-gic-blackrock-funds",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-07 04:23:28",
+      "impact_score": 225.0
+    },
+    {
+      "index": 4,
+      "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
+      "summary": "5月7日消息，苹果同意支付2.5亿美元和解一桩集体诉讼，该诉讼指控苹果对Siri的AI功能过度承诺但延迟交付。",
+      "importance": "高",
+      "reason": "重大商业动态与安全伦理：科技巨头因AI功能延迟面临巨额赔偿",
+      "tags": [
+        "苹果",
+        "Siri",
+        "诉讼"
+      ],
+      "url": "https://arxiv.org/abs/2605.04488",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-07 04:00:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 5,
+      "title": "How Does Thinking Mode Change LLM Moral Judgments? A Controlled Instant-vs-Thinking Comparison Across Five Frontier Models",
+      "summary": "5月7日消息，一项新研究评估了推理模式是否改变同一模型检查点内的道德判断，涉及Claude Sonnet 4.6、GPT 5.5、Gemini 3 Flash等五个前沿模型。",
+      "importance": "中",
+      "reason": "重大学术突破：前沿模型推理模式对道德判断的影响研究",
+      "tags": [
+        "LLM",
+        "道德判断",
+        "学术研究"
+      ],
+      "url": "https://arxiv.org/abs/2605.04908",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-07 04:00:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 6,
+      "title": "Curated AI beats frontier LLMs at pharma asset discovery",
+      "summary": "5月7日消息，一项研究显示，具有策划数据后端的AI平台Gosset在药物资产发现方面击败了包括Gemini 3在内的前沿通用LLM。",
+      "importance": "中",
+      "reason": "重大学术突破：AI在制药领域的应用超越通用大模型",
+      "tags": [
+        "AI制药",
+        "LLM",
+        "学术研究"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-05-06/gamestop-s-cohen-says-he-s-selling-on-ebay-to-help-fund-takeover",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-06 23:59:45",
+      "impact_score": 195.0
+    },
+    {
+      "index": 7,
+      "title": "Samsung’s stock market value hits $1tn on AI euphoria",
+      "summary": "5月7日消息，三星电子市值突破1万亿美元，受人工智能芯片需求推动，韩国Kospi指数创下新纪录。",
+      "importance": "中",
+      "reason": "重大商业动态：AI热潮推动半导体巨头市值里程碑",
+      "tags": [
+        "三星",
+        "市值",
+        "AI芯片"
+      ],
+      "url": "https://www.theinformation.com/briefings/doordashs-revenue-growth-lifted-deliveroo-purchase",
+      "source": "The Information",
+      "original_pub_date": "2026-05-06 20:31:53",
+      "impact_score": 195.0
+    },
+    {
+      "index": 8,
+      "title": "Google&#8217;s AI search summaries will now quote Reddit",
+      "summary": "5月7日消息，谷歌更新AI搜索摘要功能，将引用Reddit等论坛的一手来源内容，为用户提供更多视角的预览。",
+      "importance": "中",
+      "reason": "重大产品发布：谷歌AI搜索功能升级，整合社交平台内容",
+      "tags": [
+        "谷歌",
+        "AI搜索",
+        "产品更新"
+      ],
+      "url": "https://www.ft.com/content/c93ba0c9-caec-4707-8f27-a1abb8de115e",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-05-06 22:14:31",
+      "impact_score": 180.0
+    },
+    {
+      "index": 9,
+      "title": "PayPal, Mastercard and Visa probed over alleged UK antitrust breaches",
+      "summary": "5月7日消息，英国金融行为监管局对PayPal、万事达卡和Visa涉嫌违反反垄断法展开调查，这是该机构罕见动用竞争法权力。",
+      "importance": "中",
+      "reason": "重大政策与法规：金融科技巨头面临反垄断调查",
+      "tags": [
+        "反垄断",
+        "支付",
+        "监管"
+      ],
+      "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-05-06 21:57:56",
+      "impact_score": 173.0
+    },
+    {
+      "index": 10,
+      "title": "Korea Surpasses Canada as World’s Seventh-Largest Stock Market",
+      "summary": "5月7日消息，韩国股市超越加拿大成为全球第七大股票市场，受人工智能芯片需求推动。",
+      "importance": "低",
+      "reason": "重大商业动态：AI芯片需求带动韩国资本市场地位提升",
+      "tags": [
+        "韩国",
+        "股市",
+        "AI芯片"
+      ],
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-05-06 15:37:32",
+      "impact_score": 173.0
+    },
+    {
+      "index": 11,
+      "title": "From Parameter Dynamics to Risk Scoring : Quantifying Sample-Level Safety Degradation in LLM Fine-tuning",
+      "summary": "5月7日消息，一项新研究提出从参数动态到风险评分的方法，量化LLM微调中样本级安全退化问题。",
+      "importance": "低",
+      "reason": "重大学术突破：LLM微调安全风险量化研究",
+      "tags": [
+        "LLM",
+        "安全",
+        "学术研究"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-05-07/daybreak-europe-5-7-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-07 08:15:09",
+      "impact_score": 165.0
+    }
+  ],
+  "summary": "今日从193条原始信息中精选出12条国内动态和11条国际动态，其中7条为高重要性。 重点关注：8点1氪丨三星宣布停止在中国大陆市场销售所有家电产品；李嘉诚抛售资产套现约455亿；月之暗面将完成20亿美元新融资，估值破200亿美元；无问芯穹再获超7亿融资：首发AI生产力公式，跻身Token经济枢纽；三星官宣家电业务退出中国大陆市场；曝DeepSeek投后估值或达450亿美元；中国航天员中心招募「卧床」志愿者：最高拿7万元，还能玩手机。",
+  "statistics": {
+    "raw_domestic": 39,
+    "raw_international": 154,
+    "raw_total": 193,
+    "final_domestic": 12,
+    "final_international": 11
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "5月7日消息，月之暗面将完成20亿美元新融资，投后估值突破200亿美元，成为国内AI领域估值最高的独角兽之一。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "5月7日消息，无问芯穹宣布再获超7亿元融资，由杭州高新金投集团和惠远资本联合领投，资金将用于夯实多元异构技术和软硬协同优势。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "5月7日消息，DeepSeek被曝获国家大基金领投磋商，投后估值或达450亿美元，成为国内AI领域估值最高的公司之一。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "5月7日消息，AI原生健康硬件公司杉木SHANMU完成近亿元A轮融资，由石溪资本领投，韶音科技等参投，资金将用于消费医疗产品上市和医疗注册证申报。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "5月7日消息，沙利文报告显示阿里云以26%市场份额领跑中国高校科研AI4S云市场，预计2030年该市场规模将达107亿元。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "5月7日消息，欧盟达成政治协议简化AI规则以促进创新，并禁止“深度伪造裸体”应用以保护公民，标志着欧盟AI法案的重大修订。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "5月7日消息，埃隆·马斯克与萨姆·奥尔特曼就OpenAI未来展开高 stakes 法庭对决，马斯克指控OpenAI背离造福人类的创始使命，转向追求利润。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "5月7日消息，Anthropic CEO Dario Amodei表示第一季度收入和客户AI使用量增长80倍，远超公司预期，在开发者大会上透露这一惊人增长。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "5月7日消息，苹果同意支付2.5亿美元和解一桩集体诉讼，该诉讼指控苹果对Siri的AI功能过度承诺但延迟交付。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "5月7日消息，一项新研究评估了推理模式是否改变同一模型检查点内的道德判断，涉及Claude Sonnet 4.6、GPT 5.5、Gemini 3 Flash等五个前沿模型。",
+      "importance": "中"
+    }
+  ]
+}
