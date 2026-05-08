@@ -1,0 +1,499 @@
+{
+  "date": "2026-05-08",
+  "generated_at": "2026-05-08 09:44:40",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "Plaud获头部大厂投资，目前估值达20亿美元｜硬氪独家",
+      "summary": "5月8日消息，AI卡片录音笔公司Plaud获腾讯投资，估值涨至约20亿美元，2024年总营收约5600万美金，利润率接近20%，并正推进与腾讯会议的硬件合作。",
+      "importance": "高",
+      "reason": "中国公司Plaud获得腾讯投资，估值大幅增长，属于重大商业动态。",
+      "tags": [
+        "AI",
+        "融资",
+        "投资",
+        "估值"
+      ],
+      "url": "https://36kr.com/p/3799129165863937?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-08 01:31:04",
+      "impact_score": 440.0
+    },
+    {
+      "index": 2,
+      "title": "氪星晚报 ｜千问PC端上线AI语音输入；宝马一季度利润降25%，至23亿欧元",
+      "summary": "5月8日消息，腾讯、百度等入股机器人灵巧手研发商临界点，该公司由智元机器人拆分成立，专注于灵巧手研发与生产。",
+      "importance": "高",
+      "reason": "腾讯、百度等中国头部公司投资中国机器人初创企业，属于重大商业动态。",
+      "tags": [
+        "AI",
+        "投资",
+        "机器人"
+      ],
+      "url": "https://36kr.com/p/3799089350712324?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-07 10:47:09",
+      "impact_score": 396.0
+    },
+    {
+      "index": 3,
+      "title": "中国高校科研 AI 云市场，阿里云第一！",
+      "summary": "5月8日消息，沙利文报告显示阿里云以26%市场份额领跑中国高校科研机构AI4S云市场，预计2030年该市场将达107亿元。",
+      "importance": "高",
+      "reason": "阿里云在中国高校AI科研云市场占据领先地位，反映中国AI基础设施发展态势。",
+      "tags": [
+        "AI",
+        "云计算",
+        "市场"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/oue4W89QPv8sRtVl.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-07 03:35:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 4,
+      "title": "36氪首发 | 清华系AI Infra厂商完成数亿元融资，以GPU为核心重构计算机系统架构",
+      "summary": "5月8日消息，清华系AI基础设施公司容芯致远完成天使轮数亿元融资，由北京绿色能源和低碳产业基金等领投，旨在以GPU为核心重构计算机系统架构。",
+      "importance": "高",
+      "reason": "中国AI基础设施初创公司获得大额融资，属于重大商业动态。",
+      "tags": [
+        "AI",
+        "融资",
+        "基础设施"
+      ],
+      "url": "https://36kr.com/p/3797662460419337?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-07 01:30:10",
+      "impact_score": 266.0
+    },
+    {
+      "index": 5,
+      "title": "无问芯穹再获超7亿融资：首发AI生产力公式，跻身Token经济枢纽",
+      "summary": "5月8日消息，无问芯穹宣布再获超7亿元融资，由杭州高新金投集团等领投，资金将用于夯实多元异构技术、强化软硬协同优势，稳居中国AI原生基础设施公司融资规模之首。",
+      "importance": "高",
+      "reason": "中国AI基础设施公司获得大额融资，属于重大商业动态。",
+      "tags": [
+        "AI",
+        "融资",
+        "基础设施"
+      ],
+      "url": "https://36kr.com/p/3799984046333186?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-08 01:45:14",
+      "impact_score": 260.0
+    },
+    {
+      "index": 6,
+      "title": "在模型厂碾压之前，AI视频Agent产品是否只能挣波快钱？",
+      "summary": "5月8日消息，中国AI视频生成赛道快速发展，字节跳动Seedance和快手可灵等国产模型高频迭代，阿里巴巴也推出HappyHorse 1.0视频生成模型，短剧和内容公司排队使用。",
+      "importance": "中",
+      "reason": "中国多家公司AI视频模型进展，反映国内AI应用动态。",
+      "tags": [
+        "AI",
+        "视频生成",
+        "模型"
+      ],
+      "url": "https://www.leiphone.com/category/yanxishe/eM6mjqZl27orl1gE.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-07 03:16:00",
+      "impact_score": 250.0
+    },
+    {
+      "index": 7,
+      "title": "三星官宣家电业务退出中国大陆市场；曝DeepSeek投后估值或达450亿美元；中国航天员中心招募「卧床」志愿者：最高拿7万元，还能玩手机",
+      "summary": "5月8日消息，DeepSeek获国家大基金领投磋商，投后估值或达450亿美元；月之暗面将完成20亿美元融资，投后估值超200亿美元。",
+      "importance": "高",
+      "reason": "中国AI公司DeepSeek和月之暗面获得大额融资，估值极高，属于重大商业动态。",
+      "tags": [
+        "AI",
+        "融资",
+        "估值"
+      ],
+      "url": "https://36kr.com/p/3786528811572481?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-07 11:31:32",
+      "impact_score": 240.0
+    },
+    {
+      "index": 8,
+      "title": "研发投入同比增长25.44%，奇瑞以科技创新推动高质量发展",
+      "summary": "5月8日消息，奇瑞集团一季度研发投入28.5亿元，同比增长25.44%，新能源销量同比增长63.8%，出口创中国汽车单月新纪录。",
+      "importance": "低",
+      "reason": "中国车企奇瑞的研发投入和业绩数据，属于一般商业动态。",
+      "tags": [
+        "创新",
+        "汽车"
+      ],
+      "url": "https://36kr.com/p/3799881836633093?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-08 00:02:19",
+      "impact_score": 225.0
+    },
+    {
+      "index": 9,
+      "title": "飞算JavaAI上线智能体模式，推出智能引导功能",
+      "summary": "5月8日消息，飞算JavaAI正式上线智能体模式，以多专家级Agent协作重构Java开发全流程，推出智能引导功能，覆盖项目文档生成、编译修复等场景。",
+      "importance": "中",
+      "reason": "中国AI产品飞算JavaAI发布新功能，属于产品动态。",
+      "tags": [
+        "AI",
+        "上线"
+      ],
+      "url": "https://36kr.com/p/3800022823951363?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-08 02:25:30",
+      "impact_score": 215.0
+    },
+    {
+      "index": 10,
+      "title": "总部人均奖金610万，中国厂却一毛不拔！三星、SK海力士国内员工集体求涨薪；昆仑芯启动A股IPO；男子五一加班身亡！涉事公司：假期自愿",
+      "summary": "5月8日消息，百度旗下昆仑芯启动A股IPO，百度持股比例57.67%。",
+      "importance": "中",
+      "reason": "中国AI芯片公司昆仑芯启动IPO，属于重大商业动态。",
+      "tags": [
+        "AI",
+        "IPO"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/hStD94lQmS7vzJG3.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-07 03:24:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 11,
+      "title": "小红书四年AI 路：FOMO、犹豫，到突然加速",
+      "summary": "5月8日消息，小红书成立AI一级部门Dots，建立从模型研发到产品的完整技术体系，加速AI布局。",
+      "importance": "中",
+      "reason": "中国互联网公司小红书成立AI一级部门，反映国内AI组织动态。",
+      "tags": [
+        "AI",
+        "组织架构"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/9W0R1Vr4Xt3eTXyg.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-08 02:01:00",
+      "impact_score": 200.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
+      "summary": "5月8日消息，特朗普政府考虑签署行政令，建立对新型AI模型的联邦监管框架，此举可能重塑美国AI监管格局。",
+      "importance": "高",
+      "reason": "美国重大政策动向，涉及AI监管行政令，影响全球AI产业",
+      "tags": [
+        "AI监管",
+        "行政令",
+        "美国政策"
+      ],
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/",
+      "source": "Wired AI",
+      "original_pub_date": "2026-05-07 21:37:20",
+      "impact_score": 275.0
+    },
+    {
+      "index": 2,
+      "title": "EU agrees to simplify AI rules to boost innovation and ban ‘nudification' apps to protect citizens",
+      "summary": "5月8日消息，欧盟议会与理事会达成政治协议，简化AI规则以促进创新，同时禁止‘脱衣’应用以保护公民权益。",
+      "importance": "高",
+      "reason": "欧盟重大AI法规调整，直接影响全球AI企业合规",
+      "tags": [
+        "欧盟",
+        "AI法案",
+        "法规简化"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-05-08/nvidia-ceo-says-he-would-join-trump-s-china-trip-if-invited",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-08 00:18:07",
+      "impact_score": 262.5
+    },
+    {
+      "index": 3,
+      "title": "Nvidia CEO Says He Would Join Trump’s China Trip If Invited",
+      "summary": "5月8日消息，英伟达CEO黄仁勋表示若受邀将欣然加入特朗普访华行程，此举可能影响中美AI芯片贸易关系。",
+      "importance": "高",
+      "reason": "英伟达CEO表态涉及中美科技关系，影响全球AI芯片供应链",
+      "tags": [
+        "英伟达",
+        "黄仁勋",
+        "中美关系"
+      ],
+      "url": "https://www.theinformation.com/articles/anti-drone-ai-startup-talks-2-billion-valuation",
+      "source": "The Information",
+      "original_pub_date": "2026-05-07 19:32:54",
+      "impact_score": 225.0
+    },
+    {
+      "index": 4,
+      "title": "Ex-OpenAI Researcher’s Six-Week-Old Startup Targets Funding at $4 Billion Valuation",
+      "summary": "5月8日消息，前OpenAI研究员创立的仅六周AI初创公司正寻求以40亿美元估值融资，英伟达投资热潮推动传统风投跟进。",
+      "importance": "高",
+      "reason": "重大商业动态，高估值融资反映AI赛道热度",
+      "tags": [
+        "融资",
+        "估值",
+        "AI初创"
+      ],
+      "url": "https://arxiv.org/abs/2605.04488",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-08 04:00:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 5,
+      "title": "Anthropic’s Amodei Says ‘80X’ Revenue, Usage Increase Surprised Company",
+      "summary": "5月8日消息，Anthropic CEO Dario Amodei表示第一季度营收和客户使用量增长80倍，远超公司预期。",
+      "importance": "高",
+      "reason": "Anthropic营收暴增，反映AI商业应用爆发式增长",
+      "tags": [
+        "Anthropic",
+        "营收增长",
+        "AI应用"
+      ],
+      "url": "https://arxiv.org/abs/2605.04908",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-08 04:00:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 6,
+      "title": "Musk’s Legal Expert Says OpenAI Foundation Should Have “A Lot More” Than $200 Billion",
+      "summary": "5月8日消息，马斯克法律团队在OpenAI诉讼中引用专家证词，称OpenAI基金会估值应远超2000亿美元。",
+      "importance": "中",
+      "reason": "马斯克诉OpenAI案关键进展，涉及AI治理与估值",
+      "tags": [
+        "马斯克",
+        "OpenAI",
+        "诉讼"
+      ],
+      "url": "https://www.theinformation.com/articles/problem-fast-follows",
+      "source": "The Information",
+      "original_pub_date": "2026-05-08 00:35:05",
+      "impact_score": 210.0
+    },
+    {
+      "index": 7,
+      "title": "French prosecutors escalate probe of Elon Musk and X to criminal investigation",
+      "summary": "5月8日消息，法国检察官将对马斯克及X平台的调查升级为刑事调查，指控其涉嫌传播有害AI深度伪造内容。",
+      "importance": "中",
+      "reason": "欧盟对AI深度伪造的刑事调查，具有法律示范效应",
+      "tags": [
+        "法国",
+        "深度伪造",
+        "刑事调查"
+      ],
+      "url": "https://www.theinformation.com/articles/ex-openai-researchers-six-week-old-startup-targets-funding-4-billion-valuation",
+      "source": "The Information",
+      "original_pub_date": "2026-05-07 23:33:37",
+      "impact_score": 210.0
+    },
+    {
+      "index": 8,
+      "title": "OpenAI launches new voice intelligence features in its API",
+      "summary": "5月8日消息，OpenAI在其API中推出新的语音智能功能，可应用于客户服务、教育和创作者平台等领域。",
+      "importance": "中",
+      "reason": "OpenAI产品更新，拓展AI语音应用场景",
+      "tags": [
+        "OpenAI",
+        "语音智能",
+        "API"
+      ],
+      "url": "https://www.theinformation.com/briefings/musks-legal-expert-says-openai-foundation-lot-200-billion",
+      "source": "The Information",
+      "original_pub_date": "2026-05-08 00:25:33",
+      "impact_score": 175.0
+    },
+    {
+      "index": 9,
+      "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
+      "summary": "5月8日消息，OpenAI推出‘可信联系人’安全功能，在ChatGPT用户对话涉及自残风险时提供保护。",
+      "importance": "中",
+      "reason": "AI安全与伦理重要举措，增强用户保护",
+      "tags": [
+        "OpenAI",
+        "AI安全",
+        "用户保护"
+      ],
+      "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-05-07 19:21:21",
+      "impact_score": 175.0
+    },
+    {
+      "index": 10,
+      "title": "Anti-Drone AI Startup in Talks for $2 Billion Valuation",
+      "summary": "5月8日消息，开发自主武器站的反无人机AI初创公司Allen Control Systems正寻求以20亿美元估值融资。",
+      "importance": "中",
+      "reason": "AI军事应用领域高估值融资，反映国防AI趋势",
+      "tags": [
+        "反无人机",
+        "AI武器",
+        "融资"
+      ],
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-05-07 17:40:50",
+      "impact_score": 173.0
+    },
+    {
+      "index": 11,
+      "title": "Microsoft Cuts Copilot Bloat",
+      "summary": "5月8日消息，微软因用户投诉和性能问题，开始削减旗下多款产品中过度集成的Copilot AI功能。",
+      "importance": "中",
+      "reason": "微软调整AI产品策略，反映市场对AI过度集成的反馈",
+      "tags": [
+        "微软",
+        "Copilot",
+        "产品调整"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-05-08/freight-s-future-is-electric-and-autonomous-einride-ceo-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-08 08:01:47",
+      "impact_score": 165.0
+    },
+    {
+      "index": 12,
+      "title": "Nvidia CEO says AI partnership with Corning will 'revitalize American manufacturing'",
+      "summary": "5月8日消息，英伟达CEO黄仁勋强调与康宁的AI合作将振兴美国制造业，推动AI在工业领域应用。",
+      "importance": "中",
+      "reason": "英伟达与制造业巨头合作，推动AI赋能实体经济",
+      "tags": [
+        "英伟达",
+        "康宁",
+        "制造业"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-05-08/sony-gives-upbeat-outlook-with-help-from-music-and-games-empire",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-08 03:07:46",
+      "impact_score": 165.0
+    },
+    {
+      "index": 13,
+      "title": "How Does Thinking Mode Change LLM Moral Judgments? A Controlled Instant-vs-Thinking Comparison Across Five Frontier Models",
+      "summary": "5月8日消息，arXiv论文评估推理模式对Claude Sonnet 4.6、GPT 5.5等五个前沿LLM道德判断的影响，发现显著差异。",
+      "importance": "中",
+      "reason": "前沿AI模型道德判断研究，涉及AI对齐与伦理",
+      "tags": [
+        "LLM",
+        "道德判断",
+        "推理模式"
+      ],
+      "url": "https://digital-strategy.ec.europa.eu/en/news/eu-agrees-simplify-ai-rules-boost-innovation-and-ban-nudification-apps-protect-citizens",
+      "source": "EU AI Policy",
+      "original_pub_date": "2026-05-07 05:27:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 14,
+      "title": "Curated AI beats frontier LLMs at pharma asset discovery",
+      "summary": "5月8日消息，arXiv论文显示Gosset AI平台在药物资产发现任务上击败GPT、Gemini等通用前沿LLM，展现垂直AI优势。",
+      "importance": "中",
+      "reason": "AI在制药领域的突破性应用，展示垂直模型潜力",
+      "tags": [
+        "AI制药",
+        "药物发现",
+        "垂直模型"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-05-07 19:55:22",
+      "impact_score": 158.0
+    },
+    {
+      "index": 15,
+      "title": "Freight's Future Is Electric and Autonomous, Einride CEO Says",
+      "summary": "5月8日消息，瑞典公司Einride CEO表示电动和自动驾驶系统正在变革全球货运，但人类仍将发挥关键作用。",
+      "importance": "低",
+      "reason": "自动驾驶货运行业动态，但影响力相对有限",
+      "tags": [
+        "自动驾驶",
+        "货运",
+        "电动化"
+      ],
+      "url": "https://www.theinformation.com/articles/microsoft-cuts-copilot-bloat",
+      "source": "The Information",
+      "original_pub_date": "2026-05-07 17:30:26",
+      "impact_score": 158.0
+    },
+    {
+      "index": 16,
+      "title": "Aurora’s Chris Urmson on why self-driving trucks are finally ready to scale",
+      "summary": "5月8日消息，Aurora CEO Chris Urmson表示自动驾驶卡车已准备好规模化，公司已启动休斯顿至达拉斯商业运营。",
+      "importance": "低",
+      "reason": "自动驾驶卡车商业化进展，但属行业常规动态",
+      "tags": [
+        "自动驾驶",
+        "卡车",
+        "商业化"
+      ],
+      "url": "https://www.theinformation.com/articles/elon-musks-team-struggling-prove-case-court",
+      "source": "The Information",
+      "original_pub_date": "2026-05-07 13:01:09",
+      "impact_score": 158.0
+    }
+  ],
+  "summary": "今日从186条原始信息中精选出11条国内动态和16条国际动态，其中11条为高重要性。 重点关注：Plaud获头部大厂投资，目前估值达20亿美元｜硬氪独家；氪星晚报 ｜千问PC端上线AI语音输入；宝马一季度利润降25%，至23亿欧元；中国高校科研 AI 云市场，阿里云第一！。",
+  "statistics": {
+    "raw_domestic": 35,
+    "raw_international": 151,
+    "raw_total": 186,
+    "final_domestic": 11,
+    "final_international": 16
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "5月8日消息，AI卡片录音笔公司Plaud获腾讯投资，估值涨至约20亿美元，2024年总营收约5600万美金，利润率接近20%，并正推进与腾讯会议的硬件合作。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "5月8日消息，腾讯、百度等入股机器人灵巧手研发商临界点，该公司由智元机器人拆分成立，专注于灵巧手研发与生产。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "5月8日消息，沙利文报告显示阿里云以26%市场份额领跑中国高校科研机构AI4S云市场，预计2030年该市场将达107亿元。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "5月8日消息，清华系AI基础设施公司容芯致远完成天使轮数亿元融资，由北京绿色能源和低碳产业基金等领投，旨在以GPU为核心重构计算机系统架构。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "5月8日消息，无问芯穹宣布再获超7亿元融资，由杭州高新金投集团等领投，资金将用于夯实多元异构技术、强化软硬协同优势，稳居中国AI原生基础设施公司融资规模之首。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "5月8日消息，特朗普政府考虑签署行政令，建立对新型AI模型的联邦监管框架，此举可能重塑美国AI监管格局。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "5月8日消息，欧盟议会与理事会达成政治协议，简化AI规则以促进创新，同时禁止‘脱衣’应用以保护公民权益。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "5月8日消息，英伟达CEO黄仁勋表示若受邀将欣然加入特朗普访华行程，此举可能影响中美AI芯片贸易关系。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "5月8日消息，前OpenAI研究员创立的仅六周AI初创公司正寻求以40亿美元估值融资，英伟达投资热潮推动传统风投跟进。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "5月8日消息，Anthropic CEO Dario Amodei表示第一季度营收和客户使用量增长80倍，远超公司预期。",
+      "importance": "高"
+    }
+  ]
+}
