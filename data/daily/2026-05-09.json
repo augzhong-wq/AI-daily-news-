@@ -1,0 +1,512 @@
+{
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09 09:24:28",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "9点1氪丨DeepSeek拟募资最高500亿；“全国销冠”被刑拘，泰康人寿回应；OPPO就母亲节文案致歉",
+      "summary": "5月9日消息，DeepSeek拟募资最高500亿元，这将成为中国人工智能公司有史以来最大的一轮融资。",
+      "importance": "高",
+      "reason": "重大商业动态，中国AI公司创纪录融资，影响力极高",
+      "tags": [
+        "融资",
+        "百亿",
+        "人工智能"
+      ],
+      "url": "https://36kr.com/p/3799129165863937?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-08 01:31:04",
+      "impact_score": 440.0
+    },
+    {
+      "index": 2,
+      "title": "百度正式发布文心大模型5.1",
+      "summary": "5月9日消息，百度正式发布新一代基础大模型文心大模型5.1，采用多维弹性预训练技术，以业界约6%的预训练成本达到基础效果领先水平，登上LMArena搜索榜国内第一。",
+      "importance": "高",
+      "reason": "重大产品发布，中国头部AI公司发布旗舰模型，技术突破显著",
+      "tags": [
+        "发布",
+        "大模型",
+        "领先"
+      ],
+      "url": "https://36kr.com/p/3801348046151428?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-09 00:57:59",
+      "impact_score": 322.5
+    },
+    {
+      "index": 3,
+      "title": "火山引擎携手中国移动，首创机密模型服务新模式",
+      "summary": "5月9日消息，中国移动与火山引擎发布移动引擎机密模型服务专区，为行业提供豆包大模型MaaS服务，实现推理过程端到端加密、可追溯可审计，零硬件投入全托管。",
+      "importance": "高",
+      "reason": "重大商业动态，中国头部云厂商与运营商合作推出创新AI安全服务",
+      "tags": [
+        "发布",
+        "合作",
+        "大模型"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/qMyCzGke8pn9Ddrk.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-08 14:36:00",
+      "impact_score": 315.0
+    },
+    {
+      "index": 4,
+      "title": "智源FlagSafe平台正式发布",
+      "summary": "5月9日消息，北京智源人工智能研究院联合北大、北邮、北航等国内机构发布FlagSafe大模型安全平台，围绕红队演练、蓝队防御、白盒透视三个方向打造高标准安全平台。",
+      "importance": "高",
+      "reason": "重大政策与安全事件，中国顶级机构联合发布AI安全平台，具有行业标杆意义",
+      "tags": [
+        "发布",
+        "风险",
+        "人工智能"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/aZWpqeMDsRB841I1.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-08 10:23:00",
+      "impact_score": 315.0
+    },
+    {
+      "index": 5,
+      "title": "阶跃语音生成模型，拿下 AA 榜语音竞技场国产第一，全球第三",
+      "summary": "5月9日消息，阶跃语音生成模型StepAudio 2.5 TTS在Artificial Analysis Speech Arena榜单跻身全球前三，成为排名最高的中国大模型，在真实用户听感中表现自然。",
+      "importance": "中",
+      "reason": "重大学术突破，中国模型在国际权威评测中取得领先成绩",
+      "tags": [
+        "发布",
+        "大模型",
+        "领先"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/ZrhId0k9AjggOERD.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-09 07:18:00",
+      "impact_score": 300.0
+    },
+    {
+      "index": 6,
+      "title": "百度搭子DuMate登顶PinchBench，超越Anthropic拿下全球龙虾执行争霸赛冠军",
+      "summary": "5月9日消息，百度搭子DuMate登顶智能体评测基准PinchBench榜首，以93.3%总成绩超越Anthropic和OpenAI，在DeepResearch深度研究榜单中也位列第一。",
+      "importance": "中",
+      "reason": "重大学术突破，中国AI在Agent评测中超越国际顶尖公司",
+      "tags": [
+        "超越",
+        "上线",
+        "AI"
+      ],
+      "url": "https://36kr.com/p/3797202414820359?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-09 01:30:00",
+      "impact_score": 275.0
+    },
+    {
+      "index": 7,
+      "title": "36氪首发 | 清华系AI Infra厂商完成数亿元融资，以GPU为核心重构计算机系统架构",
+      "summary": "5月9日消息，清华系AI Infra厂商容芯致远完成天使轮数亿元融资，由北京绿色能源和低碳产业基金与赛富投资基金领投，以GPU为核心重构计算机系统架构。",
+      "importance": "中",
+      "reason": "重大商业动态，中国AI基础设施公司获大额融资，技术方向前沿",
+      "tags": [
+        "融资",
+        "AI",
+        "创新"
+      ],
+      "url": "https://36kr.com/p/3799984046333186?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-08 01:45:14",
+      "impact_score": 260.0
+    },
+    {
+      "index": 8,
+      "title": "光帆带摄像头AI耳机本月开售",
+      "summary": "5月9日消息，光帆科技宣布全球首款具备视觉感知能力的主动式AI耳机——光帆全感AI耳机，将于5月15日正式开售。",
+      "importance": "中",
+      "reason": "重大产品发布，中国公司推出创新AI硬件产品",
+      "tags": [
+        "发布",
+        "AI"
+      ],
+      "url": "https://36kr.com/p/3801398177324550?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-09 01:43:25",
+      "impact_score": 245.0
+    },
+    {
+      "index": 9,
+      "title": "Zeroth元点M1成为全球首个接入OpenClaw的人形机器人",
+      "summary": "5月9日消息，乐享科技旗下Zeroth元点M1人形机器人成为全球首款接入腾讯OpenClaw的可量产人形机器人，已与腾讯达成万台硬件终端接入意向，计划5月下旬上线。",
+      "importance": "中",
+      "reason": "重大商业动态，中国公司人形机器人取得商业化突破",
+      "tags": [
+        "上线",
+        "合作"
+      ],
+      "url": "https://36kr.com/p/3800495686163721?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-08 10:25:58",
+      "impact_score": 230.0
+    },
+    {
+      "index": 10,
+      "title": "东土科技等在湖北成立智能机器人产业发展公司，注册资本3.5亿",
+      "summary": "5月9日消息，东土科技等共同持股成立湖北省智能机器人产业发展有限公司，注册资本3.5亿人民币，经营范围包括人工智能基础软件开发、智能机器人研发等。",
+      "importance": "低",
+      "reason": "重大商业动态，中国公司联合成立机器人产业公司，规模较大",
+      "tags": [
+        "投资",
+        "人工智能"
+      ],
+      "url": "https://36kr.com/p/3800022823951363?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-08 02:25:30",
+      "impact_score": 215.0
+    },
+    {
+      "index": 11,
+      "title": "字节跳动申请注册火山词元商标",
+      "summary": "5月9日消息，字节跳动旗下北京字跳网络技术有限公司申请注册火山词元及arktoken商标，国际分类涉及广告销售、网站服务，当前状态为等待实质审查。",
+      "importance": "低",
+      "reason": "重大商业动态，中国头部互联网公司布局AI相关商标",
+      "tags": [
+        "发布"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/9W0R1Vr4Xt3eTXyg.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-08 02:01:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 12,
+      "title": "打破科技数据壁垒！智会心研官宣：高级检索+AI深度分析，面向个人免费开放！",
+      "summary": "5月9日消息，智会心研面向个人用户免费开放高级检索与AI深度分析核心功能，涵盖专利AI检索、AI伴读、图表分析及多智能体协作，降低技术创新门槛。",
+      "importance": "低",
+      "reason": "重大产品发布，中国公司推出免费AI分析工具，惠及个人用户",
+      "tags": [
+        "开放",
+        "AI"
+      ],
+      "url": "https://www.qbitai.com/2026/05/414445.html",
+      "source": "量子位",
+      "original_pub_date": "2026-05-09 03:01:52",
+      "impact_score": 185.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+      "summary": "5月9日消息，马斯克与奥特曼的诉讼进入第二周，法庭文件披露马斯克曾试图挖角OpenAI CEO奥特曼，其捐赠3800万美元的动机受到质疑。",
+      "importance": "高",
+      "reason": "重大法律纠纷，涉及OpenAI核心人物，影响AI行业格局",
+      "tags": [
+        "法律纠纷",
+        "OpenAI",
+        "马斯克"
+      ],
+      "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+      "source": "MIT Technology Review",
+      "original_pub_date": "2026-05-08 23:59:19",
+      "impact_score": 262.5
+    },
+    {
+      "index": 2,
+      "title": "Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure",
+      "summary": "5月9日消息，法庭文件显示微软曾担心OpenAI转向亚马逊并贬低Azure云服务，揭示了微软与OpenAI早期合作谈判中的内部沟通细节。",
+      "importance": "高",
+      "reason": "重大商业合作内幕，涉及微软、OpenAI和亚马逊的竞争关系",
+      "tags": [
+        "微软",
+        "OpenAI",
+        "云服务"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-05-08/impact-of-ai-on-hiring-workforce-trends-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-08 18:18:04",
+      "impact_score": 262.5
+    },
+    {
+      "index": 3,
+      "title": "Musk, Altman Management Styles Under Fire at OpenAI Trial",
+      "summary": "5月9日消息，在OpenAI诉讼庭审中，马斯克和奥特曼的管理风格均受到严厉批评，陪审团进一步深入调查双方的长期矛盾。",
+      "importance": "高",
+      "reason": "重大法律纠纷，涉及AI行业领袖的管理争议",
+      "tags": [
+        "法律纠纷",
+        "OpenAI",
+        "管理风格"
+      ],
+      "url": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-05-08 15:25:02",
+      "impact_score": 244.5
+    },
+    {
+      "index": 4,
+      "title": "Musk’s Legal Expert Says OpenAI Foundation Should Have “A Lot More” Than $200 Billion",
+      "summary": "5月9日消息，马斯克法律团队传唤哥伦比亚法学院前院长作证，称OpenAI基金会作为非营利组织应拥有远超2000亿美元的资产，质疑其转型营利性实体。",
+      "importance": "高",
+      "reason": "重大法律纠纷，涉及OpenAI非营利性质的核心争议",
+      "tags": [
+        "法律纠纷",
+        "OpenAI",
+        "非营利"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-05-08/thiel-backed-olympics-competitor-goes-public-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-08 18:09:37",
+      "impact_score": 240.0
+    },
+    {
+      "index": 5,
+      "title": "Three studies on technical solutions to mark and detect AI-generated content",
+      "summary": "5月9日消息，欧盟发布三项关于标记和检测AI生成内容技术方案的研究报告，涵盖文本、音频和图像等多种模态，为AI法案实施提供技术支撑。",
+      "importance": "高",
+      "reason": "欧盟AI政策重要进展，直接影响AI内容监管标准",
+      "tags": [
+        "欧盟",
+        "AI监管",
+        "AI法案"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-05-08/yahoo-pays-up-to-refinance-1-6-billion-debt-tied-to-apollo-deal",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-08 16:38:19",
+      "impact_score": 240.0
+    },
+    {
+      "index": 6,
+      "title": "Consultation on the draft guidelines on transparency obligations under the AI Act",
+      "summary": "5月9日消息，欧盟委员会就AI法案透明度义务指南草案公开征求意见，旨在帮助AI系统提供者和部署者满足透明度要求，征求意见截止6月3日。",
+      "importance": "高",
+      "reason": "欧盟AI法案实施细则制定，对全球AI企业合规有重大影响",
+      "tags": [
+        "欧盟",
+        "AI法案",
+        "透明度"
+      ],
+      "url": "https://arxiv.org/abs/2605.05427",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-09 04:00:00",
+      "impact_score": 225.0
+    },
+    {
+      "index": 7,
+      "title": "Anthropic Inks $1.8 Billion Computing Deal With Akamai",
+      "summary": "5月9日消息，AI公司Anthropic与云服务商Akamai签署18亿美元计算协议，以满足其AI软件日益增长的需求，这是AI基础设施领域又一重大合作。",
+      "importance": "高",
+      "reason": "重大商业合作，金额巨大，反映AI算力需求激增",
+      "tags": [
+        "Anthropic",
+        "Akamai",
+        "算力"
+      ],
+      "url": "https://www.theinformation.com/articles/cornings-stock-rally-risks-outpacing-reality",
+      "source": "The Information",
+      "original_pub_date": "2026-05-08 13:00:59",
+      "impact_score": 225.0
+    },
+    {
+      "index": 8,
+      "title": "Google’s Isomorphic Labs to Raise Over $2 Billion in New Funding",
+      "summary": "5月9日消息，谷歌DeepMind旗下AI药物发现公司Isomorphic Labs正洽谈新一轮超20亿美元融资，彰显AI在生物医药领域的巨大商业潜力。",
+      "importance": "高",
+      "reason": "大额融资，AI+药物研发赛道重要动态",
+      "tags": [
+        "Isomorphic Labs",
+        "融资",
+        "AI制药"
+      ],
+      "url": "https://www.theinformation.com/articles/problem-fast-follows",
+      "source": "The Information",
+      "original_pub_date": "2026-05-08 00:35:05",
+      "impact_score": 210.0
+    },
+    {
+      "index": 9,
+      "title": "AI Chipmaker Cerebras Is Said to Plan Raising IPO Price Range",
+      "summary": "5月9日消息，AI芯片公司Cerebras计划上调IPO发行价区间，因投资者对其股票需求持续增长，反映市场对AI芯片的热情不减。",
+      "importance": "中",
+      "reason": "重要IPO动态，反映AI芯片市场热度",
+      "tags": [
+        "Cerebras",
+        "IPO",
+        "AI芯片"
+      ],
+      "url": "https://arxiv.org/abs/2605.05365",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-09 04:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 10,
+      "title": "Corning’s Stock Rally Risks Outpacing Reality",
+      "summary": "5月9日消息，玻璃制造商康宁股价今年翻倍创历史新高，受益于AI数据中心光纤电缆需求激增，但分析师警告涨势可能脱离基本面。",
+      "importance": "中",
+      "reason": "AI基础设施产业链重要动态，反映AI投资热潮",
+      "tags": [
+        "康宁",
+        "AI基础设施",
+        "股价"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-05-08/judge-to-review-musk-sec-settlement-deal-in-twitter-stake-case",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-08 22:50:29",
+      "impact_score": 195.0
+    },
+    {
+      "index": 11,
+      "title": "Intel CEO Who Won Over Trump and Musk Now Needs a Breakthrough",
+      "summary": "5月9日消息，英特尔CEO陈立武上任七个月后股价停滞，公司需在AI芯片市场实现突破以扭转颓势，此前他曾获得特朗普和马斯克的支持。",
+      "importance": "中",
+      "reason": "芯片巨头战略动态，涉及AI芯片竞争格局",
+      "tags": [
+        "英特尔",
+        "AI芯片",
+        "CEO"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-05-08/intel-ceo-who-won-over-trump-and-musk-now-needs-a-breakthrough",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-08 10:15:11",
+      "impact_score": 195.0
+    },
+    {
+      "index": 12,
+      "title": "Cursor Staff Meet With xAI Employees as Layoffs, Exits Mount",
+      "summary": "5月9日消息，马斯克旗下xAI员工与编程初创Cursor团队会面，此前xAI获得以600亿美元收购Cursor的期权，但公司正面临裁员和离职潮。",
+      "importance": "中",
+      "reason": "马斯克AI版图扩张，涉及xAI与Cursor整合",
+      "tags": [
+        "xAI",
+        "Cursor",
+        "收购"
+      ],
+      "url": "https://www.theinformation.com/articles/deepseek-raise-7-billion-startup-plots-revenue-efforts",
+      "source": "The Information",
+      "original_pub_date": "2026-05-08 11:40:14",
+      "impact_score": 188.0
+    },
+    {
+      "index": 13,
+      "title": "The Geopolitics of AI Safety: A Causal Analysis of Regional LLM Bias",
+      "summary": "5月9日消息，arXiv发表研究论文，对大型语言模型在不同地区的安全护栏偏差进行因果分析，揭示AI安全的地缘政治维度。",
+      "importance": "中",
+      "reason": "AI安全学术研究，涉及地缘政治与模型偏见",
+      "tags": [
+        "AI安全",
+        "偏见",
+        "学术研究"
+      ],
+      "url": "https://arxiv.org/abs/2605.05407",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-09 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 14,
+      "title": "ZAYA1-8B Technical Report",
+      "summary": "5月9日消息，Zyphra发布ZAYA1-8B推理型混合专家模型技术报告，模型总参数量8B，激活参数700M，采用MoE++架构，在推理任务上表现优异。",
+      "importance": "中",
+      "reason": "新模型发布，MoE架构创新",
+      "tags": [
+        "模型发布",
+        "MoE",
+        "推理"
+      ],
+      "url": "https://arxiv.org/abs/2605.05478",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-09 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 15,
+      "title": "PRISM: Perception Reasoning Interleaved for Sequential Decision Making",
+      "summary": "5月9日消息，arXiv发表PRISM框架研究，通过交错感知与推理解决视觉语言模型在复杂多模态环境中的决策差距问题。",
+      "importance": "低",
+      "reason": "学术研究，多模态AI决策方向",
+      "tags": [
+        "多模态",
+        "决策",
+        "学术研究"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-05-08/musk-altman-management-styles-come-under-fire-at-openai-trial",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-08 18:17:40",
+      "impact_score": 180.0
+    },
+    {
+      "index": 16,
+      "title": "LANTERN: LLM-Augmented Neurosymbolic Transfer with Experience-Gated Reasoning Networks",
+      "summary": "5月9日消息，arXiv发表LANTERN框架研究，利用大语言模型增强神经符号迁移学习，通过经验门控推理网络加速强化学习任务迁移。",
+      "importance": "低",
+      "reason": "学术研究，强化学习与神经符号结合",
+      "tags": [
+        "强化学习",
+        "迁移学习",
+        "学术研究"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-05-08/gamma-ceo-larry-jackson-on-music-career-ye-s-comeback-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-08 17:41:46",
+      "impact_score": 180.0
+    }
+  ],
+  "summary": "今日从156条原始信息中精选出12条国内动态和16条国际动态，其中12条为高重要性。 重点关注：9点1氪丨DeepSeek拟募资最高500亿；“全国销冠”被刑拘，泰康人寿回应；OPPO就母亲节文案致歉；百度正式发布文心大模型5.1；火山引擎携手中国移动，首创机密模型服务新模式。",
+  "statistics": {
+    "raw_domestic": 37,
+    "raw_international": 119,
+    "raw_total": 156,
+    "final_domestic": 12,
+    "final_international": 16
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "5月9日消息，DeepSeek拟募资最高500亿元，这将成为中国人工智能公司有史以来最大的一轮融资。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "5月9日消息，百度正式发布新一代基础大模型文心大模型5.1，采用多维弹性预训练技术，以业界约6%的预训练成本达到基础效果领先水平，登上LMArena搜索榜国内第一。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "5月9日消息，中国移动与火山引擎发布移动引擎机密模型服务专区，为行业提供豆包大模型MaaS服务，实现推理过程端到端加密、可追溯可审计，零硬件投入全托管。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "5月9日消息，北京智源人工智能研究院联合北大、北邮、北航等国内机构发布FlagSafe大模型安全平台，围绕红队演练、蓝队防御、白盒透视三个方向打造高标准安全平台。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "5月9日消息，阶跃语音生成模型StepAudio 2.5 TTS在Artificial Analysis Speech Arena榜单跻身全球前三，成为排名最高的中国大模型，在真实用户听感中表现自然。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "5月9日消息，马斯克与奥特曼的诉讼进入第二周，法庭文件披露马斯克曾试图挖角OpenAI CEO奥特曼，其捐赠3800万美元的动机受到质疑。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "5月9日消息，法庭文件显示微软曾担心OpenAI转向亚马逊并贬低Azure云服务，揭示了微软与OpenAI早期合作谈判中的内部沟通细节。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "5月9日消息，在OpenAI诉讼庭审中，马斯克和奥特曼的管理风格均受到严厉批评，陪审团进一步深入调查双方的长期矛盾。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "5月9日消息，马斯克法律团队传唤哥伦比亚法学院前院长作证，称OpenAI基金会作为非营利组织应拥有远超2000亿美元的资产，质疑其转型营利性实体。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "5月9日消息，欧盟发布三项关于标记和检测AI生成内容技术方案的研究报告，涵盖文本、音频和图像等多种模态，为AI法案实施提供技术支撑。",
+      "importance": "高"
+    }
+  ]
+}
