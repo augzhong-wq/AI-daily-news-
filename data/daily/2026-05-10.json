@@ -1,0 +1,396 @@
+{
+  "date": "2026-05-10",
+  "generated_at": "2026-05-10 09:41:43",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "深度解析：DeepSeek不差钱，为什么还要融500亿？",
+      "summary": "5月10日消息，DeepSeek拟募资最高500亿元，成为中国AI公司史上最大融资，此前创始人梁文锋曾多次拒绝外部投资，称VC的钱是负担。",
+      "importance": "高",
+      "reason": "重大商业动态，中国AI公司史上最大融资，涉及中国公司DeepSeek。",
+      "tags": [
+        "融资",
+        "DeepSeek",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/yanxishe/0XQEjmCNYEmRB8Rn.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-09 10:47:00",
+      "impact_score": 390.0
+    },
+    {
+      "index": 2,
+      "title": "融资超亿元、割草机器人公司拿下数亿订单，瞄准庭院具身终端｜硬氪首发",
+      "summary": "5月10日消息，智能庭院机器人公司长曜创新完成数千万元A+融资，由盈峰环境领投，半年累计融资超亿元，专注无边界割草机器人研发。",
+      "importance": "中",
+      "reason": "中国公司融资动态，具身智能赛道。",
+      "tags": [
+        "融资",
+        "机器人",
+        "具身智能"
+      ],
+      "url": "https://36kr.com/p/3801745491943169?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-10 01:27:31",
+      "impact_score": 366.5
+    },
+    {
+      "index": 3,
+      "title": "阶跃语音生成模型，拿下 AA 榜语音竞技场国产第一，全球第三",
+      "summary": "5月10日消息，阶跃星辰语音生成模型StepAudio 2.5 TTS在Artificial Analysis Speech Arena榜单中跻身全球前三，成为排名最高的中国大模型。",
+      "importance": "中",
+      "reason": "中国AI模型取得国际排名突破，属于学术/产品突破。",
+      "tags": [
+        "大模型",
+        "语音生成",
+        "阶跃星辰"
+      ],
+      "url": "https://36kr.com/p/3801348046151428?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-09 00:57:59",
+      "impact_score": 322.5
+    },
+    {
+      "index": 4,
+      "title": "获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发",
+      "summary": "5月10日消息，星识科技连续完成天使+轮和天使++轮融资，累计数千万元，由高秉强教授旗下基金和蓝驰创投领投，专注AI智能影像技术。",
+      "importance": "中",
+      "reason": "中国初创公司融资，AI影像赛道。",
+      "tags": [
+        "融资",
+        "AI影像",
+        "星识科技"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/ZrhId0k9AjggOERD.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-09 07:18:00",
+      "impact_score": 300.0
+    },
+    {
+      "index": 5,
+      "title": "小雨智造完成数亿元B+轮融资，北汽、复星锐正和建发新兴等产业资本加速集结",
+      "summary": "5月10日消息，通用具身智能公司小雨智造完成数亿元B+轮融资，由北汽产投、复星锐正和建发新兴联合投资，目标年出货10万台具身智能产品。",
+      "importance": "中",
+      "reason": "中国公司大额融资，具身智能赛道，产业资本密集加码。",
+      "tags": [
+        "融资",
+        "具身智能",
+        "小雨智造"
+      ],
+      "url": "https://36kr.com/p/3797202414820359?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-09 01:30:00",
+      "impact_score": 275.0
+    },
+    {
+      "index": 6,
+      "title": "36氪首发 | 航空航天电气系统互联组件方案商获数千万融资，细分赛道市占率第一",
+      "summary": "5月10日消息，北辰航天完成数千万元天使轮融资，由云启资本独家投资，公司深耕航空航天电气系统互联组件领域，市占率第一。",
+      "importance": "低",
+      "reason": "中国公司融资，但AI相关性较弱。",
+      "tags": [
+        "融资",
+        "航空航天",
+        "北辰航天"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/N9yXIL59MiHx0rYY.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-09 07:56:00",
+      "impact_score": 255.0
+    },
+    {
+      "index": 7,
+      "title": "光帆带摄像头AI耳机本月开售，苹果摄像头AirPods加速落地",
+      "summary": "5月10日消息，光帆科技全球首款具备视觉感知能力的AI耳机将于5月15日开售，支持全感知、主动式交互，引领AI可穿戴设备新趋势。",
+      "importance": "中",
+      "reason": "中国公司发布创新AI硬件产品。",
+      "tags": [
+        "AI耳机",
+        "光帆科技",
+        "可穿戴"
+      ],
+      "url": "https://36kr.com/p/3801398177324550?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-09 01:43:25",
+      "impact_score": 245.0
+    },
+    {
+      "index": 8,
+      "title": "两项AI政策发布，范式智能战略布局与产业方向高度契合",
+      "summary": "5月10日消息，中国发布两项AI政策，围绕电力交易、能源调度等场景探索AI应用落地，范式智能的战略布局与政策方向高度契合。",
+      "importance": "高",
+      "reason": "中国AI政策发布，属于重大政策与法规。",
+      "tags": [
+        "AI政策",
+        "能源",
+        "范式智能"
+      ],
+      "url": "https://36kr.com/newsflashes/3803199588114181?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-10 08:14:41",
+      "impact_score": 210.0
+    },
+    {
+      "index": 9,
+      "title": "浙大校友用AI突破32年拉姆齐数下界",
+      "summary": "5月10日消息，浙江大学校友利用AI将拉姆齐数R(3,17)下界从92提升至93，突破32年未解的数学难题，属于重大学术突破。",
+      "importance": "高",
+      "reason": "中国研究机构/校友取得重大学术突破。",
+      "tags": [
+        "学术突破",
+        "拉姆齐数",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/weiwu/y0yPBS3a3BfJoF09.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-10 07:20:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 10,
+      "title": "空间智能的“具身化”跃迁，高德ABot体系模型夺冠AGIBot全球挑战赛",
+      "summary": "5月10日消息，高德ABot体系模型以0.829总成绩在AGIBot全球挑战赛中夺冠，实现空间智能的具身化跃迁。",
+      "importance": "中",
+      "reason": "中国公司模型在国际赛事中夺冠。",
+      "tags": [
+        "高德",
+        "AGI",
+        "空间智能"
+      ],
+      "url": "https://36kr.com/newsflashes/3802942486060801?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-10 03:53:08",
+      "impact_score": 160.0
+    },
+    {
+      "index": 11,
+      "title": "我国首条深水油气装备工艺管线智能生产线建设完成",
+      "summary": "5月10日消息，我国首条深水油气装备工艺管线智能生产线在海油工程珠海基地建设完成，进入调试阶段，标志中国智能制造新进展。",
+      "importance": "低",
+      "reason": "中国智能制造项目，但AI相关性较弱。",
+      "tags": [
+        "智能制造",
+        "海油工程",
+        "深水油气"
+      ],
+      "url": "https://www.qbitai.com/2026/05/415019.html",
+      "source": "量子位",
+      "original_pub_date": "2026-05-09 09:53:25",
+      "impact_score": 150.0
+    },
+    {
+      "index": 12,
+      "title": "行业首创空间3D显示，还能主动提醒和帮忙叫车，千问AI眼镜这操作真把我看愣了",
+      "summary": "5月10日消息，千问AI眼镜实现行业首创空间3D显示，具备主动提醒和叫车功能，推动AI眼镜交互体验升级。",
+      "importance": "中",
+      "reason": "中国公司推出创新AI硬件产品。",
+      "tags": [
+        "AI眼镜",
+        "千问",
+        "3D显示"
+      ],
+      "url": "https://www.qbitai.com/2026/05/414827.html",
+      "source": "量子位",
+      "original_pub_date": "2026-05-09 08:07:08",
+      "impact_score": 150.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "OpenAI trial lays bare rivalries behind start-up’s $852bn rise",
+      "summary": "5月10日消息，马斯克对OpenAI提起的诉讼进入最后一周庭审，奥特曼将出庭作证，案件揭示了这家AI初创公司内部竞争与估值飙升背后的复杂关系。",
+      "importance": "高",
+      "reason": "涉及OpenAI与马斯克之间的重大法律纠纷，属于美国AI公司的重要政策与伦理事件，影响AI行业格局。",
+      "tags": [
+        "法律诉讼",
+        "OpenAI",
+        "马斯克",
+        "AI伦理"
+      ],
+      "url": "https://www.ft.com/content/c68bd831-434d-486c-86df-54d0369391ef",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-05-10 06:00:38",
+      "impact_score": 195.0
+    },
+    {
+      "index": 2,
+      "title": "Nvidia embraces role of AI investor, pushing past $40 billion in equity bets this year",
+      "summary": "5月10日消息，英伟达今年在AI基础设施领域的股权投资已超过400亿美元，通过大规模投资与商业合作，进一步巩固其AI生态主导地位。",
+      "importance": "高",
+      "reason": "英伟达作为全球AI芯片巨头，其大规模投资动态反映AI基础设施商业趋势，属于重大商业动态。",
+      "tags": [
+        "英伟达",
+        "AI投资",
+        "商业动态"
+      ],
+      "url": "https://www.theinformation.com/articles/billionaire-tax-refugees-flock-ritzy-nevada-lake-town",
+      "source": "The Information",
+      "original_pub_date": "2026-05-09 14:00:56",
+      "impact_score": 147.0
+    },
+    {
+      "index": 3,
+      "title": "Drone start-up Helsing set for $18bn valuation as investors pile into defence",
+      "summary": "5月10日消息，德国AI无人机初创公司Helsing计划融资12亿美元，估值达180亿美元，投资者包括Spotify创始人，显示AI国防领域投资热潮。",
+      "importance": "高",
+      "reason": "欧洲AI国防初创公司获得大额融资，属于重大商业动态，反映AI在国防领域的应用趋势。",
+      "tags": [
+        "Helsing",
+        "AI国防",
+        "融资",
+        "欧洲"
+      ],
+      "url": "https://www.theinformation.com/articles/ai-finds-necessity-frenemies",
+      "source": "The Information",
+      "original_pub_date": "2026-05-09 15:00:04",
+      "impact_score": 127.5
+    },
+    {
+      "index": 4,
+      "title": "ECB’s Escrivá Says AI Risks Prompt Finance Infrastructure Review",
+      "summary": "5月10日消息，欧洲央行管委埃斯克里瓦表示，AI崛起促使央行审查金融基础设施韧性，并强调央行需捍卫对稳定币风险的最终担保角色。",
+      "importance": "高",
+      "reason": "欧洲央行高层对AI金融风险的官方表态，属于重大政策与法规动态，影响全球金融监管。",
+      "tags": [
+        "欧洲央行",
+        "AI风险",
+        "金融监管",
+        "政策"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-05-09/kenya-plans-taxes-on-phones-banking-fees-to-raise-1-billion",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-09 13:03:59",
+      "impact_score": 127.5
+    },
+    {
+      "index": 5,
+      "title": "Women at the sharp end as AI takes over administrative roles",
+      "summary": "5月10日消息，英国《金融时报》报道称，女性主导的行政岗位是AI自动化最脆弱的领域之一，劳动力市场已感受到AI替代带来的冲击。",
+      "importance": "中",
+      "reason": "涉及AI对劳动力市场的社会影响，属于安全与伦理议题，具有广泛关注度。",
+      "tags": [
+        "AI替代",
+        "劳动力市场",
+        "性别影响",
+        "伦理"
+      ],
+      "url": "https://www.ft.com/content/0ca32fa3-cf28-4105-b1f9-ec5bc0c9158c",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-05-09 11:15:20",
+      "impact_score": 127.5
+    },
+    {
+      "index": 6,
+      "title": "Malaysia Mulls Steps Against Meta on Fake Royal Accounts: Report",
+      "summary": "5月10日消息，马来西亚正研究对Meta采取行动，因其未能遏制涉及该国马来统治者的虚假账户，通信部长法赫米表示将采取措施。",
+      "importance": "中",
+      "reason": "涉及海外政府对科技公司的监管行动，属于国际政策动态，但影响力相对有限。",
+      "tags": [
+        "马来西亚",
+        "Meta",
+        "虚假账户",
+        "监管"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-05-09/bytedance-targets-25-rise-in-ai-infrastructure-spending-scmp",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-09 07:23:59",
+      "impact_score": 127.5
+    },
+    {
+      "index": 7,
+      "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+      "summary": "5月10日消息，美国语音AI公司Wispr Flow在推出印地语-英语混合语音服务后，在印度市场增长加速，尽管语音AI产品仍面临挑战。",
+      "importance": "低",
+      "reason": "海外AI公司在印度市场的商业动态，属于中小型商业新闻，重要性较低。",
+      "tags": [
+        "Wispr Flow",
+        "语音AI",
+        "印度市场"
+      ],
+      "url": "https://www.cnbc.com/2026/05/09/nvidia-embraces-ai-investor-topping-40-billion-in-equity-bets-2026.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-05-09 16:41:22",
+      "impact_score": 90.0
+    },
+    {
+      "index": 8,
+      "title": "Samsung watches can predict if you're about to faint - but there are big caveats",
+      "summary": "5月10日消息，三星智能手表新增预测晕厥功能，可提前警告用户，但存在较大局限性，需谨慎使用。",
+      "importance": "低",
+      "reason": "三星作为韩国公司，其产品功能更新属于国际动态，但属于消费级AI应用，重要性较低。",
+      "tags": [
+        "三星",
+        "智能手表",
+        "AI健康",
+        "可穿戴设备"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-05-09/ecb-s-escriva-says-ai-risks-prompt-finance-infrastructure-review",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-09 13:22:05",
+      "impact_score": 90.0
+    }
+  ],
+  "summary": "今日从47条原始信息中精选出12条国内动态和8条国际动态，其中7条为高重要性。 重点关注：深度解析：DeepSeek不差钱，为什么还要融500亿？；两项AI政策发布，范式智能战略布局与产业方向高度契合；浙大校友用AI突破32年拉姆齐数下界。",
+  "statistics": {
+    "raw_domestic": 27,
+    "raw_international": 20,
+    "raw_total": 47,
+    "final_domestic": 12,
+    "final_international": 8
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "5月10日消息，DeepSeek拟募资最高500亿元，成为中国AI公司史上最大融资，此前创始人梁文锋曾多次拒绝外部投资，称VC的钱是负担。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "5月10日消息，中国发布两项AI政策，围绕电力交易、能源调度等场景探索AI应用落地，范式智能的战略布局与政策方向高度契合。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "5月10日消息，浙江大学校友利用AI将拉姆齐数R(3,17)下界从92提升至93，突破32年未解的数学难题，属于重大学术突破。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "5月10日消息，智能庭院机器人公司长曜创新完成数千万元A+融资，由盈峰环境领投，半年累计融资超亿元，专注无边界割草机器人研发。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "5月10日消息，阶跃星辰语音生成模型StepAudio 2.5 TTS在Artificial Analysis Speech Arena榜单中跻身全球前三，成为排名最高的中国大模型。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "5月10日消息，马斯克对OpenAI提起的诉讼进入最后一周庭审，奥特曼将出庭作证，案件揭示了这家AI初创公司内部竞争与估值飙升背后的复杂关系。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "5月10日消息，英伟达今年在AI基础设施领域的股权投资已超过400亿美元，通过大规模投资与商业合作，进一步巩固其AI生态主导地位。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "5月10日消息，德国AI无人机初创公司Helsing计划融资12亿美元，估值达180亿美元，投资者包括Spotify创始人，显示AI国防领域投资热潮。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "5月10日消息，欧洲央行管委埃斯克里瓦表示，AI崛起促使央行审查金融基础设施韧性，并强调央行需捍卫对稳定币风险的最终担保角色。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "5月10日消息，英国《金融时报》报道称，女性主导的行政岗位是AI自动化最脆弱的领域之一，劳动力市场已感受到AI替代带来的冲击。",
+      "importance": "中"
+    }
+  ]
+}
