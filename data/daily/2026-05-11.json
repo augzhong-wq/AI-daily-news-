@@ -1,0 +1,454 @@
+{
+  "date": "2026-05-11",
+  "generated_at": "2026-05-11 11:29:47",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "硬氪专访 | 拿到行业最大单笔融资后，余轶南说万里长征才走了第一步",
+      "summary": "5月11日消息，前地平线001号员工余轶南创立维他动力并获行业最大单笔融资，计划将自动驾驶能力迁移至消费级机器人领域。",
+      "importance": "高",
+      "reason": "中国公司维他动力的重大融资事件，属于国内商业动态。",
+      "tags": [
+        "融资",
+        "机器人",
+        "自动驾驶"
+      ],
+      "url": "https://36kr.com/p/3804282431659779?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-11 02:38:17",
+      "impact_score": 405.0
+    },
+    {
+      "index": 2,
+      "title": "魔法原子登陆硅谷，行业首个「自进化具身大脑」发布",
+      "summary": "5月11日消息，中国公司魔法原子在硅谷全球具身智能创新大会上发布行业首个自进化具身大脑，吸引英伟达、亚马逊等参与。",
+      "importance": "高",
+      "reason": "中国公司魔法原子的重大产品发布，属于国内动态。",
+      "tags": [
+        "发布",
+        "具身智能",
+        "创新"
+      ],
+      "url": "https://www.leiphone.com/category/ai/c9KxiRBbg7PfqVqH.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-11 07:44:00",
+      "impact_score": 370.0
+    },
+    {
+      "index": 3,
+      "title": "融资超亿元、割草机器人公司拿下数亿订单，瞄准庭院具身终端｜硬氪首发",
+      "summary": "5月11日消息，中国智能庭院机器人公司长曜创新完成数千万元A+轮融资，半年累计超亿元，将用于技术研发和全球化渠道布局。",
+      "importance": "中",
+      "reason": "中国公司长曜创新的融资事件，属于国内商业动态。",
+      "tags": [
+        "融资",
+        "机器人",
+        "智能硬件"
+      ],
+      "url": "https://36kr.com/p/3801745491943169?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-10 01:27:31",
+      "impact_score": 366.5
+    },
+    {
+      "index": 4,
+      "title": "鹿明机器人完成数亿元A1及A2轮融资，产业巨头深度参与，累计融资近10亿元",
+      "summary": "5月11日消息，中国具身智能企业鹿明机器人完成数亿元A1及A2轮融资，由三菱电机领投，累计融资近10亿元，将用于具身大模型研发。",
+      "importance": "高",
+      "reason": "中国公司鹿明机器人的大额融资，属于国内商业动态。",
+      "tags": [
+        "融资",
+        "具身智能",
+        "大模型"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/VqCT68PHdtdfvHXy.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-11 06:34:00",
+      "impact_score": 330.0
+    },
+    {
+      "index": 5,
+      "title": "生数科技完成近 20 亿元人民币 B 轮融资，发力通用世界模型",
+      "summary": "5月11日消息，中国世界模型团队生数科技完成近20亿元B轮融资，由阿里云领投，将用于通用世界模型研发，此前曾发布视频大模型Vidu。",
+      "importance": "高",
+      "reason": "中国公司生数科技的重大融资，属于国内商业动态。",
+      "tags": [
+        "融资",
+        "世界模型",
+        "大模型"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/TrrORc51VW5YFJIg.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-11 03:49:00",
+      "impact_score": 315.0
+    },
+    {
+      "index": 6,
+      "title": "氪星晚报 ｜千问与淘宝打通，正式上线AI购物；泡泡玛特将在5月13日举行2026年一季度业务更新电话会",
+      "summary": "5月11日消息，阿里巴巴旗下千问与淘宝打通，正式上线AI购物功能，推动AI在电商领域的应用落地。",
+      "importance": "中",
+      "reason": "中国公司阿里巴巴的产品上线，属于国内动态。",
+      "tags": [
+        "AI",
+        "电商",
+        "上线"
+      ],
+      "url": "https://36kr.com/p/3804795647729411?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-11 11:24:52",
+      "impact_score": 264.0
+    },
+    {
+      "index": 7,
+      "title": "1/10Token 消耗干同样的活！Ling-2.6-flash 想帮开发者把 AI 成本打下来",
+      "summary": "5月11日消息，中国AI团队发布Ling-2.6-flash模型，以仅1/10的Token消耗完成同等任务，旨在降低开发者AI使用成本。",
+      "importance": "中",
+      "reason": "中国AI团队的产品发布，属于国内动态。",
+      "tags": [
+        "发布",
+        "大模型",
+        "成本优化"
+      ],
+      "url": "https://www.qbitai.com/2026/05/415714.html",
+      "source": "量子位",
+      "original_pub_date": "2026-05-11 07:37:05",
+      "impact_score": 240.0
+    },
+    {
+      "index": 8,
+      "title": "《Science》最新专访：中国材料科学领域顶级学者李昊和AI for Science的三项代表性工作",
+      "summary": "5月11日消息，中国学者李昊教授接受《Science》专访，介绍其AI for Science三项代表性工作，推动材料科学新范式发展。",
+      "importance": "中",
+      "reason": "中国研究机构的学术突破，属于国内动态。",
+      "tags": [
+        "学术",
+        "AI for Science",
+        "材料科学"
+      ],
+      "url": "https://36kr.com/newsflashes/3804786181054217?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-11 11:08:39",
+      "impact_score": 210.0
+    },
+    {
+      "index": 9,
+      "title": "央行：展望未来，人工智能行业将为经济高质量发展注入更多动能",
+      "summary": "5月11日消息，中国人民银行发布报告指出，人工智能行业将通过技术迭代、产业融合和国际拓展为经济高质量发展注入更多动能。",
+      "importance": "高",
+      "reason": "中国政府的政策表态，属于国内重大政策动态。",
+      "tags": [
+        "政策",
+        "人工智能",
+        "经济"
+      ],
+      "url": "https://www.leiphone.com/category/transportation/zPPvDtXuyWmRfLfY.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-11 04:26:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 10,
+      "title": "浙大校友用AI突破32年拉姆齐数下界",
+      "summary": "5月11日消息，浙江大学校友利用AI技术将拉姆齐数R(3,17)下界从92提升至93，突破32年未解的数学难题。",
+      "importance": "中",
+      "reason": "中国研究机构的学术突破，属于国内动态。",
+      "tags": [
+        "学术",
+        "AI",
+        "数学突破"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/QhnlRFknR5wZ5zSN.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-11 03:56:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 11,
+      "title": "三年800万辆、2030年30万辆Robotaxi，印奇和赵明凭什么？",
+      "summary": "5月11日消息，中国智驾供应商千里科技发布激进目标，计划三年内量产800万套智驾方案，2030年实现30万辆Robotaxi运营。",
+      "importance": "中",
+      "reason": "中国公司千里科技的战略发布，属于国内动态。",
+      "tags": [
+        "智驾",
+        "Robotaxi",
+        "战略"
+      ],
+      "url": "https://www.leiphone.com/category/ai/GI33oajsC5xZEdmF.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-11 08:44:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 12,
+      "title": "像素绽放PixelBloom 完成C轮融资：做全球AI视觉表达平台，更做能交方案的AI办公Agent",
+      "summary": "5月11日消息，中国AI视觉表达平台像素绽放PixelBloom完成C轮融资，致力于打造能交付方案的AI办公Agent。",
+      "importance": "中",
+      "reason": "中国公司的融资事件，属于国内商业动态。",
+      "tags": [
+        "融资",
+        "AI",
+        "办公"
+      ],
+      "url": "https://36kr.com/newsflashes/3804742533832195?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-11 10:24:15",
+      "impact_score": 195.0
+    },
+    {
+      "index": 13,
+      "title": "360内部启动“龙虾计划”：每人1亿Token自动到账 “龙虾教练”即将亮相",
+      "summary": "5月11日消息，360公司启动龙虾计划，向全体员工发放1亿Token用于AI智能体平台，推动人机协同工作模式升级。",
+      "importance": "中",
+      "reason": "中国公司360的内部AI战略，属于国内动态。",
+      "tags": [
+        "AI",
+        "智能体",
+        "企业战略"
+      ],
+      "url": "https://www.leiphone.com/category/transportation/1h6yt9X8UvAqgBoP.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-11 04:13:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 14,
+      "title": "千里浩瀚年内上车将超百万辆，明年覆盖吉利系七大品牌",
+      "summary": "5月11日消息，吉利旗下千里浩瀚智驾方案已交付近50万辆，计划年内上车超百万辆，明年覆盖七大品牌96款车型。",
+      "importance": "中",
+      "reason": "中国公司吉利的智驾进展，属于国内动态。",
+      "tags": [
+        "智驾",
+        "吉利",
+        "量产"
+      ],
+      "url": "https://36kr.com/newsflashes/3804805665906435?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-11 11:28:28",
+      "impact_score": 147.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Cerebras IPO Will Test Investor Appetite for AI Chip Startups",
+      "summary": "5月11日消息，AI芯片初创公司Cerebras Systems预计以350亿美元估值上市，将考验投资者对AI芯片初创企业的兴趣。",
+      "importance": "高",
+      "reason": "重大商业动态，AI芯片公司IPO，估值高达350亿美元，影响资本市场对AI芯片领域的信心。",
+      "tags": [
+        "AI芯片",
+        "IPO",
+        "Cerebras"
+      ],
+      "url": "https://www.theinformation.com/articles/cerebras-ipo-will-test-investor-appetite-ai-chip-startups",
+      "source": "The Information",
+      "original_pub_date": "2026-05-10 22:00:18",
+      "impact_score": 307.5
+    },
+    {
+      "index": 2,
+      "title": "OpenAI trial lays bare rivalries behind start-up’s $852bn rise",
+      "summary": "5月11日消息，埃隆·马斯克对OpenAI提起的诉讼进入最后一周庭审，OpenAI CEO萨姆·奥尔特曼将出庭作证，案件揭示公司8520亿美元估值背后的竞争内幕。",
+      "importance": "高",
+      "reason": "重大政策与法规，涉及OpenAI与马斯克的法律纠纷，影响AI行业竞争格局和监管走向。",
+      "tags": [
+        "OpenAI",
+        "诉讼",
+        "马斯克"
+      ],
+      "url": "https://arxiv.org/abs/2605.06815",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-11 04:00:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 3,
+      "title": "‘Your Career Starts at the Beginning of the AI Revolution,’ NVIDIA CEO Tells Graduates",
+      "summary": "5月11日消息，英伟达CEO黄仁勋在卡内基梅隆大学毕业典礼上发表演讲，称毕业生正进入AI革命的开端，新产业正在诞生。",
+      "importance": "中",
+      "reason": "重大商业动态，英伟达CEO的公开讲话反映AI行业领袖对未来的展望，具有行业风向标意义。",
+      "tags": [
+        "英伟达",
+        "黄仁勋",
+        "AI革命"
+      ],
+      "url": "https://blogs.nvidia.com/blog/nvidia-ceo-carnegie-mellon-commencement-address/",
+      "source": "NVIDIA AI",
+      "original_pub_date": "2026-05-10 22:00:50",
+      "impact_score": 229.5
+    },
+    {
+      "index": 4,
+      "title": "South Korea Exploring Using Hyundai Robots as Army Numbers Fall",
+      "summary": "5月11日消息，韩国军方正探索与现代汽车合作，在前线部署机器人系统，以应对兵员短缺问题，加速AI无人系统投资。",
+      "importance": "中",
+      "reason": "重大政策与法规，韩国军方与车企合作部署AI机器人，涉及国防和AI应用，具有地缘政治影响。",
+      "tags": [
+        "韩国",
+        "军事AI",
+        "现代汽车"
+      ],
+      "url": "https://www.ft.com/content/c68bd831-434d-486c-86df-54d0369391ef",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-05-10 06:00:38",
+      "impact_score": 195.0
+    },
+    {
+      "index": 5,
+      "title": "Turkey’s Grand Games Raises $70 Million in Funding Round",
+      "summary": "5月11日消息，土耳其手游初创公司Grand Games在B轮融资中获7000万美元，由Balderton Capital领投，显示投资者对土耳其游戏行业的持续兴趣。",
+      "importance": "中",
+      "reason": "重大商业动态，土耳其AI游戏公司获得大额融资，反映全球AI投资趋势。",
+      "tags": [
+        "土耳其",
+        "游戏",
+        "融资"
+      ],
+      "url": "https://arxiv.org/abs/2605.06696",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-11 04:00:00",
+      "impact_score": 135.0
+    },
+    {
+      "index": 6,
+      "title": "Pictet Fund Plows 30% of Cash Into AI Stocks on Risk Revival",
+      "summary": "5月11日消息，Pictet资产管理公司旗下35亿美元多资产基金将30%现金等价物投入亚洲和美国的AI股票，大幅提升股票敞口。",
+      "importance": "中",
+      "reason": "重大商业动态，大型基金重仓AI股票，显示机构投资者对AI领域的信心。",
+      "tags": [
+        "Pictet",
+        "AI股票",
+        "投资"
+      ],
+      "url": "https://arxiv.org/abs/2605.06716",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-11 04:00:00",
+      "impact_score": 135.0
+    },
+    {
+      "index": 7,
+      "title": "Circle raises $222 million from BlackRock, Apollo and others in Arc token presale valued at $3 billion",
+      "summary": "5月11日消息，Circle公司通过Arc代币预售融资2.22亿美元，估值30亿美元，投资者包括BlackRock、Apollo和Andreessen Horowitz。",
+      "importance": "中",
+      "reason": "重大商业动态，AI相关区块链公司获得大额融资，涉及顶级投资机构。",
+      "tags": [
+        "Circle",
+        "融资",
+        "代币"
+      ],
+      "url": "https://arxiv.org/abs/2605.06690",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-11 04:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 8,
+      "title": "Amazon Prepares to Issue Its First Swiss Franc Bond in AI Push",
+      "summary": "5月11日消息，亚马逊准备首次发行瑞士法郎债券，为AI支出融资，显示大型科技公司通过新债务市场筹集AI资金。",
+      "importance": "中",
+      "reason": "重大商业动态，亚马逊为AI投资发行债券，反映科技巨头AI资本支出趋势。",
+      "tags": [
+        "亚马逊",
+        "债券",
+        "AI投资"
+      ],
+      "url": "https://arxiv.org/abs/2605.07021",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-11 04:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 9,
+      "title": "Goldman Sees ‘AI-Driven Super Surplus’ Swelling in Korea, Taiwan",
+      "summary": "5月11日消息，高盛预测韩国和台湾因AI芯片繁荣将出现创纪录的经常账户盈余，并可能迫使央行加息。",
+      "importance": "中",
+      "reason": "重大商业动态，高盛对AI芯片经济影响的预测，具有宏观经济意义。",
+      "tags": [
+        "高盛",
+        "AI芯片",
+        "经济影响"
+      ],
+      "url": "https://arxiv.org/abs/2605.07042",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-11 04:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 10,
+      "title": "A $400 AI Bet That’s Actually a High-Stakes Wager on the Future of Work",
+      "summary": "5月11日消息，两位知名经济学家对AI重塑美国就业市场的速度存在分歧，引发对AI未来工作影响的讨论。",
+      "importance": "低",
+      "reason": "安全与伦理，涉及AI对就业的影响，但为观点性内容，重要性较低。",
+      "tags": [
+        "AI",
+        "就业",
+        "经济学家"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-05-11/turkey-s-grand-games-raises-70-million-in-funding-round",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-11 08:00:00",
+      "impact_score": 127.5
+    }
+  ],
+  "summary": "今日从113条原始信息中精选出14条国内动态和10条国际动态，其中7条为高重要性。 重点关注：硬氪专访 | 拿到行业最大单笔融资后，余轶南说万里长征才走了第一步；魔法原子登陆硅谷，行业首个「自进化具身大脑」发布；鹿明机器人完成数亿元A1及A2轮融资，产业巨头深度参与，累计融资近10亿元。",
+  "statistics": {
+    "raw_domestic": 48,
+    "raw_international": 65,
+    "raw_total": 113,
+    "final_domestic": 14,
+    "final_international": 10
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "5月11日消息，前地平线001号员工余轶南创立维他动力并获行业最大单笔融资，计划将自动驾驶能力迁移至消费级机器人领域。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "5月11日消息，中国公司魔法原子在硅谷全球具身智能创新大会上发布行业首个自进化具身大脑，吸引英伟达、亚马逊等参与。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "5月11日消息，中国具身智能企业鹿明机器人完成数亿元A1及A2轮融资，由三菱电机领投，累计融资近10亿元，将用于具身大模型研发。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "5月11日消息，中国世界模型团队生数科技完成近20亿元B轮融资，由阿里云领投，将用于通用世界模型研发，此前曾发布视频大模型Vidu。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "5月11日消息，中国人民银行发布报告指出，人工智能行业将通过技术迭代、产业融合和国际拓展为经济高质量发展注入更多动能。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "5月11日消息，AI芯片初创公司Cerebras Systems预计以350亿美元估值上市，将考验投资者对AI芯片初创企业的兴趣。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "5月11日消息，埃隆·马斯克对OpenAI提起的诉讼进入最后一周庭审，OpenAI CEO萨姆·奥尔特曼将出庭作证，案件揭示公司8520亿美元估值背后的竞争内幕。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "5月11日消息，英伟达CEO黄仁勋在卡内基梅隆大学毕业典礼上发表演讲，称毕业生正进入AI革命的开端，新产业正在诞生。",
+      "importance": "中"
+    },
+    {
+      "index": 4,
+      "summary": "5月11日消息，韩国军方正探索与现代汽车合作，在前线部署机器人系统，以应对兵员短缺问题，加速AI无人系统投资。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "5月11日消息，土耳其手游初创公司Grand Games在B轮融资中获7000万美元，由Balderton Capital领投，显示投资者对土耳其游戏行业的持续兴趣。",
+      "importance": "中"
+    }
+  ]
+}
