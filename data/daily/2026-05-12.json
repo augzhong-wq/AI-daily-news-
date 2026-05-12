@@ -1,0 +1,644 @@
+{
+  "date": "2026-05-12",
+  "generated_at": "2026-05-12 10:36:51",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "硬氪专访 | 拿到行业最大单笔融资后，余轶南说万里长征才走了第一步",
+      "summary": "5月12日消息，维他动力创始人余轶南在获得行业最大单笔融资后表示万里长征才走了第一步，该公司致力于将自动驾驶技术迁移至消费级机器人领域。",
+      "importance": "高",
+      "reason": "中国公司维他动力的重大融资动态，属于国内商业动态，影响力高。",
+      "tags": [
+        "融资",
+        "AI",
+        "投资",
+        "机器人"
+      ],
+      "url": "https://36kr.com/p/3804282431659779?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-11 02:38:17",
+      "impact_score": 405.0
+    },
+    {
+      "index": 2,
+      "title": "魔法原子登陆硅谷，行业首个「自进化具身大脑」发布",
+      "summary": "5月12日消息，中国公司魔法原子在硅谷全球具身智能创新大会上发布行业首个自进化具身大脑，吸引英伟达、亚马逊等参与，展示具身智能前沿技术。",
+      "importance": "高",
+      "reason": "中国公司魔法原子的重大产品发布，属于国内产品动态，影响力高。",
+      "tags": [
+        "AGI",
+        "AI",
+        "创新",
+        "发布"
+      ],
+      "url": "https://www.leiphone.com/category/ai/c9KxiRBbg7PfqVqH.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-11 07:44:00",
+      "impact_score": 370.0
+    },
+    {
+      "index": 3,
+      "title": "8点1氪丨美国总统特朗普：非常期待中国之行 ；OPPO发布母亲节文案事件问责通告；快手计划分拆可灵AI，融资20亿美元",
+      "summary": "5月12日消息，快手计划分拆可灵AI并融资20亿美元，OPPO就母亲节文案事件发布问责通告，高级副总裁职级直降两级。",
+      "importance": "高",
+      "reason": "快手和OPPO均为中国公司，涉及重大商业动态和内部管理事件，属于国内动态。",
+      "tags": [
+        "融资",
+        "AI",
+        "投资",
+        "估值"
+      ],
+      "url": "https://36kr.com/p/3805557782486785?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-12 00:16:27",
+      "impact_score": 337.5
+    },
+    {
+      "index": 4,
+      "title": "鹿明机器人完成数亿元A1及A2轮融资，产业巨头深度参与，累计融资近10亿元",
+      "summary": "5月12日消息，中国具身智能企业鹿明机器人完成数亿元A1及A2轮融资，由三菱电机等产业方领投，累计融资近10亿元，用于具身大模型研发和场景拓展。",
+      "importance": "高",
+      "reason": "中国公司鹿明机器人的大额融资，属于国内商业动态，影响力高。",
+      "tags": [
+        "融资",
+        "合作",
+        "投资",
+        "大模型"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/VqCT68PHdtdfvHXy.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-11 06:34:00",
+      "impact_score": 330.0
+    },
+    {
+      "index": 5,
+      "title": "量子计算走出“科幻片”，「波色量子」在肿瘤、脑机等领域交出百余个落地案例",
+      "summary": "5月12日消息，中国量子计算公司波色量子在肿瘤、脑机等领域交出百余个落地案例，推动量子科技从实验室走向商业化，符合十五五规划方向。",
+      "importance": "中",
+      "reason": "中国公司波色量子的商业化进展，属于国内商业动态，影响力中等。",
+      "tags": [
+        "融资",
+        "AI",
+        "合作",
+        "估值"
+      ],
+      "url": "https://36kr.com/p/3804356346879495?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-12 00:00:00",
+      "impact_score": 322.5
+    },
+    {
+      "index": 6,
+      "title": "独家丨腾讯混元3幕后：重构架构，姚顺雨一场非典型的「逆袭」",
+      "summary": "5月12日消息，腾讯混元3.0 Preview版本发布并开源，规模更大、功能更全面的闭源旗舰版本预计五六月份发布，展现腾讯在AI大模型领域的最新进展。",
+      "importance": "高",
+      "reason": "中国公司腾讯的重大产品发布，属于国内产品动态，影响力高。",
+      "tags": [
+        "开源",
+        "AI",
+        "创新",
+        "发布"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/RcXIQ9rNkYJhHTCE.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-11 13:01:00",
+      "impact_score": 320.0
+    },
+    {
+      "index": 7,
+      "title": "市场监管总局附条件批准腾讯收购喜马拉雅股权案，腾讯回应",
+      "summary": "5月12日消息，市场监管总局附条件批准腾讯收购喜马拉雅股权案，要求腾讯等作出五项限制性承诺，腾讯回应将严格遵守决定，确保交易合规推进。",
+      "importance": "高",
+      "reason": "中国公司腾讯的重大并购案，涉及反垄断监管，属于国内政策与商业动态，影响力高。",
+      "tags": [
+        "监管",
+        "收购",
+        "反垄断"
+      ],
+      "url": "https://36kr.com/newsflashes/3806166335348487?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-12 10:32:36",
+      "impact_score": 275.0
+    },
+    {
+      "index": 8,
+      "title": "何恺明团队论文全景扫描：一场关于「生成范式」的多角度突破 | CVPR 2026",
+      "summary": "5月12日消息，何恺明团队在流匹配领域密集发表多篇论文，从架构、训练目标等角度突破，推动生成式AI新范式，相关成果被CVPR 2026收录。",
+      "importance": "中",
+      "reason": "中国研究团队何恺明团队的学术突破，属于国内学术动态，影响力中等。",
+      "tags": [
+        "突破",
+        "AI",
+        "论文"
+      ],
+      "url": "https://www.leiphone.com/category/ai/dIG98W2KaEKFQ5Xp.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-12 06:26:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 9,
+      "title": "氪星晚报 ｜千问与淘宝打通，正式上线AI购物；泡泡玛特将在5月13日举行2026年一季度业务更新电话会",
+      "summary": "5月12日消息，阿里巴巴旗下千问与淘宝打通，正式上线AI购物功能，推动AI在电商领域的应用落地。",
+      "importance": "中",
+      "reason": "中国公司阿里巴巴的产品上线，属于国内产品动态，影响力中等。",
+      "tags": [
+        "合作",
+        "AI",
+        "上线"
+      ],
+      "url": "https://36kr.com/p/3804795647729411?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-11 11:24:52",
+      "impact_score": 264.0
+    },
+    {
+      "index": 10,
+      "title": "36氪首发｜新加坡博士团队创业获种子轮融资，首款产品做“会飞的家庭管家”",
+      "summary": "5月12日消息，中国深圳公司熵约科技完成数百万美元种子轮融资，由初心资本投资，首款产品为全球首款家庭飞行机器人Flyer O1。",
+      "importance": "中",
+      "reason": "中国初创公司熵约科技的早期融资，属于国内商业动态，影响力中等。",
+      "tags": [
+        "人工智能",
+        "融资",
+        "投资"
+      ],
+      "url": "https://36kr.com/p/3805672617959173?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-12 02:11:24",
+      "impact_score": 245.0
+    },
+    {
+      "index": 11,
+      "title": "估值200亿美元！可灵AI被曝剥离快手单独融资",
+      "summary": "5月12日消息，快手计划分拆可灵AI并单独融资，估值达200亿美元，此举可能催生快手旗下第二家上市公司。",
+      "importance": "高",
+      "reason": "中国公司快手的重大分拆融资动态，属于国内商业动态，影响力高。",
+      "tags": [
+        "估值",
+        "融资",
+        "AI"
+      ],
+      "url": "https://www.qbitai.com/2026/05/416056.html",
+      "source": "量子位",
+      "original_pub_date": "2026-05-12 06:06:38",
+      "impact_score": 240.0
+    },
+    {
+      "index": 12,
+      "title": "Walulu：用六个月撕开一条新赛道",
+      "summary": "5月12日消息，中国公司雨之灵动完成数千万人民币天使轮及Pre-A轮融资，投资方包括KK集团、4399、科大讯飞等，核心产品为AI仿生毛绒宠物Walulu。",
+      "importance": "中",
+      "reason": "中国初创公司雨之灵动的融资动态，属于国内商业动态，影响力中等。",
+      "tags": [
+        "融资",
+        "AI",
+        "投资"
+      ],
+      "url": "https://www.qbitai.com/2026/05/415714.html",
+      "source": "量子位",
+      "original_pub_date": "2026-05-11 07:37:05",
+      "impact_score": 240.0
+    },
+    {
+      "index": 13,
+      "title": "《Science》最新专访：中国材料科学领域顶级学者李昊和AI for Science的三项代表性工作",
+      "summary": "5月12日消息，中国材料科学家李昊教授接受《Science》专访，介绍其AI for Science三项代表性工作，推动材料科学从试错范式向数据驱动转型。",
+      "importance": "中",
+      "reason": "中国学者李昊的学术成就，属于国内学术动态，影响力中等。",
+      "tags": [
+        "AI",
+        "创新",
+        "突破"
+      ],
+      "url": "https://36kr.com/p/3805761383751427?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-12 03:46:38",
+      "impact_score": 225.0
+    },
+    {
+      "index": 14,
+      "title": "360发布OpenClaw生态安全报告：AI智能体风险进入自动化审计阶段",
+      "summary": "5月12日消息，中国公司360发布OpenClaw生态安全报告，累计发现23个独立安全漏洞，指出AI智能体风险已进入自动化审计阶段。",
+      "importance": "中",
+      "reason": "中国公司360的安全报告发布，属于国内产品与安全动态，影响力中等。",
+      "tags": [
+        "风险",
+        "发布",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/ai/GI33oajsC5xZEdmF.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-11 08:44:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 15,
+      "title": "三年800万辆、2030年30万辆Robotaxi，印奇和赵明凭什么？",
+      "summary": "5月12日消息，中国智驾供应商千里科技发布激进目标：三年内量产800万套智驾方案，2030年实现30万辆Robotaxi运营，依托AI技术强势扩张。",
+      "importance": "中",
+      "reason": "中国公司千里科技的重大战略发布，属于国内商业动态，影响力中等。",
+      "tags": [
+        "合作",
+        "AI",
+        "大模型"
+      ],
+      "url": "https://www.qbitai.com/2026/05/416582.html",
+      "source": "量子位",
+      "original_pub_date": "2026-05-12 09:35:29",
+      "impact_score": 165.0
+    },
+    {
+      "index": 16,
+      "title": "宇树科技发布载人机甲，投资人回应",
+      "summary": "5月12日消息，中国公司宇树科技发布全球首款量产版载人变形机甲GD01，定价390万元起，创始人王兴兴亲自演示，展示机器人核心技术。",
+      "importance": "高",
+      "reason": "中国公司宇树科技的重大产品发布，属于国内产品动态，影响力高。",
+      "tags": [
+        "发布",
+        "投资"
+      ],
+      "url": "https://36kr.com/newsflashes/3806108609977864?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-12 09:33:53",
+      "impact_score": 160.0
+    },
+    {
+      "index": 17,
+      "title": "像素绽放PixelBloom 完成C轮融资：做全球AI视觉表达平台，更做能交方案的AI办公Agent",
+      "summary": "5月12日消息，中国公司像素绽放PixelBloom完成C轮融资，致力于打造全球AI视觉表达平台和AI办公Agent，推动办公软件智能化。",
+      "importance": "中",
+      "reason": "中国公司像素绽放的融资动态，属于国内商业动态，影响力中等。",
+      "tags": [
+        "融资",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/transportation/4AEpgfxnPlWyRPQi.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-11 05:41:00",
+      "impact_score": 135.0
+    },
+    {
+      "index": 18,
+      "title": "360内部启动“龙虾计划”：每人1亿Token自动到账 “龙虾教练”即将亮相",
+      "summary": "5月12日消息，中国公司360启动龙虾计划，向全体员工每人发放1亿Token用于AI智能体平台，推动人机协同工作模式，内置上百个专业智能体。",
+      "importance": "中",
+      "reason": "中国公司360的内部AI应用动态，属于国内产品动态，影响力中等。",
+      "tags": [
+        "大模型",
+        "发布",
+        "AI"
+      ],
+      "url": "https://36kr.com/newsflashes/3806104284175879?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-12 09:29:29",
+      "impact_score": 132.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Nadella Testifies Musk Never Complained to Him About OpenAI Deals",
+      "summary": "5月12日消息，微软CEO萨提亚·纳德拉在法庭作证称，埃隆·马斯克从未就OpenAI与微软的交易向他提出过投诉，驳斥了马斯克诉讼中的相关指控。",
+      "importance": "高",
+      "reason": "重大政策与法规：涉及OpenAI与微软的反垄断诉讼，马斯克指控两家公司试图“窃取慈善机构”，纳德拉的证词对案件走向有重要影响。",
+      "tags": [
+        "诉讼",
+        "OpenAI",
+        "微软",
+        "埃隆·马斯克",
+        "萨提亚·纳德拉"
+      ],
+      "url": "https://www.theinformation.com/briefings/nadella-testifies-musk-never-complained-openai-deals",
+      "source": "The Information",
+      "original_pub_date": "2026-05-11 19:55:48",
+      "impact_score": 316.0
+    },
+    {
+      "index": 2,
+      "title": "Ilya Sutskever Says His OpenAI Stake is Worth About $7 billion",
+      "summary": "5月12日消息，OpenAI联合创始人兼前首席科学家伊利亚·苏茨克弗在法庭作证时透露，其持有的OpenAI股份目前价值约70亿美元，该数字在马斯克诉OpenAI案中披露。",
+      "importance": "高",
+      "reason": "重大商业动态：披露了OpenAI核心人物的股权价值，对评估公司估值和诉讼背景有重要意义。",
+      "tags": [
+        "OpenAI",
+        "伊利亚·苏茨克弗",
+        "股权",
+        "诉讼",
+        "估值"
+      ],
+      "url": "https://www.theinformation.com/articles/chinas-kuaishou-plans-spin-kling-ai-video-unit-20-billion-valuation",
+      "source": "The Information",
+      "original_pub_date": "2026-05-11 11:44:30",
+      "impact_score": 307.5
+    },
+    {
+      "index": 3,
+      "title": "AI Chipmaker Cerebras Seeks $4.8 Billion in Upsized IPO",
+      "summary": "5月12日消息，AI芯片制造商Cerebras将其IPO规模扩大三分之一至48亿美元，并上调发行价区间至每股150至160美元，显示投资者对该公司需求强劲。",
+      "importance": "高",
+      "reason": "重大商业动态：Cerebras是重要的AI芯片公司，其IPO规模扩大反映了市场对AI基础设施的强烈需求。",
+      "tags": [
+        "Cerebras",
+        "IPO",
+        "AI芯片",
+        "融资"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-05-11/the-close-5-11-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-11 23:46:41",
+      "impact_score": 277.5
+    },
+    {
+      "index": 4,
+      "title": "OpenAI Launches $10 Billion Private-Equity Joint Venture, Acquires Consultancy",
+      "summary": "5月12日消息，OpenAI宣布成立100亿美元的私募股权合资公司OpenAI Deployment Company，旨在帮助企业部署和集成AI，同时收购了AI咨询与工程公司Tomoro。",
+      "importance": "高",
+      "reason": "重大商业动态：OpenAI成立百亿美元级合资公司并收购咨询公司，标志着其从模型提供商向企业服务平台的战略转型。",
+      "tags": [
+        "OpenAI",
+        "合资公司",
+        "收购",
+        "企业服务",
+        "AI部署"
+      ],
+      "url": "https://www.theinformation.com/briefings/ilya-sutskever-says-openai-stake-worth-7-billion",
+      "source": "The Information",
+      "original_pub_date": "2026-05-11 20:44:50",
+      "impact_score": 259.5
+    },
+    {
+      "index": 5,
+      "title": "OpenAI to Save $97 Billion Through 2030 in Latest Microsoft Deal",
+      "summary": "5月12日消息，OpenAI与微软达成新协议，将大幅降低其向微软支付的收入分成比例，预计到2030年可节省高达970亿美元，显著改善其财务状况。",
+      "importance": "高",
+      "reason": "重大商业动态：该协议涉及巨额资金节省，对OpenAI的长期财务健康和商业模式有深远影响。",
+      "tags": [
+        "OpenAI",
+        "微软",
+        "收入分成",
+        "财务",
+        "合作协议"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-05-11/bloomberg-tech-5-11-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-11 20:09:41",
+      "impact_score": 255.0
+    },
+    {
+      "index": 6,
+      "title": "Nadella says the attempt to remove Altman from OpenAI was ‘amateur city’",
+      "summary": "5月12日消息，微软CEO纳德拉在马斯克诉OpenAI案中作证，称2023年试图罢免奥特曼的行为“非常业余”，并解释了他支持奥特曼回归的决定。",
+      "importance": "高",
+      "reason": "重大政策与法规：证词涉及OpenAI内部治理危机，对理解公司权力斗争和诉讼背景至关重要。",
+      "tags": [
+        "OpenAI",
+        "萨姆·奥特曼",
+        "微软",
+        "诉讼",
+        "公司治理"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-05-11/software-firm-servicenow-plans-to-raise-4-billion-in-bond-sale",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-11 20:43:50",
+      "impact_score": 240.0
+    },
+    {
+      "index": 7,
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "summary": "5月12日消息，埃隆·马斯克与萨姆·奥特曼在法庭上就OpenAI的未来展开激烈交锋，马斯克指控OpenAI背离了造福人类的创始使命，转而追求利润。",
+      "importance": "高",
+      "reason": "重大政策与法规：该诉讼可能改变OpenAI的治理结构和AI行业的发展方向，具有里程碑意义。",
+      "tags": [
+        "OpenAI",
+        "埃隆·马斯克",
+        "萨姆·奥特曼",
+        "诉讼",
+        "AI治理"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-05-11/bill-gates-backed-fervo-energy-boosts-ipo-target-to-1-8-billion",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-11 13:05:02",
+      "impact_score": 240.0
+    },
+    {
+      "index": 8,
+      "title": "Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’",
+      "summary": "5月12日消息，前OpenAI首席科学家伊利亚·苏茨克弗在法庭上为其参与罢免奥特曼的行动辩护，称其动机是防止公司被“摧毁”。",
+      "importance": "中",
+      "reason": "重大政策与法规：揭示了OpenAI内部重大治理事件的关键人物动机，对理解公司历史有重要价值。",
+      "tags": [
+        "OpenAI",
+        "伊利亚·苏茨克弗",
+        "萨姆·奥特曼",
+        "公司治理",
+        "诉讼"
+      ],
+      "url": "https://www.theinformation.com/briefings/circle-raises-funding-3-billion-valuation-arc-blockchain",
+      "source": "The Information",
+      "original_pub_date": "2026-05-11 21:00:54",
+      "impact_score": 210.0
+    },
+    {
+      "index": 9,
+      "title": "OpenAI trial: Nadella says Musk never raised concerns to him about Microsoft investment",
+      "summary": "5月12日消息，在OpenAI诉讼案中，微软CEO纳德拉作证称马斯克从未就微软对OpenAI的投资向他表达过担忧，进一步削弱了马斯克的指控。",
+      "importance": "中",
+      "reason": "重大政策与法规：证词直接回应了诉讼核心争议点，对案件判决有直接影响。",
+      "tags": [
+        "OpenAI",
+        "微软",
+        "埃隆·马斯克",
+        "诉讼",
+        "投资"
+      ],
+      "url": "https://www.theinformation.com/briefings/cerebras-raises-pricing-range-ahead-ipo",
+      "source": "The Information",
+      "original_pub_date": "2026-05-11 14:40:07",
+      "impact_score": 210.0
+    },
+    {
+      "index": 10,
+      "title": "Cerebras Raises Pricing Range Ahead of IPO",
+      "summary": "5月12日消息，AI芯片设计公司Cerebras将其IPO初步定价区间从每股115-125美元上调至150-160美元，预计融资约45亿美元，估值随之大幅提升。",
+      "importance": "中",
+      "reason": "重大商业动态：定价上调反映了市场对AI芯片公司的热情，是IPO进程中的重要信号。",
+      "tags": [
+        "Cerebras",
+        "IPO",
+        "AI芯片",
+        "定价"
+      ],
+      "url": "https://arxiv.org/abs/2605.08220",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-12 04:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 11,
+      "title": "Cerebras bumps up IPO range as it looks to raise up to $4.8 billion",
+      "summary": "5月12日消息，AI芯片公司Cerebras再次上调IPO规模，目标融资高达48亿美元，此前马斯克曾对OpenAI与Cerebras合并持开放态度。",
+      "importance": "中",
+      "reason": "重大商业动态：与马斯克诉讼案关联，增加了新闻的复合影响力。",
+      "tags": [
+        "Cerebras",
+        "IPO",
+        "埃隆·马斯克",
+        "OpenAI"
+      ],
+      "url": "https://www.ft.com/content/0a88f439-ba2a-4d6b-8ca4-0554a7c85c50",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-05-11 20:56:03",
+      "impact_score": 195.0
+    },
+    {
+      "index": 12,
+      "title": "Software Firm ServiceNow Plans to Raise $4 Billion in Bond Sale",
+      "summary": "5月12日消息，软件公司ServiceNow计划通过发行美国高等级债券筹集约40亿美元，资金将用于其近期的收购活动。",
+      "importance": "中",
+      "reason": "重大商业动态：大规模债券发行表明公司对AI相关收购的积极布局。",
+      "tags": [
+        "ServiceNow",
+        "债券",
+        "融资",
+        "收购"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-05-11/what-s-next-for-telecom-and-digital-infrastructure-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-11 22:35:01",
+      "impact_score": 180.0
+    },
+    {
+      "index": 13,
+      "title": "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction",
+      "summary": "5月12日消息，一项新研究提出基于网格的空间提示方法，在图表数据提取任务上显著优于传统语义提示，提升了多模态大语言模型的准确性。",
+      "importance": "中",
+      "reason": "重大学术突破：提出了提升LLM在特定任务上性能的新方法，具有实际应用价值。",
+      "tags": [
+        "学术研究",
+        "大语言模型",
+        "多模态",
+        "图表提取",
+        "提示工程"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-05-11/rezolve-ai-ceo-weighs-in-on-bid-for-commerce-com-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-11 19:13:36",
+      "impact_score": 180.0
+    },
+    {
+      "index": 14,
+      "title": "The Attacker in the Mirror: Breaking Self-Consistency in Safety via Anchored Bipolicy Self-Play",
+      "summary": "5月12日消息，一项新研究提出“锚定双策略自博弈”方法，通过打破AI安全中的自我一致性，有效提升了模型对抗越狱攻击的鲁棒性。",
+      "importance": "中",
+      "reason": "安全与伦理：提出了增强AI安全性的创新方法，对防范大模型滥用有重要意义。",
+      "tags": [
+        "AI安全",
+        "学术研究",
+        "自博弈",
+        "越狱攻击",
+        "鲁棒性"
+      ],
+      "url": "https://www.cnbc.com/2026/05/11/cerebras-raises-ipo-range.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-05-11 13:46:26",
+      "impact_score": 180.0
+    },
+    {
+      "index": 15,
+      "title": "Political Plasticity: An Analysis of Ideological Adaptability in Large Language Models",
+      "summary": "5月12日消息，一项新研究提出“政治可塑性”概念，分析了大语言模型在不同语境下调整其意识形态倾向的能力，揭示了模型偏见的动态特性。",
+      "importance": "低",
+      "reason": "安全与伦理：研究关注AI偏见这一重要议题，但属于学术探索阶段。",
+      "tags": [
+        "大语言模型",
+        "政治偏见",
+        "学术研究",
+        "AI伦理"
+      ],
+      "url": "https://www.theinformation.com/articles/capital-compute-real-ai-bottleneck",
+      "source": "The Information",
+      "original_pub_date": "2026-05-11 16:19:20",
+      "impact_score": 173.0
+    },
+    {
+      "index": 16,
+      "title": "Mid-Training with Self-Generated Data Improves Reinforcement Learning in Language Models",
+      "summary": "5月12日消息，一项新研究发现，在强化学习过程中使用模型自身生成的数据进行中期训练，能显著提升大语言模型的推理能力和学习效果。",
+      "importance": "低",
+      "reason": "重大学术突破：提出了改进强化学习训练效率的新方法，对提升模型性能有潜在价值。",
+      "tags": [
+        "大语言模型",
+        "强化学习",
+        "学术研究",
+        "推理"
+      ],
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-05-11 15:27:12",
+      "impact_score": 173.0
+    }
+  ],
+  "summary": "今日从174条原始信息中精选出18条国内动态和16条国际动态，其中15条为高重要性。 重点关注：硬氪专访 | 拿到行业最大单笔融资后，余轶南说万里长征才走了第一步；魔法原子登陆硅谷，行业首个「自进化具身大脑」发布；8点1氪丨美国总统特朗普：非常期待中国之行 ；OPPO发布母亲节文案事件问责通告；快手计划分拆可灵AI，融资20亿美元。",
+  "statistics": {
+    "raw_domestic": 50,
+    "raw_international": 124,
+    "raw_total": 174,
+    "final_domestic": 18,
+    "final_international": 16
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "5月12日消息，维他动力创始人余轶南在获得行业最大单笔融资后表示万里长征才走了第一步，该公司致力于将自动驾驶技术迁移至消费级机器人领域。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "5月12日消息，中国公司魔法原子在硅谷全球具身智能创新大会上发布行业首个自进化具身大脑，吸引英伟达、亚马逊等参与，展示具身智能前沿技术。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "5月12日消息，快手计划分拆可灵AI并融资20亿美元，OPPO就母亲节文案事件发布问责通告，高级副总裁职级直降两级。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "5月12日消息，中国具身智能企业鹿明机器人完成数亿元A1及A2轮融资，由三菱电机等产业方领投，累计融资近10亿元，用于具身大模型研发和场景拓展。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "5月12日消息，腾讯混元3.0 Preview版本发布并开源，规模更大、功能更全面的闭源旗舰版本预计五六月份发布，展现腾讯在AI大模型领域的最新进展。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "5月12日消息，微软CEO萨提亚·纳德拉在法庭作证称，埃隆·马斯克从未就OpenAI与微软的交易向他提出过投诉，驳斥了马斯克诉讼中的相关指控。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "5月12日消息，OpenAI联合创始人兼前首席科学家伊利亚·苏茨克弗在法庭作证时透露，其持有的OpenAI股份目前价值约70亿美元，该数字在马斯克诉OpenAI案中披露。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "5月12日消息，AI芯片制造商Cerebras将其IPO规模扩大三分之一至48亿美元，并上调发行价区间至每股150至160美元，显示投资者对该公司需求强劲。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "5月12日消息，OpenAI宣布成立100亿美元的私募股权合资公司OpenAI Deployment Company，旨在帮助企业部署和集成AI，同时收购了AI咨询与工程公司Tomoro。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "5月12日消息，OpenAI与微软达成新协议，将大幅降低其向微软支付的收入分成比例，预计到2030年可节省高达970亿美元，显著改善其财务状况。",
+      "importance": "高"
+    }
+  ]
+}
