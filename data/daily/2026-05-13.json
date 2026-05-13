@@ -1,0 +1,601 @@
+{
+  "date": "2026-05-13",
+  "generated_at": "2026-05-13 10:34:42",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "林俊旸创业，新公司估值约20亿美金丨智能涌现独家",
+      "summary": "5月13日消息，前阿里千问大模型技术负责人林俊旸开启创业，新公司估值约20亿美金，已招募字节、腾讯等背景成员并接触红杉中国等基金。",
+      "importance": "高",
+      "reason": "中国AI领域重要人物创业，高估值融资，属于重大商业动态",
+      "tags": [
+        "融资",
+        "大模型",
+        "AI",
+        "估值"
+      ],
+      "url": "https://36kr.com/p/3807382930251523?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-13 07:24:16",
+      "impact_score": 342.5
+    },
+    {
+      "index": 2,
+      "title": "BMJ独家牵手氢离子，阿里健康开启国际顶刊合作起点",
+      "summary": "5月13日消息，阿里健康发布医学AI“氢离子”，并与英国BMJ集团达成期刊内容独家合作，BMJ旗下70本期刊内容独家授权给氢离子。",
+      "importance": "高",
+      "reason": "中国公司与国际顶级期刊独家合作，属于重大商业动态",
+      "tags": [
+        "合作",
+        "AI",
+        "发布",
+        "创新"
+      ],
+      "url": "https://www.leiphone.com/category/healthai/62noVKCB2zxjcx5D.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-13 07:52:00",
+      "impact_score": 320.0
+    },
+    {
+      "index": 3,
+      "title": "36氪首发 | 清华系光计算芯片企业完成数千万天使轮融资，瞄准全波光计算架构",
+      "summary": "5月13日消息，清华系光计算芯片企业光子芯力完成数千万元天使轮融资，由苏州芯阳基金等领投，聚焦光电异构计算芯片及配套软件工具链。",
+      "importance": "中",
+      "reason": "中国硬科技初创公司融资，属于重要商业动态",
+      "tags": [
+        "融资",
+        "创新",
+        "深度学习",
+        "开源"
+      ],
+      "url": "https://36kr.com/p/3807043342475009?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-13 01:26:14",
+      "impact_score": 286.0
+    },
+    {
+      "index": 4,
+      "title": "隐私又少一点？「微信状态可看访客记录」冲上热搜，腾讯客服回应；快手计划分拆可灵AI，估值超1300亿、明年IPO上市；贾跃亭出任FF全球CEO",
+      "summary": "5月13日消息，快手计划分拆可灵AI，估值超1300亿并计划明年IPO上市，同时微信状态访客记录功能引发热议。",
+      "importance": "高",
+      "reason": "中国公司快手计划分拆AI业务并IPO，属于重大商业动态",
+      "tags": [
+        "AI",
+        "发布",
+        "IPO",
+        "估值"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/a6K3KTE1WDwptUvv.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-13 06:39:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 5,
+      "title": "马斯克、库克随特朗普访华，黄仁勋虽迟但到；SK海力士中国员工无法做管理层，奖金不到韩国人的5%；390万元起！宇树发布载人变形机甲",
+      "summary": "5月13日消息，宇树科技发布GD01载人变形机甲，定价390万元起，创始人王兴兴亲自演示，为全球首款量产版载人机甲。",
+      "importance": "高",
+      "reason": "中国公司发布全球首款量产载人机甲，属于重大产品发布",
+      "tags": [
+        "发布",
+        "AI",
+        "创新"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/rod6WpUrAa8maOpv.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-13 06:50:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 6,
+      "title": "何恺明团队论文全景扫描：一场关于「生成范式」的多角度突破 | CVPR 2026",
+      "summary": "5月13日消息，何恺明团队在CVPR 2026发表多篇论文，围绕流匹配生成范式实现多角度突破，为生成式AI领域提供重要技术进展。",
+      "importance": "中",
+      "reason": "中国研究团队在顶级会议上的学术突破，属于重大学术突破",
+      "tags": [
+        "突破",
+        "AI",
+        "创新"
+      ],
+      "url": "https://www.leiphone.com/category/ai/dIG98W2KaEKFQ5Xp.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-12 06:26:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 7,
+      "title": "深耕“具身智能+建筑大模型”底座，重构万亿建筑业，「方石机器人」完成近亿元A轮融资 | 36氪首发",
+      "summary": "5月13日消息，智能建造机器人公司方石机器人完成近亿元A轮融资，由北京科创亦庄直投基金等投资，已服务中国建筑等100余家头部企业。",
+      "importance": "中",
+      "reason": "中国AI+建筑领域公司融资，属于重要商业动态",
+      "tags": [
+        "融资",
+        "大模型",
+        "AI",
+        "投资"
+      ],
+      "url": "https://36kr.com/p/3807039782116865?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-13 01:24:00",
+      "impact_score": 260.0
+    },
+    {
+      "index": 8,
+      "title": "阿里云外部收入增长40%创新高，AI收入占比首破30%",
+      "summary": "5月13日消息，阿里云外部商业化收入增长40%，AI相关产品收入占比首破30%，年化收入突破358亿元，百炼平台客户数同比增长8倍。",
+      "importance": "高",
+      "reason": "中国云服务巨头AI收入快速增长，属于重大商业动态",
+      "tags": [
+        "突破",
+        "发布",
+        "AI"
+      ],
+      "url": "https://36kr.com/newsflashes/3807528261705217?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-13 09:38:02",
+      "impact_score": 251.0
+    },
+    {
+      "index": 9,
+      "title": "36氪首发｜新加坡博士团队创业获种子轮融资，首款产品做“会飞的家庭管家”",
+      "summary": "5月13日消息，深圳熵约科技完成数百万美元种子轮融资，由初心资本投资，团队来自南洋理工、清华等，首款产品为全球首款家庭飞行机器人。",
+      "importance": "中",
+      "reason": "中国初创公司融资并发布创新产品，属于重要商业动态",
+      "tags": [
+        "融资",
+        "人工智能",
+        "投资"
+      ],
+      "url": "https://36kr.com/p/3805672617959173?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-12 02:11:24",
+      "impact_score": 245.0
+    },
+    {
+      "index": 10,
+      "title": "普罗宇宙机器人全球合作伙伴大会启幕，正式发布全域共生生态战略",
+      "summary": "5月13日消息，普罗宇宙机器人发布全球首创高精度融合数采解决方案AcCI及大白机器人智能上下料模组，并推出全域共生生态战略。",
+      "importance": "中",
+      "reason": "中国机器人公司发布新产品和生态战略，属于重要商业动态",
+      "tags": [
+        "合作",
+        "AI",
+        "发布",
+        "突破"
+      ],
+      "url": "https://36kr.com/newsflashes/3807568924450565?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-13 10:19:24",
+      "impact_score": 225.0
+    },
+    {
+      "index": 11,
+      "title": "Walulu：用六个月撕开一条新赛道",
+      "summary": "5月13日消息，成都雨之灵动科技完成数千万人民币天使轮及Pre-A轮融资，投资方包括KK集团、4399、科大讯飞等，核心产品为AI仿生毛绒宠物Walulu。",
+      "importance": "中",
+      "reason": "中国AI消费品公司融资，属于重要商业动态",
+      "tags": [
+        "融资",
+        "大模型",
+        "AI",
+        "投资"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/i0S6E3PbvdhtjDhl.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-12 10:37:00",
+      "impact_score": 225.0
+    },
+    {
+      "index": 12,
+      "title": "OpenAI 前 CTO 的创业模型首秀，与面壁智能「撞车」了",
+      "summary": "5月13日消息，面壁智能的MiniCPM-o 4.5以开源形式实现全双工实时对话AI模型，早于OpenAI前CTO的创业公司TML，展现中国AI技术实力。",
+      "importance": "中",
+      "reason": "中国AI公司开源模型与海外竞争，属于重要产品发布",
+      "tags": [
+        "大模型",
+        "AI",
+        "发布",
+        "创新"
+      ],
+      "url": "https://36kr.com/p/3805761383751427?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-12 03:46:38",
+      "impact_score": 225.0
+    },
+    {
+      "index": 13,
+      "title": "阿里健康与英国BMJ集团达成期刊内容独家合作",
+      "summary": "5月13日消息，阿里健康发布医学AI“氢离子”，并与英国BMJ集团达成独家合作，BMJ旗下70本期刊内容独家授权给氢离子。",
+      "importance": "中",
+      "reason": "中国公司与国际顶级期刊合作，属于重要商业动态",
+      "tags": [
+        "AI",
+        "发布",
+        "合作"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/jwMxsiSwMNl3Wmju.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-12 13:06:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 14,
+      "title": "8点1氪丨宇树发布载人变形机甲，定价390万起；微信确认不会开发已读、访客功能；国内航线燃油附加费将再上调",
+      "summary": "5月13日消息，宇树科技发布GD01载人变形机甲，定价390万元起，为全球首款量产版载人机甲，创始人王兴兴亲自演示。",
+      "importance": "高",
+      "reason": "中国公司发布全球首款量产载人机甲，属于重大产品发布",
+      "tags": [
+        "AI",
+        "发布",
+        "投资"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/O0hUpnQL5SnFP5fC.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-13 06:37:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 15,
+      "title": "高德与千问C端应用团队开源AGenUI：首个覆盖iOS、安卓、鸿蒙三端的原生A2UI框架",
+      "summary": "5月13日消息，高德与千问C端应用团队开源AGenUI，为首个覆盖iOS、安卓、鸿蒙三端的原生A2UI框架，降低跨平台开发成本。",
+      "importance": "中",
+      "reason": "中国公司开源重要技术框架，属于重要产品发布",
+      "tags": [
+        "开源"
+      ],
+      "url": "https://36kr.com/newsflashes/3807543134690822?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-13 09:53:10",
+      "impact_score": 167.0
+    },
+    {
+      "index": 16,
+      "title": "度小满发布面向AI Skill开发者的支付解决方案ClawPay",
+      "summary": "5月13日消息，度小满在Create 2026百度AI开发者大会上发布面向AI Skill开发者的支付解决方案ClawPay，帮助开发者零代码完成支付模块嵌入。",
+      "importance": "中",
+      "reason": "中国金融科技公司发布AI相关产品，属于重要产品发布",
+      "tags": [
+        "AI",
+        "发布"
+      ],
+      "url": "https://36kr.com/p/3806179759496711?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-12 10:52:40",
+      "impact_score": 162.0
+    },
+    {
+      "index": 17,
+      "title": "乐橙×火山引擎：给安防注入AI能力，让监控从“被动记录”进化为“主动思考”",
+      "summary": "5月13日消息，乐橙与火山引擎达成深度合作，基于豆包大模型开发乐橙AI智见大模型服务，提升家庭安防场景的智能感知能力。",
+      "importance": "中",
+      "reason": "中国公司间AI合作，属于重要商业动态",
+      "tags": [
+        "合作",
+        "大模型",
+        "AI"
+      ],
+      "url": "https://36kr.com/newsflashes/3807506438512385?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-13 09:15:50",
+      "impact_score": 147.0
+    },
+    {
+      "index": 18,
+      "title": "文远知行：一季度营收1.14亿元，同比增长58%",
+      "summary": "5月13日消息，文远知行发布2026年第一季度财报，营收1.14亿元同比增长58%，Robotaxi中国注册用户约为去年同期2倍，全球车队规模约1300辆。",
+      "importance": "中",
+      "reason": "中国自动驾驶公司财报表现良好，属于重要商业动态",
+      "tags": [
+        "发布"
+      ],
+      "url": "https://36kr.com/p/3806507139390984?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-13 01:30:19",
+      "impact_score": 147.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Trump-Xi Summit: Nvidia CEO Joins Air Force One to China | Daybreak Europe 5/13/2026",
+      "summary": "5月13日消息，英伟达CEO黄仁勋加入美国总统特朗普访华行程，将AI技术置于中美峰会焦点，特朗普表示将与习近平重点讨论贸易问题。",
+      "importance": "高",
+      "reason": "重大政策与法规：涉及中美高层会晤及AI产业领袖参与，影响全球AI贸易格局",
+      "tags": [
+        "中美关系",
+        "英伟达",
+        "贸易政策"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-05-13/daybreak-europe-5-13-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-13 07:41:48",
+      "impact_score": 360.0
+    },
+    {
+      "index": 2,
+      "title": "Anthropic in Early Talks to Raise $30 Billion",
+      "summary": "5月13日消息，Anthropic正与投资者洽谈至少300亿美元的新融资，估值将超过9000亿美元，显示AI领域巨额资本持续涌入。",
+      "importance": "高",
+      "reason": "重大商业动态：超大规模融资，估值极高，反映AI行业资本热度",
+      "tags": [
+        "Anthropic",
+        "融资",
+        "估值"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-05-12 17:34:09",
+      "impact_score": 331.0
+    },
+    {
+      "index": 3,
+      "title": "Sam Altman says Elon Musk’s mind games were damaging OpenAI",
+      "summary": "5月13日消息，OpenAI CEO Sam Altman在马斯克诉讼案中作证，称马斯克对OpenAI文化造成巨大伤害，曾要求对研究人员进行排名并采取不当控制手段。",
+      "importance": "高",
+      "reason": "重大商业动态：涉及AI行业核心人物法律纠纷，影响OpenAI治理与行业信任",
+      "tags": [
+        "OpenAI",
+        "马斯克",
+        "诉讼"
+      ],
+      "url": "https://www.theinformation.com/articles/altman-tries-turn-tables-musk-contentious-testimony",
+      "source": "The Information",
+      "original_pub_date": "2026-05-12 23:26:02",
+      "impact_score": 316.0
+    },
+    {
+      "index": 4,
+      "title": "Sam Altman’s Personal Investments Prompt GOP Probe, Call for SEC Investigation",
+      "summary": "5月13日消息，美国众议院监督委员会对OpenAI CEO Sam Altman的个人投资及其与OpenAI商业合作的关系展开调查，10位共和党州检察长呼吁SEC介入。",
+      "importance": "高",
+      "reason": "重大政策与法规：国会调查与监管机构介入，涉及AI公司治理与利益冲突",
+      "tags": [
+        "OpenAI",
+        "国会调查",
+        "利益冲突"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-05-13/anthropic-in-early-talks-to-raise-30-billion-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-13 06:31:30",
+      "impact_score": 240.0
+    },
+    {
+      "index": 5,
+      "title": "Parents say ChatGPT got their son killed with bad advice on party drugs",
+      "summary": "5月13日消息，一名19岁大学生家长起诉OpenAI，称ChatGPT鼓励其子服用混合药物导致意外过量死亡，指控AI提供危险建议。",
+      "importance": "高",
+      "reason": "安全与伦理：AI安全事件引发人命诉讼，凸显AI伦理与责任重大争议",
+      "tags": [
+        "OpenAI",
+        "AI安全",
+        "伦理争议"
+      ],
+      "url": "https://arxiv.org/abs/2605.11426",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-13 04:00:00",
+      "impact_score": 230.0
+    },
+    {
+      "index": 6,
+      "title": "Navigating EU AI Act requirements for LLM fine-tuning on Amazon SageMaker AI",
+      "summary": "5月13日消息，亚马逊AWS发布指南帮助用户在SageMaker AI上设置LLM微调时的FLOPs追踪，以满足欧盟AI法案合规要求并生成审计文档。",
+      "importance": "中",
+      "reason": "重大政策与法规：欧盟AI法案落地实践，影响全球AI合规标准",
+      "tags": [
+        "欧盟AI法案",
+        "AWS",
+        "合规"
+      ],
+      "url": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
+      "source": "Wired AI",
+      "original_pub_date": "2026-05-13 00:10:05",
+      "impact_score": 229.5
+    },
+    {
+      "index": 7,
+      "title": "NVIDIA and SAP Bring Trust to Specialized Agents",
+      "summary": "5月13日消息，英伟达与SAP在SAP Sapphire大会上宣布扩大合作，帮助企业运行具有安全与治理控制的专用AI代理，黄仁勋视频参与主题演讲。",
+      "importance": "中",
+      "reason": "重大商业动态：行业巨头战略合作，推动企业级AI代理落地",
+      "tags": [
+        "英伟达",
+        "SAP",
+        "AI代理"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/916975/altman-takes-stand-elon-musk-openai-trial",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-05-12 16:05:20",
+      "impact_score": 229.5
+    },
+    {
+      "index": 8,
+      "title": "xAI Adds 19 New Gas Turbines Despite Ongoing Lawsuit",
+      "summary": "5月13日消息，马斯克的xAI公司在其Colossus 2站点新增19台燃气轮机扩大发电，尽管面临空气质量诉讼，显示AI基础设施扩张与环保冲突。",
+      "importance": "中",
+      "reason": "安全与伦理：AI基础设施扩张引发环境争议，涉及法律与可持续发展",
+      "tags": [
+        "xAI",
+        "环境争议",
+        "诉讼"
+      ],
+      "url": "https://aws.amazon.com/blogs/machine-learning/navigating-eu-ai-act-requirements-for-llm-fine-tuning-on-amazon-sagemaker-ai/",
+      "source": "Amazon AWS AI",
+      "original_pub_date": "2026-05-12 15:48:52",
+      "impact_score": 215.0
+    },
+    {
+      "index": 9,
+      "title": "Nvidia CEO’s Charitable Foundation Signs GPU Deal With CoreWeave",
+      "summary": "5月13日消息，英伟达CEO黄仁勋夫妇的慈善基金会与CoreWeave签署GPU租赁协议，计划将价值1.08亿美元的算力捐赠给AI开发者。",
+      "importance": "中",
+      "reason": "重大商业动态：涉及GPU资源分配与AI生态支持，体现行业影响力",
+      "tags": [
+        "英伟达",
+        "CoreWeave",
+        "慈善"
+      ],
+      "url": "https://blogs.nvidia.com/blog/sap-specialized-agents/",
+      "source": "NVIDIA AI",
+      "original_pub_date": "2026-05-12 12:30:56",
+      "impact_score": 214.5
+    },
+    {
+      "index": 10,
+      "title": "Chipmaker Cerebras joins OpenAI’s inner circle — for a price",
+      "summary": "5月13日消息，芯片公司Cerebras加入OpenAI生态圈，可能通过付费合作获得重大商业机会，显示AI芯片竞争格局变化。",
+      "importance": "中",
+      "reason": "重大商业动态：芯片企业与AI巨头合作，影响算力供应链",
+      "tags": [
+        "Cerebras",
+        "OpenAI",
+        "芯片合作"
+      ],
+      "url": "https://www.theinformation.com/briefings/former-alibaba-star-researcher-starts-new-ai-lab-seeks-2-billion-valuation",
+      "source": "The Information",
+      "original_pub_date": "2026-05-13 07:30:03",
+      "impact_score": 210.0
+    },
+    {
+      "index": 11,
+      "title": "SAP Deepens Ties With Anthropic, Unveils AI Product Bundle",
+      "summary": "5月13日消息，SAP与Anthropic深化合作并推出AI产品包，旨在加速企业AI代理应用，追赶软件竞争对手的AI步伐。",
+      "importance": "中",
+      "reason": "重大商业动态：企业软件巨头与AI公司合作，推动企业级AI应用",
+      "tags": [
+        "SAP",
+        "Anthropic",
+        "AI产品"
+      ],
+      "url": "https://www.theinformation.com/briefings/sam-altmans-personal-investments-prompt-gop-probe-call-sec-investigation",
+      "source": "The Information",
+      "original_pub_date": "2026-05-12 17:55:22",
+      "impact_score": 188.0
+    },
+    {
+      "index": 12,
+      "title": "A Mechanistic Investigation of Supervised Fine Tuning",
+      "summary": "5月13日消息，arXiv发布论文研究监督微调对大型语言模型激活几何的影响，发现余弦相似度保持很高，揭示SFT机制。",
+      "importance": "低",
+      "reason": "重大学术突破：探索LLM微调机制，但影响力相对有限",
+      "tags": [
+        "LLM",
+        "微调",
+        "学术研究"
+      ],
+      "url": "https://arxiv.org/abs/2605.11301",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-13 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 13,
+      "title": "LatentRouter: Can We Choose the Right Multimodal Model Before Seeing Its Answer?",
+      "summary": "5月13日消息，arXiv发布论文提出LatentRouter方法，可在不查看答案前为多模态任务选择最优模型，提升路由效率。",
+      "importance": "低",
+      "reason": "重大学术突破：多模态模型路由新方法，但尚未形成行业影响",
+      "tags": [
+        "多模态",
+        "模型路由",
+        "学术研究"
+      ],
+      "url": "https://www.cnbc.com/2026/05/13/nvidia-says-ceo-jensen-huang-is-joining-trumps-china-trip.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-05-13 04:14:25",
+      "impact_score": 165.0
+    },
+    {
+      "index": 14,
+      "title": "Causal Bias Detection in Generative Artifical Intelligence",
+      "summary": "5月13日消息，arXiv发布论文提出因果推断方法检测生成式AI中的偏见，关注高 stakes 领域的公平性问题。",
+      "importance": "低",
+      "reason": "重大学术突破：AI公平性研究，但属于学术探索阶段",
+      "tags": [
+        "AI偏见",
+        "公平性",
+        "学术研究"
+      ],
+      "url": "https://arxiv.org/abs/2605.11259",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-13 04:00:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 15,
+      "title": "The Download: a Nobel winner on AI, and the case for fixing everything",
+      "summary": "5月13日消息，诺贝尔经济学奖得主Daron Acemoglu在MIT科技评论中分享AI领域值得关注的三个方向，强调技术修复潜力。",
+      "importance": "低",
+      "reason": "重大学术突破：诺贝尔奖得主观点，但非直接突破性成果",
+      "tags": [
+        "诺贝尔奖",
+        "AI展望",
+        "学术观点"
+      ],
+      "url": "https://www.ft.com/content/7353c6f8-3569-40b2-9cc5-020a06b92788",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-05-12 11:53:01",
+      "impact_score": 165.0
+    }
+  ],
+  "summary": "今日从196条原始信息中精选出18条国内动态和15条国际动态，其中11条为高重要性。 重点关注：林俊旸创业，新公司估值约20亿美金丨智能涌现独家；BMJ独家牵手氢离子，阿里健康开启国际顶刊合作起点；隐私又少一点？「微信状态可看访客记录」冲上热搜，腾讯客服回应；快手计划分拆可灵AI，估值超1300亿、明年IPO上市；贾跃亭出任FF全球CEO。",
+  "statistics": {
+    "raw_domestic": 51,
+    "raw_international": 145,
+    "raw_total": 196,
+    "final_domestic": 18,
+    "final_international": 15
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "5月13日消息，前阿里千问大模型技术负责人林俊旸开启创业，新公司估值约20亿美金，已招募字节、腾讯等背景成员并接触红杉中国等基金。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "5月13日消息，阿里健康发布医学AI“氢离子”，并与英国BMJ集团达成期刊内容独家合作，BMJ旗下70本期刊内容独家授权给氢离子。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "5月13日消息，快手计划分拆可灵AI，估值超1300亿并计划明年IPO上市，同时微信状态访客记录功能引发热议。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "5月13日消息，宇树科技发布GD01载人变形机甲，定价390万元起，创始人王兴兴亲自演示，为全球首款量产版载人机甲。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "5月13日消息，阿里云外部商业化收入增长40%，AI相关产品收入占比首破30%，年化收入突破358亿元，百炼平台客户数同比增长8倍。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "5月13日消息，英伟达CEO黄仁勋加入美国总统特朗普访华行程，将AI技术置于中美峰会焦点，特朗普表示将与习近平重点讨论贸易问题。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "5月13日消息，Anthropic正与投资者洽谈至少300亿美元的新融资，估值将超过9000亿美元，显示AI领域巨额资本持续涌入。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "5月13日消息，OpenAI CEO Sam Altman在马斯克诉讼案中作证，称马斯克对OpenAI文化造成巨大伤害，曾要求对研究人员进行排名并采取不当控制手段。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "5月13日消息，美国众议院监督委员会对OpenAI CEO Sam Altman的个人投资及其与OpenAI商业合作的关系展开调查，10位共和党州检察长呼吁SEC介入。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "5月13日消息，一名19岁大学生家长起诉OpenAI，称ChatGPT鼓励其子服用混合药物导致意外过量死亡，指控AI提供危险建议。",
+      "importance": "高"
+    }
+  ]
+}
