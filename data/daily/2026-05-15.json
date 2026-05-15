@@ -1,0 +1,482 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15 10:30:04",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "首次披露！载合卡车完成10亿元级战略融资，开创车云一体AI重卡全新赛道",
+      "summary": "5月15日消息，载合卡车宣布完成10亿元级战略融资，获百度风投、苏创投等支持，并与地平线等产业方深度合作，完成“股权+债权+产业”资本闭环，加速车云一体AI重卡商业化落地。",
+      "importance": "高",
+      "reason": "国内AI重卡领域重大融资，涉及多家中国投资机构和产业方，属于重大商业动态。",
+      "tags": [
+        "融资",
+        "AI",
+        "重卡",
+        "车云一体"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/VTZD7tfMJuwiBTXE.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-15 02:11:00",
+      "impact_score": 420.0
+    },
+    {
+      "index": 2,
+      "title": "芯驰科技完成近1亿美金C轮融资，加码汽车到具身智能全栈「芯」突破",
+      "summary": "5月15日消息，国内车规级芯片企业芯驰科技完成近1亿美元C轮融资，由苏产投领投，陕汽等跟投，将巩固车规芯片技术壁垒并加速从汽车到具身智能赛道的全栈芯片突破。",
+      "importance": "高",
+      "reason": "国内车规芯片领域大额融资，涉及多家中国投资机构，属于重大商业动态。",
+      "tags": [
+        "融资",
+        "车规芯片",
+        "具身智能",
+        "芯驰科技"
+      ],
+      "url": "https://36kr.com/newsflashes/3810340040236550?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-15 09:30:16",
+      "impact_score": 405.0
+    },
+    {
+      "index": 3,
+      "title": "马化腾：腾讯AI发展不急于乱抢地盘，过去抢别人地盘基本失败了；思科拟裁员约4000人，投入更多资源到AI；林俊旸被曝创立新AI实验室",
+      "summary": "5月15日消息，腾讯CEO马化腾表示腾讯AI发展不急于抢地盘，同时阿里巴巴CEO吴泳铭称阿里服务器利用率极高，此外前阿里AI专家林俊旸被曝创立新AI实验室，首轮估值20亿美元。",
+      "importance": "高",
+      "reason": "涉及腾讯、阿里等中国科技巨头AI战略表态，以及中国AI人才创业动态，属于重大商业动态。",
+      "tags": [
+        "腾讯",
+        "马化腾",
+        "AI",
+        "林俊旸",
+        "创业"
+      ],
+      "url": "https://www.leiphone.com/category/weiwu/JNy9AY58YfCIS2L0.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-15 02:49:00",
+      "impact_score": 315.0
+    },
+    {
+      "index": 4,
+      "title": "文远知行最新财报：「高筑墙、广积粮」，营收超预期，Robotaxi用户规模翻倍",
+      "summary": "5月15日消息，文远知行发布2026年Q1财报，营收1.95亿元超预期，全年营收6.9亿元同比增长90%，Robotaxi用户规模翻倍，智驾商业化进入规模阶段。",
+      "importance": "高",
+      "reason": "中国自动驾驶公司文远知行财报表现强劲，营收和用户增长显著，属于重大商业动态。",
+      "tags": [
+        "文远知行",
+        "财报",
+        "自动驾驶",
+        "Robotaxi"
+      ],
+      "url": "https://36kr.com/p/3809936183860740?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-15 02:28:57",
+      "impact_score": 312.5
+    },
+    {
+      "index": 5,
+      "title": "蚂蚁百灵 Ring-2.6-1T 开源 Agent 执行能力全面增强",
+      "summary": "5月15日消息，蚂蚁集团开源百灵Ring-2.6-1T模型，Agent执行能力全面增强，AIME 26得分达95.83，展现中国AI开源领域重要进展。",
+      "importance": "中",
+      "reason": "中国科技公司蚂蚁集团发布开源AI模型，属于重大产品发布。",
+      "tags": [
+        "蚂蚁集团",
+        "开源",
+        "AI模型",
+        "百灵"
+      ],
+      "url": "https://36kr.com/newsflashes/3810389065211392?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-15 10:19:07",
+      "impact_score": 307.5
+    },
+    {
+      "index": 6,
+      "title": "阿里巴巴等来收获期，外卖大战已无大波澜",
+      "summary": "5月15日消息，阿里巴巴发布2026年Q4财报，营收2433.8亿元同比增长3%，云业务营收同比增长38%，AI相关产品收入连续11个季度三位数增长，电商业务稳定。",
+      "importance": "中",
+      "reason": "中国科技巨头阿里巴巴财报显示AI云业务强劲增长，属于重大商业动态。",
+      "tags": [
+        "阿里巴巴",
+        "财报",
+        "云业务",
+        "AI"
+      ],
+      "url": "https://36kr.com/newsflashes/3810379816296192?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-15 10:18:39",
+      "impact_score": 307.5
+    },
+    {
+      "index": 7,
+      "title": "阿里发布Qoder 1.0，可全面接管代码生成、验证和交付流程",
+      "summary": "5月15日消息，阿里巴巴发布Qoder 1.0，支持Windows、macOS和Linux系统，可全面接管代码生成、验证和交付流程，提升开发效率。",
+      "importance": "中",
+      "reason": "中国科技公司阿里巴巴发布AI编程工具，属于重大产品发布。",
+      "tags": [
+        "阿里巴巴",
+        "Qoder",
+        "AI编程",
+        "发布"
+      ],
+      "url": "https://36kr.com/newsflashes/3810378070121985?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-15 10:15:55",
+      "impact_score": 307.5
+    },
+    {
+      "index": 8,
+      "title": "数亿元融资落地！国内最早布局“人类学习”路线的具身公司，用人类视角重做具身智能",
+      "summary": "5月15日消息，国内具身智能公司完成数亿元融资，该公司最早布局“人类学习”路线，用人类视角重塑具身智能技术，推动行业路线转变。",
+      "importance": "中",
+      "reason": "国内具身智能领域重要融资，属于重大商业动态。",
+      "tags": [
+        "融资",
+        "具身智能",
+        "人类学习"
+      ],
+      "url": "https://www.leiphone.com/category/robot/OiZC1Jbjlsau6Gk9.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-14 02:42:00",
+      "impact_score": 275.0
+    },
+    {
+      "index": 9,
+      "title": "长安计划入股千里科技，千里智驾与奥迪推进合作｜36氪独家",
+      "summary": "5月15日消息，长安汽车计划入股千里科技，千里智驾与奥迪、北汽等车企推进智能化合作，北汽为最确定外部客户，计划年内成立合资公司。",
+      "importance": "中",
+      "reason": "中国车企长安与智驾公司千里科技的合作动态，属于重大商业动态。",
+      "tags": [
+        "长安",
+        "千里科技",
+        "智驾",
+        "合作"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/barQoX7o1PXA3LwV.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-14 06:17:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 10,
+      "title": "广合科技：预计三季度后PCIE6.0将正式进入量产",
+      "summary": "5月15日消息，广合科技公告预计三季度后PCIE6.0量产，已启动光模块PCB预研，九派基金已投资三个AI产业项目，算力需求增长强劲。",
+      "importance": "低",
+      "reason": "中国科技公司广合科技的技术量产进展和AI投资动态，属于一般商业动态。",
+      "tags": [
+        "广合科技",
+        "PCIE6.0",
+        "AI",
+        "投资"
+      ],
+      "url": "https://36kr.com/p/3810308239465986?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-15 08:51:47",
+      "impact_score": 264.0
+    },
+    {
+      "index": 11,
+      "title": "对话销售易总裁邓永富：借力腾讯，能否在SaaS大洗牌中「攒足」筹码？ | SaaS+Agent十人谈",
+      "summary": "5月15日消息，销售易总裁邓永富表示与腾讯战略合作升级，在技术、产品、生态深度协同，借Agent浪潮抓住窗口期，推动SaaS与AI融合。",
+      "importance": "低",
+      "reason": "中国SaaS公司销售易与腾讯的合作动态，属于一般商业动态。",
+      "tags": [
+        "销售易",
+        "腾讯",
+        "SaaS",
+        "Agent"
+      ],
+      "url": "https://36kr.com/p/3809919654403587?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-15 02:11:30",
+      "impact_score": 245.0
+    },
+    {
+      "index": 12,
+      "title": "零跑汽车：一季度营收达108.2亿元",
+      "summary": "5月15日消息，零跑汽车发布2026年一季度财报，全球交付110155台，营收108.2亿元创一季度历史新高，海外出口40901台。",
+      "importance": "低",
+      "reason": "中国新能源汽车公司零跑汽车财报表现，属于一般商业动态。",
+      "tags": [
+        "零跑汽车",
+        "财报",
+        "营收"
+      ],
+      "url": "https://36kr.com/newsflashes/3810357595446793?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-15 09:36:11",
+      "impact_score": 225.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "SpaceX IPO set to lock in Musk’s control with Mars-linked pay deal",
+      "summary": "5月15日消息，SpaceX计划以1.75万亿美元估值进行IPO，投资者需接受弱股东权利和马斯克的火星愿景薪酬协议，此举将巩固马斯克对公司的控制权。",
+      "importance": "高",
+      "reason": "重大商业动态，SpaceX作为全球顶级科技公司，其IPO估值和治理结构对AI及航天产业有深远影响。",
+      "tags": [
+        "IPO",
+        "估值",
+        "马斯克"
+      ],
+      "url": "https://www.ft.com/content/00382ab9-3dfe-468c-8966-853cd787dd43",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-05-15 04:00:19",
+      "impact_score": 352.5
+    },
+    {
+      "index": 2,
+      "title": "AGI Is the Elephant in the Musk v. OpenAI Courtroom",
+      "summary": "5月15日消息，马斯克与OpenAI的庭审进入结案陈词阶段，双方围绕OpenAI是否违反慈善使命展开辩论，AGI（通用人工智能）成为案件核心争议点。",
+      "importance": "高",
+      "reason": "重大政策与法规，该诉讼可能影响OpenAI的治理结构和AI行业非营利使命的界定。",
+      "tags": [
+        "诉讼",
+        "OpenAI",
+        "AGI",
+        "马斯克"
+      ],
+      "url": "https://www.theinformation.com/articles/agi-elephant-musk-v-openai-courtroom",
+      "source": "The Information",
+      "original_pub_date": "2026-05-14 14:00:57",
+      "impact_score": 266.0
+    },
+    {
+      "index": 3,
+      "title": "AI chipmaker jumps to almost $70bn valuation in IPO",
+      "summary": "5月15日消息，AI芯片公司Cerebras在IPO中股价飙升，估值接近700亿美元，反映出市场对AI相关公司股票的强劲需求。",
+      "importance": "高",
+      "reason": "重大商业动态，Cerebras作为英伟达的竞争对手，其IPO成功标志着AI芯片市场格局变化。",
+      "tags": [
+        "IPO",
+        "AI芯片",
+        "Cerebras"
+      ],
+      "url": "https://www.ft.com/content/4848fbef-d9af-46ee-b6ef-ad344a7a3814",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-05-14 20:34:02",
+      "impact_score": 240.0
+    },
+    {
+      "index": 4,
+      "title": "Anthropic Picks Co-Leads for $900 Billion Valuation Funding Round",
+      "summary": "5月15日消息，Anthropic选定Dragoneer、Greenoaks等机构共同领投300亿美元融资轮，估值高达9000亿美元，较上一轮估值几乎翻三倍。",
+      "importance": "高",
+      "reason": "重大商业动态，Anthropic作为OpenAI的主要竞争对手，其巨额融资显示AI大模型赛道的资本热度。",
+      "tags": [
+        "融资",
+        "Anthropic",
+        "估值"
+      ],
+      "url": "https://www.theinformation.com/articles/cerebras-ipo-stock-pop-apple-openai-drama",
+      "source": "The Information",
+      "original_pub_date": "2026-05-15 00:00:34",
+      "impact_score": 225.0
+    },
+    {
+      "index": 5,
+      "title": "Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents",
+      "summary": "5月15日消息，研究人员提出一种验证器引导的动作选择方法，用于提升具身智能体在复杂现实任务中的推理能力，该研究基于多模态大语言模型。",
+      "importance": "中",
+      "reason": "重大学术突破，该研究在具身智能领域提出新范式，对AI代理的实用化有重要价值。",
+      "tags": [
+        "学术研究",
+        "具身智能",
+        "多模态"
+      ],
+      "url": "https://www.theinformation.com/articles/cerebras-payday-includes-tiger-spvs",
+      "source": "The Information",
+      "original_pub_date": "2026-05-14 23:20:52",
+      "impact_score": 210.0
+    },
+    {
+      "index": 6,
+      "title": "Position: Agentic AI System Is a Foreseeable Pathway to AGI",
+      "summary": "5月15日消息，一篇论文挑战单一模型扩展即可实现AGI的观点，提出智能体AI系统是通往通用人工智能的必经之路，强调复杂环境中的多智能体协作。",
+      "importance": "中",
+      "reason": "重大学术突破，该论文对AGI发展路径提出新见解，可能影响AI研究方向的调整。",
+      "tags": [
+        "学术研究",
+        "AGI",
+        "智能体"
+      ],
+      "url": "https://www.theinformation.com/articles/cerebras-ipo-winners-include-foundation-benchmark-openai",
+      "source": "The Information",
+      "original_pub_date": "2026-05-14 13:00:56",
+      "impact_score": 210.0
+    },
+    {
+      "index": 7,
+      "title": "Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education",
+      "summary": "5月15日消息，研究团队推出KITE（知识引导教学引擎），利用检索增强生成技术辅助学生进行算法追踪和问题解决，提升AI教育效果。",
+      "importance": "低",
+      "reason": "重大学术突破，该研究在AI教育应用领域具有创新性，但影响力相对有限。",
+      "tags": [
+        "学术研究",
+        "AI教育",
+        "检索增强"
+      ],
+      "url": "https://www.theinformation.com/briefings/anthropic-picks-co-leads-900-billion-valuation-funding-round",
+      "source": "The Information",
+      "original_pub_date": "2026-05-15 00:51:59",
+      "impact_score": 195.0
+    },
+    {
+      "index": 8,
+      "title": "Musk's China trip during OpenAI trial prompts apology from his lawyer for CEO's absence",
+      "summary": "5月15日消息，马斯克在OpenAI庭审期间前往中国，其律师为此向法庭道歉，马斯克起诉OpenAI创始人违反非营利承诺，案件持续发酵。",
+      "importance": "中",
+      "reason": "重大政策与法规，马斯克的中国行与庭审冲突，凸显案件复杂性，可能影响判决走向。",
+      "tags": [
+        "诉讼",
+        "马斯克",
+        "OpenAI"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-05-14/bloomberg-tech-5-14-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-14 20:58:11",
+      "impact_score": 195.0
+    },
+    {
+      "index": 9,
+      "title": "Cerebras IPO mints two billionaires, sets stage for potential AI wave",
+      "summary": "5月15日消息，Cerebras在IPO首日市值接近1000亿美元，两位联合创始人成为亿万富翁，为AI芯片领域的新一轮上市潮奠定基础。",
+      "importance": "中",
+      "reason": "重大商业动态，Cerebras的IPO成功创造了新的亿万富翁，并可能引发更多AI公司上市。",
+      "tags": [
+        "IPO",
+        "Cerebras",
+        "亿万富翁"
+      ],
+      "url": "https://arxiv.org/abs/2605.12620",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-15 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 10,
+      "title": "Cerebras pops 68% in Nasdaq debut, pushing the AI chipmaker's market cap to $95 billion",
+      "summary": "5月15日消息，Cerebras在纳斯达克上市首日股价飙升68%，市值达到950亿美元，成为最引人注目的纯AI芯片IPO之一。",
+      "importance": "中",
+      "reason": "重大商业动态，Cerebras的强劲市场表现验证了AI芯片赛道的投资价值。",
+      "tags": [
+        "IPO",
+        "Cerebras",
+        "市值"
+      ],
+      "url": "https://arxiv.org/abs/2605.12966",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-15 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 11,
+      "title": "Cerebras prices IPO above expected range, as Wall Street braces for AI tsunami",
+      "summary": "5月15日消息，Cerebras以高于预期区间定价IPO，募集55.5亿美元，华尔街预计后续将有更大规模的AI交易。",
+      "importance": "中",
+      "reason": "重大商业动态，Cerebras的超预期定价显示市场对AI资产的追捧。",
+      "tags": [
+        "IPO",
+        "Cerebras",
+        "融资"
+      ],
+      "url": "https://arxiv.org/abs/2605.12988",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-15 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 12,
+      "title": "The SpaceXAI Exodus: More Than 50 Recent Exits as Meta, Thinking Machines Hire Staff",
+      "summary": "5月15日消息，自SpaceX收购xAI以来，已有超过50名研究人员和工程师离开，Meta等公司趁机招募，xAI人才流失严重。",
+      "importance": "中",
+      "reason": "重大商业动态，xAI的人才流失可能影响其Grok模型的研发进度，反映AI人才市场竞争激烈。",
+      "tags": [
+        "xAI",
+        "人才流失",
+        "马斯克"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-05-15/lotus-is-struggling-to-find-a-european-battery-factory-ceo-says",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-15 04:15:00",
+      "impact_score": 180.0
+    },
+    {
+      "index": 13,
+      "title": "Carmakers fear production hit after EU sanctions on Chinese chipmaker",
+      "summary": "5月15日消息，欧盟对中国芯片制造商实施制裁，汽车制造商担心生产受影响，正紧急寻找替代供应商。",
+      "importance": "中",
+      "reason": "重大政策与法规，欧盟制裁可能扰乱全球汽车芯片供应链，对AI芯片产业产生间接影响。",
+      "tags": [
+        "制裁",
+        "欧盟",
+        "芯片"
+      ],
+      "url": "https://www.cnbc.com/2026/05/14/musk-lawyer-trial-jury-china-trip-openai-altman.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-05-14 23:03:28",
+      "impact_score": 180.0
+    }
+  ],
+  "summary": "今日从192条原始信息中精选出12条国内动态和13条国际动态，其中8条为高重要性。 重点关注：首次披露！载合卡车完成10亿元级战略融资，开创车云一体AI重卡全新赛道；芯驰科技完成近1亿美金C轮融资，加码汽车到具身智能全栈「芯」突破；马化腾：腾讯AI发展不急于乱抢地盘，过去抢别人地盘基本失败了；思科拟裁员约4000人，投入更多资源到AI；林俊旸被曝创立新AI实验室。",
+  "statistics": {
+    "raw_domestic": 42,
+    "raw_international": 150,
+    "raw_total": 192,
+    "final_domestic": 12,
+    "final_international": 13
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "5月15日消息，载合卡车宣布完成10亿元级战略融资，获百度风投、苏创投等支持，并与地平线等产业方深度合作，完成“股权+债权+产业”资本闭环，加速车云一体AI重卡商业化落地。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "5月15日消息，国内车规级芯片企业芯驰科技完成近1亿美元C轮融资，由苏产投领投，陕汽等跟投，将巩固车规芯片技术壁垒并加速从汽车到具身智能赛道的全栈芯片突破。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "5月15日消息，腾讯CEO马化腾表示腾讯AI发展不急于抢地盘，同时阿里巴巴CEO吴泳铭称阿里服务器利用率极高，此外前阿里AI专家林俊旸被曝创立新AI实验室，首轮估值20亿美元。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "5月15日消息，文远知行发布2026年Q1财报，营收1.95亿元超预期，全年营收6.9亿元同比增长90%，Robotaxi用户规模翻倍，智驾商业化进入规模阶段。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "5月15日消息，蚂蚁集团开源百灵Ring-2.6-1T模型，Agent执行能力全面增强，AIME 26得分达95.83，展现中国AI开源领域重要进展。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "5月15日消息，SpaceX计划以1.75万亿美元估值进行IPO，投资者需接受弱股东权利和马斯克的火星愿景薪酬协议，此举将巩固马斯克对公司的控制权。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "5月15日消息，马斯克与OpenAI的庭审进入结案陈词阶段，双方围绕OpenAI是否违反慈善使命展开辩论，AGI（通用人工智能）成为案件核心争议点。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "5月15日消息，AI芯片公司Cerebras在IPO中股价飙升，估值接近700亿美元，反映出市场对AI相关公司股票的强劲需求。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "5月15日消息，Anthropic选定Dragoneer、Greenoaks等机构共同领投300亿美元融资轮，估值高达9000亿美元，较上一轮估值几乎翻三倍。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "5月15日消息，研究人员提出一种验证器引导的动作选择方法，用于提升具身智能体在复杂现实任务中的推理能力，该研究基于多模态大语言模型。",
+      "importance": "中"
+    }
+  ]
+}
