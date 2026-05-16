@@ -1,0 +1,566 @@
+{
+  "date": "2026-05-16",
+  "generated_at": "2026-05-16 09:45:38",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "首次披露！载合卡车完成10亿元级战略融资，开创车云一体AI重卡全新赛道",
+      "summary": "5月16日消息，载合卡车宣布完成10亿元级战略融资，汇集百度风投等顶级VC支持，并与地平线等产业方深度合作，完成“股权+债权+产业”三位一体资本闭环，加速车云一体AI重卡商业化落地。",
+      "importance": "高",
+      "reason": "重大商业动态，10亿元级融资，涉及AI重卡赛道，主体为中国公司载合卡车。",
+      "tags": [
+        "融资",
+        "AI重卡",
+        "商业动态"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/VTZD7tfMJuwiBTXE.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-15 02:11:00",
+      "impact_score": 420.0
+    },
+    {
+      "index": 2,
+      "title": "理想出牌：全新L9上市，45.98万元起｜最前线",
+      "summary": "5月16日消息，理想汽车发布全新一代理想L9，推出L9 livis和Ultra版，售价45.98万-50.98万元，配备先进智驾系统，旨在加固增程和高端市场基本盘。",
+      "importance": "高",
+      "reason": "重大产品发布，理想汽车为中国公司，全新L9上市具有市场影响力。",
+      "tags": [
+        "产品发布",
+        "理想汽车",
+        "智能汽车"
+      ],
+      "url": "https://www.leiphone.com/category/weiwu/JNy9AY58YfCIS2L0.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-15 02:49:00",
+      "impact_score": 315.0
+    },
+    {
+      "index": 3,
+      "title": "智界V9上市发布：重塑MPV高端市场格局",
+      "summary": "5月16日消息，华为鸿蒙智行首款旗舰MPV智界V9正式上市，售价38.98万-51.98万元，搭载鸿蒙ALPS健康座舱、华为途灵平台等配置，小订已突破40000台。",
+      "importance": "高",
+      "reason": "重大产品发布，华为与奇瑞合作车型，中国公司主导，重塑MPV市场格局。",
+      "tags": [
+        "产品发布",
+        "华为",
+        "智能汽车"
+      ],
+      "url": "https://36kr.com/p/3809936183860740?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-15 02:28:57",
+      "impact_score": 312.5
+    },
+    {
+      "index": 4,
+      "title": "中国500万医生的新AI：顶刊独家联手，卷的就是证据源",
+      "summary": "5月16日消息，阿里健康发布医学AI助手“氢离子”，与英国BMJ集团达成独家合作，接入70本医学期刊内容，聚焦循证医学，超300位中国临床专家参与共建。",
+      "importance": "高",
+      "reason": "重大产品发布，阿里健康为中国公司，AI助手“氢离子”具有行业突破性。",
+      "tags": [
+        "产品发布",
+        "阿里健康",
+        "AI医疗"
+      ],
+      "url": "https://36kr.com/p/3810562142445058?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-15 14:28:10",
+      "impact_score": 281.0
+    },
+    {
+      "index": 5,
+      "title": "阿里健康正式发布医学AI助手“氢离子”",
+      "summary": "5月16日消息，阿里健康正式发布医学AI助手“氢离子”，与英国BMJ集团独家合作，接入70本医学期刊内容，采用四层架构，超300位中国临床专家参与评价标准制定。",
+      "importance": "高",
+      "reason": "重大产品发布，阿里健康为中国公司，AI助手“氢离子”聚焦循证医学，具有行业影响力。",
+      "tags": [
+        "产品发布",
+        "阿里健康",
+        "AI医疗"
+      ],
+      "url": "https://36kr.com/p/3811265856626440?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-16 01:03:11",
+      "impact_score": 266.0
+    },
+    {
+      "index": 6,
+      "title": "网易新闻、网易小蜜蜂宣布已接入DeepSeek-V4",
+      "summary": "5月16日消息，网易传媒旗下网易新闻和网易小蜜蜂宣布接入DeepSeek-V4大模型，全面升级新闻资讯分发、智能内容创作、社区互动服务等核心场景。",
+      "importance": "中",
+      "reason": "重大商业动态，网易为中国公司，接入大模型提升产品能力。",
+      "tags": [
+        "商业动态",
+        "网易",
+        "大模型"
+      ],
+      "url": "https://36kr.com/p/3810308239465986?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-15 08:51:47",
+      "impact_score": 264.0
+    },
+    {
+      "index": 7,
+      "title": "国内首笔，数据中心接入虚拟电厂参与电力现货市场交易",
+      "summary": "5月16日消息，中国联通韶关数据中心等3个大型数据中心集群，依托广东电网虚拟电厂运营平台，参与电力现货市场交易，实现“算随电动”，为国内首次。",
+      "importance": "中",
+      "reason": "重大政策与法规，国内首次数据中心参与电力现货交易，涉及中国公司。",
+      "tags": [
+        "政策法规",
+        "数据中心",
+        "电力交易"
+      ],
+      "url": "https://36kr.com/newsflashes/3811463677533704?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-16 05:30:16",
+      "impact_score": 249.0
+    },
+    {
+      "index": 8,
+      "title": "华为鸿蒙智行首款旗舰级MPV智界V9上市",
+      "summary": "5月16日消息，华为鸿蒙智行首款旗舰MPV智界V9正式上市，售价38.98万-51.98万元，搭载鸿蒙ALPS健康座舱、华为途灵平台、车载制氧系统等配置。",
+      "importance": "中",
+      "reason": "重大产品发布，华为为中国公司，智界V9上市具有市场关注度。",
+      "tags": [
+        "产品发布",
+        "华为",
+        "智能汽车"
+      ],
+      "url": "https://36kr.com/newsflashes/3811510125010434?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-16 06:13:31",
+      "impact_score": 236.0
+    },
+    {
+      "index": 9,
+      "title": "乐道L80上市，售价24.28万起",
+      "summary": "5月16日消息，蔚来旗下品牌乐道汽车L80正式上市，整车购买24.28万元起，提供Pro、Max+和Ultra+三个版型，支持纯视觉和激光雷达两种智驾方案。",
+      "importance": "中",
+      "reason": "重大产品发布，蔚来为中国公司，乐道L80上市丰富产品线。",
+      "tags": [
+        "产品发布",
+        "蔚来",
+        "智能汽车"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/h1qbNNgFRCPllIG8.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-15 10:45:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 10,
+      "title": "虚拟动点加入OpenLET工作委员会，共建具身智能数据新生态",
+      "summary": "5月16日消息，虚拟动点与乐聚机器人、百度智能云等9家单位成为OpenLET具身智能开源数据集社区首批委员会成员，推动具身智能数据资源开放共享。",
+      "importance": "中",
+      "reason": "重大商业动态，中国公司参与开源社区，推动具身智能发展。",
+      "tags": [
+        "商业动态",
+        "具身智能",
+        "开源"
+      ],
+      "url": "https://36kr.com/newsflashes/3811383661911557?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-16 04:12:49",
+      "impact_score": 210.0
+    },
+    {
+      "index": 11,
+      "title": "秦力洪：高内存带宽、真实算力、高效协同、稳定量产，是衡量先进车载芯片的四大硬核标准。",
+      "summary": "5月16日消息，蔚来高管秦力洪解读神玑NX9031智驾芯片，提出先进车载芯片四大硬核标准，强调芯片综合调度能力重要性，打破行业唯算力论误区。",
+      "importance": "中",
+      "reason": "重大产品发布，蔚来为中国公司，神玑芯片具有技术突破性。",
+      "tags": [
+        "产品发布",
+        "蔚来",
+        "芯片"
+      ],
+      "url": "https://36kr.com/newsflashes/3811509333319428?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-16 06:02:37",
+      "impact_score": 195.0
+    },
+    {
+      "index": 12,
+      "title": "容联云发布“数字员工”级 AI Agent 平台，重塑大模型联络中心",
+      "summary": "5月16日消息，容联云发布以AI Agent为核心的“数字员工”级平台，重塑大模型联络中心，提升智能客服能力。",
+      "importance": "中",
+      "reason": "重大产品发布，容联云为中国公司，AI Agent平台具有商业价值。",
+      "tags": [
+        "产品发布",
+        "容联云",
+        "AI Agent"
+      ],
+      "url": "https://www.qbitai.com/2026/05/418491.html",
+      "source": "量子位",
+      "original_pub_date": "2026-05-16 04:49:15",
+      "impact_score": 170.0
+    },
+    {
+      "index": 13,
+      "title": "阿里发布Qoder 1.0，可全面接管代码生成、验证和交付流程",
+      "summary": "5月16日消息，阿里发布Qoder 1.0，支持Windows、macOS和Linux系统，可全面接管代码生成、验证和交付流程，提升开发效率。",
+      "importance": "中",
+      "reason": "重大产品发布，阿里为中国公司，Qoder 1.0具有技术突破性。",
+      "tags": [
+        "产品发布",
+        "阿里",
+        "代码生成"
+      ],
+      "url": "https://36kr.com/p/3810091479293449?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-15 06:49:06",
+      "impact_score": 167.0
+    },
+    {
+      "index": 14,
+      "title": "36氪首发｜航天发动机核心部件厂商获投，国内唯一具备核心部件一站式制造能力的民营企业",
+      "summary": "5月16日消息，思创航天完成数千万元融资，由丹诚资本独家投资，公司专注航天发动机核心零部件精密制造，客户包括星河动力、星际荣耀等，为国内唯一具备一站式制造能力的民营企业。",
+      "importance": "中",
+      "reason": "重大商业动态，中国民营企业获投，涉及航天领域。",
+      "tags": [
+        "融资",
+        "航天",
+        "民营企业"
+      ],
+      "url": "https://36kr.com/newsflashes/3811712103423746?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-16 08:34:03",
+      "impact_score": 162.0
+    },
+    {
+      "index": 15,
+      "title": "36氪首发｜前苹果工程师跨界骨传导耳机，独创技术路线，打破头部企业专利垄断",
+      "summary": "5月16日消息，索迩电子完成数千万元A+轮融资，由正海资本领投，资金用于拓展海外渠道和AI智能化研发，公司独创骨传导技术路线，打破头部企业专利垄断。",
+      "importance": "中",
+      "reason": "重大商业动态，中国公司获投，涉及AI和音频技术。",
+      "tags": [
+        "融资",
+        "骨传导耳机",
+        "AI"
+      ],
+      "url": "https://36kr.com/p/3810607581634056?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-15 13:50:58",
+      "impact_score": 162.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "SpaceX IPO set to ensure Elon Musk cannot be fired",
+      "summary": "5月16日消息，SpaceX即将进行IPO，投资者预计将接受1.75万亿美元估值和较弱的股东权利，同时马斯克的科幻商业愿景也获得认可。",
+      "importance": "高",
+      "reason": "重大商业动态，SpaceX作为全球领先的航天和AI相关公司，其IPO估值和条款对市场有重要影响。",
+      "tags": [
+        "IPO",
+        "估值",
+        "Elon Musk"
+      ],
+      "url": "https://www.ft.com/content/00382ab9-3dfe-468c-8966-853cd787dd43",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-05-15 04:00:19",
+      "impact_score": 367.5
+    },
+    {
+      "index": 2,
+      "title": "Arm Holdings to Face US Antitrust Probe Over Chip Tech",
+      "summary": "5月16日消息，美国联邦贸易委员会对Arm Holdings发起反垄断调查，涉及该公司半导体技术的许可问题，这是全球对该业务持续审查的一部分。",
+      "importance": "高",
+      "reason": "重大政策与法规，美国反垄断调查对全球芯片产业格局有深远影响。",
+      "tags": [
+        "反垄断",
+        "芯片",
+        "Arm"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-05-15/arm-holdings-said-to-face-us-antitrust-probe-over-chip-tech",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-15 22:05:36",
+      "impact_score": 315.0
+    },
+    {
+      "index": 3,
+      "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+      "summary": "5月16日消息，马斯克诉OpenAI案进入第三周，双方律师就马斯克和奥特曼的可信度展开激烈交锋，陪审团将最终裁决。",
+      "importance": "高",
+      "reason": "重大商业动态，涉及AI领域核心人物和公司的法律纠纷，影响行业信任和治理。",
+      "tags": [
+        "诉讼",
+        "OpenAI",
+        "Elon Musk"
+      ],
+      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+      "source": "MIT Technology Review",
+      "original_pub_date": "2026-05-15 23:39:35",
+      "impact_score": 262.5
+    },
+    {
+      "index": 4,
+      "title": "Cerebras CEO Is Worth $3.2 Billion After Year’s Largest IPO",
+      "summary": "5月16日消息，AI芯片公司Cerebras在纳斯达克上市，股价飙升约68%，市值约670亿美元，成为今年最大IPO，CEO身价达32亿美元。",
+      "importance": "高",
+      "reason": "重大商业动态，AI芯片领域标志性IPO，反映市场对AI硬件的强劲需求。",
+      "tags": [
+        "IPO",
+        "AI芯片",
+        "Cerebras"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-05-15/cerebras-ceo-worth-3-2-billion-after-year-s-largest-ipo-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-15 17:07:19",
+      "impact_score": 255.0
+    },
+    {
+      "index": 5,
+      "title": "Anthropic Picks Co-Leads for $900 Billion Valuation Funding Round",
+      "summary": "5月16日消息，Anthropic选定Dragoneer、Greenoaks等机构共同领投300亿美元融资轮，投前估值达9000亿美元，较上一轮估值近翻三倍。",
+      "importance": "高",
+      "reason": "重大商业动态，AI领域巨额融资，估值惊人，显示市场对前沿AI公司的狂热。",
+      "tags": [
+        "融资",
+        "估值",
+        "Anthropic"
+      ],
+      "url": "https://www.theinformation.com/articles/cerebras-ipo-stock-pop-apple-openai-drama",
+      "source": "The Information",
+      "original_pub_date": "2026-05-15 00:00:34",
+      "impact_score": 225.0
+    },
+    {
+      "index": 6,
+      "title": "Figure CEO Says No Teleoperation in Their Humanoid Robot Testing",
+      "summary": "5月16日消息，人形机器人公司Figure进行实时直播，展示其AI机器人自主分拣包裹的能力，CEO强调无远程操控，回应外界质疑。",
+      "importance": "中",
+      "reason": "重大产品发布，人形机器人自主能力展示，体现AI与机器人融合的进展。",
+      "tags": [
+        "人形机器人",
+        "AI",
+        "Figure"
+      ],
+      "url": "https://www.theinformation.com/briefings/anthropic-picks-co-leads-900-billion-valuation-funding-round",
+      "source": "The Information",
+      "original_pub_date": "2026-05-15 00:51:59",
+      "impact_score": 195.0
+    },
+    {
+      "index": 7,
+      "title": "Trump Discussed Nvidia Chips With Xi Jinping | Bloomberg Tech 5/15/2026",
+      "summary": "5月16日消息，特朗普总统在北京与习近平主席会晤时讨论了英伟达H200芯片的AI护栏问题，引发对芯片出口管制的关注。",
+      "importance": "高",
+      "reason": "重大政策与法规，涉及中美芯片出口管制和AI治理，影响全球半导体供应链。",
+      "tags": [
+        "芯片出口",
+        "AI治理",
+        "中美关系"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-05-15/figure-ceo-says-humanoid-robot-test-had-no-outside-aid-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-15 20:51:05",
+      "impact_score": 180.0
+    },
+    {
+      "index": 8,
+      "title": "US Chip Sector Needs More Talent, Says SEMI",
+      "summary": "5月16日消息，SEMI全球劳动力发展副总裁表示，美国芯片行业需要更多人才，以应对AI和半导体领域的增长需求。",
+      "importance": "中",
+      "reason": "重大政策与法规，反映美国芯片行业人才短缺问题，影响产业竞争力。",
+      "tags": [
+        "芯片",
+        "人才",
+        "SEMI"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-05-15/figma-jumps-as-results-ease-ai-disruption-concerns-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-15 20:44:34",
+      "impact_score": 180.0
+    },
+    {
+      "index": 9,
+      "title": "Where Cerebras' monster debut puts it among tech's biggest IPOs",
+      "summary": "5月16日消息，Cerebras上市首日市值接近670亿美元，虽未突破千亿，但已成为科技行业最大IPO之一，仅次于Meta和阿里巴巴。",
+      "importance": "中",
+      "reason": "重大商业动态，Cerebras IPO表现突出，巩固其在AI芯片领域的地位。",
+      "tags": [
+        "IPO",
+        "AI芯片",
+        "Cerebras"
+      ],
+      "url": "https://www.theinformation.com/articles/trump-officials-vcs-love-nuclear-power-startups-brute-force-approach",
+      "source": "The Information",
+      "original_pub_date": "2026-05-15 13:00:57",
+      "impact_score": 178.0
+    },
+    {
+      "index": 10,
+      "title": "Musk’s X promises stronger action on illegal hate and terror speech after Ofcom probe",
+      "summary": "5月16日消息，英国通信管理局调查后，马斯克的X平台承诺加强打击非法仇恨和恐怖言论，提供更快的审查速度。",
+      "importance": "中",
+      "reason": "安全与伦理，涉及社交媒体内容监管和AI审核机制。",
+      "tags": [
+        "内容审核",
+        "监管",
+        "X平台"
+      ],
+      "url": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
+      "source": "Wired AI",
+      "original_pub_date": "2026-05-15 00:49:53",
+      "impact_score": 173.0
+    },
+    {
+      "index": 11,
+      "title": "Elon Musk Says He Isn’t Selling His SpaceX Shares as IPO Looms",
+      "summary": "5月16日消息，马斯克表示不会出售任何SpaceX股票，该公司正准备最早下周提交IPO申请，引发市场高度关注。",
+      "importance": "中",
+      "reason": "重大商业动态，SpaceX IPO进展关键信息，影响投资者预期。",
+      "tags": [
+        "IPO",
+        "SpaceX",
+        "Elon Musk"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-05-15/bloomberg-tech-5-15-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-15 23:43:52",
+      "impact_score": 165.0
+    },
+    {
+      "index": 12,
+      "title": "Apple-OpenAI Alliance Frays",
+      "summary": "5月16日消息，苹果与OpenAI的两年合作出现裂痕，OpenAI未获得预期收益并准备可能采取法律行动，双方关系紧张。",
+      "importance": "高",
+      "reason": "重大商业动态，两大科技巨头合作破裂，影响AI生态和行业格局。",
+      "tags": [
+        "合作破裂",
+        "苹果",
+        "OpenAI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-05-15/snap-youtube-settle-school-social-media-suit-ahead-of-trial",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-15 22:35:35",
+      "impact_score": 165.0
+    },
+    {
+      "index": 13,
+      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+      "summary": "5月16日消息，OpenAI推出ChatGPT个人理财功能，用户可连接银行账户查看投资组合、支出和订阅等财务信息。",
+      "importance": "中",
+      "reason": "重大产品发布，AI进入个人金融领域，拓展应用场景。",
+      "tags": [
+        "AI应用",
+        "个人理财",
+        "OpenAI"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-05-15/us-chip-sector-needs-more-talent-says-semi-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-15 20:38:42",
+      "impact_score": 165.0
+    },
+    {
+      "index": 14,
+      "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
+      "summary": "5月16日消息，马斯克诉OpenAI案本周结案，最终辩论聚焦AI负责人可信度问题，同时SpaceX正推进史上最大IPO之一。",
+      "importance": "中",
+      "reason": "重大商业动态，案件结果影响AI治理，SpaceX IPO进展受关注。",
+      "tags": [
+        "诉讼",
+        "AI治理",
+        "IPO"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-05-15/the-close-5-15-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-15 23:10:41",
+      "impact_score": 157.5
+    },
+    {
+      "index": 15,
+      "title": "Hackers Armed With AI Stoke Fears for $130 Billion Crypto Sector",
+      "summary": "5月16日消息，黑客利用AI工具发动攻击，4月两起事件造成近6亿美元损失，引发对1300亿美元加密货币行业的担忧。",
+      "importance": "中",
+      "reason": "安全与伦理，AI助长网络攻击，凸显AI安全风险。",
+      "tags": [
+        "AI安全",
+        "加密货币",
+        "黑客"
+      ],
+      "url": "https://www.bloomberg.com/news/newsletters/2026-05-15/meet-atari-s-tycoon-ceo-who-is-aiming-for-a-retro-gaming-revival",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-15 17:00:39",
+      "impact_score": 157.5
+    },
+    {
+      "index": 16,
+      "title": "Ackman Takes $2.1 Billion Microsoft Stake in Tech Bet",
+      "summary": "5月16日消息，比尔·阿克曼的Pershing Square斥资21亿美元建仓微软，押注该公司在AI领域的实力和韧性被市场低估。",
+      "importance": "中",
+      "reason": "重大商业动态，知名投资者重仓微软，反映对AI巨头长期价值的看好。",
+      "tags": [
+        "投资",
+        "微软",
+        "AI"
+      ],
+      "url": "https://www.cnbc.com/2026/05/14/cerebras-cbrs-ipo-stock-meta-facebook-alibaba.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-05-15 16:36:50",
+      "impact_score": 150.0
+    }
+  ],
+  "summary": "今日从153条原始信息中精选出15条国内动态和16条国际动态，其中12条为高重要性。 重点关注：首次披露！载合卡车完成10亿元级战略融资，开创车云一体AI重卡全新赛道；理想出牌：全新L9上市，45.98万元起｜最前线；智界V9上市发布：重塑MPV高端市场格局。",
+  "statistics": {
+    "raw_domestic": 35,
+    "raw_international": 118,
+    "raw_total": 153,
+    "final_domestic": 15,
+    "final_international": 16
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "5月16日消息，载合卡车宣布完成10亿元级战略融资，汇集百度风投等顶级VC支持，并与地平线等产业方深度合作，完成“股权+债权+产业”三位一体资本闭环，加速车云一体AI重卡商业化落地。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "5月16日消息，理想汽车发布全新一代理想L9，推出L9 livis和Ultra版，售价45.98万-50.98万元，配备先进智驾系统，旨在加固增程和高端市场基本盘。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "5月16日消息，华为鸿蒙智行首款旗舰MPV智界V9正式上市，售价38.98万-51.98万元，搭载鸿蒙ALPS健康座舱、华为途灵平台等配置，小订已突破40000台。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "5月16日消息，阿里健康发布医学AI助手“氢离子”，与英国BMJ集团达成独家合作，接入70本医学期刊内容，聚焦循证医学，超300位中国临床专家参与共建。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "5月16日消息，阿里健康正式发布医学AI助手“氢离子”，与英国BMJ集团独家合作，接入70本医学期刊内容，采用四层架构，超300位中国临床专家参与评价标准制定。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "5月16日消息，SpaceX即将进行IPO，投资者预计将接受1.75万亿美元估值和较弱的股东权利，同时马斯克的科幻商业愿景也获得认可。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "5月16日消息，美国联邦贸易委员会对Arm Holdings发起反垄断调查，涉及该公司半导体技术的许可问题，这是全球对该业务持续审查的一部分。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "5月16日消息，马斯克诉OpenAI案进入第三周，双方律师就马斯克和奥特曼的可信度展开激烈交锋，陪审团将最终裁决。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "5月16日消息，AI芯片公司Cerebras在纳斯达克上市，股价飙升约68%，市值约670亿美元，成为今年最大IPO，CEO身价达32亿美元。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "5月16日消息，Anthropic选定Dragoneer、Greenoaks等机构共同领投300亿美元融资轮，投前估值达9000亿美元，较上一轮估值近翻三倍。",
+      "importance": "高"
+    }
+  ]
+}
