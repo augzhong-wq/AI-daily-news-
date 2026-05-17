@@ -1,0 +1,299 @@
+{
+  "date": "2026-05-17",
+  "generated_at": "2026-05-17 09:51:07",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "36氪首发 | 宠物健康大模型公司连融两轮，软硬一体化布局，已服务超200家宠物医院",
+      "summary": "5月17日消息，宠物大模型健康公司重庆绮算法科技有限公司完成数千万元融资，投资方为启赋资本与聚恒创投，资金将用于产品迭代、模型能力深化及市场拓展。",
+      "importance": "中",
+      "reason": "中国AI初创公司获得融资，属于国内商业动态，但金额较小，影响力有限。",
+      "tags": [
+        "融资",
+        "大模型",
+        "宠物健康",
+        "AI"
+      ],
+      "url": "https://36kr.com/p/3812788568907520?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-17 02:50:05",
+      "impact_score": 357.5
+    },
+    {
+      "index": 2,
+      "title": "杭州机器人展吸引全球客商“淘”宝，意向合作总金额突破213亿元",
+      "summary": "5月17日消息，2026第二届杭州国际人形机器人与机器人技术展览会在杭州举行，汇聚473家企业，意向合作总金额突破213亿元，展示人形机器人、脑机接口等前沿成果。",
+      "importance": "高",
+      "reason": "国内大型AI相关展会，涉及人形机器人产业链，意向合作金额巨大，体现国内产业动态。",
+      "tags": [
+        "机器人",
+        "人形机器人",
+        "展会",
+        "合作"
+      ],
+      "url": "https://36kr.com/p/3812789087264519?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-17 04:22:40",
+      "impact_score": 292.5
+    },
+    {
+      "index": 3,
+      "title": "中国500万医生的新AI：顶刊独家联手，卷的就是证据源",
+      "summary": "5月17日消息，阿里健康发布“氢离子”AI产品，与顶级期刊独家合作，旨在为500万中国医生提供基于证据源的AI辅助服务。",
+      "importance": "高",
+      "reason": "中国科技公司阿里健康发布AI产品，服务国内医疗领域，属于重大产品发布。",
+      "tags": [
+        "阿里健康",
+        "AI",
+        "医疗",
+        "发布"
+      ],
+      "url": "https://36kr.com/p/3811265856626440?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-16 01:03:11",
+      "impact_score": 266.0
+    },
+    {
+      "index": 4,
+      "title": "PCB钻针量价齐升",
+      "summary": "5月17日消息，AI PCB高景气带动钻针消耗量飙升和价格上涨，国内相关上市公司大举扩产，高端钻针处于量价齐升通道，供应仍将紧俏。",
+      "importance": "中",
+      "reason": "国内AI硬件产业链动态，涉及上市公司，但属于行业趋势而非单一事件。",
+      "tags": [
+        "AI",
+        "PCB",
+        "钻针",
+        "产业链"
+      ],
+      "url": "https://36kr.com/newsflashes/3812949703073285?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-17 07:12:55",
+      "impact_score": 236.0
+    },
+    {
+      "index": 5,
+      "title": "中信证券：AI+能化可能是今年更合适的杠铃结构",
+      "summary": "5月17日消息，中信证券研报指出AI+能化可能是今年更合适的杠铃结构，看好国产算力、云平台，底层逻辑是中国优势制造业定价权的重估。",
+      "importance": "中",
+      "reason": "国内券商发布AI相关研报，对投资有指导意义，属于国内商业动态。",
+      "tags": [
+        "AI",
+        "投资",
+        "研报",
+        "中信证券"
+      ],
+      "url": "https://36kr.com/newsflashes/3813109650890498?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-17 08:15:43",
+      "impact_score": 225.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "BlackRock Weighs Multibillion-Dollar Investment in SpaceX IPO",
+      "summary": "5月17日消息，贝莱德正考虑向SpaceX的首次公开募股投资50亿至100亿美元，这笔巨额订单将是对马斯克公司投下的信任票。",
+      "importance": "高",
+      "reason": "重大商业动态，涉及SpaceX（海外公司）的巨额IPO投资，影响力极大。",
+      "tags": [
+        "IPO",
+        "投资",
+        "SpaceX"
+      ],
+      "url": "https://www.theinformation.com/articles/blackrock-weighs-multibillion-dollar-investment-spacex-ipo",
+      "source": "The Information",
+      "original_pub_date": "2026-05-16 16:00:41",
+      "impact_score": 322.5
+    },
+    {
+      "index": 2,
+      "title": "OpenAI Buys AI Voice Startup Weights",
+      "summary": "5月17日消息，OpenAI收购了AI语音克隆初创公司Weights.GG，并吸纳其半数员工，但不会整合其原有产品。",
+      "importance": "高",
+      "reason": "重大商业动态，OpenAI（海外公司）的收购行为，对AI语音领域有重要影响。",
+      "tags": [
+        "收购",
+        "OpenAI",
+        "AI语音"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-05-16/-the-oppenheimer-of-the-ai-era-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-16 14:04:51",
+      "impact_score": 180.0
+    },
+    {
+      "index": 3,
+      "title": "ASML Partners With Tata Electronics to Advance India Chip Plans",
+      "summary": "5月17日消息，ASML与塔塔电子达成合作协议，以助力印度发展本土芯片制造能力，推动其半导体产业计划。",
+      "importance": "高",
+      "reason": "重大商业动态，涉及ASML（海外公司）与印度企业的战略合作，对全球芯片产业链布局有重要影响。",
+      "tags": [
+        "合作",
+        "芯片",
+        "印度"
+      ],
+      "url": "https://www.theinformation.com/articles/san-franciscos-robo-fight-club-general-catalysts-divisive-virality",
+      "source": "The Information",
+      "original_pub_date": "2026-05-16 15:00:56",
+      "impact_score": 158.0
+    },
+    {
+      "index": 4,
+      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+      "summary": "5月17日消息，学术预印本平台ArXiv将禁止完全由AI撰写的论文作者投稿一年，以打击对大型语言模型的不当使用。",
+      "importance": "中",
+      "reason": "安全与伦理动态，涉及AI在学术领域的滥用问题，具有行业规范意义。",
+      "tags": [
+        "AI伦理",
+        "学术规范",
+        "ArXiv"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-05-16/elon-musk-says-he-isn-t-selling-his-spacex-shares-as-ipo-looms",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-16 09:26:07",
+      "impact_score": 142.5
+    },
+    {
+      "index": 5,
+      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+      "summary": "5月17日消息，OpenAI联合创始人Greg Brockman接管产品战略，公司计划将ChatGPT与编程产品Codex合并。",
+      "importance": "中",
+      "reason": "重大商业动态，OpenAI（海外公司）的高层人事变动和产品规划，影响其未来发展方向。",
+      "tags": [
+        "OpenAI",
+        "人事变动",
+        "产品战略"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-05-16/asml-partners-with-tata-electronics-to-advance-india-chip-plans",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-16 16:02:33",
+      "impact_score": 127.5
+    },
+    {
+      "index": 6,
+      "title": "AI Poised to Tilt Job Market Leverage Toward Older Workers",
+      "summary": "5月17日消息，一项CEO调查显示，随着企业采用AI，年长员工在就业市场中的议价能力可能提升，而非像以往那样在裁员中首当其冲。",
+      "importance": "中",
+      "reason": "安全与伦理动态，探讨AI对劳动力市场的结构性影响，具有社会意义。",
+      "tags": [
+        "AI就业",
+        "劳动力市场",
+        "年长员工"
+      ],
+      "url": "https://www.theinformation.com/briefings/openai-buys-audio-startup-weights",
+      "source": "The Information",
+      "original_pub_date": "2026-05-16 15:56:25",
+      "impact_score": 112.5
+    },
+    {
+      "index": 7,
+      "title": "‘Never-ending’ AI slop strains corporate hacking reward schemes",
+      "summary": "5月17日消息，企业漏洞赏金计划中出现了大量由AI生成的虚假提交，给审核工作带来巨大压力。",
+      "importance": "中",
+      "reason": "安全与伦理动态，揭示AI被滥用于网络安全领域的风险。",
+      "tags": [
+        "AI滥用",
+        "网络安全",
+        "漏洞赏金"
+      ],
+      "url": "https://www.ft.com/content/78a5635d-d310-4928-8af7-dc0e0650d8d2",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-05-16 04:00:12",
+      "impact_score": 112.5
+    },
+    {
+      "index": 8,
+      "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
+      "summary": "5月17日消息，索尼澄清其AI相机助手功能并非自动编辑照片，而是基于光线、景深和主体提供拍摄建议。",
+      "importance": "低",
+      "reason": "产品发布动态，索尼（海外公司）对AI功能的解释，但影响力有限。",
+      "tags": [
+        "索尼",
+        "AI相机",
+        "产品澄清"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-05-16/spacex-shareholders-approve-5-for-1-split-of-common-stock",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-16 02:35:45",
+      "impact_score": 112.5
+    },
+    {
+      "index": 9,
+      "title": "Some Asexuals Are Using AI Companions for Intimacy Without the Sex",
+      "summary": "5月17日消息，部分无性恋者使用AI伴侣获得亲密感，但这一现象也引发了相关倡导者的担忧。",
+      "importance": "低",
+      "reason": "安全与伦理动态，涉及AI伴侣的社会伦理讨论，但话题较为小众。",
+      "tags": [
+        "AI伴侣",
+        "伦理",
+        "无性恋"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-05-16/ai-poised-to-tilt-job-market-leverage-toward-older-workers",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-16 15:00:00",
+      "impact_score": 105.0
+    }
+  ],
+  "summary": "今日从60条原始信息中精选出5条国内动态和9条国际动态，其中5条为高重要性。 重点关注：杭州机器人展吸引全球客商“淘”宝，意向合作总金额突破213亿元；中国500万医生的新AI：顶刊独家联手，卷的就是证据源；BlackRock Weighs Multibillion-Dollar Investment in SpaceX IPO。",
+  "statistics": {
+    "raw_domestic": 30,
+    "raw_international": 30,
+    "raw_total": 60,
+    "final_domestic": 5,
+    "final_international": 9
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "5月17日消息，2026第二届杭州国际人形机器人与机器人技术展览会在杭州举行，汇聚473家企业，意向合作总金额突破213亿元，展示人形机器人、脑机接口等前沿成果。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "5月17日消息，阿里健康发布“氢离子”AI产品，与顶级期刊独家合作，旨在为500万中国医生提供基于证据源的AI辅助服务。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "5月17日消息，宠物大模型健康公司重庆绮算法科技有限公司完成数千万元融资，投资方为启赋资本与聚恒创投，资金将用于产品迭代、模型能力深化及市场拓展。",
+      "importance": "中"
+    },
+    {
+      "index": 4,
+      "summary": "5月17日消息，AI PCB高景气带动钻针消耗量飙升和价格上涨，国内相关上市公司大举扩产，高端钻针处于量价齐升通道，供应仍将紧俏。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "5月17日消息，中信证券研报指出AI+能化可能是今年更合适的杠铃结构，看好国产算力、云平台，底层逻辑是中国优势制造业定价权的重估。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "5月17日消息，贝莱德正考虑向SpaceX的首次公开募股投资50亿至100亿美元，这笔巨额订单将是对马斯克公司投下的信任票。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "5月17日消息，OpenAI收购了AI语音克隆初创公司Weights.GG，并吸纳其半数员工，但不会整合其原有产品。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "5月17日消息，ASML与塔塔电子达成合作协议，以助力印度发展本土芯片制造能力，推动其半导体产业计划。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "5月17日消息，学术预印本平台ArXiv将禁止完全由AI撰写的论文作者投稿一年，以打击对大型语言模型的不当使用。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "5月17日消息，OpenAI联合创始人Greg Brockman接管产品战略，公司计划将ChatGPT与编程产品Codex合并。",
+      "importance": "中"
+    }
+  ]
+}
