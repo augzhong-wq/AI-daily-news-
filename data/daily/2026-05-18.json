@@ -1,0 +1,463 @@
+{
+  "date": "2026-05-18",
+  "generated_at": "2026-05-18 11:48:19",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "氪星晚报 ｜百度：一季度营收321亿元，AI业务收入136亿元；马斯克预计今年美国将广泛使用自动驾驶汽车；巨力索具旗下十余家企业已注销",
+      "summary": "5月18日消息，百度发布一季度财报，营收321亿元，其中AI业务收入136亿元，显示其AI商业化能力持续增强。",
+      "importance": "高",
+      "reason": "中国头部科技公司百度发布财报，AI业务收入占比高，反映国内AI商业化进展，属于重大商业动态。",
+      "tags": [
+        "AI",
+        "财报",
+        "百度"
+      ],
+      "url": "https://36kr.com/p/3814695536336387?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-18 11:11:14",
+      "impact_score": 420.0
+    },
+    {
+      "index": 2,
+      "title": "2027年迈向十万台产能：矩阵超智开启具身智能量产元年",
+      "summary": "5月18日消息，具身智能企业矩阵超智在上海举办科技日，发布MATRIX-3人形机器人，计划2027年实现十万台产能，推动国产具身智能量产。",
+      "importance": "高",
+      "reason": "中国公司矩阵超智发布旗舰人形机器人并宣布量产计划，属于重大产品发布和商业动态，对国内具身智能产业有标杆意义。",
+      "tags": [
+        "具身智能",
+        "人形机器人",
+        "量产"
+      ],
+      "url": "https://36kr.com/p/3813463119863553?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-18 01:29:37",
+      "impact_score": 342.5
+    },
+    {
+      "index": 3,
+      "title": "番茄小说正推动 AI 动漫上院线，开放头部IP改编权限｜36氪独家",
+      "summary": "5月18日消息，字节跳动旗下番茄小说推动AI动漫上院线，并开放平台头部IP改编权限，探索AI影视化新路径。",
+      "importance": "高",
+      "reason": "字节跳动作为中国头部科技公司，其AI动漫上院线计划属于重大产品发布和商业创新，影响国内AI内容产业。",
+      "tags": [
+        "字节跳动",
+        "AI动漫",
+        "IP改编"
+      ],
+      "url": "https://36kr.com/p/3814030630084354?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-17 23:55:00",
+      "impact_score": 322.5
+    },
+    {
+      "index": 4,
+      "title": "快手装不下可灵了",
+      "summary": "5月18日消息，快手计划分拆视频生成大模型可灵AI，以200亿美元估值寻求外部融资，可灵估值占母公司近七成，引发市场关注。",
+      "importance": "高",
+      "reason": "快手作为中国头部互联网公司，分拆可灵AI并寻求高估值融资，属于重大商业动态，反映国内大模型商业化趋势。",
+      "tags": [
+        "快手",
+        "可灵AI",
+        "融资"
+      ],
+      "url": "https://www.qbitai.com/2026/05/419515.html",
+      "source": "量子位",
+      "original_pub_date": "2026-05-18 10:26:46",
+      "impact_score": 290.0
+    },
+    {
+      "index": 5,
+      "title": "奇安信集团与北京八中签署战略合作协议 青少年人工智能安全培养基地正式揭牌",
+      "summary": "5月18日消息，奇安信集团与北京八中签署战略合作协议，揭牌北京市首个青少年人工智能安全培养基地，推动AI安全人才培养。",
+      "importance": "中",
+      "reason": "中国网络安全公司与中学合作建立AI安全培养基地，属于安全与伦理领域的重要动态，但影响力相对有限。",
+      "tags": [
+        "AI安全",
+        "校企合作",
+        "人才培养"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/tcrIrCwMIDSjCxgO.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-18 09:15:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 6,
+      "title": "上交x创智x瑞金联合发布CX-Mind：胸片诊断进入“可验证推理”时代",
+      "summary": "5月18日消息，上海交通大学、创智和瑞金医院联合发布CX-Mind模型，在胸片诊断五项维度排名第一，实现可验证推理，属学术突破。",
+      "importance": "中",
+      "reason": "中国高校和医院联合发布AI医疗模型并取得SOTA性能，属于重大学术突破，但影响力限于医疗AI领域。",
+      "tags": [
+        "AI医疗",
+        "学术突破",
+        "胸片诊断"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/c4qmnnyqNF5RSVEc.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-18 06:40:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 7,
+      "title": "8B模型做生物实验：实验步骤顺序不乱、剂量无幻觉｜ICLR 2026",
+      "summary": "5月18日消息，中国研究团队发布8B参数AI模型，在生物实验任务中超越GPT-4o，实现步骤顺序不乱、剂量无幻觉，论文被ICLR 2026接收。",
+      "importance": "中",
+      "reason": "中国团队在AI生物实验领域取得突破，论文被顶级会议接收，属于重大学术突破。",
+      "tags": [
+        "AI",
+        "生物实验",
+        "学术突破"
+      ],
+      "url": "https://36kr.com/p/3810598875307780?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-18 09:46:47",
+      "impact_score": 284.0
+    },
+    {
+      "index": 8,
+      "title": "豆包上线博物馆讲解模式，官方合作覆盖超20家头部博物馆",
+      "summary": "5月18日消息，字节跳动旗下豆包上线博物馆讲解模式，与中国国家博物馆等超20家头部博物馆合作，提供AI导览服务。",
+      "importance": "中",
+      "reason": "字节跳动推出AI博物馆讲解功能，属于产品发布和商业合作，但影响力相对较小。",
+      "tags": [
+        "字节跳动",
+        "AI导览",
+        "博物馆"
+      ],
+      "url": "https://36kr.com/p/3814368445259270?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-18 05:38:42",
+      "impact_score": 256.0
+    },
+    {
+      "index": 9,
+      "title": "AI座舱热度持续攀升，佑驾创新引领智能座舱进入大模型时代",
+      "summary": "5月18日消息，中国智能驾驶公司佑驾创新升级座舱大模型智能管家BamBam，实现车舱内跨端协同，推动AI座舱进入大模型时代。",
+      "importance": "中",
+      "reason": "中国公司佑驾创新发布AI座舱产品，属于产品发布和商业动态，但影响力有限。",
+      "tags": [
+        "AI座舱",
+        "大模型",
+        "佑驾创新"
+      ],
+      "url": "https://36kr.com/p/3813305543794440?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-17 11:57:23",
+      "impact_score": 251.0
+    },
+    {
+      "index": 10,
+      "title": "36氪首发 | 获超千万融资，「律动节拍」用演出票撬起千亿跨城观演赛道",
+      "summary": "5月18日消息，科技文旅企业律动节拍完成超千万元融资，将用于AI演出行程管家产品研发和行业大模型训练，投后估值数亿元。",
+      "importance": "低",
+      "reason": "中国初创公司获得融资，属于商业动态，但金额较小，影响力有限。",
+      "tags": [
+        "融资",
+        "AI文旅",
+        "初创公司"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/hYggN5mbRdnbZFrd.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-18 06:40:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 11,
+      "title": "openJiuwen社区开源新招：重磅发布JiuwenSwarm，拉开群体智能“养蜂”序幕",
+      "summary": "5月18日消息，openJiuwen社区发布开源项目JiuwenSwarm，探索群体智能技术，推动AI开源生态发展。",
+      "importance": "低",
+      "reason": "中国开源社区发布新项目，属于学术/技术动态，但影响力有限。",
+      "tags": [
+        "开源",
+        "群体智能",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/robot/3aONHt2GgD1NtdrV.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-18 09:20:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 12,
+      "title": "魔法原子惊艳亮相戛纳 中国智造登临国际顶级文化盛典",
+      "summary": "5月18日消息，中国具身智能企业魔法原子携全家族机器人亮相戛纳电影节，参与红毯迎宾、主持等环节，展示中国智造。",
+      "importance": "低",
+      "reason": "中国公司产品在国际活动亮相，属于商业动态，但影响力有限。",
+      "tags": [
+        "具身智能",
+        "戛纳",
+        "中国智造"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/oIjSMkG9ln37bN82.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-17 08:52:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 13,
+      "title": "对话关梦龙：他想用 Agent 拯救你手机里的 100G 废片",
+      "summary": "5月18日消息，前字节跳动员工关梦龙推出AI编导产品Cutto，用Agent技术帮助用户管理手机废片，实现个性化内容生成。",
+      "importance": "低",
+      "reason": "中国创业者推出AI产品，属于商业动态，但影响力有限。",
+      "tags": [
+        "AI",
+        "Agent",
+        "创业"
+      ],
+      "url": "https://36kr.com/newsflashes/3814651863981826?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-18 10:31:30",
+      "impact_score": 195.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+      "summary": "5月18日消息，马斯克与OpenAI的诉讼进入尾声，法庭上围绕OpenAI CEO奥特曼是否值得信任展开激烈辩论，该案可能影响OpenAI未来的商业计划。",
+      "importance": "高",
+      "reason": "涉及重大法律诉讼，可能影响OpenAI的IPO和商业前景，属于重大政策与法规类事件。",
+      "tags": [
+        "OpenAI",
+        "Elon Musk",
+        "法律诉讼",
+        "信任"
+      ],
+      "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-05-17 19:46:34",
+      "impact_score": 229.5
+    },
+    {
+      "index": 2,
+      "title": "Elon Musk Says He Wants to Get SpaceX IPO Underway ‘Pretty Soon’",
+      "summary": "5月18日消息，马斯克表示正着手推进SpaceX的首次公开募股，SpaceX作为火箭和人工智能公司，有望成为史上规模最大的IPO之一。",
+      "importance": "高",
+      "reason": "SpaceX IPO计划是重大商业动态，涉及巨额融资和AI领域布局。",
+      "tags": [
+        "SpaceX",
+        "IPO",
+        "Elon Musk",
+        "商业动态"
+      ],
+      "url": "https://arxiv.org/abs/2605.15611",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-18 04:00:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 3,
+      "title": "The fate of OpenAI’s $1tn IPO will be decided in an Oakland jury room",
+      "summary": "5月18日消息，马斯克对OpenAI的法律挑战可能破坏其1万亿美元IPO计划，奥克兰陪审团的决定将直接影响这家AI初创公司的商业野心。",
+      "importance": "高",
+      "reason": "OpenAI的IPO规模巨大，法律诉讼结果将决定其未来，属于重大商业动态与政策法规交叉事件。",
+      "tags": [
+        "OpenAI",
+        "IPO",
+        "Elon Musk",
+        "法律诉讼"
+      ],
+      "url": "https://arxiv.org/abs/2605.15581",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-18 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 4,
+      "title": "Lenovo’s Internal Memo Shows Uncertainty for Nvidia’s H200 Sales in China",
+      "summary": "5月18日消息，联想内部备忘录显示，自3月美国政府批准向部分中国公司销售英伟达H200芯片以来，未出现新的许可证或政策，H200在华销售前景不明。",
+      "importance": "高",
+      "reason": "涉及美国对华芯片出口管制政策，影响英伟达H200芯片销售，属于重大政策与法规事件。",
+      "tags": [
+        "英伟达",
+        "H200",
+        "出口管制",
+        "中国"
+      ],
+      "url": "https://arxiv.org/abs/2605.15734",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-18 04:00:00",
+      "impact_score": 150.0
+    },
+    {
+      "index": 5,
+      "title": "Apple’s Siri revamp could include auto-deleting chats",
+      "summary": "5月18日消息，苹果计划在Siri大改版中加入自动删除聊天记录功能，隐私将成为新版Siri的核心主题，以在AI竞争中差异化。",
+      "importance": "中",
+      "reason": "苹果Siri重大产品更新，涉及AI隐私安全，属于重大产品发布与安全伦理类事件。",
+      "tags": [
+        "苹果",
+        "Siri",
+        "隐私",
+        "AI"
+      ],
+      "url": "https://arxiv.org/abs/2605.15215",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-18 04:00:00",
+      "impact_score": 145.0
+    },
+    {
+      "index": 6,
+      "title": "Anthropic and OpenAI’s Share of AI Startup Revenues Rises to 89%",
+      "summary": "5月18日消息，Anthropic和OpenAI在AI初创公司收入中的份额升至89%，34家领先AI初创公司年化收入近800亿美元，头部效应显著。",
+      "importance": "中",
+      "reason": "反映AI行业商业格局的重大变化，属于重大商业动态。",
+      "tags": [
+        "Anthropic",
+        "OpenAI",
+        "收入",
+        "AI初创"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-05-18/elon-musk-says-he-wants-to-get-spacex-ipo-underway-pretty-soon",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-18 08:18:43",
+      "impact_score": 142.5
+    },
+    {
+      "index": 7,
+      "title": "US, Philippines Moving ‘Very Quickly’ on 4,000-Acre AI Hub Plan",
+      "summary": "5月18日消息，美国和菲律宾正快速推进在菲律宾建设4000英亩人工智能与供应链中心的计划，旨在为美国投资者提供长期保护。",
+      "importance": "中",
+      "reason": "涉及国际AI基础设施合作与地缘政治，属于重大政策与法规类事件。",
+      "tags": [
+        "美国",
+        "菲律宾",
+        "AI中心",
+        "供应链"
+      ],
+      "url": "https://www.ft.com/content/846479c8-4ab0-4812-a1d5-08abdd8b952b",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-05-18 04:00:13",
+      "impact_score": 142.5
+    },
+    {
+      "index": 8,
+      "title": "Revamped Siri will reportedly offer autodeleting chats",
+      "summary": "5月18日消息，据彭博社报道，苹果计划在iOS 27中推出更像聊天机器人的新版Siri，并包含自动删除聊天记录的选项，以隐私为差异化优势。",
+      "importance": "中",
+      "reason": "苹果Siri重大产品更新，涉及AI隐私安全，属于重大产品发布与安全伦理类事件。",
+      "tags": [
+        "苹果",
+        "Siri",
+        "隐私",
+        "iOS 27"
+      ],
+      "url": "https://www.cnbc.com/2026/05/18/how-elon-musk-and-sam-altman-went-from-besties-to-bitter-rivals.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-05-18 05:00:01",
+      "impact_score": 140.0
+    },
+    {
+      "index": 9,
+      "title": "SpaceX Launch, Google I/O Headline a Big News Week in Tech",
+      "summary": "5月18日消息，本周科技新闻密集，包括英伟达一季度财报、谷歌I/O开发者大会、Meta裁员8000人，以及马斯克SpaceX星舰首次试飞。",
+      "importance": "中",
+      "reason": "涵盖多家海外科技巨头的重要动态，属于重大商业动态与产品发布。",
+      "tags": [
+        "SpaceX",
+        "谷歌",
+        "英伟达",
+        "Meta"
+      ],
+      "url": "https://arxiv.org/abs/2605.15217",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-18 04:00:00",
+      "impact_score": 135.0
+    },
+    {
+      "index": 10,
+      "title": "Gates Foundation Sells Remaining Microsoft Stake",
+      "summary": "5月18日消息，比尔·盖茨的慈善信托基金已出售全部微软股票，2026年一季度抛售约30亿美元，不再持有微软任何股份。",
+      "importance": "低",
+      "reason": "虽为重大商业动态，但与AI直接关联较弱，属于一般商业新闻。",
+      "tags": [
+        "盖茨基金会",
+        "微软",
+        "股票出售"
+      ],
+      "url": "https://www.theinformation.com/briefings/lenovos-internal-memo-shows-uncertainty-nvidias-h200-sales-china",
+      "source": "The Information",
+      "original_pub_date": "2026-05-18 10:07:44",
+      "impact_score": 132.0
+    },
+    {
+      "index": 11,
+      "title": "Shein Buys Everlane",
+      "summary": "5月18日消息，中国折扣电商Shein以1亿美元收购旧金山初创公司Everlane，后者曾估值远高于此，交易反映电商行业整合。",
+      "importance": "低",
+      "reason": "收购方为中国公司，但被收购方为美国公司，且交易金额较小，属于一般商业动态。",
+      "tags": [
+        "Shein",
+        "Everlane",
+        "收购"
+      ],
+      "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-05-17 20:15:00",
+      "impact_score": 132.0
+    }
+  ],
+  "summary": "今日从111条原始信息中精选出13条国内动态和11条国际动态，其中8条为高重要性。 重点关注：氪星晚报 ｜百度：一季度营收321亿元，AI业务收入136亿元；马斯克预计今年美国将广泛使用自动驾驶汽车；巨力索具旗下十余家企业已注销；2027年迈向十万台产能：矩阵超智开启具身智能量产元年；番茄小说正推动 AI 动漫上院线，开放头部IP改编权限｜36氪独家。",
+  "statistics": {
+    "raw_domestic": 40,
+    "raw_international": 71,
+    "raw_total": 111,
+    "final_domestic": 13,
+    "final_international": 11
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "5月18日消息，百度发布一季度财报，营收321亿元，其中AI业务收入136亿元，显示其AI商业化能力持续增强。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "5月18日消息，具身智能企业矩阵超智在上海举办科技日，发布MATRIX-3人形机器人，计划2027年实现十万台产能，推动国产具身智能量产。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "5月18日消息，字节跳动旗下番茄小说推动AI动漫上院线，并开放平台头部IP改编权限，探索AI影视化新路径。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "5月18日消息，快手计划分拆视频生成大模型可灵AI，以200亿美元估值寻求外部融资，可灵估值占母公司近七成，引发市场关注。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "5月18日消息，奇安信集团与北京八中签署战略合作协议，揭牌北京市首个青少年人工智能安全培养基地，推动AI安全人才培养。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "5月18日消息，马斯克与OpenAI的诉讼进入尾声，法庭上围绕OpenAI CEO奥特曼是否值得信任展开激烈辩论，该案可能影响OpenAI未来的商业计划。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "5月18日消息，马斯克表示正着手推进SpaceX的首次公开募股，SpaceX作为火箭和人工智能公司，有望成为史上规模最大的IPO之一。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "5月18日消息，马斯克对OpenAI的法律挑战可能破坏其1万亿美元IPO计划，奥克兰陪审团的决定将直接影响这家AI初创公司的商业野心。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "5月18日消息，联想内部备忘录显示，自3月美国政府批准向部分中国公司销售英伟达H200芯片以来，未出现新的许可证或政策，H200在华销售前景不明。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "5月18日消息，苹果计划在Siri大改版中加入自动删除聊天记录功能，隐私将成为新版Siri的核心主题，以在AI竞争中差异化。",
+      "importance": "中"
+    }
+  ]
+}
