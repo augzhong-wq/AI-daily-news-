@@ -1,0 +1,390 @@
+{
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25 11:56:14",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "36氪首发 | 3D打印齿科龙头要切入桌面全彩造物，获君联、达晨等3亿+融资",
+      "summary": "5月25日消息，黑格科技完成超3亿元人民币C轮融资，由君联资本、达晨联合领投，资金将用于光固化技术研发、全球产业链深化及桌面级全彩造物产品发布。",
+      "importance": "高",
+      "reason": "中国公司黑格科技获得大额融资，属于重大商业动态，且涉及AI相关3D打印技术。",
+      "tags": [
+        "融资",
+        "3D打印",
+        "AI"
+      ],
+      "url": "https://36kr.com/p/3824073646624899?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-25 02:09:23",
+      "impact_score": 286.0
+    },
+    {
+      "index": 2,
+      "title": "机器人力传感器龙头再获数亿融资，上汽、中芯等抢先入局",
+      "summary": "5月25日消息，六维力传感器企业蓝点触控完成C++轮数亿元融资，由上汽金控、尚颀资本领投，中芯聚源等跟投，资金将用于新产品研发和全球市场拓展。",
+      "importance": "高",
+      "reason": "中国公司蓝点触控获得大额融资，涉及机器人核心传感器，属于重大商业动态。",
+      "tags": [
+        "融资",
+        "机器人",
+        "传感器"
+      ],
+      "url": "https://www.leiphone.com/category/chips/gAjsNSvozgcw55bE.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-25 07:54:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 3,
+      "title": "华为发布AIDC数据基础设施全栈方案，覆盖数据湖至智能体框架五大层级",
+      "summary": "5月25日消息，华为在巴黎发布AIDC数据基础设施全栈方案，覆盖数据湖、知识与记忆平台、模型工程与资源调度、智能体框架、数据韧性平台五大层级，助力企业AI规模化落地。",
+      "importance": "高",
+      "reason": "中国公司华为发布重要AI基础设施产品，属于重大产品发布。",
+      "tags": [
+        "华为",
+        "AI基础设施",
+        "发布"
+      ],
+      "url": "https://36kr.com/p/3824439681520002?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-25 08:24:54",
+      "impact_score": 279.0
+    },
+    {
+      "index": 4,
+      "title": "36氪首发 | 商汤国香投了一家消费级空间相机公司，为具身智能采集真实世界数据",
+      "summary": "5月25日消息，竹马创新完成数千万天使+轮融资，由商汤国香资本领投，资金将用于产品研发、量产准备及海外市场拓展，其空间相机产品为具身智能提供三维数据入口。",
+      "importance": "中",
+      "reason": "中国公司竹马创新获得融资，商汤国香资本领投，涉及AI硬件和具身智能数据采集。",
+      "tags": [
+        "融资",
+        "具身智能",
+        "AI硬件"
+      ],
+      "url": "https://36kr.com/newsflashes/3824595829019009?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-25 11:00:04",
+      "impact_score": 236.0
+    },
+    {
+      "index": 5,
+      "title": "图灵奖得主领衔，中国大模型第一梯队集结！2026智源大会，看懂AI下一程",
+      "summary": "5月25日消息，2026智源大会即将召开，由图灵奖得主领衔，集结中国大模型第一梯队，探讨AI前沿趋势。",
+      "importance": "中",
+      "reason": "中国AI学术会议，涉及重大学术交流，但具体内容未详细披露。",
+      "tags": [
+        "智源大会",
+        "大模型",
+        "学术"
+      ],
+      "url": "https://36kr.com/p/3824164325412992?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-25 08:54:18",
+      "impact_score": 236.0
+    },
+    {
+      "index": 6,
+      "title": "追觅科技官宣C罗为全球代言人",
+      "summary": "5月25日消息，追觅科技宣布足球巨星C罗成为全球代言人，追觅在高速数字马达、智能算法等底层技术持续深耕，扫地机品类获全球高端销量第一认证。",
+      "importance": "中",
+      "reason": "中国公司追觅科技的重大品牌营销动态，涉及AI技术应用。",
+      "tags": [
+        "追觅科技",
+        "代言",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/FQWf29NIfP6CIfkq.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-25 07:49:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 7,
+      "title": "搞定工业质检：AI视觉如何重构高端制造质量防线| 2026AI Partner·北京亦庄AI+产业大会",
+      "summary": "5月25日消息，广州因特智能展示AI视觉在半导体检测等高端制造领域的应用，用软硬结合方式解决中国在半导体检测装备领域的卡脖子问题。",
+      "importance": "中",
+      "reason": "中国公司展示AI视觉在工业质检领域的突破，属于技术应用动态。",
+      "tags": [
+        "AI视觉",
+        "工业质检",
+        "半导体"
+      ],
+      "url": "https://36kr.com/p/3824053061652616?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-25 01:50:58",
+      "impact_score": 210.0
+    },
+    {
+      "index": 8,
+      "title": "港中文李鸿升团队论文 MindVLA-U1：VLA 不再输给 VA，语言真正进入自动驾驶决策",
+      "summary": "5月25日消息，港中文李鸿升团队发布MindVLA-U1论文，提出统一视觉语言动作架构，使语言真正进入自动驾驶决策，提升语义理解和长尾场景处理能力。",
+      "importance": "中",
+      "reason": "中国研究机构（港中文）的学术突破，属于重大学术动态。",
+      "tags": [
+        "自动驾驶",
+        "学术突破",
+        "VLA"
+      ],
+      "url": "https://www.leiphone.com/category/CorporateServices/hZtu4I7d1wnDwKWt.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-25 05:27:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 9,
+      "title": "华为具身大脑一号位创业，用认知科学造世界模型，获亿元级融资",
+      "summary": "5月25日消息，前华为具身大脑负责人创业，用认知科学构建世界模型，获亿元级融资。",
+      "importance": "中",
+      "reason": "中国AI创业公司获得大额融资，涉及具身智能和世界模型。",
+      "tags": [
+        "融资",
+        "具身智能",
+        "世界模型"
+      ],
+      "url": "https://36kr.com/newsflashes/3824644265431685?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-25 11:49:20",
+      "impact_score": 195.0
+    },
+    {
+      "index": 10,
+      "title": "数字华夏发布新一代人形机器人“星行侠P2”，加速机器人场景落地",
+      "summary": "5月25日消息，数字华夏发布新一代人形机器人“星行侠P2”及场景大脑RoboEase，性能升级超200项，瞄准政务、银行、文旅等场景，并与深开鸿等企业签署战略合作。",
+      "importance": "中",
+      "reason": "中国公司发布新一代人形机器人产品，属于重大产品发布。",
+      "tags": [
+        "人形机器人",
+        "发布",
+        "场景落地"
+      ],
+      "url": "https://36kr.com/newsflashes/3824612969140609?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-25 11:17:30",
+      "impact_score": 195.0
+    },
+    {
+      "index": 11,
+      "title": "用AI重构增长：新通教育集团的实践| 2026AI Partner·北京亦庄AI+产业大会",
+      "summary": "5月25日消息，新通教育创始人麻亚炜分享AI转型历程，从数字化基建到全员AI Must，再到AI in All和AI Native新业务，证明传统企业拥抱AI的关键在于战略落地。",
+      "importance": "低",
+      "reason": "中国教育公司AI转型案例，属于行业应用动态，但影响力相对有限。",
+      "tags": [
+        "AI转型",
+        "教育",
+        "实践"
+      ],
+      "url": "https://36kr.com/newsflashes/3824610569490821?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-25 11:15:03",
+      "impact_score": 195.0
+    },
+    {
+      "index": 12,
+      "title": "消除“罪证”：给写作去除“AI味”的不完全手册（2026版）",
+      "summary": "5月25日消息，社交媒体上“AI味”写作引发广泛吐槽，网友分享去除AI味的方法，反映AI内容生成的可识别性问题。",
+      "importance": "低",
+      "reason": "中国社交媒体现象，涉及AI伦理和用户体验，但非重大事件。",
+      "tags": [
+        "AI味",
+        "写作",
+        "伦理"
+      ],
+      "url": "https://36kr.com/newsflashes/3824598016283016?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-25 11:02:17",
+      "impact_score": 195.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Zepto Said to Plan June Public Filing for $1 Billion India IPO",
+      "summary": "5月25日消息，印度快速电商公司Zepto计划于6月上半月提交IPO申请，募资规模可能高达10亿美元，该公司正筹备上市事宜。",
+      "importance": "中",
+      "reason": "印度公司Zepto的IPO计划属于国际商业动态，但AI相关性较弱，重要性中等。",
+      "tags": [
+        "IPO",
+        "印度",
+        "电商"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-05-25/zepto-said-to-plan-june-public-filing-for-1-billion-india-ipo",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-25 10:23:52",
+      "impact_score": 240.0
+    },
+    {
+      "index": 2,
+      "title": "How New Mega-Cap IPOs Will Reshape the Markets",
+      "summary": "5月25日消息，SpaceX向IPO投资者推销其作为人工智能公司的定位，瞄准26.5万亿美元潜在市场，意图从估值飙升的投资者宠儿手中争夺业务。",
+      "importance": "高",
+      "reason": "SpaceX作为海外公司，其AI战略和IPO计划属于重大商业动态，影响市场格局。",
+      "tags": [
+        "SpaceX",
+        "IPO",
+        "人工智能"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-05-24/how-new-mega-cap-ipo-s-will-reshape-the-markets-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-24 14:06:01",
+      "impact_score": 240.0
+    },
+    {
+      "index": 3,
+      "title": "Inductive Deductive Synthesis: Enabling AI to Generate Formally Verified Systems",
+      "summary": "5月25日消息，研究人员提出归纳演绎合成方法，使AI能够生成具有形式化验证的系统，解决分布式系统等需要全覆盖保证的难题，超越单纯测试的局限。",
+      "importance": "高",
+      "reason": "该学术突破涉及AI生成形式化验证系统，属于重大学术突破，对AI安全与可靠性有深远影响。",
+      "tags": [
+        "学术突破",
+        "形式化验证",
+        "AI安全"
+      ],
+      "url": "https://arxiv.org/abs/2605.23109",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-25 04:00:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 4,
+      "title": "Tech giants need oversight to protect national security",
+      "summary": "5月25日消息，有观点认为Anthropic和SpaceX等科技公司董事会需要设立由总统提名、参议院确认的董事，以加强国家安全监督。",
+      "importance": "高",
+      "reason": "涉及对Anthropic和SpaceX等海外AI公司的国家安全监管建议，属于重大政策与法规议题。",
+      "tags": [
+        "国家安全",
+        "监管",
+        "Anthropic"
+      ],
+      "url": "https://arxiv.org/abs/2605.23780",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-25 04:00:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 5,
+      "title": "SoftBank Shares Hit Record With Lift From OpenAI IPO Hopes",
+      "summary": "5月25日消息，软银集团股价创历史新高，受其投资OpenAI和SB Energy可能上市的预期推动，市场对AI相关IPO热情高涨。",
+      "importance": "中",
+      "reason": "软银作为日本公司，其股价受OpenAI IPO预期影响，属于国际商业动态，但直接AI内容有限。",
+      "tags": [
+        "软银",
+        "OpenAI",
+        "IPO"
+      ],
+      "url": "https://www.ft.com/content/b5dfdd31-ccc3-4f49-a166-3aa9f8621f12",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-05-25 04:00:06",
+      "impact_score": 150.0
+    },
+    {
+      "index": 6,
+      "title": "SoftBank Taps Retail Market Again With $1.6 Billion Yen Bond",
+      "summary": "5月25日消息，软银集团计划通过面向个人投资者的次级债券发行筹集16亿美元，这是两个月内第二次类似零售债券发行。",
+      "importance": "低",
+      "reason": "软银的债券发行属于一般商业融资，AI相关性低，重要性较低。",
+      "tags": [
+        "软银",
+        "债券",
+        "融资"
+      ],
+      "url": "https://www.theinformation.com/briefings/huawei-moves-narrow-chip-gap-tsmc-despite-u-s-sanctions",
+      "source": "The Information",
+      "original_pub_date": "2026-05-25 07:37:05",
+      "impact_score": 145.0
+    },
+    {
+      "index": 7,
+      "title": "As SpaceX and OpenAI Prepare for Public Debuts, What Recent IPO History Signals",
+      "summary": "5月25日消息，智能戒指公司Oura和加密公司Blockchain.com已提交IPO文件，加入OpenAI和SpaceX等公司的上市行列，市场关注近期IPO历史信号。",
+      "importance": "中",
+      "reason": "涉及多家海外AI相关公司（OpenAI、SpaceX）的IPO动态，属于重大商业动态，但信息较分散。",
+      "tags": [
+        "IPO",
+        "OpenAI",
+        "SpaceX"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-05-25/huawei-touts-chipmaking-breakthrough-to-shorten-gap-with-tsmc",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-25 01:30:00",
+      "impact_score": 142.5
+    },
+    {
+      "index": 8,
+      "title": "Sakura Internet Eyes More Spending to Meet Japan’s AI Demand",
+      "summary": "5月25日消息，日本樱花互联网公司表示，为满足日本人工智能需求，可能需要将资本支出较原计划提高近七倍。",
+      "importance": "中",
+      "reason": "日本公司因AI需求增加资本支出，属于国际商业动态，反映AI基础设施投资趋势。",
+      "tags": [
+        "日本",
+        "AI基础设施",
+        "资本支出"
+      ],
+      "url": "https://arxiv.org/abs/2605.22875",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-25 04:00:00",
+      "impact_score": 130.0
+    }
+  ],
+  "summary": "今日从101条原始信息中精选出12条国内动态和8条国际动态，其中6条为高重要性。 重点关注：36氪首发 | 3D打印齿科龙头要切入桌面全彩造物，获君联、达晨等3亿+融资；机器人力传感器龙头再获数亿融资，上汽、中芯等抢先入局；华为发布AIDC数据基础设施全栈方案，覆盖数据湖至智能体框架五大层级。",
+  "statistics": {
+    "raw_domestic": 38,
+    "raw_international": 63,
+    "raw_total": 101,
+    "final_domestic": 12,
+    "final_international": 8
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "5月25日消息，黑格科技完成超3亿元人民币C轮融资，由君联资本、达晨联合领投，资金将用于光固化技术研发、全球产业链深化及桌面级全彩造物产品发布。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "5月25日消息，六维力传感器企业蓝点触控完成C++轮数亿元融资，由上汽金控、尚颀资本领投，中芯聚源等跟投，资金将用于新产品研发和全球市场拓展。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "5月25日消息，华为在巴黎发布AIDC数据基础设施全栈方案，覆盖数据湖、知识与记忆平台、模型工程与资源调度、智能体框架、数据韧性平台五大层级，助力企业AI规模化落地。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "5月25日消息，竹马创新完成数千万天使+轮融资，由商汤国香资本领投，资金将用于产品研发、量产准备及海外市场拓展，其空间相机产品为具身智能提供三维数据入口。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "5月25日消息，2026智源大会即将召开，由图灵奖得主领衔，集结中国大模型第一梯队，探讨AI前沿趋势。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "5月25日消息，SpaceX向IPO投资者推销其作为人工智能公司的定位，瞄准26.5万亿美元潜在市场，意图从估值飙升的投资者宠儿手中争夺业务。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "5月25日消息，研究人员提出归纳演绎合成方法，使AI能够生成具有形式化验证的系统，解决分布式系统等需要全覆盖保证的难题，超越单纯测试的局限。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "5月25日消息，有观点认为Anthropic和SpaceX等科技公司董事会需要设立由总统提名、参议院确认的董事，以加强国家安全监督。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "5月25日消息，印度快速电商公司Zepto计划于6月上半月提交IPO申请，募资规模可能高达10亿美元，该公司正筹备上市事宜。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "5月25日消息，软银集团股价创历史新高，受其投资OpenAI和SB Energy可能上市的预期推动，市场对AI相关IPO热情高涨。",
+      "importance": "中"
+    }
+  ]
+}
