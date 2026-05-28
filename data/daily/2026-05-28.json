@@ -1,0 +1,518 @@
+{
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28 11:42:11",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "科氪 | 雷鸟创新双品齐发：GT 系列、V4 同台亮相，次世代 AI 眼镜雷鸟 iO 提前预告",
+      "summary": "5月28日消息，雷鸟创新发布行业首款专业影视级AR眼镜雷鸟GT系列及新一代AI拍摄眼镜雷鸟V4，售价分别为1899元和2199元起，以极致巨幕和AI响应等核心体验刷新行业上限。",
+      "importance": "高",
+      "reason": "中国公司雷鸟创新发布重要AI硬件产品，属于重大产品发布。",
+      "tags": [
+        "产品发布",
+        "AR眼镜",
+        "AI硬件"
+      ],
+      "url": "https://36kr.com/p/3828851140350592?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-28 11:08:59",
+      "impact_score": 487.0
+    },
+    {
+      "index": 2,
+      "title": "腾讯游戏的One More Thing，是AI",
+      "summary": "5月28日消息，腾讯游戏在2026年发布会上展示42款游戏新动态，重点推出AI队友、AI助手及电竞AI解说等应用，并在“One More Thing”环节预告三款重磅AI相关产品。",
+      "importance": "高",
+      "reason": "中国科技巨头腾讯在游戏领域深化AI应用，属于重大产品发布。",
+      "tags": [
+        "AI应用",
+        "游戏",
+        "腾讯"
+      ],
+      "url": "https://36kr.com/p/3827658881323649?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-27 23:00:49",
+      "impact_score": 396.0
+    },
+    {
+      "index": 3,
+      "title": "AI内容共创平台「FunloomAI」再获数千万Pre-A轮融资，让创作回归创意本身 | 36氪首发",
+      "summary": "5月28日消息，AI内容共创平台FunloomAI完成数千万元Pre-A轮融资，由晴澜家族办公室领投，估值达2亿元，资金将用于产品研发和团队扩张。",
+      "importance": "中",
+      "reason": "中国AI创业公司获得重要融资，属于重大商业动态。",
+      "tags": [
+        "融资",
+        "AI内容",
+        "创业"
+      ],
+      "url": "https://36kr.com/p/3827585618154118?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-28 00:35:00",
+      "impact_score": 327.5
+    },
+    {
+      "index": 4,
+      "title": "氪星晚报 ｜微博：第一季度总营收4.213亿美元，同比增长6%；科大讯飞发布讯飞AI眼镜；日本太空企业AstroX计划从气球上发射火箭",
+      "summary": "5月28日消息，科大讯飞发布讯飞AI眼镜，进一步拓展AI硬件产品线，推动智能穿戴设备在AI领域的应用。",
+      "importance": "中",
+      "reason": "中国AI公司科大讯飞发布AI眼镜产品，属于重大产品发布。",
+      "tags": [
+        "产品发布",
+        "AI眼镜",
+        "科大讯飞"
+      ],
+      "url": "https://36kr.com/p/3828874222555782?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-28 11:35:17",
+      "impact_score": 322.5
+    },
+    {
+      "index": 5,
+      "title": "7B打败o3、GPT-5！医学AI智能体让模型学会“看哪里、怎么看”",
+      "summary": "5月28日消息，中国研究团队在医学AI领域取得突破，提出新型医学AI智能体，使7B参数模型在特定任务上超越o3和GPT-5，实现高效精准的医学影像分析。",
+      "importance": "高",
+      "reason": "中国研究团队在医学AI领域取得重大学术突破，超越国际顶尖模型。",
+      "tags": [
+        "学术突破",
+        "医学AI",
+        "AI智能体"
+      ],
+      "url": "https://www.qbitai.com/2026/05/426150.html",
+      "source": "量子位",
+      "original_pub_date": "2026-05-28 08:01:57",
+      "impact_score": 285.0
+    },
+    {
+      "index": 6,
+      "title": "ICRA 2026｜Depth Completion模型，低成本雷达突破野外度量深度估算",
+      "summary": "5月28日消息，中国研究团队在ICRA 2026发表Depth Completion模型，通过低成本雷达实现野外度量深度估算突破，并开源代码和数据集，推动机器人感知技术发展。",
+      "importance": "中",
+      "reason": "中国研究团队在机器人领域取得学术突破，成果被顶级会议录用。",
+      "tags": [
+        "学术突破",
+        "深度估算",
+        "机器人"
+      ],
+      "url": "https://www.leiphone.com/category/robot/QioxDCNmbPwRJbJ7.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-28 06:59:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 7,
+      "title": "智象未来CEO梅涛：多模态模型Token的毛利率，远高于语言模型",
+      "summary": "5月28日消息，智象未来CEO梅涛在首届开放日上表示，原生多模态是实现AGI的必经之路，公司目标打造世界模型，并强调多模态模型Token毛利率远高于语言模型。",
+      "importance": "中",
+      "reason": "中国AI公司智象未来发布重要战略观点，属于重大商业动态。",
+      "tags": [
+        "多模态",
+        "AGI",
+        "智象未来"
+      ],
+      "url": "https://36kr.com/p/3820713545846917?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-28 05:05:02",
+      "impact_score": 271.0
+    },
+    {
+      "index": 8,
+      "title": "8点1氪丨“高考期间AI工具将禁用”？豆包等回应；亚朵门店回应酒店免费提供隐藏摄像头检测仪；三星工会同意新薪酬方案，人均270万元奖金",
+      "summary": "5月28日消息，针对“高考期间AI工具将禁用”话题，豆包等中国AI平台回应称考试进行中不会配合解答试题，体现AI安全与伦理合规。",
+      "importance": "中",
+      "reason": "中国AI公司回应高考期间AI工具使用争议，涉及AI安全与伦理。",
+      "tags": [
+        "AI安全",
+        "伦理",
+        "高考"
+      ],
+      "url": "https://36kr.com/p/3820602297208966?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-28 08:20:12",
+      "impact_score": 266.0
+    },
+    {
+      "index": 9,
+      "title": "独家｜许鹏出任连尚集团首席执行官 加速AI战略纵深突破",
+      "summary": "5月28日消息，连尚集团任命许鹏为首席执行官，原CEO罗铭转任全球业务总裁，此次调整旨在加速AI战略落地，推动核心业务向纵深领域聚焦突破。",
+      "importance": "中",
+      "reason": "中国公司连尚集团进行高管调整以加速AI战略，属于重大商业动态。",
+      "tags": [
+        "人事变动",
+        "AI战略",
+        "连尚集团"
+      ],
+      "url": "https://36kr.com/newsflashes/3828821918192256?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-28 10:39:04",
+      "impact_score": 249.0
+    },
+    {
+      "index": 10,
+      "title": "清程极智：Token成为AI时代的 “水电煤”，中国AI产业从能用迈向好用",
+      "summary": "5月28日消息，清程极智推出以赤兔推理引擎等为核心的全链路Token解决方案，聚焦大模型推理降本和国产算力生态适配，推动中国AI产业从能用迈向好用。",
+      "importance": "中",
+      "reason": "中国AI基础设施公司发布重要技术成果，属于重大产品发布。",
+      "tags": [
+        "AI基础设施",
+        "大模型",
+        "国产算力"
+      ],
+      "url": "https://36kr.com/p/3828191630348934?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-28 00:00:20",
+      "impact_score": 240.0
+    },
+    {
+      "index": 11,
+      "title": "两部门联手，系统布局人工智能计量能力建设",
+      "summary": "5月28日消息，市场监管总局和国家发展改革委联合印发《人工智能计量体系和能力建设指引（2026版）》，系统布局人工智能计量能力建设，聚焦“测不准”难题，让AI更可信。",
+      "importance": "高",
+      "reason": "中国政府部门联合发布AI计量政策，属于重大政策与法规。",
+      "tags": [
+        "政策法规",
+        "AI计量",
+        "市场监管"
+      ],
+      "url": "https://36kr.com/p/3828856781099910?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-28 11:14:39",
+      "impact_score": 236.0
+    },
+    {
+      "index": 12,
+      "title": "极狐问道V9上市，卓驭首款MPV正式登场",
+      "summary": "5月28日消息，极狐问道V9正式上市，成为首款搭载卓驭舱驾融合方案的MPV，标志着双方合作已覆盖SUV、轿车、MPV三大主流品类，验证方案成熟度。",
+      "importance": "中",
+      "reason": "中国公司极狐与卓驭合作推出智能MPV，属于重大产品发布。",
+      "tags": [
+        "智能汽车",
+        "舱驾融合",
+        "极狐"
+      ],
+      "url": "https://www.leiphone.com/category/ai/1BLuBSDttjoOuLwx.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-28 03:27:00",
+      "impact_score": 220.0
+    },
+    {
+      "index": 13,
+      "title": "氪星晚报 ｜高盛策略师将标普500指数目标点位上调至8000点，受AI和盈利所推动；阿里员工十三薪并入年终奖",
+      "summary": "5月28日消息，快手科技CEO程一笑表示，可灵AI在2026年3月年化收入运行率近5亿美元，较去年同期增长4倍，收入来自B端API调用和P端付费会员订阅双轮驱动。",
+      "importance": "中",
+      "reason": "中国公司快手旗下AI产品可灵AI实现高速增长，属于重大商业动态。",
+      "tags": [
+        "AI收入",
+        "快手",
+        "可灵AI"
+      ],
+      "url": "https://www.leiphone.com/category/ai/X01gR8Kdtxo8KiU5.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-28 03:40:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 14,
+      "title": "金融+AI的奇点时刻，阿里云要“点”石成“金”",
+      "summary": "5月28日消息，阿里云发布金融级通用智能体“点金”，专为金融行业设计，具备独立数据体系和业务规则，推动AI从外挂式辅助走向端到端嵌入业务流程的数字员工。",
+      "importance": "中",
+      "reason": "中国公司阿里云发布金融AI产品，属于重大产品发布。",
+      "tags": [
+        "金融AI",
+        "阿里云",
+        "智能体"
+      ],
+      "url": "https://36kr.com/newsflashes/3828875423683204?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-28 11:33:29",
+      "impact_score": 195.0
+    },
+    {
+      "index": 15,
+      "title": "同济医院与阿里云达成合作",
+      "summary": "5月28日消息，华中科技大学同济医学院附属同济医院与阿里云签署全面合作协议，将围绕脑科学与神经疾病等重点临床领域，依托阿里云全栈AI技术与千问大模型，探索AI驱动的精准诊疗新范式。",
+      "importance": "中",
+      "reason": "中国医疗机构与科技公司合作推进AI医疗，属于重大商业动态。",
+      "tags": [
+        "AI医疗",
+        "合作",
+        "阿里云"
+      ],
+      "url": "https://36kr.com/newsflashes/3828859826000517?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-28 11:17:37",
+      "impact_score": 195.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Coding Startup Cognition Raises $1 Billion at a $26 Billion Valuation",
+      "summary": "5月28日消息，美国编程初创公司Cognition完成超过10亿美元融资，估值达260亿美元，较上一轮融资翻倍。",
+      "importance": "高",
+      "reason": "重大商业动态，大额融资（10亿+），估值大幅提升，属于国际动态。",
+      "tags": [
+        "融资",
+        "估值",
+        "AI"
+      ],
+      "url": "https://arxiv.org/abs/2605.27628",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-28 04:00:00",
+      "impact_score": 230.0
+    },
+    {
+      "index": 2,
+      "title": "Inference Provider Baseten in Talks to Double Valuation to $11 Billion",
+      "summary": "5月28日消息，美国AI推理服务商Baseten正与投资者洽谈以110亿美元估值融资10亿美元，估值较此前翻倍。",
+      "importance": "高",
+      "reason": "重大商业动态，大额融资（10亿+），估值大幅提升，属于国际动态。",
+      "tags": [
+        "融资",
+        "估值",
+        "AI"
+      ],
+      "url": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/",
+      "source": "MIT Technology Review",
+      "original_pub_date": "2026-05-28 10:00:00",
+      "impact_score": 225.0
+    },
+    {
+      "index": 3,
+      "title": "Mistral Signs with Airbus and BMW as it Expands Into Physical AI",
+      "summary": "5月28日消息，法国AI初创公司Mistral AI与空客、宝马达成合作，拓展物理AI领域，并宣布在法国新建数据中心。",
+      "importance": "高",
+      "reason": "重大商业动态，与知名企业战略合作，拓展新业务领域，属于国际动态。",
+      "tags": [
+        "合作",
+        "物理AI",
+        "数据中心"
+      ],
+      "url": "https://www.theinformation.com/briefings/coding-startup-cognition-raises-1-billion-26-billion-valuation",
+      "source": "The Information",
+      "original_pub_date": "2026-05-27 17:36:21",
+      "impact_score": 210.0
+    },
+    {
+      "index": 4,
+      "title": "Nvidia chief Jensen Huang to join board at prestigious Beijing university",
+      "summary": "5月28日消息，英伟达CEO黄仁勋将加入北京某知名大学董事会，此举凸显其维持与中国关系的努力。",
+      "importance": "高",
+      "reason": "重大商业动态，英伟达CEO个人行动，涉及中国但主体为海外公司，属于国际动态。",
+      "tags": [
+        "英伟达",
+        "黄仁勋",
+        "中国"
+      ],
+      "url": "https://www.theinformation.com/articles/pre-ipo-betting-boom-hits-prediction-markets",
+      "source": "The Information",
+      "original_pub_date": "2026-05-27 15:18:35",
+      "impact_score": 210.0
+    },
+    {
+      "index": 5,
+      "title": "Commission fines Temu €200 million for breaching the Digital Services Act",
+      "summary": "5月28日消息，欧盟委员会对Temu处以2亿欧元罚款，因其违反《数字服务法》，未能有效识别和评估系统性风险。",
+      "importance": "高",
+      "reason": "重大政策与法规，欧盟依据DSA开出高额罚单，属于国际动态。",
+      "tags": [
+        "欧盟",
+        "罚款",
+        "数字服务法"
+      ],
+      "url": "https://www.theinformation.com/briefings/inference-provider-baseten-talks-double-valuation-11-billion",
+      "source": "The Information",
+      "original_pub_date": "2026-05-27 04:11:48",
+      "impact_score": 210.0
+    },
+    {
+      "index": 6,
+      "title": "The Pope isn’t AGI-pilled",
+      "summary": "5月28日消息，教皇方济各发布通谕《Magnifica Humanitas》，警告人工智能的社会影响，强调其涉及权利、机会和人类尊严。",
+      "importance": "高",
+      "reason": "重大政策与法规，宗教领袖对AI伦理发表重要声明，具有全球影响力，属于国际动态。",
+      "tags": [
+        "AI伦理",
+        "教皇",
+        "通谕"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-05-28/3c-agi-partners-wong-on-investment-strategy-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-28 05:42:16",
+      "impact_score": 195.0
+    },
+    {
+      "index": 7,
+      "title": "Meta Launches New Enterprise Push to Boost Business Adoption of Its AI Tools",
+      "summary": "5月28日消息，Meta成立新部门“企业解决方案”，计划派驻工程师和产品经理至大型企业客户，推动其AI工具的商业应用。",
+      "importance": "中",
+      "reason": "重大产品发布/商业动态，Meta推出企业级AI服务新举措，属于国际动态。",
+      "tags": [
+        "Meta",
+        "企业AI",
+        "商业应用"
+      ],
+      "url": "https://arxiv.org/abs/2605.27762",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-28 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 8,
+      "title": "Meta Launches Paid AI Chatbot Subscriptions",
+      "summary": "5月28日消息，Meta在Facebook、Instagram和WhatsApp上推出AI聊天机器人付费订阅服务，以探索AI投资变现。",
+      "importance": "中",
+      "reason": "重大产品发布，Meta推出AI聊天机器人付费订阅，属于国际动态。",
+      "tags": [
+        "Meta",
+        "AI聊天机器人",
+        "订阅"
+      ],
+      "url": "https://www.ft.com/content/5beb72de-4c60-4f43-89c6-f36f5d7d5e05",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-05-28 10:38:00",
+      "impact_score": 180.0
+    },
+    {
+      "index": 9,
+      "title": "Amazon Launches Service to Put AI Shopping Assistants on Other Retailers’ Sites",
+      "summary": "5月28日消息，亚马逊推出新服务，允许其他零售商在其网站上使用亚马逊的AI购物助手技术。",
+      "importance": "中",
+      "reason": "重大产品发布，亚马逊将AI购物助手技术开放给第三方，属于国际动态。",
+      "tags": [
+        "亚马逊",
+        "AI购物助手",
+        "零售"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-05-28/mistral-expands-into-physical-ai-including-airbus-bmw-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-28 09:00:01",
+      "impact_score": 180.0
+    },
+    {
+      "index": 10,
+      "title": "Salesforce's Lukewarm Outlook Fuels AI Disruption Fear",
+      "summary": "5月28日消息，Salesforce发布第二财季营收展望约113亿美元，略低于预期，加剧市场对AI颠覆传统软件业的担忧。",
+      "importance": "中",
+      "reason": "重大商业动态，知名企业财报不及预期，反映AI对行业的影响，属于国际动态。",
+      "tags": [
+        "Salesforce",
+        "营收",
+        "AI颠覆"
+      ],
+      "url": "https://www.ft.com/content/1c567fe9-6df9-4313-902c-c8c65782c19e",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-05-28 00:15:02",
+      "impact_score": 180.0
+    },
+    {
+      "index": 11,
+      "title": "AtlasEdge Gets €1.2 Billion in Loans for European Data Centers",
+      "summary": "5月28日消息，数据中心运营商AtlasEdge获得超过12亿欧元贷款，用于在欧洲欠发达地区建设AI基础设施。",
+      "importance": "中",
+      "reason": "重大商业动态，大额融资用于AI基础设施建设，属于国际动态。",
+      "tags": [
+        "数据中心",
+        "融资",
+        "AI基础设施"
+      ],
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-fines-temu-eu200-million-breaching-digital-services-act",
+      "source": "EU AI Policy",
+      "original_pub_date": "2026-05-28 10:12:30",
+      "impact_score": 165.0
+    },
+    {
+      "index": 12,
+      "title": "Uber adds to its Delivery Hero stake at €12bn valuation",
+      "summary": "5月28日消息，优步以120亿欧元估值增持德国外卖公司Delivery Hero股份，加大对其收购力度。",
+      "importance": "中",
+      "reason": "重大商业动态，优步增持外卖公司股份，涉及AI相关配送业务，属于国际动态。",
+      "tags": [
+        "优步",
+        "增持",
+        "外卖"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-05-28/temu-fined-200-million-by-eu-for-sales-of-unsafe-toys-chargers",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-28 10:00:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 13,
+      "title": "Taiwan chip stocks climb after Nvidia announces $150 billion spending plans",
+      "summary": "5月28日消息，英伟达宣布1500亿美元支出计划后，台湾芯片股上涨，而中国大陆芯片股下跌。",
+      "importance": "中",
+      "reason": "重大商业动态，英伟达巨额支出计划影响全球芯片股，属于国际动态。",
+      "tags": [
+        "英伟达",
+        "芯片股",
+        "支出计划"
+      ],
+      "url": "https://arxiv.org/abs/2605.27379",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-05-28 04:00:00",
+      "impact_score": 165.0
+    }
+  ],
+  "summary": "今日从211条原始信息中精选出15条国内动态和13条国际动态，其中10条为高重要性。 重点关注：科氪 | 雷鸟创新双品齐发：GT 系列、V4 同台亮相，次世代 AI 眼镜雷鸟 iO 提前预告；腾讯游戏的One More Thing，是AI；7B打败o3、GPT-5！医学AI智能体让模型学会“看哪里、怎么看”。",
+  "statistics": {
+    "raw_domestic": 48,
+    "raw_international": 163,
+    "raw_total": 211,
+    "final_domestic": 15,
+    "final_international": 13
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "5月28日消息，雷鸟创新发布行业首款专业影视级AR眼镜雷鸟GT系列及新一代AI拍摄眼镜雷鸟V4，售价分别为1899元和2199元起，以极致巨幕和AI响应等核心体验刷新行业上限。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "5月28日消息，腾讯游戏在2026年发布会上展示42款游戏新动态，重点推出AI队友、AI助手及电竞AI解说等应用，并在“One More Thing”环节预告三款重磅AI相关产品。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "5月28日消息，中国研究团队在医学AI领域取得突破，提出新型医学AI智能体，使7B参数模型在特定任务上超越o3和GPT-5，实现高效精准的医学影像分析。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "5月28日消息，市场监管总局和国家发展改革委联合印发《人工智能计量体系和能力建设指引（2026版）》，系统布局人工智能计量能力建设，聚焦“测不准”难题，让AI更可信。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "5月28日消息，AI内容共创平台FunloomAI完成数千万元Pre-A轮融资，由晴澜家族办公室领投，估值达2亿元，资金将用于产品研发和团队扩张。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "5月28日消息，美国编程初创公司Cognition完成超过10亿美元融资，估值达260亿美元，较上一轮融资翻倍。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "5月28日消息，美国AI推理服务商Baseten正与投资者洽谈以110亿美元估值融资10亿美元，估值较此前翻倍。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "5月28日消息，法国AI初创公司Mistral AI与空客、宝马达成合作，拓展物理AI领域，并宣布在法国新建数据中心。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "5月28日消息，英伟达CEO黄仁勋将加入北京某知名大学董事会，此举凸显其维持与中国关系的努力。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "5月28日消息，欧盟委员会对Temu处以2亿欧元罚款，因其违反《数字服务法》，未能有效识别和评估系统性风险。",
+      "importance": "高"
+    }
+  ]
+}
