@@ -1,0 +1,502 @@
+{
+  "date": "2026-05-30",
+  "generated_at": "2026-05-30 10:04:36",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "科氪 | OPPO Reno16系列发布，“3D悬浮星球+实况随心贴”引领潮流手机新风向",
+      "summary": "5月30日消息，OPPO发布Reno16系列潮流手机及多款新品，以AI智慧体验和跨设备生态协同为核心，重新定义年轻人的移动智能生态。",
+      "importance": "中",
+      "reason": "中国公司OPPO发布AI相关新品，属于国内动态中的重大产品发布。",
+      "tags": [
+        "产品发布",
+        "AI",
+        "OPPO"
+      ],
+      "url": "https://36kr.com/p/3830038913558147?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-29 07:17:14",
+      "impact_score": 361.5
+    },
+    {
+      "index": 2,
+      "title": "36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资",
+      "summary": "5月30日消息，乘物机器人完成天使轮融资，由和椿科技战略投资，专注工业具身智能技术研发，具备从软硬件研发到场景部署的一体化能力。",
+      "importance": "中",
+      "reason": "中国机器人公司获得融资，属于国内动态中的重大商业动态。",
+      "tags": [
+        "融资",
+        "机器人",
+        "具身智能"
+      ],
+      "url": "https://36kr.com/p/3831135917107075?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-30 01:53:46",
+      "impact_score": 327.5
+    },
+    {
+      "index": 3,
+      "title": "千里科技再添筹码，或将整合吉利辅助驾驶团队｜36氪独家",
+      "summary": "5月30日消息，吉利中央研究院辅助驾驶团队将被整合入千里科技，以增强其智驾研发能力，助力千里科技成为“第二个华为”。",
+      "importance": "高",
+      "reason": "中国车企吉利与千里科技的整合，涉及辅助驾驶技术，属于国内动态中的重大商业动态。",
+      "tags": [
+        "整合",
+        "辅助驾驶",
+        "吉利"
+      ],
+      "url": "https://36kr.com/p/3831073348855433?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-30 00:52:20",
+      "impact_score": 322.5
+    },
+    {
+      "index": 4,
+      "title": "思格新能源发布行业首个全域AI智能体，能源管理进入智能体时代",
+      "summary": "5月30日消息，思格新能源发布能源行业首个全域AI智能体SigenAgent，并联合弗若斯特沙利文发布《2026 AI+新能源白皮书》，提出能源智能化五级分级体系。",
+      "importance": "高",
+      "reason": "中国新能源科技公司发布行业首个全域AI智能体，属于国内动态中的重大产品发布。",
+      "tags": [
+        "AI智能体",
+        "新能源",
+        "发布"
+      ],
+      "url": "https://36kr.com/newsflashes/3831206788065153?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-30 03:23:56",
+      "impact_score": 292.5
+    },
+    {
+      "index": 5,
+      "title": "全球首发 | SLAI基于国产算力集群完成DeepSeek-V4-Pro全参数后训练",
+      "summary": "5月30日消息，深圳河套学院AI训练平台团队联合多家机构，基于昇腾910C国产算力集群完成DeepSeek-V4-Pro全参数后训练，实现国产算力大模型训练突破。",
+      "importance": "高",
+      "reason": "中国研究机构基于国产算力完成大模型训练，属于国内动态中的重大学术突破。",
+      "tags": [
+        "国产算力",
+        "大模型",
+        "DeepSeek"
+      ],
+      "url": "https://www.leiphone.com/category/ai/3bJjZs6OI76QGKNw.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-29 08:49:00",
+      "impact_score": 290.0
+    },
+    {
+      "index": 6,
+      "title": "全球首款视觉感知AI耳机发布，腾讯出行服务提供全栈AI能力",
+      "summary": "5月30日消息，光帆科技与腾讯出行服务合作，发布全球首款视觉感知AI耳机，用户可通过语音指令完成叫车等操作，实现解放双手的出行体验。",
+      "importance": "中",
+      "reason": "中国公司与腾讯合作发布AI穿戴设备，属于国内动态中的重大产品发布。",
+      "tags": [
+        "AI耳机",
+        "腾讯",
+        "合作"
+      ],
+      "url": "https://36kr.com/p/3831071878358659?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-30 00:48:34",
+      "impact_score": 266.0
+    },
+    {
+      "index": 7,
+      "title": "绑定中通！无人车战略分野，佑驾创新下了盘大棋",
+      "summary": "5月30日消息，佑驾创新斥资2500万元收购中通快递子公司50%股权，实现资本与业务双重绑定，加速L4自动驾驶商业化，抢占无人物流市场。",
+      "importance": "中",
+      "reason": "中国自动驾驶公司与物流巨头中通合作，属于国内动态中的重大商业动态。",
+      "tags": [
+        "收购",
+        "自动驾驶",
+        "物流"
+      ],
+      "url": "https://36kr.com/p/3830580716365449?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-29 16:28:31",
+      "impact_score": 245.0
+    },
+    {
+      "index": 8,
+      "title": "天津发布2025年度人工智能十大应用标杆场景，总投资超6亿元",
+      "summary": "5月30日消息，天津市发布2025年度人工智能十大应用标杆场景，涵盖科研、制造、医疗等9大领域，总投资额超6亿元，推动AI场景落地。",
+      "importance": "高",
+      "reason": "中国地方政府发布AI应用标杆场景，属于国内动态中的重大政策与法规。",
+      "tags": [
+        "政策",
+        "AI应用",
+        "天津"
+      ],
+      "url": "https://www.leiphone.com/category/ai/5q3DxRKzBzMEg7CQ.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-29 16:45:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 9,
+      "title": "BEYOND Expo 2026现场：联汇科技Om AI首发的OttoBox视频创作助理，把视频粗剪从8小时拉进30分钟",
+      "summary": "5月30日消息，联汇科技发布AI原生产品OttoBox视频创作助理，基于自研端侧多模态大模型，将视频粗剪时间从8小时缩短至30分钟。",
+      "importance": "中",
+      "reason": "中国科技公司发布AI视频创作产品，属于国内动态中的重大产品发布。",
+      "tags": [
+        "AI视频",
+        "产品发布",
+        "联汇科技"
+      ],
+      "url": "https://36kr.com/p/3830194503526277?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-05-29 09:57:52",
+      "impact_score": 236.0
+    },
+    {
+      "index": 10,
+      "title": "面壁智能「开源周」：一场定义端侧 AI 终局的系统性「亮剑」",
+      "summary": "5月30日消息，面壁智能开展“开源周”活动，系统性展示端侧AI技术成果，推动端侧AI生态发展。",
+      "importance": "中",
+      "reason": "中国AI公司面壁智能开源端侧AI技术，属于国内动态中的重大学术突破。",
+      "tags": [
+        "开源",
+        "端侧AI",
+        "面壁智能"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/fG2kyaKruqSDPwKA.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-29 08:13:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 11,
+      "title": "5亿Tokens白送！全球首个商用AI主机发布，终于能放开烧Token了",
+      "summary": "5月30日消息，中国公司发布全球首个商用AI主机，并赠送5亿Tokens，推动AI应用普及。",
+      "importance": "中",
+      "reason": "中国公司发布全球首个商用AI主机，属于国内动态中的重大产品发布。",
+      "tags": [
+        "AI主机",
+        "发布",
+        "商用"
+      ],
+      "url": "https://www.leiphone.com/category/chips/DAav04SREqHlYPhU.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-29 09:31:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 12,
+      "title": "创意设计版WorkBuddy来了！腾讯发布智能体创意工作室Miora",
+      "summary": "5月30日消息，腾讯发布智能体创意工作室Miora，旨在让个人用户拥有完整的创意工作室能力。",
+      "importance": "中",
+      "reason": "中国互联网巨头腾讯发布AI智能体产品，属于国内动态中的重大产品发布。",
+      "tags": [
+        "腾讯",
+        "智能体",
+        "发布"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/4qMrROFjt0wuLQMC.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-29 09:20:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 13,
+      "title": "ICRA 2026｜山西大学本科生一作：TacTip动态触觉流实现力估计与力跟踪",
+      "summary": "5月30日消息，山西大学本科生团队在触觉力估计方向的研究成果被ICRA 2026接收，提出基于TacTip的动态接触力估计方法。",
+      "importance": "中",
+      "reason": "中国高校本科生在顶级学术会议发表论文，属于国内动态中的重大学术突破。",
+      "tags": [
+        "学术突破",
+        "触觉",
+        "山西大学"
+      ],
+      "url": "https://www.leiphone.com/category/ai/DGsFC1G8m120jBZ6.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-05-29 08:19:00",
+      "impact_score": 200.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Anthropic Valuation of $965 Billion Passes OpenAI",
+      "summary": "5月30日消息，Anthropic完成650亿美元融资，估值达9650亿美元，首次超越竞争对手OpenAI的估值。",
+      "importance": "高",
+      "reason": "重大商业动态：Anthropic巨额融资估值超越OpenAI，标志AI行业竞争格局重大变化。",
+      "tags": [
+        "融资",
+        "估值",
+        "AI竞争"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-05-29/bloomberg-tech-5-29-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-29 17:29:06",
+      "impact_score": 352.5
+    },
+    {
+      "index": 2,
+      "title": "Anthropic Raises at $965 Billion Valuation, Eclipsing OpenAI",
+      "summary": "5月30日消息，Anthropic宣布完成650亿美元融资，估值达9650亿美元，由Altimeter Capital等领投，首次超越OpenAI。",
+      "importance": "高",
+      "reason": "重大商业动态：与上一条互为补充，确认融资细节。",
+      "tags": [
+        "融资",
+        "估值",
+        "AI竞争"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-05-29/spacex-said-to-lower-target-for-ipo-valuation-to-1-8t-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-29 17:23:17",
+      "impact_score": 270.0
+    },
+    {
+      "index": 3,
+      "title": "OpenAI Has Discussed Adding Citigroup, JPMorgan to Bank Lineup for IPO",
+      "summary": "5月30日消息，OpenAI已与花旗集团和摩根大通等银行讨论其即将进行的首次公开募股（IPO）事宜。",
+      "importance": "高",
+      "reason": "重大商业动态：OpenAI IPO筹备进展，涉及顶级投行，预示AI巨头上市步伐加快。",
+      "tags": [
+        "IPO",
+        "OpenAI",
+        "投行"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-05-29/anthropic-valuation-of-965-billion-passes-openai-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-29 17:26:32",
+      "impact_score": 255.0
+    },
+    {
+      "index": 4,
+      "title": "SpaceX Wins $4 Billion Contract for US Golden Dome Satellites",
+      "summary": "5月30日消息，SpaceX赢得价值超过40亿美元的合同，为美国“金穹”防御系统建造卫星以追踪外国飞机和导弹。",
+      "importance": "高",
+      "reason": "重大政策与法规：SpaceX获得美国政府巨额国防合同，涉及AI与国家安全。",
+      "tags": [
+        "国防合同",
+        "SpaceX",
+        "卫星"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-05-29/autodesk-ceo-maintainx-deal-brings-exciting-opportunity-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-29 14:24:40",
+      "impact_score": 255.0
+    },
+    {
+      "index": 5,
+      "title": "Not using AI in public services would mean ‘choosing decline’, UK minister warns",
+      "summary": "5月30日消息，英国新任财政部首席秘书Lucy Rigby警告称，不在公共服务中使用AI将意味着“选择衰退”，并计划在政府部门推广该技术。",
+      "importance": "中",
+      "reason": "重大政策与法规：英国政府高层表态推动AI在公共服务应用，具有政策导向意义。",
+      "tags": [
+        "英国",
+        "政策",
+        "公共服务"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-05-29/spacex-lowers-ipo-valuation-target-to-at-least-1-8-trillion",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-29 01:22:04",
+      "impact_score": 255.0
+    },
+    {
+      "index": 6,
+      "title": "Social Media Giants to Pay $27 Million in School Suit Accord",
+      "summary": "5月30日消息，多家社交媒体巨头同意支付约2700万美元，和解肯塔基州一学区指控其产品导致青少年心理健康危机的诉讼。",
+      "importance": "中",
+      "reason": "安全与伦理：社交媒体平台因AI算法导致青少年成瘾问题达成和解，涉及AI伦理。",
+      "tags": [
+        "诉讼",
+        "青少年",
+        "心理健康"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-05-29/anthropic-raises-at-965b-valuation-eclipsing-openai-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-29 16:58:11",
+      "impact_score": 240.0
+    },
+    {
+      "index": 7,
+      "title": "Danish Pension Blacklists SpaceX Over ‘Catastrophic Governance’",
+      "summary": "5月30日消息，一家250亿美元的丹麦养老基金因“灾难性治理”问题将SpaceX列入黑名单，拒绝投资该公司。",
+      "importance": "中",
+      "reason": "安全与伦理：ESG因素影响AI公司投资，反映治理风险。",
+      "tags": [
+        "ESG",
+        "治理",
+        "SpaceX"
+      ],
+      "url": "https://www.theinformation.com/articles/base-power-talks-raise-funds-12-billion-valuation",
+      "source": "The Information",
+      "original_pub_date": "2026-05-29 01:39:36",
+      "impact_score": 210.0
+    },
+    {
+      "index": 8,
+      "title": "Open-source security is a mess - IBM and Red Hat bet $5 billion and 20,000 engineers can fix it",
+      "summary": "5月30日消息，IBM和Red Hat启动Project Lightwell，投入50亿美元和2万名工程师，利用AI大规模修复开源软件漏洞。",
+      "importance": "中",
+      "reason": "重大商业动态：IBM和Red Hat巨额投资AI驱动的开源安全项目。",
+      "tags": [
+        "开源安全",
+        "IBM",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-05-29/ex-shield-ai-worker-sues-over-profane-egregious-acts-by-senior-official",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-29 19:44:44",
+      "impact_score": 185.0
+    },
+    {
+      "index": 9,
+      "title": "Nvidia is investing billions into this emerging technology that could change the AI industry",
+      "summary": "5月30日消息，英伟达正投资数十亿美元于光子学技术，该技术被视为更高效的数据传输方案，可能改变AI行业。",
+      "importance": "中",
+      "reason": "重大商业动态：英伟达布局下一代AI基础设施技术。",
+      "tags": [
+        "英伟达",
+        "光子学",
+        "投资"
+      ],
+      "url": "https://www.ft.com/content/9f6d371d-8d70-4179-9429-7391e970a2b6",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-05-29 04:00:29",
+      "impact_score": 180.0
+    },
+    {
+      "index": 10,
+      "title": "Ex-Shield AI Worker Sues Over ‘Profane, Egregious’ Acts by Senior Official",
+      "summary": "5月30日消息，一名前Shield AI员工起诉该公司高级官员，指控其存在“粗俗、恶劣”的性骚扰行为及欺诈和安全问题。",
+      "importance": "低",
+      "reason": "安全与伦理：AI公司内部治理丑闻，涉及法律诉讼。",
+      "tags": [
+        "诉讼",
+        "性骚扰",
+        "治理"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-05-29/social-media-giants-to-pay-27-million-to-settle-school-lawsuit",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-29 23:52:02",
+      "impact_score": 165.0
+    },
+    {
+      "index": 11,
+      "title": "Does your CEO have AI psychosis? Aaron Levie thinks most of them do.",
+      "summary": "5月30日消息，Box创始人Aaron Levie批评许多CEO患有“AI精神病”，在不理解工作内容的情况下用AI替代员工，导致裁员。",
+      "importance": "低",
+      "reason": "安全与伦理：行业领袖对AI替代劳动力的反思，具有警示意义。",
+      "tags": [
+        "AI替代",
+        "CEO",
+        "伦理"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-05-29/danish-pension-fund-blacklists-spacex-citing-governance-issues",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-29 12:12:41",
+      "impact_score": 165.0
+    },
+    {
+      "index": 12,
+      "title": "Markets Are Betting Big on AI. This Harvard Professor Isn’t So Sure",
+      "summary": "5月30日消息，哈佛教授Gita Gopinath对市场对AI的巨额押注表示怀疑，认为投资者可能高估了AI增长前景。",
+      "importance": "低",
+      "reason": "重大商业动态：知名学者对AI投资热潮的审慎观点，影响市场情绪。",
+      "tags": [
+        "AI泡沫",
+        "投资",
+        "学者观点"
+      ],
+      "url": "https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-05-29 14:00:00",
+      "impact_score": 158.0
+    },
+    {
+      "index": 13,
+      "title": "Drone start-up Stark set for €2.5bn valuation in new fundraising",
+      "summary": "5月30日消息，德国无人机初创公司Stark计划在新一轮融资中寻求至少3亿欧元，估值达25亿欧元。",
+      "importance": "低",
+      "reason": "重大商业动态：欧洲AI无人机公司高估值融资。",
+      "tags": [
+        "融资",
+        "无人机",
+        "德国"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-05-29/markets-are-betting-big-on-ai-this-harvard-professor-isn-t-so-sure",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-29 14:23:51",
+      "impact_score": 157.5
+    },
+    {
+      "index": 14,
+      "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+      "summary": "5月30日消息，教皇方济各发布关于人工智能的通谕《Magnifica Humanitas》，强调“技术从不中立”，呼吁人类勇敢应对AI时代。",
+      "importance": "低",
+      "reason": "安全与伦理：宗教领袖对AI伦理的权威发声，具有全球影响力。",
+      "tags": [
+        "AI伦理",
+        "教皇",
+        "通谕"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-05-29/openai-has-discussed-adding-citigroup-jpmorgan-to-bank-lineup-for-ipo",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-29 19:28:59",
+      "impact_score": 127.5
+    }
+  ],
+  "summary": "今日从132条原始信息中精选出13条国内动态和14条国际动态，其中8条为高重要性。 重点关注：千里科技再添筹码，或将整合吉利辅助驾驶团队｜36氪独家；思格新能源发布行业首个全域AI智能体，能源管理进入智能体时代；全球首发 | SLAI基于国产算力集群完成DeepSeek-V4-Pro全参数后训练。",
+  "statistics": {
+    "raw_domestic": 49,
+    "raw_international": 83,
+    "raw_total": 132,
+    "final_domestic": 13,
+    "final_international": 14
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "5月30日消息，吉利中央研究院辅助驾驶团队将被整合入千里科技，以增强其智驾研发能力，助力千里科技成为“第二个华为”。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "5月30日消息，思格新能源发布能源行业首个全域AI智能体SigenAgent，并联合弗若斯特沙利文发布《2026 AI+新能源白皮书》，提出能源智能化五级分级体系。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "5月30日消息，深圳河套学院AI训练平台团队联合多家机构，基于昇腾910C国产算力集群完成DeepSeek-V4-Pro全参数后训练，实现国产算力大模型训练突破。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "5月30日消息，天津市发布2025年度人工智能十大应用标杆场景，涵盖科研、制造、医疗等9大领域，总投资额超6亿元，推动AI场景落地。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "5月30日消息，OPPO发布Reno16系列潮流手机及多款新品，以AI智慧体验和跨设备生态协同为核心，重新定义年轻人的移动智能生态。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "5月30日消息，Anthropic完成650亿美元融资，估值达9650亿美元，首次超越竞争对手OpenAI的估值。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "5月30日消息，Anthropic宣布完成650亿美元融资，估值达9650亿美元，由Altimeter Capital等领投，首次超越OpenAI。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "5月30日消息，OpenAI已与花旗集团和摩根大通等银行讨论其即将进行的首次公开募股（IPO）事宜。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "5月30日消息，SpaceX赢得价值超过40亿美元的合同，为美国“金穹”防御系统建造卫星以追踪外国飞机和导弹。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "5月30日消息，英国新任财政部首席秘书Lucy Rigby警告称，不在公共服务中使用AI将意味着“选择衰退”，并计划在政府部门推广该技术。",
+      "importance": "中"
+    }
+  ]
+}
