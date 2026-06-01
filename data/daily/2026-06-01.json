@@ -1,0 +1,645 @@
+{
+  "date": "2026-06-01",
+  "generated_at": "2026-06-01 13:41:58",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "「AromeManpo馥郁满铺」完成近亿元B轮融资，今年线下门店将突破10家",
+      "summary": "6月1日消息，芳香馥愈情绪护肤品牌「AromeManpo馥郁满铺」完成近亿元B轮融资，投资方为颖通控股，今年线下门店将突破10家。",
+      "importance": "中",
+      "reason": "中国公司融资事件，属于国内商业动态",
+      "tags": [
+        "融资",
+        "商业动态"
+      ],
+      "url": "https://36kr.com/p/3832924137138057?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-01 08:06:01",
+      "impact_score": 307.5
+    },
+    {
+      "index": 2,
+      "title": "硬氪观察 | 苹果代工厂开造人形机器人，一场豪赌未来的产能大迁移",
+      "summary": "6月1日消息，龙旗科技在南昌工厂部署智元精灵G2人形机器人，用于平板产线上下料作业，单台机器人每小时可稳定处理约310台设备，整体成功率超99.5%。",
+      "importance": "中",
+      "reason": "中国公司龙旗科技在机器人领域的应用，属于国内产业动态",
+      "tags": [
+        "机器人",
+        "智能制造",
+        "国内动态"
+      ],
+      "url": "https://36kr.com/p/3833985105782402?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-01 02:12:48",
+      "impact_score": 307.5
+    },
+    {
+      "index": 3,
+      "title": "VAST 斩获近2亿美元A轮系列融资，同步推出世界模型，顶级财投和产业资本鼎力入局",
+      "summary": "6月1日消息，通用人工智能公司VAST完成近2亿美元A+及A++轮融资，并推出世界模型项目Project Eden，投资方包括渶策资本、国寿长三角科创基金等。",
+      "importance": "高",
+      "reason": "中国AI公司大额融资及重大产品发布，属于国内重大商业动态和产品发布",
+      "tags": [
+        "融资",
+        "世界模型",
+        "AI",
+        "国内动态"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/cd9pn4fdlQ4qhMzP.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-01 09:24:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 4,
+      "title": "氪星晚报｜中国国新等在杭州成立创业投资基金，出资额10.01亿；天津人工智能传感器产业园正式开园，首批10家企业集中签约；浙江：拟实施“星火计划”培育未来产业行动，加速量子技术产品规模化应用",
+      "summary": "6月1日消息，中国国新等在杭州成立出资额10.01亿元的创业投资基金；天津人工智能传感器产业园正式开园，首批10家企业签约；浙江拟实施“星火计划”培育未来产业，加速量子技术产品规模化应用。",
+      "importance": "高",
+      "reason": "中国政府和机构在AI和未来产业方面的重大政策与投资，属于国内重大政策动态",
+      "tags": [
+        "政策",
+        "投资",
+        "AI",
+        "量子技术",
+        "国内动态"
+      ],
+      "url": "https://36kr.com/p/3834354415347337?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-01 10:56:21",
+      "impact_score": 279.0
+    },
+    {
+      "index": 5,
+      "title": "量坤科技获数亿元天使轮融资，AI4S急需量子级精度数据 | 36氪独家",
+      "summary": "6月1日消息，量子计算公司量坤科技完成数亿元天使轮及天使+轮融资，由英诺天使基金领投，资金将用于AI for Science领域量子级精度数据研发。",
+      "importance": "中",
+      "reason": "中国量子计算公司融资，属于国内商业动态",
+      "tags": [
+        "融资",
+        "量子计算",
+        "AI4S",
+        "国内动态"
+      ],
+      "url": "https://36kr.com/p/3826034537223043?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-01 11:06:39",
+      "impact_score": 245.0
+    },
+    {
+      "index": 6,
+      "title": "硬氪首发 | 获近2亿元融资，这家公司用无损Micro-LED加速AI眼镜全彩化进程",
+      "summary": "6月1日消息，Micro-LED显示技术公司秋水半导体完成近2亿元Pre-A及A轮融资，由朝晖资本领投，资金将用于建设8英寸混合键合量产线及研发。",
+      "importance": "中",
+      "reason": "中国半导体公司融资，属于国内商业动态",
+      "tags": [
+        "融资",
+        "Micro-LED",
+        "AI眼镜",
+        "国内动态"
+      ],
+      "url": "https://36kr.com/p/3834427736024965?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-01 09:42:20",
+      "impact_score": 245.0
+    },
+    {
+      "index": 7,
+      "title": "速卖通为品牌出海搭建百大网红直播矩阵，618正式开播",
+      "summary": "6月1日消息，阿里旗下速卖通在618期间启动大规模直播带货，组建百大海外网红矩阵，为超60个中国品牌进行100多场直播，覆盖全球14个国家。",
+      "importance": "中",
+      "reason": "中国电商平台AI相关营销活动，属于国内商业动态",
+      "tags": [
+        "直播",
+        "电商",
+        "AI",
+        "国内动态"
+      ],
+      "url": "https://36kr.com/p/3834276149356420?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-01 10:26:33",
+      "impact_score": 225.0
+    },
+    {
+      "index": 8,
+      "title": "豆包6月下旬正式付费，并加速打通抖音电商丨独家",
+      "summary": "6月1日消息，字节跳动旗下AI助手豆包预计6月下旬正式上线付费内容，并加速打通抖音电商，推出基础版、标准版等四档收费标准。",
+      "importance": "高",
+      "reason": "中国头部AI产品商业化重要进展，属于国内重大产品发布和商业动态",
+      "tags": [
+        "AI",
+        "付费",
+        "字节跳动",
+        "国内动态"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/qXwM8BMsMTmxDk9c.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-01 09:43:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 9,
+      "title": "连续完成五源、峰瑞两轮数千万元融资，清华00后团队要解决Token账单焦虑｜智能涌现首发",
+      "summary": "6月1日消息，清华00后团队创立的万格智元连续完成五源资本、峰瑞资本参投的数千万元天使轮及天使+轮融资，用于解决AI Agent Token账单焦虑。",
+      "importance": "中",
+      "reason": "中国AI初创公司融资，属于国内商业动态",
+      "tags": [
+        "融资",
+        "AI Agent",
+        "清华",
+        "国内动态"
+      ],
+      "url": "https://36kr.com/newsflashes/3834586508915080?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-01 12:23:06",
+      "impact_score": 160.0
+    },
+    {
+      "index": 10,
+      "title": "美团电话会：“小美”与腾讯“元宝”的合作将于近期上线",
+      "summary": "6月1日消息，美团AI助手“小美”与腾讯元宝的合作将于近期上线，用户可在元宝中通过小美调用外卖等本地生活服务。",
+      "importance": "中",
+      "reason": "中国两大科技公司AI合作，属于国内商业动态",
+      "tags": [
+        "合作",
+        "AI",
+        "美团",
+        "腾讯",
+        "国内动态"
+      ],
+      "url": "https://36kr.com/p/3834544830721671?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-01 11:44:01",
+      "impact_score": 152.0
+    },
+    {
+      "index": 11,
+      "title": "牧原与阿里云达成AI战略合作 联合打造AI助手将猪群健康检测提效超百倍",
+      "summary": "6月1日消息，牧原集团与阿里云达成AI战略合作，基于千问大模型打造智能养猪大模型，AI应用“小牧助手”将猪群健康检测效率提升超百倍。",
+      "importance": "高",
+      "reason": "中国头部企业与科技公司AI战略合作，属于国内重大商业动态",
+      "tags": [
+        "合作",
+        "AI",
+        "农业",
+        "阿里云",
+        "国内动态"
+      ],
+      "url": "https://36kr.com/p/3834310434875011?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-01 07:49:38",
+      "impact_score": 147.5
+    },
+    {
+      "index": 12,
+      "title": "上海：发展壮大一批新兴支柱产业，超前布局未来产业",
+      "summary": "6月1日消息，上海市政府常务会议原则同意《上海市加快推进新型工业化 构建现代化产业体系“十五五”规划》，提出发展壮大新兴支柱产业，超前布局未来产业。",
+      "importance": "高",
+      "reason": "中国地方政府重大产业政策，属于国内重大政策动态",
+      "tags": [
+        "政策",
+        "产业规划",
+        "上海",
+        "国内动态"
+      ],
+      "url": "https://36kr.com/newsflashes/3834584241287552?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-01 12:20:48",
+      "impact_score": 147.0
+    },
+    {
+      "index": 13,
+      "title": "“无界进化”完成数千万元天使轮融资",
+      "summary": "6月1日消息，晶泰科技深度孵化的AI生物企业“无界进化”完成数千万元天使轮融资，由顺为资本、红杉中国与松禾资本共同参与。",
+      "importance": "中",
+      "reason": "中国AI生物公司融资，属于国内商业动态",
+      "tags": [
+        "融资",
+        "AI",
+        "生物",
+        "国内动态"
+      ],
+      "url": "https://36kr.com/newsflashes/3834573955821705?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-01 12:10:20",
+      "impact_score": 145.0
+    },
+    {
+      "index": 14,
+      "title": "ICRA 2026高校论文榜重磅出炉： 清华74篇断层领跑，中国高校席卷半壁江山",
+      "summary": "6月1日消息，ICRA 2026论文接收数据显示，中国高校在Top 20中占据11席，清华大学以74篇论文断层领跑，全球机器人学术权力中心东移。",
+      "importance": "中",
+      "reason": "中国高校在机器人领域学术突破，属于国内学术动态",
+      "tags": [
+        "学术",
+        "机器人",
+        "ICRA",
+        "国内动态"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/XeZ2kvzh5LO5yiMz.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-01 08:43:00",
+      "impact_score": 140.0
+    },
+    {
+      "index": 15,
+      "title": "扣子 3.0 正式上线，开启Agent 团队协作新方式",
+      "summary": "6月1日消息，字节跳动旗下扣子3.0正式上线，支持Agent团队协作新架构，可在手机、电脑、网页三端创建、接入和调度Agent，深入生产现场。",
+      "importance": "中",
+      "reason": "中国科技公司AI产品重大更新，属于国内产品发布",
+      "tags": [
+        "AI",
+        "Agent",
+        "字节跳动",
+        "国内动态"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/a1O4dfBTREuQ2uLq.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-01 09:32:00",
+      "impact_score": 135.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Valve, the Anticorporate Hero of the Games Industry, Has Its Antitrust Moment",
+      "summary": "6月1日消息，Valve公司因Steam平台涉嫌滥用市场支配地位，在美国和英国面临反垄断诉讼，Valve对此表示异议。",
+      "importance": "高",
+      "reason": "重大政策与法规：反垄断诉讼，影响游戏行业和数字平台监管。",
+      "tags": [
+        "反垄断",
+        "诉讼",
+        "游戏平台"
+      ],
+      "url": "https://www.bloomberg.com/news/features/2026-06-01/valve-s-antitrust-reckoning-over-steam-has-echoes-of-apple-google-app-store-sui",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-01 09:00:04",
+      "impact_score": 300.0
+    },
+    {
+      "index": 2,
+      "title": "Nvidia to Debut New Chip for Laptops, Desktop Computers",
+      "summary": "6月1日消息，英伟达CEO黄仁勋在台北电脑展上宣布，将推出RTX Spark超级芯片，用于戴尔、联想等品牌的笔记本电脑和台式机，今年秋季上市。",
+      "importance": "高",
+      "reason": "重大产品发布：英伟达进军PC芯片市场，挑战英特尔和AMD。",
+      "tags": [
+        "英伟达",
+        "芯片",
+        "PC"
+      ],
+      "url": "https://www.theinformation.com/briefings/chinas-minimax-launches-new-model-open-source-ai-coding-battle-heats",
+      "source": "The Information",
+      "original_pub_date": "2026-06-01 08:10:53",
+      "impact_score": 249.0
+    },
+    {
+      "index": 3,
+      "title": "Nvidia Unveils New Chip for PCs",
+      "summary": "6月1日消息，英伟达与微软联合发布新款PC芯片N1X，将用于今年秋季上市的Windows电脑，标志着英伟达正式进入长期由英特尔、AMD和苹果主导的PC芯片市场。",
+      "importance": "高",
+      "reason": "重大产品发布：英伟达PC芯片战略合作微软，影响PC产业格局。",
+      "tags": [
+        "英伟达",
+        "芯片",
+        "微软"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/honeywell-backed-quantinuum-boosts-ipo-target-to-1-46-billion",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-01 12:47:23",
+      "impact_score": 240.0
+    },
+    {
+      "index": 4,
+      "title": "Nvidia unveils PC ‘superchip’ in challenge to Apple and Intel",
+      "summary": "6月1日消息，英伟达发布PC超级芯片，与微软Windows系统配合，使电脑能够运行AI应用，直接挑战苹果和英特尔的市场地位。",
+      "importance": "高",
+      "reason": "重大产品发布：AI PC芯片，推动AI应用普及。",
+      "tags": [
+        "英伟达",
+        "AI芯片",
+        "PC"
+      ],
+      "url": "https://arxiv.org/abs/2605.31031",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-01 04:00:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 5,
+      "title": "Nvidia jumps into PCs with new Arm-based chip debuting in laptops from Microsoft, Dell, HP",
+      "summary": "6月1日消息，英伟达CEO黄仁勋发布基于Arm架构的PC芯片，首次进入PC市场，将搭载于戴尔、微软、惠普、华硕等品牌的笔记本电脑中。",
+      "importance": "高",
+      "reason": "重大产品发布：Arm架构PC芯片，标志英伟达全面进军PC领域。",
+      "tags": [
+        "英伟达",
+        "Arm芯片",
+        "PC"
+      ],
+      "url": "https://arxiv.org/abs/2605.30900",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-01 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 6,
+      "title": "Honeywell-Backed Quantinuum Boosts IPO Target to $1.46 Billion",
+      "summary": "6月1日消息，霍尼韦尔支持的量子计算公司Quantinuum将IPO规模提高至14.6亿美元，增加了发行股票数量和价格区间。",
+      "importance": "高",
+      "reason": "重大商业动态：量子计算公司大额IPO，反映AI和量子计算投资热度。",
+      "tags": [
+        "量子计算",
+        "IPO",
+        "融资"
+      ],
+      "url": "https://www.bloomberg.com/news/newsletters/2026-06-01/lawsuit-claims-about-valve-tactics-clash-with-view-of-newell-as-benevolent-gamer",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-01 11:02:01",
+      "impact_score": 180.0
+    },
+    {
+      "index": 7,
+      "title": "Intel Puts Agentic AI to Work with Xeon 6+, Networking, and AI Systems",
+      "summary": "6月1日消息，英特尔发布Xeon 6+处理器和800系列以太网控制器，旨在提升数据中心工作负载的AI性能和网络效率，推动代理式AI应用。",
+      "importance": "中",
+      "reason": "重大产品发布：英特尔AI硬件更新，影响数据中心和AI基础设施。",
+      "tags": [
+        "英特尔",
+        "处理器",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-06-01/nvidia-to-debut-new-chip-for-laptops-desktop-computers-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-01 08:47:20",
+      "impact_score": 180.0
+    },
+    {
+      "index": 8,
+      "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+      "summary": "6月1日消息，英伟达发布Cosmos 3开源全模态模型，专为物理AI推理和行动设计，推动机器人及自动驾驶等领域的AI能力。",
+      "importance": "中",
+      "reason": "重大产品发布：开源物理AI模型，促进学术和产业应用。",
+      "tags": [
+        "英伟达",
+        "开源模型",
+        "物理AI"
+      ],
+      "url": "https://www.theinformation.com/briefings/nvidia-unveils-new-chip-pcs",
+      "source": "The Information",
+      "original_pub_date": "2026-06-01 07:37:49",
+      "impact_score": 173.0
+    },
+    {
+      "index": 9,
+      "title": "GraphARC: A Comprehensive Benchmark for Graph-Based Abstract Reasoning",
+      "summary": "6月1日消息，研究人员推出GraphARC基准，用于评估图结构数据上的抽象推理能力，填补了现有基准仅限网格或文本格式的空白。",
+      "importance": "中",
+      "reason": "重大学术突破：新基准推动AI推理能力评估。",
+      "tags": [
+        "基准测试",
+        "推理",
+        "图数据"
+      ],
+      "url": "https://www.ft.com/content/58f984fd-d90b-4e8e-95b0-987a97c4a522",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-06-01 04:49:04",
+      "impact_score": 150.0
+    },
+    {
+      "index": 10,
+      "title": "BilliardPhys-Bench: Benchmarking Physical Reasoning and Visual Dynamics of Multimodal LLMs",
+      "summary": "6月1日消息，研究人员发布BilliardPhys-Bench基准，测试多模态大模型在物理推理和视觉动力学方面的能力，揭示当前模型在物体运动预测上的不足。",
+      "importance": "中",
+      "reason": "重大学术突破：新基准暴露多模态模型物理推理短板。",
+      "tags": [
+        "基准测试",
+        "物理推理",
+        "多模态"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/african-startup-spiro-raises-215-million-nearing-unicorn-value",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-01 12:30:30",
+      "impact_score": 142.5
+    },
+    {
+      "index": 11,
+      "title": "Distilling LLM Feedback for Lean Theorem Proving",
+      "summary": "6月1日消息，研究人员提出一种蒸馏大模型反馈的方法，用于改进定理证明中的强化学习，解决稀疏奖励和探索不足等问题。",
+      "importance": "中",
+      "reason": "重大学术突破：提升AI在数学推理领域的性能。",
+      "tags": [
+        "大模型",
+        "定理证明",
+        "强化学习"
+      ],
+      "url": "https://arxiv.org/abs/2605.30861",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-01 04:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 12,
+      "title": "UniScale: Adaptive Unified Inference Scaling via Online Joint Optimization of Model Routing and Test-Time Scaling",
+      "summary": "6月1日消息，研究人员提出UniScale框架，通过在线联合优化模型路由和测试时缩放，平衡大模型推理质量与计算成本。",
+      "importance": "中",
+      "reason": "重大学术突破：提升大模型部署效率。",
+      "tags": [
+        "大模型",
+        "推理优化",
+        "效率"
+      ],
+      "url": "https://arxiv.org/abs/2605.30898",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-01 04:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 13,
+      "title": "Industrializing Prediction-Powered Inference: The GLIDE Library for Reliable GenAI and Agentic Systems Evaluation",
+      "summary": "6月1日消息，研究人员发布GLIDE库，利用预测驱动推理方法，结合人工标注和大模型评估，为生成式AI和代理系统提供可靠评估。",
+      "importance": "中",
+      "reason": "重大学术突破：改进AI系统评估方法。",
+      "tags": [
+        "评估",
+        "生成式AI",
+        "代理系统"
+      ],
+      "url": "https://arxiv.org/abs/2605.31278",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-01 04:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 14,
+      "title": "LLM-FACETS: A Privacy-Preserving Framework for Evaluating LLM Transparency and Accountability",
+      "summary": "6月1日消息，研究人员提出LLM-FACETS框架，在保护隐私的前提下评估大模型的透明度和问责性，推动负责任的AI部署。",
+      "importance": "中",
+      "reason": "安全与伦理：隐私保护与AI问责框架。",
+      "tags": [
+        "隐私",
+        "透明度",
+        "问责"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/kakao-union-calls-for-strike-next-week-after-wage-talks-stall",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-01 08:25:19",
+      "impact_score": 127.5
+    },
+    {
+      "index": 15,
+      "title": "COMPASS: Cognitive MCTS-Guided Process Alignment for Safe Search Agents",
+      "summary": "6月1日消息，研究人员提出COMPASS框架，利用认知蒙特卡洛树搜索引导过程对齐，防止AI搜索代理因分解有害意图而导致不安全结果。",
+      "importance": "中",
+      "reason": "安全与伦理：提升AI搜索代理的安全性。",
+      "tags": [
+        "AI安全",
+        "搜索代理",
+        "对齐"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-05-31/tsmc-s-local-investors-narrow-valuation-gap-with-wall-street",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-05-31 23:53:02",
+      "impact_score": 127.5
+    },
+    {
+      "index": 16,
+      "title": "A Persona-Based Evaluation Framework for Pluralistic Alignment in Generative AI",
+      "summary": "6月1日消息，研究人员提出基于角色的评估框架，用于生成式AI的多元对齐，避免单一基准掩盖文化、人口和语境差异。",
+      "importance": "中",
+      "reason": "安全与伦理：促进AI对齐的多样性和公平性。",
+      "tags": [
+        "对齐",
+        "多样性",
+        "评估"
+      ],
+      "url": "https://www.cnbc.com/2026/05/31/nvidias-new-chip-to-power-fresh-line-of-windows-laptops-by-dell-hp.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-06-01 06:01:37",
+      "impact_score": 125.0
+    },
+    {
+      "index": 17,
+      "title": "Kakao Union Calls for Strike Next Week After Wage Talks Stall",
+      "summary": "6月1日消息，韩国最大即时通讯服务商Kakao的工会因薪资谈判破裂，呼吁下周举行四小时罢工，劳资纠纷升级。",
+      "importance": "低",
+      "reason": "重大商业动态：韩国科技公司劳资纠纷，影响运营稳定性。",
+      "tags": [
+        "Kakao",
+        "罢工",
+        "劳资纠纷"
+      ],
+      "url": "https://arxiv.org/abs/2605.31167",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-01 04:00:00",
+      "impact_score": 120.0
+    },
+    {
+      "index": 18,
+      "title": "TSMC’s Local Investors Narrow Valuation Gap With Wall Street",
+      "summary": "6月1日消息，台积电本地投资者在台北大量买入股票，推动其美股溢价降至两年低点，显示AI热潮下本地市场信心增强。",
+      "importance": "低",
+      "reason": "重大商业动态：台积电估值变化反映AI投资趋势。",
+      "tags": [
+        "台积电",
+        "估值",
+        "AI"
+      ],
+      "url": "https://arxiv.org/abs/2605.30512",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-01 04:00:00",
+      "impact_score": 115.0
+    },
+    {
+      "index": 19,
+      "title": "African Startup Spiro Raises $215 Million, Nearing Unicorn Value",
+      "summary": "6月1日消息，非洲电动出行初创公司Siro获得2.15亿美元融资，估值接近10亿美元，投资者包括欧洲和非洲资本。",
+      "importance": "低",
+      "reason": "重大商业动态：非洲AI相关初创公司大额融资。",
+      "tags": [
+        "融资",
+        "电动出行",
+        "非洲"
+      ],
+      "url": "https://arxiv.org/abs/2605.30838",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-01 04:00:00",
+      "impact_score": 115.0
+    },
+    {
+      "index": 20,
+      "title": "How Turkey Hacked the Hair Transplant Industry",
+      "summary": "6月1日消息，土耳其利用机器学习算法和专用电机创新植发技术，打造价值数十亿美元的植发产业。",
+      "importance": "低",
+      "reason": "重大商业动态：AI技术应用于医疗美容产业创新。",
+      "tags": [
+        "机器学习",
+        "医疗",
+        "创新"
+      ],
+      "url": "https://arxiv.org/abs/2605.31254",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-01 04:00:00",
+      "impact_score": 115.0
+    }
+  ],
+  "summary": "今日从144条原始信息中精选出15条国内动态和20条国际动态，其中11条为高重要性。 重点关注：VAST 斩获近2亿美元A轮系列融资，同步推出世界模型，顶级财投和产业资本鼎力入局；氪星晚报｜中国国新等在杭州成立创业投资基金，出资额10.01亿；天津人工智能传感器产业园正式开园，首批10家企业集中签约；浙江：拟实施“星火计划”培育未来产业行动，加速量子技术产品规模化应用；豆包6月下旬正式付费，并加速打通抖音电商丨独家。",
+  "statistics": {
+    "raw_domestic": 38,
+    "raw_international": 106,
+    "raw_total": 144,
+    "final_domestic": 15,
+    "final_international": 20
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "6月1日消息，通用人工智能公司VAST完成近2亿美元A+及A++轮融资，并推出世界模型项目Project Eden，投资方包括渶策资本、国寿长三角科创基金等。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "6月1日消息，中国国新等在杭州成立出资额10.01亿元的创业投资基金；天津人工智能传感器产业园正式开园，首批10家企业签约；浙江拟实施“星火计划”培育未来产业，加速量子技术产品规模化应用。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "6月1日消息，字节跳动旗下AI助手豆包预计6月下旬正式上线付费内容，并加速打通抖音电商，推出基础版、标准版等四档收费标准。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "6月1日消息，牧原集团与阿里云达成AI战略合作，基于千问大模型打造智能养猪大模型，AI应用“小牧助手”将猪群健康检测效率提升超百倍。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "6月1日消息，上海市政府常务会议原则同意《上海市加快推进新型工业化 构建现代化产业体系“十五五”规划》，提出发展壮大新兴支柱产业，超前布局未来产业。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "6月1日消息，Valve公司因Steam平台涉嫌滥用市场支配地位，在美国和英国面临反垄断诉讼，Valve对此表示异议。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "6月1日消息，英伟达CEO黄仁勋在台北电脑展上宣布，将推出RTX Spark超级芯片，用于戴尔、联想等品牌的笔记本电脑和台式机，今年秋季上市。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "6月1日消息，英伟达与微软联合发布新款PC芯片N1X，将用于今年秋季上市的Windows电脑，标志着英伟达正式进入长期由英特尔、AMD和苹果主导的PC芯片市场。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "6月1日消息，英伟达发布PC超级芯片，与微软Windows系统配合，使电脑能够运行AI应用，直接挑战苹果和英特尔的市场地位。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "6月1日消息，英伟达CEO黄仁勋发布基于Arm架构的PC芯片，首次进入PC市场，将搭载于戴尔、微软、惠普、华硕等品牌的笔记本电脑中。",
+      "importance": "高"
+    }
+  ]
+}
