@@ -1,0 +1,468 @@
+{
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02 12:09:08",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "首轮融资数千万美元、估值2.5亿美元，「Aippy」正在打造下一代AI游戏社区 | 36氪首发",
+      "summary": "6月2日消息，AI游戏社区Aippy完成数千万美元首轮融资，由歌未资本投资，投后估值2.5亿美元，资金将用于人才引进和欧美市场增长。",
+      "importance": "高",
+      "reason": "中国公司Aippy获得大额融资，估值高，属于重大商业动态。",
+      "tags": [
+        "融资",
+        "AI游戏",
+        "国内"
+      ],
+      "url": "https://36kr.com/p/3834400181741440?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-02 00:00:06",
+      "impact_score": 470.0
+    },
+    {
+      "index": 2,
+      "title": "8点1氪丨豆包将在6月下旬正式付费 ；韩国SK海力士工厂发生火灾；宇树科技IPO过会，王兴兴身家或超140亿",
+      "summary": "6月2日消息，字节跳动旗下AI产品豆包预计6月下旬正式上线付费订阅服务，并加速打通抖音电商，推进商业化落地。",
+      "importance": "高",
+      "reason": "中国公司字节跳动旗下豆包商业化进展，属于重大产品发布和商业动态。",
+      "tags": [
+        "豆包",
+        "付费",
+        "商业化",
+        "国内"
+      ],
+      "url": "https://36kr.com/p/3800191597583621?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-02 03:34:38",
+      "impact_score": 327.5
+    },
+    {
+      "index": 3,
+      "title": "百度文心发布 PaddleOCR-VL-1.6：准确率突破 96.33%，刷新文档解析 SOTA",
+      "summary": "6月2日消息，百度文心发布PaddleOCR-VL-1.6，文档解析准确率突破96.33%，刷新SOTA，已上线官网支持网页端和API调用。",
+      "importance": "高",
+      "reason": "中国公司百度发布重要AI模型，取得技术突破，属于重大学术突破。",
+      "tags": [
+        "百度",
+        "文心",
+        "SOTA",
+        "国内"
+      ],
+      "url": "https://36kr.com/p/3834292242130825?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-02 01:57:17",
+      "impact_score": 322.5
+    },
+    {
+      "index": 4,
+      "title": "从「只够发一个月工资」到营收5亿，零一汽车做对了什么？",
+      "summary": "6月2日消息，自动驾驶卡车公司零一汽车递交港股招股书，2025年营收5.22亿元，同比增长320.8%，交付新能源智能重卡1176辆。",
+      "importance": "高",
+      "reason": "中国公司零一汽车营收大幅增长并递交招股书，属于重大商业动态。",
+      "tags": [
+        "零一汽车",
+        "IPO",
+        "自动驾驶",
+        "国内"
+      ],
+      "url": "https://36kr.com/p/3835278829008257?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-02 00:12:57",
+      "impact_score": 322.5
+    },
+    {
+      "index": 5,
+      "title": "独家｜前小米崔宝秋低调创业，揭开家庭机器人的最优解",
+      "summary": "6月2日消息，前小米集团技术委员会主席崔宝秋创办家庭具身机器人公司若伴科技，并迅速获得英诺天使基金、创新工场等多家机构种子轮融资。",
+      "importance": "高",
+      "reason": "前小米高管创业，获得多家知名机构投资，属于重大商业动态。",
+      "tags": [
+        "崔宝秋",
+        "家庭机器人",
+        "融资",
+        "国内"
+      ],
+      "url": "https://www.qbitai.com/2026/06/427754.html",
+      "source": "量子位",
+      "original_pub_date": "2026-06-02 07:47:30",
+      "impact_score": 285.0
+    },
+    {
+      "index": 6,
+      "title": "Momenta高阶自动驾驶示范应用许可落地新城市 Robotaxi全球布局加速",
+      "summary": "6月2日消息，Momenta获得无锡市智能网联汽车道路测试与示范应用许可，计划今年在全球多个新城市落地高阶自动驾驶。",
+      "importance": "中",
+      "reason": "中国自动驾驶公司Momenta获得新城市许可，属于重大商业动态。",
+      "tags": [
+        "Momenta",
+        "自动驾驶",
+        "Robotaxi",
+        "国内"
+      ],
+      "url": "https://36kr.com/p/3835511712363657?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-02 04:23:41",
+      "impact_score": 264.0
+    },
+    {
+      "index": 7,
+      "title": "融资数亿元，我们和贝塔无限刘武龙聊了聊具身系统创新",
+      "summary": "6月2日消息，前华为加拿大AI研究所所长刘武龙创立具身智能公司贝塔无限，并宣布完成数亿元融资。",
+      "importance": "中",
+      "reason": "前华为高管创业，获得大额融资，属于重大商业动态。",
+      "tags": [
+        "贝塔无限",
+        "具身智能",
+        "融资",
+        "国内"
+      ],
+      "url": "https://www.leiphone.com/category/transportation/YWDYr6e3rN64B5IF.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-02 03:06:00",
+      "impact_score": 255.0
+    },
+    {
+      "index": 8,
+      "title": "36氪首发｜原小天才团队做老年硬件，切入居家看护赛道，即将进入海外市场",
+      "summary": "6月2日消息，居家养老消费电子品牌元生智能完成超千万元Pre-A轮融资，由银创资本领投，资金将用于渠道拓展和新产品迭代。",
+      "importance": "中",
+      "reason": "中国公司元生智能获得融资，属于商业动态。",
+      "tags": [
+        "元生智能",
+        "养老",
+        "融资",
+        "国内"
+      ],
+      "url": "https://36kr.com/p/3834354708031111?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-02 11:50:30",
+      "impact_score": 251.0
+    },
+    {
+      "index": 9,
+      "title": "赛力斯5月新能源汽车销量33,476辆 全新问界M9上市24小时大定超2万",
+      "summary": "6月2日消息，赛力斯5月新能源汽车销量33,476辆，全新问界M9上市24小时大定超2万台，问界高端产品矩阵持续丰富。",
+      "importance": "中",
+      "reason": "中国公司赛力斯发布销量数据和新车大定情况，属于重大商业动态。",
+      "tags": [
+        "赛力斯",
+        "问界M9",
+        "销量",
+        "国内"
+      ],
+      "url": "https://www.leiphone.com/category/ai/09QWfOVoTbKrJfIH.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-02 02:16:00",
+      "impact_score": 230.0
+    },
+    {
+      "index": 10,
+      "title": "豆包6月下旬正式付费，并加速打通抖音电商丨36氪独家",
+      "summary": "6月2日消息，字节跳动旗下豆包预计6月下旬正式上线付费订阅服务，并加速打通抖音电商，推进商业化落地。",
+      "importance": "高",
+      "reason": "中国公司字节跳动旗下豆包商业化进展，属于重大产品发布和商业动态。",
+      "tags": [
+        "豆包",
+        "付费",
+        "商业化",
+        "国内"
+      ],
+      "url": "https://36kr.com/newsflashes/3835961416627337?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-02 11:53:16",
+      "impact_score": 225.0
+    },
+    {
+      "index": 11,
+      "title": "字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手",
+      "summary": "6月2日消息，字节跳动开源统一框架Bernini，为DiT模型提供辅助，提升AI视频编辑的理解和生成能力。",
+      "importance": "中",
+      "reason": "中国公司字节跳动开源重要AI框架，属于重大学术突破。",
+      "tags": [
+        "字节跳动",
+        "开源",
+        "AI视频",
+        "国内"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/FnNWmRGGBxasmJ9I.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-02 09:28:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 12,
+      "title": "机器人运控训练步入分钟级时代！清华AIR开源UniLab：3分钟训好人形，速度暴涨10倍，Mac上也能跑",
+      "summary": "6月2日消息，清华大学AIR开源机器人强化学习训练架构UniLab，3分钟可完成人形机器人训练，速度提升10倍。",
+      "importance": "中",
+      "reason": "中国研究机构清华大学AIR取得重要技术突破并开源，属于重大学术突破。",
+      "tags": [
+        "清华大学",
+        "开源",
+        "机器人",
+        "国内"
+      ],
+      "url": "https://www.leiphone.com/category/ai/BZVmvZeYhmXZawA4.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-02 02:08:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 13,
+      "title": "Qwen3.7-Plus上线！多模态智能体新基座，一键复刻桌面端专业软件",
+      "summary": "6月2日消息，阿里云百炼上线Qwen3.7-Plus多模态智能体新基座，支持一键复刻桌面端专业软件功能。",
+      "importance": "中",
+      "reason": "中国公司阿里云发布重要AI模型，属于重大产品发布。",
+      "tags": [
+        "阿里云",
+        "Qwen",
+        "多模态",
+        "国内"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/qXwM8BMsMTmxDk9c.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-01 09:43:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 14,
+      "title": "美团电话会：“小美”与腾讯“元宝”的合作将于近期上线",
+      "summary": "6月2日消息，美团AI助手“小美”与腾讯元宝的合作将于近期上线，用户可通过元宝调用美团本地生活服务。",
+      "importance": "中",
+      "reason": "中国公司美团与腾讯合作，属于重大商业动态。",
+      "tags": [
+        "美团",
+        "腾讯",
+        "AI",
+        "合作",
+        "国内"
+      ],
+      "url": "https://36kr.com/p/3835387558065541?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-02 02:00:58",
+      "impact_score": 190.5
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "The Trump Administration Is at War With Itself Over AI Regulation",
+      "summary": "6月2日消息，特朗普政府内部就AI监管问题出现分歧，此前特朗普废除了AI监管行政令，官员和AI高管正试图寻找补救措施。",
+      "importance": "高",
+      "reason": "美国AI政策重大变动，影响全球AI监管走向",
+      "tags": [
+        "AI监管",
+        "行政令",
+        "美国政策"
+      ],
+      "url": "https://www.wired.com/story/the-white-house-is-at-war-with-itself-over-ai-regulation/",
+      "source": "Wired AI",
+      "original_pub_date": "2026-06-02 09:30:00",
+      "impact_score": 275.0
+    },
+    {
+      "index": 2,
+      "title": "Florida Sues OpenAI and Sam Altman Over Safety Concerns",
+      "summary": "6月2日消息，佛罗里达州总检察长起诉OpenAI及其CEO萨姆·奥尔特曼，指控其10项过失、责任等州法律违规，涉及ChatGPT安全问题，成为首个起诉OpenAI的州。",
+      "importance": "高",
+      "reason": "美国州政府首次对OpenAI提起安全诉讼，具有里程碑意义",
+      "tags": [
+        "诉讼",
+        "OpenAI",
+        "安全"
+      ],
+      "url": "https://www.theinformation.com/briefings/chinas-minimax-launches-new-model-open-source-ai-coding-battle-heats",
+      "source": "The Information",
+      "original_pub_date": "2026-06-01 08:10:53",
+      "impact_score": 249.0
+    },
+    {
+      "index": 3,
+      "title": "Nvidia Unveils New Chip for PCs",
+      "summary": "6月2日消息，英伟达发布新款PC芯片N1X，与微软合作，将驱动今年秋季上市的新Windows电脑，标志着英伟达正式进军英特尔和苹果主导的PC芯片市场。",
+      "importance": "高",
+      "reason": "英伟达重大产品发布，改变PC芯片竞争格局",
+      "tags": [
+        "英伟达",
+        "芯片",
+        "PC"
+      ],
+      "url": "https://www.theinformation.com/articles/googles-ai-fundraising-anthropics-ipo-option",
+      "source": "The Information",
+      "original_pub_date": "2026-06-02 00:01:12",
+      "impact_score": 210.0
+    },
+    {
+      "index": 4,
+      "title": "Anthropic has officially filed to go public",
+      "summary": "6月2日消息，Anthropic正式向美国证券交易委员会提交IPO申请，成为OpenAI和Anthropic之间IPO竞赛的关键里程碑，预计将引发大规模IPO。",
+      "importance": "高",
+      "reason": "顶级AI公司IPO，重大商业动态",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "上市"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-02/arm-may-hit-15-billion-ai-chip-revenue-goal-early-ceo-says",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-02 06:43:05",
+      "impact_score": 195.0
+    },
+    {
+      "index": 5,
+      "title": "Google’s AI Fundraising; Anthropic’s IPO Option",
+      "summary": "6月2日消息，谷歌宣布计划通过股权融资筹集800亿美元，用于资助AI投资，同时Anthropic的IPO选项也在推进中。",
+      "importance": "高",
+      "reason": "谷歌巨额AI融资，显示AI投资热潮",
+      "tags": [
+        "谷歌",
+        "融资",
+        "AI投资"
+      ],
+      "url": "https://arxiv.org/abs/2606.00240",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-02 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 6,
+      "title": "Arm May Hit $15 Billion AI Chip Revenue Goal Early, CEO Says",
+      "summary": "6月2日消息，Arm首席执行官表示，由于AI需求超预期，公司可能提前实现150亿美元的自研芯片销售目标。",
+      "importance": "中",
+      "reason": "Arm AI芯片业务超预期，反映AI基础设施需求强劲",
+      "tags": [
+        "Arm",
+        "AI芯片",
+        "营收"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-02/marvell-surges-after-huang-calls-it-the-next-1-trillion-company",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-02 10:41:53",
+      "impact_score": 180.0
+    },
+    {
+      "index": 7,
+      "title": "Marvell Soars After Nvidia Chief’s $1 Trillion Stock Call",
+      "summary": "6月2日消息，英伟达CEO黄仁勋预测Marvell将成为下一个市值达万亿美元的公司，Marvell股价随即大涨。",
+      "importance": "中",
+      "reason": "英伟达CEO言论引发市场波动，重要商业动态",
+      "tags": [
+        "Marvell",
+        "英伟达",
+        "市值"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-02/mediatek-pledges-hiring-spree-to-boost-push-into-new-ai-spheres",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-02 08:45:54",
+      "impact_score": 180.0
+    },
+    {
+      "index": 8,
+      "title": "SoftBank in Early Talks to Back $800 Million Agile Robots Round",
+      "summary": "6月2日消息，软银集团正与德国工业机器人初创公司Agile Robots进行早期谈判，计划参与其约8亿美元的融资轮。",
+      "importance": "中",
+      "reason": "软银大额投资AI机器人公司，反映AI落地趋势",
+      "tags": [
+        "软银",
+        "机器人",
+        "融资"
+      ],
+      "url": "https://arxiv.org/abs/2606.00103",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-02 04:00:00",
+      "impact_score": 180.0
+    },
+    {
+      "index": 9,
+      "title": "Top AI labs expand research into machine ‘consciousness’",
+      "summary": "6月2日消息，谷歌DeepMind、Anthropic和Meta等顶级AI实验室正扩大对机器意识的研究，探讨AI可能具备意识后的影响。",
+      "importance": "中",
+      "reason": "AI伦理前沿研究，涉及安全与伦理议题",
+      "tags": [
+        "AI意识",
+        "伦理",
+        "研究"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-02/nvidia-boss-says-workers-should-be-paid-as-much-as-possible",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-02 03:33:16",
+      "impact_score": 180.0
+    },
+    {
+      "index": 10,
+      "title": "OpenAI Taps Salesforce Executive to Lead Global Partnerships",
+      "summary": "6月2日消息，OpenAI聘请Salesforce高管Brian Landsman担任全球合作伙伴副总裁，负责拓展全球合作关系。",
+      "importance": "中",
+      "reason": "OpenAI重要人事任命，影响其全球合作战略",
+      "tags": [
+        "OpenAI",
+        "人事",
+        "合作"
+      ],
+      "url": "https://www.theinformation.com/briefings/florida-sues-openai-sam-altman-safety-concerns",
+      "source": "The Information",
+      "original_pub_date": "2026-06-01 16:28:03",
+      "impact_score": 173.0
+    }
+  ],
+  "summary": "今日从207条原始信息中精选出14条国内动态和10条国际动态，其中11条为高重要性。 重点关注：首轮融资数千万美元、估值2.5亿美元，「Aippy」正在打造下一代AI游戏社区 | 36氪首发；8点1氪丨豆包将在6月下旬正式付费 ；韩国SK海力士工厂发生火灾；宇树科技IPO过会，王兴兴身家或超140亿；百度文心发布 PaddleOCR-VL-1.6：准确率突破 96.33%，刷新文档解析 SOTA。",
+  "statistics": {
+    "raw_domestic": 47,
+    "raw_international": 160,
+    "raw_total": 207,
+    "final_domestic": 14,
+    "final_international": 10
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "6月2日消息，AI游戏社区Aippy完成数千万美元首轮融资，由歌未资本投资，投后估值2.5亿美元，资金将用于人才引进和欧美市场增长。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "6月2日消息，字节跳动旗下AI产品豆包预计6月下旬正式上线付费订阅服务，并加速打通抖音电商，推进商业化落地。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "6月2日消息，百度文心发布PaddleOCR-VL-1.6，文档解析准确率突破96.33%，刷新SOTA，已上线官网支持网页端和API调用。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "6月2日消息，自动驾驶卡车公司零一汽车递交港股招股书，2025年营收5.22亿元，同比增长320.8%，交付新能源智能重卡1176辆。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "6月2日消息，前小米集团技术委员会主席崔宝秋创办家庭具身机器人公司若伴科技，并迅速获得英诺天使基金、创新工场等多家机构种子轮融资。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "6月2日消息，特朗普政府内部就AI监管问题出现分歧，此前特朗普废除了AI监管行政令，官员和AI高管正试图寻找补救措施。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "6月2日消息，佛罗里达州总检察长起诉OpenAI及其CEO萨姆·奥尔特曼，指控其10项过失、责任等州法律违规，涉及ChatGPT安全问题，成为首个起诉OpenAI的州。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "6月2日消息，英伟达发布新款PC芯片N1X，与微软合作，将驱动今年秋季上市的新Windows电脑，标志着英伟达正式进军英特尔和苹果主导的PC芯片市场。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "6月2日消息，Anthropic正式向美国证券交易委员会提交IPO申请，成为OpenAI和Anthropic之间IPO竞赛的关键里程碑，预计将引发大规模IPO。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "6月2日消息，谷歌宣布计划通过股权融资筹集800亿美元，用于资助AI投资，同时Anthropic的IPO选项也在推进中。",
+      "importance": "高"
+    }
+  ]
+}
