@@ -1,0 +1,582 @@
+{
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06 10:09:33",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资",
+      "summary": "6月6日消息，具身智能企业原力灵机完成新一轮融资，资方包括智谱、阶跃星辰、商汤科技等，并并购物流机器人公司，由旷视科技联合创始人唐文斌创立。",
+      "importance": "高",
+      "reason": "国内企业重大融资与并购，涉及多家头部AI公司，具身智能赛道重要动态",
+      "tags": [
+        "大模型",
+        "融资",
+        "并购",
+        "具身智能"
+      ],
+      "url": "https://36kr.com/p/3838835333253385?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-05 01:00:00",
+      "impact_score": 425.0
+    },
+    {
+      "index": 2,
+      "title": "Coding 能力，正在颠覆大模型的估值逻辑",
+      "summary": "6月6日消息，中国大模型公司估值逻辑被Coding能力重构，DeepSeek洽谈70亿美元融资，月之暗面Kimi K2.5收入激增，智谱GLM-5登顶开源模型榜首。",
+      "importance": "高",
+      "reason": "国内大模型公司重大融资与产品突破，反映行业估值趋势",
+      "tags": [
+        "大模型",
+        "融资",
+        "估值",
+        "Coding"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/bwyozCVtFIOJynck.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-05 10:53:00",
+      "impact_score": 405.0
+    },
+    {
+      "index": 3,
+      "title": "腾讯文档行业首发「人机双写」，支持Word、PPT与数据图表",
+      "summary": "6月6日消息，腾讯文档在2026腾讯云AI产业应用大会上发布行业首创的「人机双写」能力，支持AI与用户同屏协作编辑文档、PPT及数据图表，提升办公效率。",
+      "importance": "中",
+      "reason": "国内企业重要产品发布，AI办公领域创新",
+      "tags": [
+        "发布",
+        "AI",
+        "办公",
+        "腾讯"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/0P8KvQPzWQpU9F40.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-05 05:46:00",
+      "impact_score": 350.0
+    },
+    {
+      "index": 4,
+      "title": "吴清：过去五年公募基金投资于先进制造和科创领域股票超过6万亿元",
+      "summary": "6月6日消息，证监会主席吴清表示，过去五年公募基金投资先进制造和科创领域股票超6万亿元，私募股权创投基金为未上市企业注入5.25万亿元创新资本。",
+      "importance": "中",
+      "reason": "国内监管层重要表态，涉及AI等科创领域资本支持",
+      "tags": [
+        "监管",
+        "投资",
+        "科创"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/qSkgFVNBfMkyDldg.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-05 08:01:00",
+      "impact_score": 320.0
+    },
+    {
+      "index": 5,
+      "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
+      "summary": "6月6日消息，数据显示豆包推出付费订阅后5月月活减少610万，分析认为字节跳动过早商业化可能影响其在消费AI市场的领先地位。",
+      "importance": "中",
+      "reason": "国内头部AI产品商业化动态，反映市场反应",
+      "tags": [
+        "大模型",
+        "商业化",
+        "月活"
+      ],
+      "url": "https://36kr.com/newsflashes/3841477677451778?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-06 09:13:10",
+      "impact_score": 307.5
+    },
+    {
+      "index": 6,
+      "title": "前华为员工创业线控底盘，曾参编国标，获松禾、苏高新投资丨36氪首发",
+      "summary": "6月6日消息，线控底盘供应商毫秒智控完成数千万元天使+轮融资，由松禾资本和苏高新融晟投资，创始人李杰曾参与线控转向新国标修订。",
+      "importance": "中",
+      "reason": "国内智能汽车供应链创业公司融资，涉及AI相关技术",
+      "tags": [
+        "融资",
+        "智能汽车",
+        "线控底盘"
+      ],
+      "url": "https://36kr.com/p/3840996342073604?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-06 01:07:19",
+      "impact_score": 255.0
+    },
+    {
+      "index": 7,
+      "title": "国家队下场做AI虚拟细胞，「百曜科技」完成数千万元新一轮融资｜36氪首发",
+      "summary": "6月6日消息，AI虚拟细胞平台百曜科技完成数千万元融资，由国新创投基金领投，道彤资本、云启资本等跟投，资金用于虚拟细胞算法模型迭代和产业化。",
+      "importance": "中",
+      "reason": "国内AI+生物科技前沿领域融资，国家队参与",
+      "tags": [
+        "AI",
+        "融资",
+        "虚拟细胞",
+        "生物科技"
+      ],
+      "url": "https://36kr.com/p/3839600052898054?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-05 01:23:23",
+      "impact_score": 245.0
+    },
+    {
+      "index": 8,
+      "title": "微信AI对手机厂商打开一道窄门｜焦点分析",
+      "summary": "6月6日消息，微信与华为、小米、荣耀、OPPO、vivo等手机厂商合作推出A2A助手能力，支持通过手机AI助手发起微信音视频通话或发送消息。",
+      "importance": "中",
+      "reason": "国内科技巨头重要合作，涉及AI与手机生态融合",
+      "tags": [
+        "AI",
+        "合作",
+        "微信",
+        "手机"
+      ],
+      "url": "https://36kr.com/p/3835460873385348?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-05 00:30:00",
+      "impact_score": 245.0
+    },
+    {
+      "index": 9,
+      "title": "阿里Meoo支持对话生成微信小程序，已打通小程序创建、审核、发布全链路",
+      "summary": "6月6日消息，阿里Meoo上线微信小程序生成功能，支持自然语言交互一键开发小程序，并打通从创建到发布的全链路，降低开发门槛。",
+      "importance": "中",
+      "reason": "国内企业AI产品功能发布，推动低代码开发",
+      "tags": [
+        "发布",
+        "AI",
+        "小程序",
+        "阿里"
+      ],
+      "url": "https://36kr.com/p/3840267945969929?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-05 12:50:46",
+      "impact_score": 225.0
+    },
+    {
+      "index": 10,
+      "title": "证监会主席吴清：坚决遏制概念炒作、复杂嵌套、过度投机、通道空转等伪创新、乱创新",
+      "summary": "6月6日消息，证监会主席吴清表示要遏制伪创新，鼓励科技赋能，稳妥运用AI、大数据等新技术，加强创新全过程风险防控。",
+      "importance": "中",
+      "reason": "国内监管层对AI等创新领域的表态，影响行业规范",
+      "tags": [
+        "监管",
+        "创新",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/Ii10tVMY2qjNzfsZ.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-05 10:08:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 11,
+      "title": "华为云发布Agentic AI系列新品 打造智能时代“硅基黑土地”",
+      "summary": "6月6日消息，华为云发布Agentic AI系列新品，旨在打造智能时代的“硅基黑土地”，推动AI技术在各行业的应用。",
+      "importance": "中",
+      "reason": "国内科技巨头重要产品发布，涉及AI基础设施",
+      "tags": [
+        "发布",
+        "AI",
+        "华为云"
+      ],
+      "url": "https://36kr.com/newsflashes/3841290346924552?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-06 06:02:36",
+      "impact_score": 195.0
+    },
+    {
+      "index": 12,
+      "title": "WPS笔记正式发布：AI贯穿记录、整理与复用全过程",
+      "summary": "6月6日消息，WPS笔记正式发布，AI能力贯穿记录、整理与复用全过程，提升用户信息处理效率。",
+      "importance": "低",
+      "reason": "国内企业AI产品发布，办公场景应用",
+      "tags": [
+        "发布",
+        "AI",
+        "WPS"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/AqCfShBxj7cZCuRD.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-05 03:50:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 13,
+      "title": "从超级个体到超级团队，腾讯云发布WorkBuddy企业版",
+      "summary": "6月6日消息，腾讯云发布WorkBuddy企业版，定位企业AI效率工具，助力团队协作与效率提升。",
+      "importance": "低",
+      "reason": "国内企业AI产品发布，企业服务领域",
+      "tags": [
+        "发布",
+        "AI",
+        "腾讯云"
+      ],
+      "url": "https://36kr.com/p/3839575253993985?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-05 03:39:48",
+      "impact_score": 186.0
+    },
+    {
+      "index": 14,
+      "title": "字节跳动：没有造车或推出汽车品牌的计划",
+      "summary": "6月6日消息，字节跳动声明没有造车或推出汽车品牌计划，与赛豆无股权合作，仅提供豆包大模型等技术服务。",
+      "importance": "低",
+      "reason": "国内企业澄清传闻，涉及AI与汽车行业合作",
+      "tags": [
+        "大模型",
+        "声明",
+        "汽车"
+      ],
+      "url": "https://www.leiphone.com/category/robot/DZhbEoMS7u3gvJIO.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-05 10:22:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 15,
+      "title": "Token大战中，华为云选择了第三条路｜最前线",
+      "summary": "6月6日消息，华为云CEO周跃峰表示华为云不追求Token总量，而是关注国产算力系统生产Tokens的健康度和生产力提升。",
+      "importance": "中",
+      "reason": "国内企业重要战略表态，涉及AI算力与国产化",
+      "tags": [
+        "发布",
+        "AI",
+        "华为云",
+        "算力"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/wxqQfD1prf3OQfG4.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-05 10:03:00",
+      "impact_score": 180.0
+    },
+    {
+      "index": 16,
+      "title": "深圳科学家领衔发布亚洲首个合成细胞技术路线图",
+      "summary": "6月6日消息，由中科院深圳先进院刘陈立领衔，六国科学家联合在《自然·生物技术》发布亚洲首个合成细胞10年技术路线图，规划未来发展方向。",
+      "importance": "中",
+      "reason": "国内科研机构重大学术突破，涉及AI与合成生物学融合",
+      "tags": [
+        "突破",
+        "合成细胞",
+        "学术"
+      ],
+      "url": "https://36kr.com/newsflashes/3841354006645248?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-06 07:07:22",
+      "impact_score": 177.0
+    },
+    {
+      "index": 17,
+      "title": "算得更快更准 全球海洋现象智能预报大模型“琅琊”2.0发布",
+      "summary": "6月6日消息，中科院海洋所发布全球海洋现象智能预报大模型“琅琊”2.0，推动海洋预报向更快速、更精细方向发展。",
+      "importance": "中",
+      "reason": "国内科研机构重要AI模型发布，应用于海洋防灾减灾",
+      "tags": [
+        "发布",
+        "大模型",
+        "海洋预报"
+      ],
+      "url": "https://36kr.com/newsflashes/3841345628424452?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-06 06:58:50",
+      "impact_score": 175.0
+    },
+    {
+      "index": 18,
+      "title": "智源&清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制",
+      "summary": "6月6日消息，智源研究院与清华大学合作成果登上Science，脑科学多模态基础模型Brainμ揭示睡眠中记忆重激活调控机制。",
+      "importance": "中",
+      "reason": "国内研究机构重大学术突破，AI与脑科学交叉",
+      "tags": [
+        "AI",
+        "合作",
+        "脑科学",
+        "学术"
+      ],
+      "url": "https://www.leiphone.com/category/robot/vXUDbgmmjD4EH4Ys.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-05 10:12:00",
+      "impact_score": 165.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "SpaceX’s CFO Is the Quiet VIP of a Wild IPO",
+      "summary": "6月6日消息，SpaceX首席财务官Bret Johnsen正推动将xAI并入SpaceX，并计划以750亿美元估值进行史上最大IPO，已完成关键步骤。",
+      "importance": "高",
+      "reason": "涉及SpaceX与xAI的合并及IPO，属于重大商业动态，主体为海外公司。",
+      "tags": [
+        "SpaceX",
+        "xAI",
+        "IPO",
+        "合并"
+      ],
+      "url": "https://www.theinformation.com/articles/spacexs-cfo-quiet-vip-wild-ipo",
+      "source": "The Information",
+      "original_pub_date": "2026-06-05 16:36:23",
+      "impact_score": 322.5
+    },
+    {
+      "index": 2,
+      "title": "SpaceX Inks $30 Billion Computing Power Deal With Google",
+      "summary": "6月6日消息，SpaceX与谷歌签署价值300亿美元的云计算协议，谷歌每月支付9.2亿美元用于计算服务，凸显AI算力需求激增。",
+      "importance": "高",
+      "reason": "SpaceX与谷歌的重大战略合作，涉及巨额资金，属于重大商业动态。",
+      "tags": [
+        "SpaceX",
+        "谷歌",
+        "云计算",
+        "AI算力"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-06-05/the-close-6-5-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-05 22:09:42",
+      "impact_score": 262.5
+    },
+    {
+      "index": 3,
+      "title": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI",
+      "summary": "6月6日消息，英伟达CEO黄仁勋访问韩国，与当地合作伙伴探讨建设主权AI基础设施和机器人创新，巩固韩国在AI供应链中的地位。",
+      "importance": "高",
+      "reason": "英伟达CEO访问韩国，涉及AI基础设施合作，属于重大商业动态。",
+      "tags": [
+        "英伟达",
+        "韩国",
+        "AI基础设施",
+        "黄仁勋"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-06-05/spacex-inks-30-billion-computing-power-deal-with-google-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-05 21:10:48",
+      "impact_score": 240.0
+    },
+    {
+      "index": 4,
+      "title": "Data Center Developer Switch in Talks to Raise Billions at $50 Billion-Plus Valuation",
+      "summary": "6月6日消息，数据中心开发商Switch正洽谈以至少500亿美元估值融资数十亿美元，有望成为估值最高的私有数据中心运营商之一。",
+      "importance": "高",
+      "reason": "数据中心是AI基础设施关键，大额融资属于重大商业动态。",
+      "tags": [
+        "Switch",
+        "数据中心",
+        "融资",
+        "AI基础设施"
+      ],
+      "url": "https://blogs.nvidia.com/blog/korea-ecosystem-2026/",
+      "source": "NVIDIA AI",
+      "original_pub_date": "2026-06-05 05:38:37",
+      "impact_score": 229.5
+    },
+    {
+      "index": 5,
+      "title": "The Tech Download: Anthropic’s IPO sets up first big test of AI boom valuations",
+      "summary": "6月6日消息，Anthropic推进IPO计划，将首次检验AI热潮下的估值合理性，与竞争对手OpenAI展开公开市场较量。",
+      "importance": "高",
+      "reason": "Anthropic IPO是AI行业标志性事件，属于重大商业动态。",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "AI估值"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-05/revolut-weighs-secondary-share-sale-at-115-billion-valuation",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-05 18:13:27",
+      "impact_score": 225.0
+    },
+    {
+      "index": 6,
+      "title": "Reid Hoffman to Depart Microsoft Board",
+      "summary": "6月6日消息，LinkedIn联合创始人Reid Hoffman将于年底离开微软董事会，他自2017年微软收购LinkedIn后担任董事，是CEO纳德拉的重要顾问。",
+      "importance": "中",
+      "reason": "涉及微软董事会变动，属于重要商业动态。",
+      "tags": [
+        "微软",
+        "Reid Hoffman",
+        "董事会"
+      ],
+      "url": "https://www.theinformation.com/articles/musk-altman-see-eye-eye",
+      "source": "The Information",
+      "original_pub_date": "2026-06-05 00:01:46",
+      "impact_score": 225.0
+    },
+    {
+      "index": 7,
+      "title": "Nvidia CEO Returns to South Korea as AI Memory Runs Short",
+      "summary": "6月6日消息，英伟达CEO黄仁勋七个月内第二次访问韩国，因AI系统需求导致芯片和内存供应紧张，凸显韩国在AI供应链中的重要性。",
+      "importance": "高",
+      "reason": "英伟达CEO访韩，涉及AI芯片供应链，属于重大商业动态。",
+      "tags": [
+        "英伟达",
+        "韩国",
+        "AI芯片",
+        "供应链"
+      ],
+      "url": "https://www.theinformation.com/briefings/data-center-developer-switch-talks-raise-billions-50-billion-plus-valuation",
+      "source": "The Information",
+      "original_pub_date": "2026-06-05 03:46:28",
+      "impact_score": 210.0
+    },
+    {
+      "index": 8,
+      "title": "Apollo Wraps Up $35 Billion Debt to Buy AI Chips for Anthropic",
+      "summary": "6月6日消息，Apollo Global Management和Blackstone完成对Anthropic的350亿美元融资，用于扩展AI基础设施，创下AI领域融资新纪录。",
+      "importance": "高",
+      "reason": "巨额融资用于AI芯片采购，属于重大商业动态。",
+      "tags": [
+        "Anthropic",
+        "Apollo",
+        "Blackstone",
+        "AI融资"
+      ],
+      "url": "https://arxiv.org/abs/2606.05445",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-06 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 9,
+      "title": "Trump says US may take equity stakes in AI companies",
+      "summary": "6月6日消息，美国总统特朗普表示美国可能通过持股AI公司建立“伙伴关系”，以缓解选民对技术的担忧，为中期选举铺路。",
+      "importance": "高",
+      "reason": "美国政府可能入股AI公司，属于重大政策与法规动态。",
+      "tags": [
+        "特朗普",
+        "美国",
+        "AI政策",
+        "股权投资"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-06-05/apex-is-the-ford-of-satellites-says-ceo-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-05 18:08:22",
+      "impact_score": 180.0
+    },
+    {
+      "index": 10,
+      "title": "Meta Considers Raising Billions in Share Sale, FT Reports",
+      "summary": "6月6日消息，Meta Platforms考虑效仿谷歌成功融资850亿美元，通过发行新股筹集数十亿美元，以资助AI基础设施建设。",
+      "importance": "高",
+      "reason": "Meta计划大规模融资用于AI，属于重大商业动态。",
+      "tags": [
+        "Meta",
+        "融资",
+        "AI基础设施"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-06-05/orbital-data-centers-face-space-based-challenges-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-05 18:08:02",
+      "impact_score": 180.0
+    },
+    {
+      "index": 11,
+      "title": "Musk’s SpaceX lines up retail investors for record IPO allocation",
+      "summary": "6月6日消息，SpaceX计划在750亿美元IPO中预留高达25%的股份给散户投资者，创下IPO散户配售纪录。",
+      "importance": "中",
+      "reason": "SpaceX IPO细节披露，属于重要商业动态。",
+      "tags": [
+        "SpaceX",
+        "IPO",
+        "散户投资者"
+      ],
+      "url": "https://www.theinformation.com/briefings/exclusive-tesla-pushes-roadster-demo-august",
+      "source": "The Information",
+      "original_pub_date": "2026-06-05 16:08:48",
+      "impact_score": 178.0
+    },
+    {
+      "index": 12,
+      "title": "Trump administration, OpenAI discussing possible government stake in the AI startup",
+      "summary": "6月6日消息，OpenAI CEO Sam Altman与特朗普政府讨论政府入股OpenAI的可能性，该提议最早于2025年提出。",
+      "importance": "高",
+      "reason": "美国政府可能入股OpenAI，属于重大政策与法规动态。",
+      "tags": [
+        "OpenAI",
+        "特朗普政府",
+        "股权投资"
+      ],
+      "url": "https://arxiv.org/abs/2606.05436",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-06 04:00:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 13,
+      "title": "Warren invites Nvidia CEO Jensen Huang to Senate hearing on China AI chip sales",
+      "summary": "6月6日消息，美国参议员Elizabeth Warren邀请英伟达CEO黄仁勋出席听证会，就对华AI芯片销售、出口管制等问题作证。",
+      "importance": "高",
+      "reason": "美国国会听证会涉及对华芯片出口管制，属于重大政策与法规动态。",
+      "tags": [
+        "英伟达",
+        "美国国会",
+        "出口管制",
+        "中国"
+      ],
+      "url": "https://www.cnbc.com/2026/06/05/tech-download-anthropic-ipo-ai-valuations.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-06-05 11:00:01",
+      "impact_score": 165.0
+    }
+  ],
+  "summary": "今日从175条原始信息中精选出18条国内动态和13条国际动态，其中13条为高重要性。 重点关注：硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资；Coding 能力，正在颠覆大模型的估值逻辑；SpaceX’s CFO Is the Quiet VIP of a Wild IPO。",
+  "statistics": {
+    "raw_domestic": 50,
+    "raw_international": 125,
+    "raw_total": 175,
+    "final_domestic": 18,
+    "final_international": 13
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "6月6日消息，具身智能企业原力灵机完成新一轮融资，资方包括智谱、阶跃星辰、商汤科技等，并并购物流机器人公司，由旷视科技联合创始人唐文斌创立。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "6月6日消息，中国大模型公司估值逻辑被Coding能力重构，DeepSeek洽谈70亿美元融资，月之暗面Kimi K2.5收入激增，智谱GLM-5登顶开源模型榜首。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "6月6日消息，腾讯文档在2026腾讯云AI产业应用大会上发布行业首创的「人机双写」能力，支持AI与用户同屏协作编辑文档、PPT及数据图表，提升办公效率。",
+      "importance": "中"
+    },
+    {
+      "index": 4,
+      "summary": "6月6日消息，证监会主席吴清表示，过去五年公募基金投资先进制造和科创领域股票超6万亿元，私募股权创投基金为未上市企业注入5.25万亿元创新资本。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "6月6日消息，数据显示豆包推出付费订阅后5月月活减少610万，分析认为字节跳动过早商业化可能影响其在消费AI市场的领先地位。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "6月6日消息，SpaceX首席财务官Bret Johnsen正推动将xAI并入SpaceX，并计划以750亿美元估值进行史上最大IPO，已完成关键步骤。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "6月6日消息，SpaceX与谷歌签署价值300亿美元的云计算协议，谷歌每月支付9.2亿美元用于计算服务，凸显AI算力需求激增。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "6月6日消息，英伟达CEO黄仁勋访问韩国，与当地合作伙伴探讨建设主权AI基础设施和机器人创新，巩固韩国在AI供应链中的地位。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "6月6日消息，数据中心开发商Switch正洽谈以至少500亿美元估值融资数十亿美元，有望成为估值最高的私有数据中心运营商之一。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "6月6日消息，Anthropic推进IPO计划，将首次检验AI热潮下的估值合理性，与竞争对手OpenAI展开公开市场较量。",
+      "importance": "高"
+    }
+  ]
+}
