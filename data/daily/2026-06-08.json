@@ -1,0 +1,598 @@
+{
+  "date": "2026-06-08",
+  "generated_at": "2026-06-08 12:37:46",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "独家丨华为天才少年王裕鑫创业，首月完成数千万级首轮融资",
+      "summary": "6月8日消息，华为天才少年王裕鑫创立形界智能，聚焦流式视频生成技术，在成立首月即完成数千万级首轮融资。",
+      "importance": "高",
+      "reason": "华为天才少年创业，聚焦前沿视频生成技术，首月获大额融资，属于重大商业动态。",
+      "tags": [
+        "创业",
+        "融资",
+        "视频生成"
+      ],
+      "url": "https://www.leiphone.com/category/yanxishe/SinorLMYmWes9Kqq.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-08 04:10:00",
+      "impact_score": 590.0
+    },
+    {
+      "index": 2,
+      "title": "携程：已作为首批内测团队接入微信AI生态布局",
+      "summary": "6月8日消息，携程作为首批内测团队接入微信AI生态，将围绕酒店预订、机票查询等核心场景接入微信AIAgent，提升智能服务体验。",
+      "importance": "高",
+      "reason": "中国头部OTA企业接入微信AI生态，涉及重大产品合作与生态布局。",
+      "tags": [
+        "AI",
+        "合作",
+        "微信生态"
+      ],
+      "url": "https://36kr.com/newsflashes/3844462848870913?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-08 11:59:48",
+      "impact_score": 366.0
+    },
+    {
+      "index": 3,
+      "title": "产品观察 | 小米创始员工范典创业AI硬件，做了台“无摩擦”的睡眠床头灯",
+      "summary": "6月8日消息，小米创始员工范典创立格物科技，耗时三年打造AI睡眠床头灯，切入智能硬件新品类，展现中国AI硬件创业创新。",
+      "importance": "中",
+      "reason": "小米创始员工创业AI硬件，产品创新但影响力相对有限。",
+      "tags": [
+        "创业",
+        "AI硬件",
+        "智能家居"
+      ],
+      "url": "https://36kr.com/p/3844006775360002?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-08 04:07:08",
+      "impact_score": 322.5
+    },
+    {
+      "index": 4,
+      "title": "“昆仑元AI”获5000万元战略融资",
+      "summary": "6月8日消息，湖南昆仑元AI完成5000万元战略融资，由景嘉微子公司领投，双方将构建国产GPU+全栈AI基础设施一体化方案。",
+      "importance": "中",
+      "reason": "国产AI基础设施融资，涉及国产GPU合作，属于重要商业动态。",
+      "tags": [
+        "融资",
+        "国产GPU",
+        "AI基础设施"
+      ],
+      "url": "https://36kr.com/p/3843764238174729?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-08 00:01:39",
+      "impact_score": 322.5
+    },
+    {
+      "index": 5,
+      "title": "阿里巴巴成立Token Foundry事业部",
+      "summary": "6月8日消息，阿里巴巴合并通义大模型事业部和未来生活实验室，成立Token Foundry事业部，由CEO吴泳铭直接负责，持续加码AI。",
+      "importance": "高",
+      "reason": "阿里巴巴重大组织架构调整，聚焦AI大模型，属于重大产品与战略发布。",
+      "tags": [
+        "组织架构",
+        "大模型",
+        "AI战略"
+      ],
+      "url": "https://36kr.com/newsflashes/3844456903166217?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-08 11:43:47",
+      "impact_score": 307.5
+    },
+    {
+      "index": 6,
+      "title": "SoulAgent 即将亮相北京智源大会，探索个人智能体在知识服务场景中的应用",
+      "summary": "6月8日消息，智源研究院将推出个人专属智能体SoulAgent，支持跨会场同步听会、接入11位顶尖AI专家分身，提升参会体验。",
+      "importance": "中",
+      "reason": "中国AI研究机构发布创新智能体产品，属于重要产品发布。",
+      "tags": [
+        "智能体",
+        "智源",
+        "知识服务"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/dwh5Z104IRXqJPY8.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-08 09:57:00",
+      "impact_score": 300.0
+    },
+    {
+      "index": 7,
+      "title": "高德发布ABot-Earth0.5：跨越2D蒸馏模式，以3D原生驱动高一致性场景生成",
+      "summary": "6月8日消息，高德发布ABot-Earth0.5，以3D原生驱动高一致性场景生成，正式开放内测，推动地图AI技术突破。",
+      "importance": "中",
+      "reason": "中国地图厂商发布AI产品，属于重要产品发布。",
+      "tags": [
+        "高德",
+        "3D",
+        "AI地图"
+      ],
+      "url": "https://www.leiphone.com/category/ai/DSC6lA4s08K9DMu1.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-08 08:56:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 8,
+      "title": "乘客用智能眼镜偷拍空姐，平台还搜到大量偷拍视频，多方回应；李国庆自曝曾9次拒绝刘强东见面；瑞幸咖啡回应拿铁去冰仅半杯：可退款",
+      "summary": "6月8日消息，华为昇腾910C芯片成功完成1.6万亿DeepSeek全参数后训练，国产算力实现关键突破，跨过最难一关。",
+      "importance": "高",
+      "reason": "华为昇腾芯片完成大规模AI训练，国产算力重大突破，属于重大产品与技术突破。",
+      "tags": [
+        "昇腾",
+        "国产算力",
+        "AI训练"
+      ],
+      "url": "https://www.qbitai.com/2026/06/432489.html",
+      "source": "量子位",
+      "original_pub_date": "2026-06-08 09:00:20",
+      "impact_score": 270.0
+    },
+    {
+      "index": 9,
+      "title": "ICRA 2026最佳论文奖，千寻智能首席科学家、清华高阳团队FP3入围",
+      "summary": "6月8日消息，千寻智能首席科学家、清华高阳团队论文FP3入围ICRA 2026最佳论文奖提名，在机器人与自动化领域取得学术突破。",
+      "importance": "中",
+      "reason": "中国团队在顶级学术会议获提名，属于重大学术突破。",
+      "tags": [
+        "学术突破",
+        "机器人",
+        "ICRA"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/YJcokedrEwmaKpjm.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-08 00:28:00",
+      "impact_score": 255.0
+    },
+    {
+      "index": 10,
+      "title": "CVPR 开幕式：全场泪目缅怀孙剑，广工本科生靠「古董显卡」逆袭 | CVPR 2026",
+      "summary": "6月8日消息，CVPR 2026开幕式上，广工本科生凭借古早Titan显卡拼下顶会大奖，展现中国年轻学者在计算机视觉领域的创新实力。",
+      "importance": "中",
+      "reason": "中国本科生在顶级学术会议获奖，属于重大学术突破。",
+      "tags": [
+        "学术突破",
+        "CVPR",
+        "计算机视觉"
+      ],
+      "url": "https://36kr.com/newsflashes/3844410512804356?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-08 11:08:33",
+      "impact_score": 210.0
+    },
+    {
+      "index": 11,
+      "title": "「华超神控」获亿元天使系列融资，加速打造新一代AI超声脑机接口平台 | 36氪首发",
+      "summary": "6月8日消息，AI超声脑机公司华超神控完成亿元级天使轮系列融资，由经纬创投等领投，加速技术验证与产业化落地。",
+      "importance": "中",
+      "reason": "中国脑机接口公司获大额融资，属于重要商业动态。",
+      "tags": [
+        "融资",
+        "脑机接口",
+        "AI医疗"
+      ],
+      "url": "https://www.leiphone.com/category/robot/tTanpzX7mu3CDICJ.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-08 07:28:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 12,
+      "title": "Rokid发布社区生态治理与隐私保护整改声明：已全面清理社区违规内容、处置涉事账号",
+      "summary": "6月8日消息，乐奇Rokid针对AI眼镜偷拍事件发布整改声明，全面清理违规内容、升级审核算法并强化硬件指示灯机制，保护隐私。",
+      "importance": "中",
+      "reason": "中国AI硬件公司应对隐私事件，属于安全与伦理重要动态。",
+      "tags": [
+        "隐私",
+        "AI眼镜",
+        "安全"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/xUv8I6FoA9P83vjh.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-08 03:43:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 13,
+      "title": "腾讯汤道生评价姚顺雨、混元 3和元宝",
+      "summary": "6月8日消息，腾讯云AI产业应用大会上，汤道生与首席AI科学家姚顺雨对话，探讨腾讯AI战略节奏，发布覆盖20多个场景的Agent产品。",
+      "importance": "中",
+      "reason": "腾讯AI战略与产品发布，属于重要产品与战略动态。",
+      "tags": [
+        "腾讯",
+        "AI战略",
+        "混元"
+      ],
+      "url": "https://www.leiphone.com/category/ai/6Ftw05ZU0izgNdJT.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-08 02:20:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 14,
+      "title": "AI创业者集结！“2026新一代人工智能（深圳）创业创新大赛”正式启动",
+      "summary": "6月8日消息，2026新一代人工智能（深圳）创业创新大赛正式启动，集结AI创业者，推动中国AI创新创业生态发展。",
+      "importance": "低",
+      "reason": "中国AI创业赛事启动，属于一般性商业动态。",
+      "tags": [
+        "创业大赛",
+        "AI",
+        "深圳"
+      ],
+      "url": "https://36kr.com/p/3841459663030532?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-08 00:30:00",
+      "impact_score": 175.5
+    },
+    {
+      "index": 15,
+      "title": "独家丨瑞浦兰钧AIDC电芯年底量产，终端客户是阿里腾讯",
+      "summary": "6月8日消息，瑞浦兰钧发布AIDC储能电芯，计划年底量产，终端客户为阿里腾讯，支持10C放电倍率，满足智算中心需求。",
+      "importance": "中",
+      "reason": "中国公司发布AI数据中心储能产品，涉及阿里腾讯等大客户，属于重要产品发布。",
+      "tags": [
+        "储能",
+        "AIDC",
+        "量产"
+      ],
+      "url": "https://36kr.com/newsflashes/3844483601893889?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-08 12:16:54",
+      "impact_score": 160.0
+    },
+    {
+      "index": 16,
+      "title": "智能戒指爆发前夜，RingConn走到哪一步了？",
+      "summary": "6月8日消息，上海交大教授王国兴创立的RingConn发布Gen3智能戒指，支持长期血压趋势监测等AI功能，推动智能穿戴创新。",
+      "importance": "低",
+      "reason": "中国智能穿戴产品发布，属于一般性产品动态。",
+      "tags": [
+        "智能戒指",
+        "AI",
+        "可穿戴"
+      ],
+      "url": "https://36kr.com/newsflashes/3844460453955847?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-08 11:47:24",
+      "impact_score": 147.0
+    },
+    {
+      "index": 17,
+      "title": "我国科研人员研制新型高频晶体管刷新全球纪录",
+      "summary": "6月8日消息，中科院金属所联合多家单位研制出硅-石墨烯-锗势垒晶体管，刷新垂直二维基区晶体管截止频率和电流增益世界纪录。",
+      "importance": "高",
+      "reason": "中国科研团队在半导体领域取得重大突破，刷新全球纪录，属于重大学术突破。",
+      "tags": [
+        "晶体管",
+        "石墨烯",
+        "学术突破"
+      ],
+      "url": "https://36kr.com/newsflashes/3844431793293830?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-08 11:35:55",
+      "impact_score": 147.0
+    },
+    {
+      "index": 18,
+      "title": "CVPR 2026 | 支撑春晚合肥 7 分钟的4K画面奇观 PS-SR让视频超分不用在速度与质量间为难",
+      "summary": "6月8日消息，智象未来团队提出PS-SR视频超分框架，被CVPR 2026接收，支撑春晚合肥分会场4K画面，实现速度与质量兼得。",
+      "importance": "中",
+      "reason": "中国团队在顶级学术会议发表成果，并成功应用于春晚，属于重大学术突破。",
+      "tags": [
+        "视频超分",
+        "CVPR",
+        "春晚"
+      ],
+      "url": "https://36kr.com/p/3844018911889924?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-08 09:01:03",
+      "impact_score": 147.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Nvidia CEO Says Selloff in Tech Stocks Is a Buying Opportunity",
+      "summary": "6月8日消息，英伟达CEO黄仁勋表示近期全球科技股抛售是买入机会，并强调人工智能基础设施建设才刚刚开始。",
+      "importance": "高",
+      "reason": "英伟达CEO对市场走势的重要判断，直接影响AI产业投资信心。",
+      "tags": [
+        "英伟达",
+        "市场动态",
+        "AI投资"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-06-08/multiverse-s-euan-blair-on-bloomberg-tv-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-08 08:46:19",
+      "impact_score": 262.5
+    },
+    {
+      "index": 2,
+      "title": "How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies",
+      "summary": "6月8日消息，英伟达与英国政府合作展示主权AI进展，通过技术合作推动英国成为AI制造国而非消费国。",
+      "importance": "高",
+      "reason": "涉及英国主权AI战略与英伟达合作，属于重大政策与商业动态。",
+      "tags": [
+        "英伟达",
+        "英国",
+        "主权AI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-08/nvidia-ceo-shrugs-off-tech-stock-rout-with-ai-just-beginning",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-08 03:03:16",
+      "impact_score": 262.5
+    },
+    {
+      "index": 3,
+      "title": "NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs",
+      "summary": "6月8日消息，英伟达在韩国发布RTX Spark超级芯片，与游戏公司及电竞战队合作推广个人AI代理时代的新PC体验。",
+      "importance": "中",
+      "reason": "英伟达重要产品发布，但主要面向游戏和消费市场。",
+      "tags": [
+        "英伟达",
+        "RTX Spark",
+        "韩国"
+      ],
+      "url": "https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/",
+      "source": "NVIDIA AI",
+      "original_pub_date": "2026-06-08 06:00:57",
+      "impact_score": 229.5
+    },
+    {
+      "index": 4,
+      "title": "HSBC CEO Says Bank Still Needs Human Judgment in AI Era",
+      "summary": "6月8日消息，汇丰CEO表示人工智能将取代部分岗位，但人类判断力仍至关重要，生产力提升可再投资于未来目标。",
+      "importance": "中",
+      "reason": "大型金融机构对AI应用的表态，反映行业趋势。",
+      "tags": [
+        "汇丰",
+        "AI应用",
+        "银行业"
+      ],
+      "url": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/",
+      "source": "NVIDIA AI",
+      "original_pub_date": "2026-06-07 07:00:15",
+      "impact_score": 229.5
+    },
+    {
+      "index": 5,
+      "title": "Korean Stocks Under Pressure, Jensen Huang in Seoul",
+      "summary": "6月8日消息，韩国股市因AI投资退潮下跌，英伟达CEO黄仁勋在首尔与SK集团、LG集团等科技巨头会面，展现行业合作。",
+      "importance": "中",
+      "reason": "英伟达CEO在韩国的活动影响当地市场情绪。",
+      "tags": [
+        "英伟达",
+        "韩国",
+        "股市"
+      ],
+      "url": "https://www.theinformation.com/articles/revolut-targets-least-750-million-share-sale-amid-strong-demand",
+      "source": "The Information",
+      "original_pub_date": "2026-06-07 19:07:29",
+      "impact_score": 210.0
+    },
+    {
+      "index": 6,
+      "title": "UK AI start-up PhysicsX hits $2.4bn valuation following Temasek-led deal",
+      "summary": "6月8日消息，英国AI初创公司PhysicsX在淡马锡领投下融资3亿美元，估值达24亿美元，成为英国最具价值的AI公司之一。",
+      "importance": "中",
+      "reason": "重大商业融资事件，反映AI投资热度。",
+      "tags": [
+        "PhysicsX",
+        "融资",
+        "英国"
+      ],
+      "url": "https://arxiv.org/abs/2606.06869",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-08 04:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 7,
+      "title": "OpenAI plots biggest ChatGPT overhaul since launch",
+      "summary": "6月8日消息，OpenAI计划对ChatGPT进行自发布以来最大规模改版，将其重塑为高利润产品线，为潜在IPO铺路。",
+      "importance": "高",
+      "reason": "OpenAI重大产品战略调整，影响全球AI应用格局。",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "IPO"
+      ],
+      "url": "https://arxiv.org/abs/2606.07000",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-08 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 8,
+      "title": "Nato narrowly beats Russia-style enemy in cyber attack simulation",
+      "summary": "6月8日消息，北约在模拟网络攻击演习中险胜俄罗斯式对手，测试政府应对在线宣传和战时战术的能力。",
+      "importance": "中",
+      "reason": "涉及AI与网络安全，属于安全与伦理领域。",
+      "tags": [
+        "北约",
+        "网络安全",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-06-08/the-pulse-6-8-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-08 11:29:11",
+      "impact_score": 180.0
+    },
+    {
+      "index": 9,
+      "title": "We must not grant AI agents legal personhood",
+      "summary": "6月8日消息，英国金融时报评论文章警告不应授予AI代理法律人格，质疑如何制裁非人类实体。",
+      "importance": "中",
+      "reason": "涉及AI法律地位的重要伦理讨论。",
+      "tags": [
+        "AI伦理",
+        "法律人格",
+        "监管"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-06-08/hsbc-ceo-says-bank-still-needs-human-judgment-in-ai-era-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-08 07:41:44",
+      "impact_score": 180.0
+    },
+    {
+      "index": 10,
+      "title": "Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation",
+      "summary": "6月8日消息，研究人员提出将公平性视为对称操作来检测和缓解机器学习系统中的偏见，为高 stakes 场景提供新方法。",
+      "importance": "中",
+      "reason": "AI公平性研究的重要学术突破。",
+      "tags": [
+        "AI公平",
+        "偏见",
+        "学术"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-08/hsbc-ceo-says-human-judgment-is-vital-even-as-ai-introduced",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-08 07:40:18",
+      "impact_score": 180.0
+    },
+    {
+      "index": 11,
+      "title": "SafeGene: Reusable Adapters for Transferable Safety Alignment",
+      "summary": "6月8日消息，研究人员提出SafeGene方法，通过可复用适配器在微调后保持大语言模型的安全对齐，防止安全弱化。",
+      "importance": "中",
+      "reason": "AI安全对齐领域的重要技术进展。",
+      "tags": [
+        "AI安全",
+        "对齐",
+        "学术"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-06-08/korean-stocks-under-pressure-jensen-huang-in-seoul-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-08 03:16:32",
+      "impact_score": 180.0
+    },
+    {
+      "index": 12,
+      "title": "Think Fast: Estimating No-CoT Task-Completion Time Horizons of Frontier AI Models",
+      "summary": "6月8日消息，研究人员提出方法估算前沿AI模型在不展示思维链时的任务完成时间，以防范内部推理带来的安全风险。",
+      "importance": "中",
+      "reason": "前沿AI安全监控的重要研究。",
+      "tags": [
+        "AI安全",
+        "思维链",
+        "学术"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-06-08/jensen-huang-mania-sweeps-through-seoul-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-08 10:55:16",
+      "impact_score": 165.0
+    },
+    {
+      "index": 13,
+      "title": "WWDC and SpaceX IPO Headline Big Week",
+      "summary": "6月8日消息，苹果WWDC将发布更先进AI功能的新操作系统，SpaceX计划本周进行IPO，科技界迎来重要一周。",
+      "importance": "中",
+      "reason": "苹果AI功能更新和SpaceX IPO均为重大事件。",
+      "tags": [
+        "苹果",
+        "SpaceX",
+        "IPO"
+      ],
+      "url": "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-06-08 04:00:25",
+      "impact_score": 165.0
+    },
+    {
+      "index": 14,
+      "title": "IMF Chief Warns World Isn’t Ready for Shocks That Are Piling Up",
+      "summary": "6月8日消息，IMF总裁警告世界未准备好应对日益频繁的冲击，呼吁建立更具韧性的基础。",
+      "importance": "低",
+      "reason": "虽涉及AI但内容较宏观，与AI直接关联度较低。",
+      "tags": [
+        "IMF",
+        "经济",
+        "风险"
+      ],
+      "url": "https://www.ft.com/content/9753a44c-bec8-4d89-bac6-3416713c3166",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-06-07 03:00:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 15,
+      "title": "Drahi Reaches €20 Billion Deal to Sell French Phone Carrier SFR",
+      "summary": "6月8日消息，亿万富翁德拉希达成协议以204亿欧元出售法国电信运营商SFR，交易将考验监管整合容忍度。",
+      "importance": "低",
+      "reason": "电信行业并购，AI关联度低。",
+      "tags": [
+        "电信",
+        "并购",
+        "法国"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-08/imf-chief-warns-world-isn-t-ready-for-shocks-that-are-piling-up",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-08 05:00:00",
+      "impact_score": 157.5
+    }
+  ],
+  "summary": "今日从134条原始信息中精选出18条国内动态和15条国际动态，其中8条为高重要性。 重点关注：独家丨华为天才少年王裕鑫创业，首月完成数千万级首轮融资；携程：已作为首批内测团队接入微信AI生态布局；阿里巴巴成立Token Foundry事业部。",
+  "statistics": {
+    "raw_domestic": 46,
+    "raw_international": 88,
+    "raw_total": 134,
+    "final_domestic": 18,
+    "final_international": 15
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "6月8日消息，华为天才少年王裕鑫创立形界智能，聚焦流式视频生成技术，在成立首月即完成数千万级首轮融资。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "6月8日消息，携程作为首批内测团队接入微信AI生态，将围绕酒店预订、机票查询等核心场景接入微信AIAgent，提升智能服务体验。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "6月8日消息，阿里巴巴合并通义大模型事业部和未来生活实验室，成立Token Foundry事业部，由CEO吴泳铭直接负责，持续加码AI。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "6月8日消息，华为昇腾910C芯片成功完成1.6万亿DeepSeek全参数后训练，国产算力实现关键突破，跨过最难一关。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "6月8日消息，中科院金属所联合多家单位研制出硅-石墨烯-锗势垒晶体管，刷新垂直二维基区晶体管截止频率和电流增益世界纪录。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "6月8日消息，英伟达CEO黄仁勋表示近期全球科技股抛售是买入机会，并强调人工智能基础设施建设才刚刚开始。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "6月8日消息，英伟达与英国政府合作展示主权AI进展，通过技术合作推动英国成为AI制造国而非消费国。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "6月8日消息，OpenAI计划对ChatGPT进行自发布以来最大规模改版，将其重塑为高利润产品线，为潜在IPO铺路。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "6月8日消息，英伟达在韩国发布RTX Spark超级芯片，与游戏公司及电竞战队合作推广个人AI代理时代的新PC体验。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "6月8日消息，汇丰CEO表示人工智能将取代部分岗位，但人类判断力仍至关重要，生产力提升可再投资于未来目标。",
+      "importance": "中"
+    }
+  ]
+}
