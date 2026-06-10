@@ -1,0 +1,551 @@
+{
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10 11:42:08",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "重磅首发！奥尼AI Agent OS、Token工厂正式上线，构建智能体运行新生态",
+      "summary": "6月10日消息，奥尼发布AI Agent OS 1.0和Token工厂，为智能体规模化落地提供硬件底座、操作系统和算力网络等全新实践路径。",
+      "importance": "高",
+      "reason": "中国公司奥尼发布重要AI产品，属于重大产品发布",
+      "tags": [
+        "AI",
+        "产品发布",
+        "智能体"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/BFGlUP9W6hRnVGtS.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-10 06:56:00",
+      "impact_score": 355.0
+    },
+    {
+      "index": 2,
+      "title": "独家｜字节 AI 制药开启拆分融资，AI4S 进入产业化阶段",
+      "summary": "6月10日消息，字节跳动AI制药业务线启动拆分与独立融资，字节仍将控股新公司，核心团队和算法资产整体进入新主体。",
+      "importance": "高",
+      "reason": "中国公司字节跳动重大商业动态，涉及AI制药产业化",
+      "tags": [
+        "字节跳动",
+        "AI制药",
+        "融资"
+      ],
+      "url": "https://36kr.com/p/3847079661193733?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-10 08:32:14",
+      "impact_score": 322.5
+    },
+    {
+      "index": 3,
+      "title": "清华系团队做分布式预测世界模型、获数亿元A轮融资，落地终端设备达十万量级｜硬氪首发",
+      "summary": "6月10日消息，清华系具身智能公司千诀科技完成数亿元A轮融资，由京铭资本领投，资金用于世界模型研发和商业化落地。",
+      "importance": "高",
+      "reason": "中国清华系团队重大融资，属于重大商业动态",
+      "tags": [
+        "融资",
+        "具身智能",
+        "清华"
+      ],
+      "url": "https://www.leiphone.com/category/ai/KDFY44S9EzFIKxVD.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-09 07:49:00",
+      "impact_score": 315.0
+    },
+    {
+      "index": 4,
+      "title": "36氪首发 | 清华团队做出全球首个实时理解生理与情绪的基座模型，进一步布局硬件",
+      "summary": "6月10日消息，清华团队创立的微面科技完成数百万美元融资，由顺为资本投资，研发全球首个实时理解生理与情绪的基座模型。",
+      "importance": "中",
+      "reason": "中国清华团队学术突破，属于重大学术突破",
+      "tags": [
+        "融资",
+        "情感AI",
+        "清华"
+      ],
+      "url": "https://36kr.com/p/3846956646124036?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-10 06:11:37",
+      "impact_score": 299.0
+    },
+    {
+      "index": 5,
+      "title": "火山引擎与周星驰比高集团达成版权合作，打造AI 视频 IP 合作新模式",
+      "summary": "6月10日消息，火山引擎与周星驰旗下比高集团达成AI视频版权合作，推出全链路合作机制，用户可一键生成经典名场面短视频。",
+      "importance": "中",
+      "reason": "中国公司火山引擎重要商业合作",
+      "tags": [
+        "合作",
+        "AI视频",
+        "火山引擎"
+      ],
+      "url": "https://36kr.com/p/3846601462073600?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-10 00:08:16",
+      "impact_score": 294.0
+    },
+    {
+      "index": 6,
+      "title": "氪星晚报 ｜腾讯、阿里等入股脑机接口研发商阶梯医疗；飞猪：端午假期入境游预订量同比增长超6倍；1—5月全国期货市场累计成交额同比增长40.13%",
+      "summary": "6月10日消息，腾讯、阿里等入股脑机接口研发商阶梯医疗，显示中国科技巨头在脑机接口领域的战略布局。",
+      "importance": "中",
+      "reason": "中国公司腾讯、阿里重大投资动态",
+      "tags": [
+        "投资",
+        "脑机接口",
+        "腾讯",
+        "阿里"
+      ],
+      "url": "https://36kr.com/p/3844720012151040?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-10 01:30:00",
+      "impact_score": 271.0
+    },
+    {
+      "index": 7,
+      "title": "猫眼娱乐成首批接入微信AI生态团队，打造智能化票务新体验",
+      "summary": "6月10日消息，猫眼娱乐作为首批内测开发者接入微信AI生态，旗下小程序借助微信AI Agent能力提供智能化购票服务。",
+      "importance": "低",
+      "reason": "中国公司猫眼娱乐与腾讯合作，属于商业动态",
+      "tags": [
+        "合作",
+        "微信AI",
+        "猫眼"
+      ],
+      "url": "https://www.qbitai.com/2026/06/433731.html",
+      "source": "量子位",
+      "original_pub_date": "2026-06-10 06:45:09",
+      "impact_score": 270.0
+    },
+    {
+      "index": 8,
+      "title": "千问发布高考志愿填报Agent，为全国考生免费提供志愿填报咨询",
+      "summary": "6月10日消息，千问上线国内首个全周期高考志愿填报Agent，基于千问高考志愿大模型和夸克8年数据，免费提供定制化志愿报告。",
+      "importance": "中",
+      "reason": "中国公司千问发布重要AI应用产品",
+      "tags": [
+        "产品发布",
+        "AI应用",
+        "千问"
+      ],
+      "url": "https://36kr.com/p/3846789531404549?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-10 03:18:51",
+      "impact_score": 245.0
+    },
+    {
+      "index": 9,
+      "title": "美团AI浏览器正式上线，聚合多个大模型、强调Agent能力",
+      "summary": "6月10日消息，美团旗下GN06团队发布AI原生浏览器Tabbit 1.0，内置多款大模型，可自动执行跨软件、跨网页复杂任务。",
+      "importance": "中",
+      "reason": "中国公司美团发布重要AI产品",
+      "tags": [
+        "产品发布",
+        "AI浏览器",
+        "美团"
+      ],
+      "url": "https://36kr.com/p/3845683804555529?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-10 02:07:22",
+      "impact_score": 236.0
+    },
+    {
+      "index": 10,
+      "title": "美团发布AI浏览器Tabbit 1.0，可自动执行各类任务",
+      "summary": "6月10日消息，美团旗下GN06团队宣布AI原生浏览器Tabbit 1.0正式上线，标准版永久免费，支持Windows和macOS。",
+      "importance": "中",
+      "reason": "中国公司美团发布重要AI产品",
+      "tags": [
+        "产品发布",
+        "AI浏览器",
+        "美团"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/g1yZBjmsWQ6XRHdJ.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-10 08:35:00",
+      "impact_score": 225.0
+    },
+    {
+      "index": 11,
+      "title": "“超级明星创企”昆仑行机器人正式浮出水面",
+      "summary": "6月10日消息，前阿里集团副总裁任庚与前理想汽车智驾负责人郎咸朋创立的昆仑行机器人落地北京亦庄，获顶级机构投资。",
+      "importance": "中",
+      "reason": "中国明星创业公司成立，属于重大商业动态",
+      "tags": [
+        "创业",
+        "机器人",
+        "融资"
+      ],
+      "url": "https://36kr.com/p/3845899768760580?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-09 12:48:30",
+      "impact_score": 225.0
+    },
+    {
+      "index": 12,
+      "title": "美的与阿里巴巴达成战略合作",
+      "summary": "6月10日消息，美的集团与阿里巴巴集团签署战略合作协议，共同探索“全屋智能+AI大模型+商业生态”的下一代业务形态。",
+      "importance": "中",
+      "reason": "中国两大巨头战略合作，属于重大商业动态",
+      "tags": [
+        "合作",
+        "美的",
+        "阿里"
+      ],
+      "url": "https://36kr.com/p/3846046471277059?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-09 14:48:11",
+      "impact_score": 221.0
+    },
+    {
+      "index": 13,
+      "title": "百度智能云与FluxA达成战略合作，共建 Agent 经济全球支付基础设施",
+      "summary": "6月10日消息，百度智能云与FluxA达成战略合作，共建Agent经济全球支付基础设施，并诚邀30家OPC入驻内测。",
+      "importance": "低",
+      "reason": "中国公司百度智能云重要合作",
+      "tags": [
+        "合作",
+        "百度智能云",
+        "Agent"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/IFUwTraq1nA2j08s.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-10 03:12:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 14,
+      "title": "拼多多新公司落户雄安，首期注资5亿元，助力新区数字经济高质量发展",
+      "summary": "6月10日消息，拼多多集团成立拼多多信息技术服务（雄安）有限公司，首期注资5亿元，布局大数据处理和云平台服务。",
+      "importance": "低",
+      "reason": "中国公司拼多多重大投资布局",
+      "tags": [
+        "投资",
+        "拼多多",
+        "数字经济"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/YRFMCuwNPJyySGY4.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-10 07:35:00",
+      "impact_score": 195.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Pentagon restores Alibaba, Baidu and BYD to Chinese military groups blacklist",
+      "summary": "6月10日消息，美国国防部将阿里巴巴、百度和比亚迪等中国公司重新列入中国军事企业黑名单，认定其构成国家安全风险，此举可能加剧中美紧张关系。",
+      "importance": "高",
+      "reason": "美国国防部的黑名单行动属于重大政策与法规，直接影响中美科技关系。",
+      "tags": [
+        "政策法规",
+        "出口管制",
+        "国家安全"
+      ],
+      "url": "https://www.ft.com/content/0689d87b-8ad3-4b7c-87e3-e06f07891a17",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-06-09 15:56:18",
+      "impact_score": 315.0
+    },
+    {
+      "index": 2,
+      "title": "U.S. Accuses Alibaba, Baidu, Others of Aiding Chinese Military in Blacklist Move",
+      "summary": "6月10日消息，美国国防部指控阿里巴巴、百度等十余家中国科技公司协助中国军方，将其列入黑名单，此举可能进一步升级全球两大经济体之间的紧张局势。",
+      "importance": "高",
+      "reason": "美国政府的指控和黑名单行动是重大政策事件，影响全球供应链。",
+      "tags": [
+        "政策法规",
+        "制裁",
+        "中美关系"
+      ],
+      "url": "https://arxiv.org/abs/2606.10254",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-10 04:00:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 3,
+      "title": "Commission publishes Code of Practice on marking and labelling AI-generated content",
+      "summary": "6月10日消息，欧盟委员会发布关于AI生成内容标记和标签的实践准则，该准则为自愿性质，旨在帮助提供商和部署者遵守AI法案中的透明度义务。",
+      "importance": "高",
+      "reason": "欧盟AI法案配套准则的发布是重大政策法规事件，影响全球AI治理。",
+      "tags": [
+        "政策法规",
+        "AI法案",
+        "透明度"
+      ],
+      "url": "https://arxiv.org/abs/2606.10413",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-10 04:00:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 4,
+      "title": "Anthropic releases its first Mythos-class model Claude Fable",
+      "summary": "6月10日消息，Anthropic发布其首个Mythos级模型Claude Fable 5，称其为公司迄今为止最强大的模型，在软件工程、知识工作和视觉方面表现卓越。",
+      "importance": "高",
+      "reason": "Anthropic发布旗舰AI模型属于重大产品发布，代表AI技术前沿。",
+      "tags": [
+        "产品发布",
+        "AI模型",
+        "Anthropic"
+      ],
+      "url": "https://www.bloomberg.com/news/newsletters/2026-06-10/openai-anthropic-and-spacex-ipos-force-new-wall-street-financing-playbooks",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-10 10:30:01",
+      "impact_score": 240.0
+    },
+    {
+      "index": 5,
+      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+      "summary": "6月10日消息，谷歌DeepMind推出Gemini 3.5 Live Translate，为Google AI Studio、Google Translate和Google Meet提供近乎实时的自然语音翻译功能。",
+      "importance": "高",
+      "reason": "谷歌发布Gemini 3.5系列新功能，属于重大产品发布。",
+      "tags": [
+        "产品发布",
+        "Gemini",
+        "语音翻译"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/cambridge-aerospace-in-talks-to-raise-at-3-5-billion-valuation",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-10 08:30:38",
+      "impact_score": 240.0
+    },
+    {
+      "index": 6,
+      "title": "Google's Backstops Underpin $35 Billion Anthropic Chip Deal",
+      "summary": "6月10日消息，谷歌同意为Anthropic在五个数据中心的芯片租赁提供担保，帮助Anthropic获得相当于350亿美元的贷款，以支持其AI计算需求。",
+      "importance": "高",
+      "reason": "谷歌与Anthropic的巨额芯片交易属于重大商业动态，涉及数十亿美元。",
+      "tags": [
+        "商业动态",
+        "芯片",
+        "战略合作"
+      ],
+      "url": "https://www.theinformation.com/articles/databricks-talks-raise-165-billion-valuation",
+      "source": "The Information",
+      "original_pub_date": "2026-06-09 00:27:27",
+      "impact_score": 210.0
+    },
+    {
+      "index": 7,
+      "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
+      "summary": "6月10日消息，微软AI首席执行官Mustafa Suleyman批评Anthropic在其Claude模型的行为准则中暗示其具有意识，称这种推测“非常危险”，可能误导公众。",
+      "importance": "中",
+      "reason": "涉及AI安全与伦理争议，由行业领袖公开批评，具有影响力。",
+      "tags": [
+        "安全伦理",
+        "AI意识",
+        "争议"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/credit-agricole-ceo-says-ai-anxiety-must-come-to-an-end",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-10 11:17:44",
+      "impact_score": 180.0
+    },
+    {
+      "index": 8,
+      "title": "Databricks in Talks for Valuation of at Least $165 Billion",
+      "summary": "6月10日消息，数据库管理软件提供商Databricks正在洽谈新一轮融资，估值至少达到1650亿美元，预计未来一个月内启动，反映AI基础设施领域的资本热潮。",
+      "importance": "中",
+      "reason": "Databricks的巨额融资谈判属于重大商业动态，估值极高。",
+      "tags": [
+        "商业动态",
+        "融资",
+        "估值"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-06-10/baidu-cfo-says-openclaw-founder-sought-to-collaborate-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-10 09:19:55",
+      "impact_score": 180.0
+    },
+    {
+      "index": 9,
+      "title": "Cambridge Aerospace in Talks to Raise at $3.5 Billion Valuation",
+      "summary": "6月10日消息，英国国防科技初创公司Cambridge Aerospace正洽谈以约35亿美元估值融资3亿美元，用于开发拦截无人机和巡航导弹的拦截系统。",
+      "importance": "中",
+      "reason": "国防AI初创公司的大额融资属于重要商业动态。",
+      "tags": [
+        "商业动态",
+        "融资",
+        "国防科技"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-09/leonardo-s-new-ceo-sees-green-light-for-space-venture-next-year",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-09 22:29:40",
+      "impact_score": 180.0
+    },
+    {
+      "index": 10,
+      "title": "Anthropic, OpenAI Stoke Brisk Pace of VC Fundraising",
+      "summary": "6月10日消息，Founders Fund因Anthropic和OpenAI等AI公司的强劲表现，在不到两年内再次募集60亿美元基金，用于投资成熟初创公司，显示AI领域风投活跃。",
+      "importance": "中",
+      "reason": "AI领域风投基金的大规模募集属于重要商业动态。",
+      "tags": [
+        "商业动态",
+        "风投",
+        "融资"
+      ],
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-publishes-code-practice-marking-and-labelling-ai-generated-content",
+      "source": "EU AI Policy",
+      "original_pub_date": "2026-06-10 11:13:20",
+      "impact_score": 165.0
+    },
+    {
+      "index": 11,
+      "title": "Credit Agricole CEO Says AI Anxiety Must Come to an End",
+      "summary": "6月10日消息，法国农业信贷银行CEO Olivier Gavalda呼吁结束对AI的焦虑，尽管许多高管认为AI技术将导致银行业裁员，但他试图缓和相关担忧。",
+      "importance": "中",
+      "reason": "金融行业高管对AI影响的表态具有行业影响力。",
+      "tags": [
+        "商业动态",
+        "AI焦虑",
+        "银行业"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-06-10/orlando-bravo-on-software-deals-mega-ipos-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-10 11:17:20",
+      "impact_score": 157.5
+    },
+    {
+      "index": 12,
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "summary": "6月10日消息，谷歌DeepMind发布Gemma 4 12B模型，这是一款统一的、无需编码器的多模态模型，旨在提升AI在多任务中的表现。",
+      "importance": "中",
+      "reason": "谷歌发布新AI模型属于重要产品发布。",
+      "tags": [
+        "产品发布",
+        "多模态",
+        "Gemma"
+      ],
+      "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+      "source": "DeepMind Blog",
+      "original_pub_date": "2026-06-09 15:16:25",
+      "impact_score": 150.0
+    },
+    {
+      "index": 13,
+      "title": "SpaceX’s $1.78tn IPO asks investors to buy Musk’s moonshots",
+      "summary": "6月10日消息，SpaceX计划以1.78万亿美元估值进行IPO，要求投资者提前押注AI、星链和太空计算等未来技术，反映市场对科技创新的高预期。",
+      "importance": "中",
+      "reason": "SpaceX的巨额IPO计划属于重大商业动态，涉及AI和太空技术。",
+      "tags": [
+        "商业动态",
+        "IPO",
+        "太空技术"
+      ],
+      "url": "https://arxiv.org/abs/2606.10489",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-10 04:00:00",
+      "impact_score": 145.0
+    },
+    {
+      "index": 14,
+      "title": "All the Ways Wall Street Gets Paid to Fund AI Boom",
+      "summary": "6月10日消息，华尔街通过多种方式从AI热潮中获利，巨额估值正在改写IPO规则，显示金融行业对AI投资的深度参与。",
+      "importance": "中",
+      "reason": "华尔街在AI融资中的角色属于重要商业动态。",
+      "tags": [
+        "商业动态",
+        "IPO",
+        "金融"
+      ],
+      "url": "https://www.theinformation.com/briefings/u-s-accuses-alibaba-baidu-others-aiding-chinese-military-blacklist-move",
+      "source": "The Information",
+      "original_pub_date": "2026-06-09 08:39:29",
+      "impact_score": 145.0
+    },
+    {
+      "index": 15,
+      "title": "RealMath-Eval: Why SOTA Judges Struggle with Real Human Reasoning",
+      "summary": "6月10日消息，arXiv发布研究论文RealMath-Eval，揭示当前最先进的AI模型在评估真实人类推理过程时表现不佳，尽管在解题上接近完美。",
+      "importance": "低",
+      "reason": "学术研究论文，属于重大学术突破但影响力相对较低。",
+      "tags": [
+        "学术研究",
+        "推理",
+        "评估"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-06-10/fmr-australian-ambo-to-us-on-geopolitics-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-10 02:01:01",
+      "impact_score": 142.5
+    },
+    {
+      "index": 16,
+      "title": "Soul Computing: A Theoretical Framework and Technical Architecture for Intelligent Agents with Independent Consciousness",
+      "summary": "6月10日消息，arXiv发布论文提出“灵魂计算”理论框架，探索基于大语言模型和多模态技术构建具有独立意识的智能体，推动数字意识研究。",
+      "importance": "低",
+      "reason": "学术研究论文，属于前沿探索但尚未落地。",
+      "tags": [
+        "学术研究",
+        "意识",
+        "理论框架"
+      ],
+      "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-06-09 20:24:25",
+      "impact_score": 140.5
+    }
+  ],
+  "summary": "今日从187条原始信息中精选出14条国内动态和16条国际动态，其中9条为高重要性。 重点关注：重磅首发！奥尼AI Agent OS、Token工厂正式上线，构建智能体运行新生态；独家｜字节 AI 制药开启拆分融资，AI4S 进入产业化阶段；清华系团队做分布式预测世界模型、获数亿元A轮融资，落地终端设备达十万量级｜硬氪首发。",
+  "statistics": {
+    "raw_domestic": 44,
+    "raw_international": 143,
+    "raw_total": 187,
+    "final_domestic": 14,
+    "final_international": 16
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "6月10日消息，奥尼发布AI Agent OS 1.0和Token工厂，为智能体规模化落地提供硬件底座、操作系统和算力网络等全新实践路径。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "6月10日消息，字节跳动AI制药业务线启动拆分与独立融资，字节仍将控股新公司，核心团队和算法资产整体进入新主体。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "6月10日消息，清华系具身智能公司千诀科技完成数亿元A轮融资，由京铭资本领投，资金用于世界模型研发和商业化落地。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "6月10日消息，清华团队创立的微面科技完成数百万美元融资，由顺为资本投资，研发全球首个实时理解生理与情绪的基座模型。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "6月10日消息，火山引擎与周星驰旗下比高集团达成AI视频版权合作，推出全链路合作机制，用户可一键生成经典名场面短视频。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "6月10日消息，美国国防部将阿里巴巴、百度和比亚迪等中国公司重新列入中国军事企业黑名单，认定其构成国家安全风险，此举可能加剧中美紧张关系。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "6月10日消息，美国国防部指控阿里巴巴、百度等十余家中国科技公司协助中国军方，将其列入黑名单，此举可能进一步升级全球两大经济体之间的紧张局势。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "6月10日消息，欧盟委员会发布关于AI生成内容标记和标签的实践准则，该准则为自愿性质，旨在帮助提供商和部署者遵守AI法案中的透明度义务。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "6月10日消息，Anthropic发布其首个Mythos级模型Claude Fable 5，称其为公司迄今为止最强大的模型，在软件工程、知识工作和视觉方面表现卓越。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "6月10日消息，谷歌DeepMind推出Gemini 3.5 Live Translate，为Google AI Studio、Google Translate和Google Meet提供近乎实时的自然语音翻译功能。",
+      "importance": "高"
+    }
+  ]
+}
