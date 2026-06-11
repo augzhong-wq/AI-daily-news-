@@ -1,0 +1,466 @@
+{
+  "date": "2026-06-11",
+  "generated_at": "2026-06-11 12:13:20",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "会写字、懂排版、能分镜：HiDream-O1-Image-1.5 全能图像生成能力解析",
+      "summary": "6月11日消息，智象未来（HiDream.ai）推出商用版图像生成模型HiDream-O1-Image-1.5，在Artificial Analysis文生图榜单上成为中国图像生成模型第一，超越Google、NVIDIA和字节跳动等主流模型。",
+      "importance": "高",
+      "reason": "中国公司发布SOTA模型，属于重大产品发布",
+      "tags": [
+        "大模型",
+        "图像生成",
+        "SOTA"
+      ],
+      "url": "https://www.leiphone.com/category/ai/6WL1SBqJQM2LVl94.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-10 15:43:00",
+      "impact_score": 370.0
+    },
+    {
+      "index": 2,
+      "title": "重磅首发！奥尼AI Agent OS、Token工厂正式上线，构建智能体运行新生态",
+      "summary": "6月11日消息，奥尼作为NVIDIA合作伙伴，发布AI Agent OS 1.0和Token工厂等多项成果，为智能体规模化落地提供从硬件底座到开放生态的全新实践路径。",
+      "importance": "高",
+      "reason": "中国公司发布重要AI操作系统产品",
+      "tags": [
+        "AI Agent",
+        "操作系统",
+        "发布"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/BFGlUP9W6hRnVGtS.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-10 06:56:00",
+      "impact_score": 355.0
+    },
+    {
+      "index": 3,
+      "title": "独家｜字节 AI 制药开启拆分融资，AI4S 进入产业化阶段",
+      "summary": "6月11日消息，字节跳动AI制药业务线启动拆分与独立融资，字节仍将控股新公司，核心团队和算法平台整体进入新主体，AI4S进入产业化阶段。",
+      "importance": "高",
+      "reason": "中国头部公司重大商业动态，涉及AI制药拆分融资",
+      "tags": [
+        "AI制药",
+        "融资",
+        "字节跳动"
+      ],
+      "url": "https://36kr.com/p/3847079661193733?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-10 08:32:14",
+      "impact_score": 322.5
+    },
+    {
+      "index": 4,
+      "title": "钉钉换帅 92年技术极客陈宇森接任钉钉CEO",
+      "summary": "6月11日消息，阿里巴巴宣布钉钉管理层调整，92年技术极客陈宇森接任钉钉CEO，此前阿里合伙人委员会批评钉钉管理方式“不是阿里文化该有的样子”。",
+      "importance": "高",
+      "reason": "中国科技巨头重要人事变动",
+      "tags": [
+        "钉钉",
+        "管理层调整",
+        "阿里巴巴"
+      ],
+      "url": "https://36kr.com/p/3846956646124036?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-10 06:11:37",
+      "impact_score": 299.0
+    },
+    {
+      "index": 5,
+      "title": "火山引擎与周星驰比高集团达成版权合作，打造AI 视频 IP 合作新模式",
+      "summary": "6月11日消息，火山引擎与周星驰旗下比高集团达成AI视频创作版权合作，推出业内首个全链路合作机制，将经典电影桥段制作为AI创作模板。",
+      "importance": "中",
+      "reason": "中国公司重要战略合作，涉及AI视频与IP",
+      "tags": [
+        "火山引擎",
+        "版权合作",
+        "AI视频"
+      ],
+      "url": "https://36kr.com/p/3848476414792709?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-11 07:53:52",
+      "impact_score": 266.0
+    },
+    {
+      "index": 6,
+      "title": "猫眼娱乐成首批接入微信AI生态团队，打造智能化票务新体验",
+      "summary": "6月11日消息，猫眼娱乐作为微信AI生态首批内测开发者，旗下小程序率先接入微信AI Agent能力，为用户提供影片推荐、智能选座等一站式购票服务。",
+      "importance": "中",
+      "reason": "中国公司接入微信AI生态，属于重要商业动态",
+      "tags": [
+        "猫眼娱乐",
+        "微信AI",
+        "智能票务"
+      ],
+      "url": "https://36kr.com/p/3848564910036229?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-11 09:24:11",
+      "impact_score": 264.0
+    },
+    {
+      "index": 7,
+      "title": "芯联集成：拟出资30.12亿元投资12英寸车规级芯片制造项目",
+      "summary": "6月11日消息，芯联集成拟出资30.12亿元投资12英寸车规级数模混合芯片制造项目，计划建设5万片/月生产线，总投资约200亿元。",
+      "importance": "中",
+      "reason": "中国公司重大投资，涉及车规级芯片制造",
+      "tags": [
+        "芯片制造",
+        "投资",
+        "车规级"
+      ],
+      "url": "https://36kr.com/p/3848094835217666?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-11 01:24:41",
+      "impact_score": 250.0
+    },
+    {
+      "index": 8,
+      "title": "千问上线足球预测 AI 助手，大模型预测能否战胜人类？",
+      "summary": "6月11日消息，千问上线首个足球预测AI助手，基于海量大数据训练，融合天气、地貌等数据，向所有用户开放，参与世界杯竞猜预测。",
+      "importance": "中",
+      "reason": "中国公司发布AI应用产品",
+      "tags": [
+        "千问",
+        "足球预测",
+        "AI助手"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/EA4A0xaQ1pM3TeQM.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-11 02:08:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 9,
+      "title": "千问发布高考志愿填报Agent，为全国考生免费提供志愿填报咨询",
+      "summary": "6月11日消息，千问上线国内首个全周期高考志愿填报Agent，基于高考志愿大模型和夸克8年数据，免费提供志愿报告、日历和问答服务。",
+      "importance": "中",
+      "reason": "中国公司发布AI应用，服务社会民生",
+      "tags": [
+        "千问",
+        "高考志愿",
+        "AI Agent"
+      ],
+      "url": "https://36kr.com/p/3848188076381187?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-11 02:59:54",
+      "impact_score": 225.0
+    },
+    {
+      "index": 10,
+      "title": "美团AI浏览器正式上线，聚合多个大模型、强调Agent能力",
+      "summary": "6月11日消息，美团旗下GN06团队宣布AI原生浏览器Tabbit 1.0正式上线，内置多款头部大模型，标准版永久免费，专业版一周9.9元。",
+      "importance": "中",
+      "reason": "中国公司发布AI浏览器产品",
+      "tags": [
+        "美团",
+        "AI浏览器",
+        "Agent"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/g1yZBjmsWQ6XRHdJ.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-10 08:35:00",
+      "impact_score": 225.0
+    },
+    {
+      "index": 11,
+      "title": "美团与广东监管部门建立协同共治模式，涵盖数据共享等多个环节",
+      "summary": "6月11日消息，美团“食安政企共治平台”落地广东，通过“平台发现—推送监管—联合处置”模式，已与全国28个省份160余个监管部门建立数据共享机制。",
+      "importance": "低",
+      "reason": "中国公司与政府合作，涉及监管数据共享",
+      "tags": [
+        "美团",
+        "监管",
+        "数据共享"
+      ],
+      "url": "https://36kr.com/p/3848383082222849?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-11 06:51:16",
+      "impact_score": 221.0
+    },
+    {
+      "index": 12,
+      "title": "两部门约谈提醒涉嫌非理性竞争汽车生产企业",
+      "summary": "6月11日消息，工业和信息化部、市场监管总局对涉嫌非理性竞争的汽车生产企业进行约谈提醒，要求企业加强价格合规建设，维护良性竞争市场秩序。",
+      "importance": "中",
+      "reason": "中国政府监管动态，涉及汽车行业",
+      "tags": [
+        "监管",
+        "汽车",
+        "约谈"
+      ],
+      "url": "https://36kr.com/newsflashes/3848727381988353?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-11 12:07:57",
+      "impact_score": 210.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Exclusive: OpenAI Preps New AI Model, Expects To Go Public ‘Within the Next Year’",
+      "summary": "6月11日消息，OpenAI CEO Sam Altman在Slack消息中表示，预计OpenAI将在未来一年内上市，并透露正在准备新AI模型，此举将为公司提供更多战略灵活性。",
+      "importance": "高",
+      "reason": "重大商业动态：OpenAI作为全球领先AI公司，其IPO计划和新模型发布将深刻影响AI产业格局。",
+      "tags": [
+        "OpenAI",
+        "IPO",
+        "AI模型",
+        "Sam Altman"
+      ],
+      "url": "https://arxiv.org/abs/2606.11245",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-11 04:00:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 2,
+      "title": "Commission publishes Code of Practice on marking and labelling AI-generated content",
+      "summary": "6月11日消息，欧盟委员会发布关于AI生成内容标记和标签的实践准则，该准则为自愿性质，旨在帮助提供商和部署者遵守AI法案下的透明度义务。",
+      "importance": "高",
+      "reason": "重大政策与法规：欧盟AI法案配套细则出台，对全球AI内容标注标准具有示范效应。",
+      "tags": [
+        "欧盟",
+        "AI法案",
+        "AI监管",
+        "内容标注"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-06-11/anduril-open-to-building-weapons-hub-outside-us-ceo-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-11 12:02:37",
+      "impact_score": 262.5
+    },
+    {
+      "index": 3,
+      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+      "summary": "6月11日消息，xAI前工程师起诉公司和SpaceX，声称因在SpaceX历史性IPO前几天提出Grok AI安全担忧而被解雇，案件引发对AI安全举报人保护的关注。",
+      "importance": "高",
+      "reason": "安全与伦理：涉及AI安全举报和诉讼，凸显AI企业内部安全文化问题。",
+      "tags": [
+        "xAI",
+        "AI安全",
+        "诉讼",
+        "Grok"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-11/spacex-ipo-will-mint-billions-for-a-new-silicon-valley-hierarchy",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-11 10:00:00",
+      "impact_score": 255.0
+    },
+    {
+      "index": 4,
+      "title": "Anthropic Proposes Public Fund for Giving Americans Stakes in AI Companies",
+      "summary": "6月11日消息，Anthropic CEO Dario Amodei发布政策框架，提议建立公共基金让美国公民获得AI行业收益的财务股份，为新生儿设立类似特朗普账户的资本账户。",
+      "importance": "高",
+      "reason": "重大政策与法规：创新性AI财富分配提案，可能影响未来AI产业的社会经济模式。",
+      "tags": [
+        "Anthropic",
+        "AI政策",
+        "财富分配",
+        "Dario Amodei"
+      ],
+      "url": "https://arxiv.org/abs/2606.11851",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-11 04:00:00",
+      "impact_score": 230.0
+    },
+    {
+      "index": 5,
+      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "summary": "6月11日消息，Google DeepMind资助研究数百万AI代理在线交互的潜在危险，其AGI安全与对齐研究负责人Rohin Shah警告大规模代理部署可能带来系统性风险。",
+      "importance": "高",
+      "reason": "安全与伦理：顶级AI实验室关注多代理交互风险，对AI安全研究具有重要指导意义。",
+      "tags": [
+        "Google DeepMind",
+        "AI安全",
+        "多代理",
+        "AGI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-11/data-center-battery-maker-zincfive-to-merge-with-sparklabs-spac",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-11 11:30:00",
+      "impact_score": 225.0
+    },
+    {
+      "index": 6,
+      "title": "Meta Starts Unwinding Manus Deal by Splitting Operations, Data",
+      "summary": "6月11日消息，Meta已完成与Manus的运营分离并停止数据共享，这是撤销因北京反对而受阻的20亿美元收购案的关键一步，反映中美科技脱钩趋势。",
+      "importance": "中",
+      "reason": "重大商业动态：Meta剥离中国资产，涉及20亿美元收购案，影响跨国科技并购格局。",
+      "tags": [
+        "Meta",
+        "Manus",
+        "收购",
+        "数据共享"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-11/meta-severs-manus-data-access-after-china-orders-buyout-unwound",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-11 07:58:15",
+      "impact_score": 225.0
+    },
+    {
+      "index": 7,
+      "title": "Anthropic’s New Model Targets Power Users But Cuts Off AI Rivals",
+      "summary": "6月11日消息，Anthropic发布Claude Fable 5模型，虽为削弱版本但开发者认为其推理能力出色，该模型面向高端用户并限制竞争对手访问，引发市场关注。",
+      "importance": "中",
+      "reason": "重大产品发布：Anthropic新模型发布，虽功能受限但性能获认可，反映AI模型竞争策略。",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "AI模型",
+        "推理"
+      ],
+      "url": "https://arxiv.org/abs/2606.11769",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-11 04:00:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 8,
+      "title": "US-Backed Philippines AI Hub Could Draw at Least $10 Billion in Investments",
+      "summary": "6月11日消息，美国支持的菲律宾AI中心计划可能吸引至少100亿美元初始投资，旨在支撑受伊朗战争冲击的经济，体现美国在东南亚的AI战略布局。",
+      "importance": "中",
+      "reason": "重大商业动态：美国主导的海外AI基础设施投资，规模达百亿美元，具有地缘经济意义。",
+      "tags": [
+        "美国",
+        "菲律宾",
+        "AI中心",
+        "投资"
+      ],
+      "url": "https://arxiv.org/abs/2606.11770",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-11 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 9,
+      "title": "Korea Fines Coupang Record $409 Million for Data Breach",
+      "summary": "6月11日消息，韩国监管机构对电商平台Coupang处以创纪录的4.09亿美元罚款，因其数据泄露影响近三分之二人口，并引发与美国的外交摩擦。",
+      "importance": "中",
+      "reason": "重大政策与法规：韩国数据保护执法创纪录，对AI数据合规具有警示作用。",
+      "tags": [
+        "韩国",
+        "Coupang",
+        "数据泄露",
+        "罚款"
+      ],
+      "url": "https://arxiv.org/abs/2606.12018",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-11 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 10,
+      "title": "OpenAI Launches New ChatGPT Ads Featuring Specific Products",
+      "summary": "6月11日消息，OpenAI推出ChatGPT新产品广告功能，允许广告商通过分享产品信息流创建定向广告，但产品数据仅用于广告生成，不用于模型训练。",
+      "importance": "中",
+      "reason": "重大商业动态：OpenAI商业化新举措，拓展广告业务模式，可能改变AI平台盈利方式。",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "广告",
+        "商业化"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-11/anduril-ceo-says-he-s-open-to-building-weapons-hub-outside-of-us",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-11 11:34:09",
+      "impact_score": 180.0
+    },
+    {
+      "index": 11,
+      "title": "Deezer launches an AI music detector for other streaming services",
+      "summary": "6月11日消息，Deezer推出AI音乐检测工具，可扫描其他流媒体平台播放列表识别AI生成音乐，作为首批标注AI音乐的流媒体服务，其技术推广遇冷。",
+      "importance": "低",
+      "reason": "安全与伦理：AI内容检测工具发布，但市场接受度有限，反映AI音乐治理挑战。",
+      "tags": [
+        "Deezer",
+        "AI音乐",
+        "检测",
+        "流媒体"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-06-11/voyager-ceo-spacex-ipo-attention-good-for-space-sector-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-11 09:26:42",
+      "impact_score": 180.0
+    },
+    {
+      "index": 12,
+      "title": "Sen. Warren calls on SEC to delay SpaceX IPO, flagging concerns about valuation and governance",
+      "summary": "6月11日消息，美国参议员Elizabeth Warren致信SEC要求推迟SpaceX IPO，指出Elon Musk作为大股东的“独特不受约束”权力及估值和治理问题。",
+      "importance": "低",
+      "reason": "重大政策与法规：美国议员干预科技公司IPO，但SpaceX非纯AI公司，影响有限。",
+      "tags": [
+        "SpaceX",
+        "IPO",
+        "监管",
+        "Elon Musk"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-06-11/spacex-ipo-good-for-sector-says-voyager-ceo-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-11 09:00:09",
+      "impact_score": 180.0
+    }
+  ],
+  "summary": "今日从188条原始信息中精选出12条国内动态和12条国际动态，其中9条为高重要性。 重点关注：会写字、懂排版、能分镜：HiDream-O1-Image-1.5 全能图像生成能力解析；重磅首发！奥尼AI Agent OS、Token工厂正式上线，构建智能体运行新生态；独家｜字节 AI 制药开启拆分融资，AI4S 进入产业化阶段。",
+  "statistics": {
+    "raw_domestic": 49,
+    "raw_international": 139,
+    "raw_total": 188,
+    "final_domestic": 12,
+    "final_international": 12
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "6月11日消息，智象未来（HiDream.ai）推出商用版图像生成模型HiDream-O1-Image-1.5，在Artificial Analysis文生图榜单上成为中国图像生成模型第一，超越Google、NVIDIA和字节跳动等主流模型。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "6月11日消息，奥尼作为NVIDIA合作伙伴，发布AI Agent OS 1.0和Token工厂等多项成果，为智能体规模化落地提供从硬件底座到开放生态的全新实践路径。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "6月11日消息，字节跳动AI制药业务线启动拆分与独立融资，字节仍将控股新公司，核心团队和算法平台整体进入新主体，AI4S进入产业化阶段。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "6月11日消息，阿里巴巴宣布钉钉管理层调整，92年技术极客陈宇森接任钉钉CEO，此前阿里合伙人委员会批评钉钉管理方式“不是阿里文化该有的样子”。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "6月11日消息，火山引擎与周星驰旗下比高集团达成AI视频创作版权合作，推出业内首个全链路合作机制，将经典电影桥段制作为AI创作模板。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "6月11日消息，OpenAI CEO Sam Altman在Slack消息中表示，预计OpenAI将在未来一年内上市，并透露正在准备新AI模型，此举将为公司提供更多战略灵活性。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "6月11日消息，欧盟委员会发布关于AI生成内容标记和标签的实践准则，该准则为自愿性质，旨在帮助提供商和部署者遵守AI法案下的透明度义务。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "6月11日消息，xAI前工程师起诉公司和SpaceX，声称因在SpaceX历史性IPO前几天提出Grok AI安全担忧而被解雇，案件引发对AI安全举报人保护的关注。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "6月11日消息，Anthropic CEO Dario Amodei发布政策框架，提议建立公共基金让美国公民获得AI行业收益的财务股份，为新生儿设立类似特朗普账户的资本账户。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "6月11日消息，Google DeepMind资助研究数百万AI代理在线交互的潜在危险，其AGI安全与对齐研究负责人Rohin Shah警告大规模代理部署可能带来系统性风险。",
+      "importance": "高"
+    }
+  ]
+}
