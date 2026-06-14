@@ -1,0 +1,426 @@
+{
+  "date": "2026-06-14",
+  "generated_at": "2026-06-14 10:51:27",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "2026北京智源大会开幕 | 从“悟道”到“悟界”，智源研究院推动人工智能、物理世界和生命科学“三体互动”",
+      "summary": "6月14日消息，智源研究院主办的第八届北京智源大会在中关村开幕，汇聚200余位顶尖学者和40余位AI企业CEO，推动人工智能、物理世界和生命科学“三体互动”。",
+      "importance": "高",
+      "reason": "中国研究机构主办的重大AI学术会议，汇聚国内外顶尖学者，展示中国AI前沿成果。",
+      "tags": [
+        "学术会议",
+        "人工智能",
+        "智源研究院"
+      ],
+      "url": "https://36kr.com/p/3850902095336449?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-13 01:02:18",
+      "impact_score": 502.5
+    },
+    {
+      "index": 2,
+      "title": "外媒曝蚂蚁集团正秘密测试AI 版支付宝",
+      "summary": "6月14日消息，外媒曝蚂蚁集团正秘密测试AI版支付宝，新版本颠覆原有用户交互，可一键切入原生AI界面，实现从服务到资金管理的智能化，上线时间未定。",
+      "importance": "高",
+      "reason": "中国头部金融科技公司蚂蚁集团的重要产品动态，涉及AI与金融服务的深度融合。",
+      "tags": [
+        "蚂蚁集团",
+        "AI",
+        "支付宝"
+      ],
+      "url": "https://36kr.com/p/3850898430989577?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-13 01:01:24",
+      "impact_score": 435.0
+    },
+    {
+      "index": 3,
+      "title": "我国首批自研海洋工程柔性智能焊接机器人投用",
+      "summary": "6月14日消息，海洋石油工程股份有限公司宣布我国首批自主研发海洋工程柔性制造智能焊接机器人设备系统在天津投用，为海洋能源领域新质生产力培育提供装备支撑。",
+      "importance": "中",
+      "reason": "中国自主研发的工业机器人重大突破，体现AI在海洋工程领域的应用进展。",
+      "tags": [
+        "机器人",
+        "海洋工程",
+        "自主研发"
+      ],
+      "url": "https://36kr.com/p/3851106394117383?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-13 04:59:03",
+      "impact_score": 420.0
+    },
+    {
+      "index": 4,
+      "title": "扣子3.0正式上线专业自媒体 Skill",
+      "summary": "6月14日消息，扣子3.0正式上线专业自媒体Skill，面向内容创作者提供从选题到复盘的全流程辅助能力，覆盖热点监测、内容创作、平台适配等场景，支持多端协同。",
+      "importance": "中",
+      "reason": "中国AI产品扣子3.0发布新功能，面向内容创作领域，体现AI工具化应用。",
+      "tags": [
+        "扣子",
+        "自媒体",
+        "AI工具"
+      ],
+      "url": "https://36kr.com/p/3851350342325504?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-13 08:37:21",
+      "impact_score": 405.0
+    },
+    {
+      "index": 5,
+      "title": "36氪首发 | 核心材料成本降至进口材料五分之一，电致变色技术厂商获投，车规级产线建设中",
+      "summary": "6月14日消息，中科电墨完成数千万元Pre-A轮融资，由西安龙鼎投资独家投资，用于车规级电致变色产线建设及核心材料研发，其核心材料成本降至进口材料五分之一。",
+      "importance": "中",
+      "reason": "中国科技公司中科电墨获得融资，在电致变色材料领域实现成本突破，具有商业价值。",
+      "tags": [
+        "融资",
+        "电致变色",
+        "新材料"
+      ],
+      "url": "https://36kr.com/p/3851015329027336?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-13 03:00:16",
+      "impact_score": 401.0
+    },
+    {
+      "index": 6,
+      "title": "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
+      "summary": "6月14日消息，消费级柔性机器人公司SoulX完成数千万元天使轮融资，由高瓴创投投资，首款机器人产品MoYa将于2026年下半年发布，采用无摄像头设计模拟拥抱缓解压力。",
+      "importance": "中",
+      "reason": "中国机器人公司SoulX获得高瓴投资，聚焦家庭情感关护场景，体现AI与机器人结合的新方向。",
+      "tags": [
+        "融资",
+        "机器人",
+        "消费级"
+      ],
+      "url": "https://36kr.com/p/3850904887268611?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-13 01:04:10",
+      "impact_score": 271.0
+    },
+    {
+      "index": 7,
+      "title": "36氪研究院 | AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
+      "summary": "6月14日消息，36氪研究院与新通教育联合发布《AI时代留学就业白皮书》，基于百万级家庭服务数据，分析中国留学生全球就业趋势与人才价值重塑，提供未来就业生存指南。",
+      "importance": "中",
+      "reason": "中国机构发布AI时代留学就业白皮书，关注AI对人才市场的影响，具有行业参考价值。",
+      "tags": [
+        "白皮书",
+        "留学",
+        "就业"
+      ],
+      "url": "https://36kr.com/p/3851572421432324?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-14 01:30:00",
+      "impact_score": 260.0
+    },
+    {
+      "index": 8,
+      "title": "南航第十一架C919国产大飞机正式入列",
+      "summary": "6月14日消息，南方航空第十一架C919国产大飞机从南昌瑶湖机场飞抵广州白云国际机场正式入列，这是南航首次在商飞（江西）飞机制造有限公司接收C919。",
+      "importance": "低",
+      "reason": "中国国产大飞机C919的交付进展，体现中国航空工业成就，但非直接AI相关。",
+      "tags": [
+        "C919",
+        "国产大飞机",
+        "南方航空"
+      ],
+      "url": "https://www.leiphone.com/category/academic/PRkJuKQSDv4Q1le5.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-13 00:07:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 9,
+      "title": "成渝中线与成达万高铁枢纽连接工程取得关键突破",
+      "summary": "6月14日消息，位于四川资阳乐至站的两条关键联络线隧道相继贯通，标志着成渝中线高铁与成达万高铁的枢纽连接工程取得关键突破，将提升西南地区铁路运输效率。",
+      "importance": "低",
+      "reason": "中国高铁基础设施建设的重大进展，但非AI相关。",
+      "tags": [
+        "高铁",
+        "基础设施",
+        "成渝"
+      ],
+      "url": "https://36kr.com/newsflashes/3852643102741511?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-14 07:30:01",
+      "impact_score": 234.0
+    },
+    {
+      "index": 10,
+      "title": "中建六局与大禹集团签署战略合作协议",
+      "summary": "6月14日消息，中建六局与大禹集团签署战略合作协议，双方将在水利基础设施、智慧水务、节水灌溉、生态环保等领域开展全面深度合作。",
+      "importance": "低",
+      "reason": "中国公司之间的战略合作，涉及智慧水务等AI应用领域，但影响力有限。",
+      "tags": [
+        "合作",
+        "智慧水务",
+        "基础设施"
+      ],
+      "url": "https://36kr.com/p/3851073239372809?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-13 04:08:19",
+      "impact_score": 195.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Anthropic suspends latest AI models after US blocks access to foreigners",
+      "summary": "6月14日消息，美国特朗普政府以国家安全为由，命令Anthropic限制外国公民访问其最新AI模型，Anthropic随即暂停了相关模型的访问权限。",
+      "importance": "高",
+      "reason": "重大政策与法规：美国政府直接干预AI公司，限制模型出口，涉及国家安全，影响深远。",
+      "tags": [
+        "国家安全",
+        "出口管制",
+        "Anthropic"
+      ],
+      "url": "https://www.theinformation.com/articles/longevity-startups-conundrum-can-sell-longevity-drugs",
+      "source": "The Information",
+      "original_pub_date": "2026-06-13 15:06:24",
+      "impact_score": 240.0
+    },
+    {
+      "index": 2,
+      "title": "OpenAI Probed by Coalition of State Attorneys General",
+      "summary": "6月14日消息，美国多个州的总检察长组成联盟，对OpenAI展开调查，要求其提供广告政策、健康数据处理等多方面信息。",
+      "importance": "高",
+      "reason": "重大政策与法规：多州联合调查OpenAI，涉及AI监管和合规，影响行业格局。",
+      "tags": [
+        "调查",
+        "监管",
+        "OpenAI"
+      ],
+      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-06-14 00:03:49",
+      "impact_score": 195.0
+    },
+    {
+      "index": 3,
+      "title": "Amazon’s Jassy Raised Concerns About Anthropic Model Before Trump Crackdown",
+      "summary": "6月14日消息，亚马逊CEO安迪·贾西向特朗普政府高级官员表达了对Anthropic先进模型安全风险的担忧，此举可能促成了后续的政府限制措施。",
+      "importance": "高",
+      "reason": "重大商业动态与政策联动：科技巨头CEO直接参与AI安全讨论，影响政府决策。",
+      "tags": [
+        "国家安全",
+        "AI安全",
+        "亚马逊",
+        "Anthropic"
+      ],
+      "url": "https://www.ft.com/content/2a27300a-b90d-4649-8c09-f7e7cd426dbb",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-06-13 02:01:55",
+      "impact_score": 165.0
+    },
+    {
+      "index": 4,
+      "title": "Why the US Is Investing in Quantum Computing",
+      "summary": "6月14日消息，特朗普政府通过风险投资方式，入股九家量子计算公司，IBM成为最大受益方，旨在推动药物发现、金融市场等领域的突破。",
+      "importance": "高",
+      "reason": "重大政策与法规：美国政府直接注资量子计算，体现战略投资方向，影响科技产业。",
+      "tags": [
+        "量子计算",
+        "政府投资",
+        "IBM"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-13 00:27:02",
+      "impact_score": 165.0
+    },
+    {
+      "index": 5,
+      "title": "Anthropic Suspends Customers’ Access to Latest Models After Government Order",
+      "summary": "6月14日消息，Anthropic应美国政府命令，暂停客户对其最新模型Fable 5和Mythos 5的访问，并禁止外国籍员工使用，以遵守国家安全要求。",
+      "importance": "高",
+      "reason": "重大政策与法规：政府直接命令AI公司限制模型访问，涉及出口管制和国家安全。",
+      "tags": [
+        "国家安全",
+        "出口管制",
+        "Anthropic"
+      ],
+      "url": "https://www.theinformation.com/articles/amazons-jassy-raised-concerns-anthropic-model-trump-crackdown",
+      "source": "The Information",
+      "original_pub_date": "2026-06-13 16:11:33",
+      "impact_score": 160.0
+    },
+    {
+      "index": 6,
+      "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+      "summary": "6月14日消息，美国政府以国家安全为由，命令Anthropic阻止所有外国用户访问Fable 5和Mythos 5模型，Anthropic已完全切断相关访问权限。",
+      "importance": "高",
+      "reason": "重大政策与法规：政府直接干预AI模型分发，影响全球用户和行业。",
+      "tags": [
+        "国家安全",
+        "出口管制",
+        "Anthropic"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-06-13/why-the-us-is-investing-in-quantum-computing-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-13 14:05:21",
+      "impact_score": 157.5
+    },
+    {
+      "index": 7,
+      "title": "OpenAI says it's engaging 'constructively' with state AGs about concerns",
+      "summary": "6月14日消息，针对多州总检察长联盟的调查，OpenAI表示正在“建设性地”与各州总检察长沟通，回应其关切。",
+      "importance": "高",
+      "reason": "重大政策与法规：OpenAI回应多州调查，涉及AI监管合规。",
+      "tags": [
+        "调查",
+        "监管",
+        "OpenAI"
+      ],
+      "url": "https://www.cnbc.com/2026/06/12/spacex-moonshots-valuation-westly-tesla.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-06-13 07:22:10",
+      "impact_score": 150.0
+    },
+    {
+      "index": 8,
+      "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+      "summary": "6月14日消息，据华尔街日报报道，亚马逊的安全研究及CEO贾西与白宫的沟通，触发了政府对Anthropic Fable 5和Mythos 5的出口管制指令。",
+      "importance": "中",
+      "reason": "重大商业动态与政策联动：科技公司研究影响政府决策，体现AI安全博弈。",
+      "tags": [
+        "国家安全",
+        "AI安全",
+        "亚马逊",
+        "Anthropic"
+      ],
+      "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-06-13 16:47:18",
+      "impact_score": 145.0
+    },
+    {
+      "index": 9,
+      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "summary": "6月14日消息，亚马逊CEO安迪·贾西据称在政府行动前提出了对Anthropic模型的安全担忧，导致Anthropic于周五全球范围内切断两个模型的访问。",
+      "importance": "中",
+      "reason": "重大商业动态与政策联动：CEO直接参与AI安全讨论，影响政府行动。",
+      "tags": [
+        "国家安全",
+        "AI安全",
+        "亚马逊",
+        "Anthropic"
+      ],
+      "url": "https://www.theinformation.com/briefings/anthropic-suspends-customers-access-latest-models-government-order",
+      "source": "The Information",
+      "original_pub_date": "2026-06-13 02:41:27",
+      "impact_score": 145.0
+    },
+    {
+      "index": 10,
+      "title": "Exclusive: U.S. Government Unlikely to Extend Anthropic Export Control to Other AI Companies",
+      "summary": "6月14日消息，美国政府官员透露，白宫不太可能将对Anthropic先进模型的出口限制扩大到其他AI公司，原因是Anthropic拒绝修复模型漏洞。",
+      "importance": "中",
+      "reason": "重大政策与法规：政府明确出口管制范围，影响行业预期。",
+      "tags": [
+        "出口管制",
+        "国家安全",
+        "Anthropic"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-06-13 12:55:49",
+      "impact_score": 130.0
+    },
+    {
+      "index": 11,
+      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+      "summary": "6月14日消息，Meta应北京方面要求，开始撤销对Manus的20亿美元收购交易，该交易此前已引发监管关注。",
+      "importance": "中",
+      "reason": "重大商业动态：Meta因中国监管要求放弃大额收购，涉及跨境交易和地缘政治。",
+      "tags": [
+        "收购",
+        "监管",
+        "Meta"
+      ],
+      "url": "https://www.cnbc.com/2026/06/12/openai-says-its-engaging-constructively-with-state-ags-.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-06-13 00:29:18",
+      "impact_score": 130.0
+    },
+    {
+      "index": 12,
+      "title": "Visa is handling AI-prompted transactions for OpenAI - but can you trust it?",
+      "summary": "6月14日消息，Visa与OpenAI达成合作，处理由AI提示引发的交易，专家对交易安全性提出质疑。",
+      "importance": "低",
+      "reason": "重大商业动态：Visa与OpenAI合作，探索AI支付新场景，但重要性相对较低。",
+      "tags": [
+        "合作",
+        "支付",
+        "Visa",
+        "OpenAI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-14/jack-ma-backed-ant-set-for-high-stakes-overhaul-of-billion-user-alipay-app",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-14 08:00:00",
+      "impact_score": 127.5
+    }
+  ],
+  "summary": "今日从70条原始信息中精选出10条国内动态和12条国际动态，其中9条为高重要性。 重点关注：2026北京智源大会开幕 | 从“悟道”到“悟界”，智源研究院推动人工智能、物理世界和生命科学“三体互动”；外媒曝蚂蚁集团正秘密测试AI 版支付宝；Anthropic suspends latest AI models after US blocks access to foreigners。",
+  "statistics": {
+    "raw_domestic": 26,
+    "raw_international": 44,
+    "raw_total": 70,
+    "final_domestic": 10,
+    "final_international": 12
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "6月14日消息，智源研究院主办的第八届北京智源大会在中关村开幕，汇聚200余位顶尖学者和40余位AI企业CEO，推动人工智能、物理世界和生命科学“三体互动”。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "6月14日消息，外媒曝蚂蚁集团正秘密测试AI版支付宝，新版本颠覆原有用户交互，可一键切入原生AI界面，实现从服务到资金管理的智能化，上线时间未定。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "6月14日消息，海洋石油工程股份有限公司宣布我国首批自主研发海洋工程柔性制造智能焊接机器人设备系统在天津投用，为海洋能源领域新质生产力培育提供装备支撑。",
+      "importance": "中"
+    },
+    {
+      "index": 4,
+      "summary": "6月14日消息，扣子3.0正式上线专业自媒体Skill，面向内容创作者提供从选题到复盘的全流程辅助能力，覆盖热点监测、内容创作、平台适配等场景，支持多端协同。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "6月14日消息，中科电墨完成数千万元Pre-A轮融资，由西安龙鼎投资独家投资，用于车规级电致变色产线建设及核心材料研发，其核心材料成本降至进口材料五分之一。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "6月14日消息，美国特朗普政府以国家安全为由，命令Anthropic限制外国公民访问其最新AI模型，Anthropic随即暂停了相关模型的访问权限。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "6月14日消息，美国多个州的总检察长组成联盟，对OpenAI展开调查，要求其提供广告政策、健康数据处理等多方面信息。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "6月14日消息，亚马逊CEO安迪·贾西向特朗普政府高级官员表达了对Anthropic先进模型安全风险的担忧，此举可能促成了后续的政府限制措施。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "6月14日消息，特朗普政府通过风险投资方式，入股九家量子计算公司，IBM成为最大受益方，旨在推动药物发现、金融市场等领域的突破。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "6月14日消息，Anthropic应美国政府命令，暂停客户对其最新模型Fable 5和Mythos 5的访问，并禁止外国籍员工使用，以遵守国家安全要求。",
+      "importance": "高"
+    }
+  ]
+}
