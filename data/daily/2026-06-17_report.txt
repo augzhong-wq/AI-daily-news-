@@ -1,0 +1,198 @@
+======================================================================
+AI每日动态 - 2026-06-17
+生成时间: 2026-06-17 12:20:45
+数据来源: 从 204 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、6月17日消息，DeepSeek完成超500亿创纪录融资，采用特殊架构确保创始人梁文锋控权，成为国内AI领域最大单笔融资之一。
+2、6月17日消息，大晓机器人联合香港中文大学多媒体实验室发布具身操作VLA模型ACE-Ego，在两大国际权威具身智能基准上刷新SOTA，为具身模型规模化训练开辟新路径。
+3、6月17日消息，世界模型公司逆矩阵科技完成超亿美元种子++轮融资，由经纬创投、五源资本等参与，并获蚂蚁集团战略投资，发布通用世界基座模型Physis-v0.1。
+4、6月17日消息，全国首个省级政务智能中枢平台湾擎上线试运行，集成腾讯WorkBuddy，面向广东省政务系统提供AI助手，推动政务智能化从碎片化走向集约化。
+5、6月17日消息，阿里发布可实时构建和交互的开放式世界模型产品HappyOyster 1.0，具备世界探索和实时导演能力，用户可一句话或一张图生成可互动的AI数字世界。
+
+国际动态：
+1、6月17日消息，SpaceX宣布以600亿美元收购AI编程初创公司Cursor，旨在增强企业客户竞争力并缩小与Anthropic和OpenAI的差距。
+2、6月17日消息，美国国防部披露在伊朗战争中使用xAI的Grok模型辅助规划轰炸任务，该模型部署于政府AI服务Maven Smart Systems中。
+3、6月17日消息，OpenAI的Sam Altman和Anthropic的Dario Amodei等AI行业领袖将参加在法国举行的七国集团峰会，讨论AI治理与合作。
+4、6月17日消息，英伟达Blackwell平台在MLPerf Training 6.0基准测试中取得最快、最大、最强成绩，展示了其在AI训练基础设施上的领先地位。
+5、6月17日消息，谷歌发布Android 17和Wear OS 7，引入新多任务工具和AI功能，同时通过Pixel Drop将最新Gemini模型部署到设备上。
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 6月17日消息，DeepSeek完成超500亿创纪录融资，采用特殊架构确保创始人梁文锋控权，成为国内AI领域最大单笔融资之一。
+   📋 入选理由: 重大商业动态，国内AI公司创纪录融资，影响深远
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3856525981275138?f=rss
+   🏷️ 标签: 融资, AI, DeepSeek, 创纪录
+
+2、🔥 6月17日消息，大晓机器人联合香港中文大学多媒体实验室发布具身操作VLA模型ACE-Ego，在两大国际权威具身智能基准上刷新SOTA，为具身模型规模化训练开辟新路径。
+   📋 入选理由: 重大学术突破，国内机构联合发布SOTA模型，开源
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/zaobao/x7smRCp8vFcgtOEU.html
+   🏷️ 标签: 具身智能, SOTA, 开源, 香港中文大学
+
+3、📌 6月17日消息，智能机器人公司仙工智能开始招股，招股价101.60港元，市值112.27亿港元，其机器人控制器全球市占率第一，核心壁垒在机器人“大脑”。
+   📋 入选理由: 重大商业动态，国内AI公司港股IPO
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/ai/OOjkRGQUyVp9mtQ4.html
+   🏷️ 标签: IPO, 机器人, 仙工智能, 港股
+
+4、🔥 6月17日消息，世界模型公司逆矩阵科技完成超亿美元种子++轮融资，由经纬创投、五源资本等参与，并获蚂蚁集团战略投资，发布通用世界基座模型Physis-v0.1。
+   📋 入选理由: 重大商业动态，国内AI公司大额融资，发布重要模型
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/ai/Dt3i3KlHCTdZGukZ.html
+   🏷️ 标签: 融资, 世界模型, 逆矩阵, 蚂蚁集团
+
+5、📌 6月17日消息，AI蛋白质设计平台公司分子之心完成A轮系列融资，累计逾亿美元，由蓝桥资本、浦东创投等参与，老股东追加投资，标志AI蛋白质竞争进入产业落地阶段。
+   📋 入选理由: 重大商业动态，国内AI生物公司大额融资
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3857011810112521?f=rss
+   🏷️ 标签: 融资, AI生物, 分子之心, 蛋白质设计
+
+6、📌 6月17日消息，深圳市大数据研究院四项科研成果被国际机器学习大会ICML 2026录用，ICML是AI领域顶级学术会议，与NeurIPS、ICLR并称三大顶会。
+   📋 入选理由: 重大学术突破，国内研究机构成果被顶会录用
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3826129009234824?f=rss
+   🏷️ 标签: ICML, 学术, 深圳市大数据研究院, 机器学习
+
+7、📌 6月17日消息，中性原子量子计算平台级核心供应商太微量子连续完成天使轮、天使+轮融资，投资方包括英诺天使、东方嘉富等，团队来自中科大等高校。
+   📋 入选理由: 重大商业动态，国内量子计算公司连续融资
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/aihealth/NUPeBXShajKt90nJ.html
+   🏷️ 标签: 融资, 量子计算, 太微量子, 中科大
+
+8、📌 6月17日消息，海尔连开两家外骨骼机器人旗舰店，第三代消费级外骨骼设备W3上线，5月销量超1000台，瞄准3亿老年人市场，成为消费级外骨骼赛道黑马。
+   📋 入选理由: 重大商业动态，国内企业布局外骨骼机器人市场
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/aihealth/jAeC3TqxHJc8bGb1.html
+   🏷️ 标签: 外骨骼机器人, 海尔, 消费级, 老年人
+
+9、📌 6月17日消息，香港中文大学（深圳）人工智能学院荆炳义、尹峰、贺品嘉教授团队的6篇论文被机器学习顶级会议ICML 2026接收，展示国内AI学术实力。
+   📋 入选理由: 重大学术突破，国内高校团队多篇论文被顶会接收
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/private/haovJSw5s9MS2aUM.html
+   🏷️ 标签: ICML, 学术, 香港中文大学（深圳）, 论文
+
+10、📌 6月17日消息，天工超级智能体发布3.1版本，上线Skywork Design与Dynamic Workflows功能，用户可交付完整项目，收入实现三倍增长。
+   📋 入选理由: 重大产品发布，国内AI产品重要更新
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3857169236579584?f=rss
+   🏷️ 标签: 天工, 产品发布, AI, 超级智能体
+
+11、🔥 6月17日消息，全国首个省级政务智能中枢平台湾擎上线试运行，集成腾讯WorkBuddy，面向广东省政务系统提供AI助手，推动政务智能化从碎片化走向集约化。
+   📋 入选理由: 重大政策与法规，国内省级政务AI平台上线
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3856755190551811?f=rss
+   🏷️ 标签: 政务AI, 广东, 湾擎, WorkBuddy
+
+12、🔥 6月17日消息，阿里发布可实时构建和交互的开放式世界模型产品HappyOyster 1.0，具备世界探索和实时导演能力，用户可一句话或一张图生成可互动的AI数字世界。
+   📋 入选理由: 重大产品发布，国内科技巨头发布重要AI模型
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/weiwu/vFMxYwSaDXdPurDk.html
+   🏷️ 标签: 阿里, 世界模型, HappyOyster, 产品发布
+
+13、📌 6月17日消息，文远知行与博世联合研发的端到端辅助驾驶方案搭载奇瑞星途星纪元ES，在中国智驾大赛天津站夺冠，创造赛事史上首个六连冠纪录。
+   📋 入选理由: 重大商业动态，国内自动驾驶公司取得赛事佳绩
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/private/WZsNRnSvF79csCDM.html
+   🏷️ 标签: 文远知行, 自动驾驶, 智驾大赛, 六连冠
+
+14、📄 6月17日消息，AI情绪消费产品公司NoonWake.AI完成近千万元种子轮融资，产品覆盖AI陪伴应用、桌面硬件等，团队来自阿里、腾讯、小米等。
+   📋 入选理由: 重大商业动态，国内AI初创公司融资
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/umAJxC6SnrzeF4vz.html
+   🏷️ 标签: 融资, AI陪伴, NoonWake, 情绪消费
+
+15、🔥 6月17日消息，国务院提出深入实施“人工智能+”行动，探索人机协同的新型工作形态，为国内AI产业发展提供政策支持。
+   📋 入选理由: 重大政策与法规，国务院层面AI政策信号
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/fpHs0biXwPGOEBmK.html
+   🏷️ 标签: 政策, 人工智能+, 国务院, 人机协同
+
+16、📌 6月17日消息，九章云极发布“AI工厂”战略，旨在定义智能规模化新基建，推动AI基础设施化发展。
+   📋 入选理由: 重大产品发布，国内AI公司发布新战略
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/lyFKlXW7XiM2y35v.html
+   🏷️ 标签: 九章云极, AI工厂, 战略, 新基建
+
+17、📌 6月17日消息，国内医疗AI公司在多项关键医疗测评上打败了GPT-5.5，实现国产医疗AI的突破。
+   📋 入选理由: 重大学术突破，国内医疗AI超越国际模型
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/1CH2JRMcIM0JbVu1.html
+   🏷️ 标签: 医疗AI, GPT-5.5, 突破, 国产
+
+18、📌 6月17日消息，微信支付发布AI专属卡，用户可在与智能体对话中提出消费需求，WorkBuddy率先接入该功能。
+   📋 入选理由: 重大产品发布，国内支付巨头推出AI功能
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3856871787189252?f=rss
+   🏷️ 标签: 微信支付, AI专属卡, WorkBuddy, 产品发布
+
+19、🔥 6月17日消息，国内头部具身大脑公司再获数亿美元融资，采用世界模型路线，半年内三连发：从开源到端侧再到训练场，吸引15家VC投资。
+   📋 入选理由: 重大商业动态，国内具身智能公司大额融资
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/OGB505tOpxc2313T.html
+   🏷️ 标签: 融资, 具身智能, 世界模型, VC
+
+20、📌 6月17日消息，电子科技大学提出树状自我博弈框架TSP，面向安全代码大模型实现细粒度自纠错，被ICML 2026录用，解决代码模型安全隐患。
+   📋 入选理由: 重大学术突破，国内高校论文被顶会录用
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3848483761493250?f=rss
+   🏷️ 标签: ICML, 电子科大, 代码安全, 自纠错
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 6月17日消息，SpaceX宣布以600亿美元收购AI编程初创公司Cursor，旨在增强企业客户竞争力并缩小与Anthropic和OpenAI的差距。
+   📋 入选理由: 重大商业动态，涉及600亿美元巨额收购，主体为美国公司SpaceX
+   📰 来源: The Information | 🔗 https://www.theinformation.com/briefings/spacex-finalizes-60-billion-deal-acquire-cursor
+   🏷️ 标签: 收购, SpaceX, Cursor, AI编程
+
+2、🔥 6月17日消息，美国国防部披露在伊朗战争中使用xAI的Grok模型辅助规划轰炸任务，该模型部署于政府AI服务Maven Smart Systems中。
+   📋 入选理由: 重大政策与安全事件，涉及美国军方使用AI进行军事行动，主体为美国政府和xAI
+   📰 来源: The Information | 🔗 https://www.theinformation.com/articles/rokus-timely-exit-salesforces-dealmaking-revving
+   🏷️ 标签: 军事AI, xAI, 国家安全, Grok
+
+3、🔥 6月17日消息，OpenAI的Sam Altman和Anthropic的Dario Amodei等AI行业领袖将参加在法国举行的七国集团峰会，讨论AI治理与合作。
+   📋 入选理由: 重大政策与法规，G7峰会涉及AI全球治理，主体为海外AI领袖和国际组织
+   📰 来源: The Information | 🔗 https://www.theinformation.com/briefings/pentagon-says-used-xais-grok-iran-war-doj-fights-data-center-lawsuit
+   🏷️ 标签: G7, AI治理, Sam Altman, Dario Amodei
+
+4、🔥 6月17日消息，英伟达Blackwell平台在MLPerf Training 6.0基准测试中取得最快、最大、最强成绩，展示了其在AI训练基础设施上的领先地位。
+   📋 入选理由: 重大产品发布，英伟达Blackwell芯片在权威基准测试中夺冠，主体为美国公司英伟达
+   📰 来源: Wired AI | 🔗 https://www.wired.com/story/doj-lawyers-argue-xai-vital-national-security-naacp-lawsuit/
+   🏷️ 标签: 英伟达, Blackwell, MLPerf, AI训练
+
+5、📌 6月17日消息，谷歌发布Android 17和Wear OS 7，引入新多任务工具和AI功能，同时通过Pixel Drop将最新Gemini模型部署到设备上。
+   📋 入选理由: 重大产品发布，谷歌推出新操作系统并扩展AI功能，主体为美国公司谷歌
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/0ce5d6f0-9417-42ba-839f-e81dbd62d6ff
+   🏷️ 标签: 谷歌, Android 17, Gemini, AI
+
+6、📌 6月17日消息，Pinterest推出实验性AI购物应用Ask Pinterest，用户可通过对话界面获取产品推荐和灵感。
+   📋 入选理由: 产品发布，美国公司Pinterest推出AI购物应用
+   📰 来源: The Verge AI | 🔗 https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion
+   🏷️ 标签: Pinterest, AI购物, 对话式AI
+
+7、📌 6月17日消息，由前谷歌CEO Eric Schmidt支持的初创公司推出AI工业机器人，并宣布与LG建立合作伙伴关系。
+   📋 入选理由: 商业动态，涉及知名人士和大型企业合作，主体为海外初创公司和LG
+   📰 来源: The Information | 🔗 https://www.theinformation.com/articles/cyberstarts-notches-cyera-win-plots-new-fund
+   🏷️ 标签: 人形机器人, Eric Schmidt, LG, 工业AI
+
+8、📌 6月17日消息，杰夫·贝佐斯领投英国AI初创公司CuspAI 4亿美元融资，公司估值升至26亿美元。
+   📋 入选理由: 重大商业动态，大额融资且涉及知名投资者，主体为英国公司
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2606.17443
+   🏷️ 标签: 融资, CuspAI, Jeff Bezos, 英国
+
+9、📄 6月17日消息，马来西亚AI消息应用Respond.io完成6250万美元融资，计划用于收购，其AI代理可处理大量客户咨询。
+   📋 入选理由: 商业动态，融资规模中等，主体为马来西亚公司
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-06-16/startup-backed-by-ex-google-ceo-debuts-industrial-robot-with-lg
+   🏷️ 标签: 融资, Respond.io, AI代理, 马来西亚
+
+10、📌 6月17日消息，欧盟发布数字十年2026年DESI方法论说明，概述了数字转型监测系统，以跟踪2030年数字十年政策计划进展。
+   📋 入选理由: 政策法规，欧盟发布数字转型监测框架，主体为欧盟
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2606.17642
+   🏷️ 标签: 欧盟, 数字十年, DESI, 政策
+
+11、📄 6月17日消息，初创公司Ornn推出追踪Anthropic和OpenAI令牌价格的基准服务，帮助客户和投资者衡量AI计算成本。
+   📋 入选理由: 商业动态，新服务发布，主体为海外初创公司
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-06-17/ai-leaders-including-altman-amodei-set-to-attend-g7-video
+   🏷️ 标签: Ornn, 令牌基准, AI成本, Anthropic
+
+12、📌 6月17日消息，网络安全初创公司Cyera完成6亿美元融资，估值达120亿美元，其AI驱动的数据保护软件吸引投资者关注。
+   📋 入选理由: 重大商业动态，大额融资和高估值，主体为美国公司
+   📰 来源: The Information | 🔗 https://www.theinformation.com/articles/anthropic-losing-goodwill-ai-researchers-agi-house-alums-raise-25-million-new-fund
+   🏷️ 标签: 融资, Cyera, 网络安全, AI
+
+
+======================================================================
+📊 今日总结: 今日从204条原始信息中精选出20条国内动态和12条国际动态，其中11条为高重要性。 重点关注：DeepSeek完成500亿融资，采用特殊架构保梁文锋控权；被约谈后，山姆总部更换董事长；豪掷20亿元股权！理想重赏三大高管，市值1万亿元可解锁兑现；刷新权威榜单SOTA！ACE-Ego 解锁“以人为中心”的规模化具身模型训练新范式；「逆矩阵」完成超亿美元融资，创始人：通用世界基座模型窗口期已压至18个月。
+======================================================================
