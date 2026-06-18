@@ -1,0 +1,634 @@
+{
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18 11:53:37",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "刷新权威榜单SOTA！ACE-Ego 解锁“以人为中心”的规模化具身模型训练新范式",
+      "summary": "6月18日消息，大晓机器人联合香港中文大学多媒体实验室发布具身操作VLA模型ACE-Ego并开源，在RoboCasa GR1 TableTop基准上以72.8%平均成功率刷新SOTA，大幅超越英伟达GR00T等模型。",
+      "importance": "高",
+      "reason": "中国公司与高校联合发布突破性具身模型，开源且刷新国际权威榜单，属于重大产品发布与学术突破。",
+      "tags": [
+        "具身智能",
+        "开源",
+        "SOTA",
+        "机器人",
+        "VLA模型"
+      ],
+      "url": "https://www.leiphone.com/category/ai/OOjkRGQUyVp9mtQ4.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-17 06:34:00",
+      "impact_score": 330.0
+    },
+    {
+      "index": 2,
+      "title": "金融监管总局：加强供应链风险与开源技术管理，防范对个别技术服务过度依赖引发的集中度风险",
+      "summary": "6月18日消息，国家金融监督管理总局发布银行业保险业人工智能安全开发应用指导意见，要求建立供应链安全合规管理机制，确保应用自主可控，防范对个别技术服务过度依赖引发的集中度风险。",
+      "importance": "高",
+      "reason": "中国金融监管机构发布重要AI安全政策，涉及供应链风险与开源技术管理，属于重大政策与法规。",
+      "tags": [
+        "金融监管",
+        "AI安全",
+        "供应链风险",
+        "开源技术",
+        "政策"
+      ],
+      "url": "https://www.leiphone.com/category/ai/Dt3i3KlHCTdZGukZ.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-17 06:30:00",
+      "impact_score": 300.0
+    },
+    {
+      "index": 3,
+      "title": "分子之心获逾亿美元融资，多方资本押注AI生物“产业新基建”",
+      "summary": "6月18日消息，AI蛋白质设计平台公司分子之心完成A轮系列融资，累计逾亿美元，由蓝桥资本、浦东创投、中粮新兴产业基金等多家机构投资，凯赛生物等老股东追加，资金将用于AI生物产业新基建。",
+      "importance": "高",
+      "reason": "中国AI生物公司获得逾亿美元大额融资，投资方阵容多元，属于重大商业动态。",
+      "tags": [
+        "AI生物",
+        "融资",
+        "蛋白质设计",
+        "产业新基建",
+        "A轮"
+      ],
+      "url": "https://36kr.com/p/3857011810112521?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-17 08:36:26",
+      "impact_score": 292.5
+    },
+    {
+      "index": 4,
+      "title": "红杉、阿里押注过的具身大脑公司再融资，上交等投资数亿元｜硬氪首发",
+      "summary": "6月18日消息，具身智能企业穹彻智能完成新一轮数亿元融资，由无锡数据集团领投，上海交通大学AI未来基金等跟投，此前已获红杉中国、阿里巴巴等投资，核心产品为“穹彻具身大脑”。",
+      "importance": "高",
+      "reason": "中国具身智能公司获得数亿元融资，投资方包括高校基金和产业资本，属于重大商业动态。",
+      "tags": [
+        "具身智能",
+        "融资",
+        "穹彻智能",
+        "上海交通大学",
+        "数亿元"
+      ],
+      "url": "https://36kr.com/newsflashes/3858552368501766?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-18 10:42:26",
+      "impact_score": 279.0
+    },
+    {
+      "index": 5,
+      "title": "天工3.1 重磅发布：上线 Skywork Design 与 Dynamic Workflows，给 AI 一张画布和一支军团",
+      "summary": "6月18日消息，天工超级智能体发布3.1版本，上线Skywork Design与Dynamic Workflows功能，用户可进行多页面、多设备适配的AI设计，天工3.0上线后收入实现三倍增长。",
+      "importance": "中",
+      "reason": "中国AI产品重大版本更新，功能创新且收入增长显著，属于重大产品发布。",
+      "tags": [
+        "天工",
+        "AI智能体",
+        "产品发布",
+        "Skywork",
+        "Dynamic Workflows"
+      ],
+      "url": "https://www.leiphone.com/category/aihealth/NUPeBXShajKt90nJ.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-17 06:55:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 6,
+      "title": "中科院博士冲上市，市值超105亿港币",
+      "summary": "6月18日消息，中科闻歌正式启动招股，发行价60.70港元，市值105.07亿港元，预计6月26日在港交所主板挂牌，将成为“通用决策大模型第一股”，公司由中科院自动化研究所科学家创办。",
+      "importance": "高",
+      "reason": "中国AI公司中科闻歌启动IPO，市值超百亿港元，属于重大商业动态。",
+      "tags": [
+        "IPO",
+        "中科闻歌",
+        "大模型",
+        "上市",
+        "中科院"
+      ],
+      "url": "https://36kr.com/p/3857980507919622?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-18 01:09:18",
+      "impact_score": 266.0
+    },
+    {
+      "index": 7,
+      "title": "全国首个！广东政务智能中枢湾擎上线，集成WorkBuddy打造政务办公新标配",
+      "summary": "6月18日消息，全国首个省级政务智能中枢平台湾擎在广东上线试运行，集成腾讯WorkBuddy AI办公智能体，为全省各级政府部门提供标准化AI能力，推动政务人工智能从碎片化试点走向集约化运营。",
+      "importance": "高",
+      "reason": "中国省级政府推出全国首个政务智能中枢平台，属于重大政策与法规及产品发布。",
+      "tags": [
+        "政务AI",
+        "广东",
+        "湾擎",
+        "WorkBuddy",
+        "腾讯"
+      ],
+      "url": "https://www.leiphone.com/category/aihealth/jAeC3TqxHJc8bGb1.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-17 02:42:00",
+      "impact_score": 255.0
+    },
+    {
+      "index": 8,
+      "title": "阿里发布世界模型HappyOyster 1.0，用户可实时探索、导演并重塑 AI 世界",
+      "summary": "6月18日消息，阿里发布可实时构建和交互的开放式世界模型产品HappyOyster 1.0，具备世界探索和实时导演两大核心能力，用户仅需一句话或一张图即可生成可互动的AI数字世界。",
+      "importance": "中",
+      "reason": "中国科技巨头阿里发布世界模型产品，属于重大产品发布。",
+      "tags": [
+        "阿里",
+        "世界模型",
+        "HappyOyster",
+        "产品发布",
+        "AI"
+      ],
+      "url": "https://36kr.com/p/3856708724315400?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-18 01:28:16",
+      "impact_score": 245.0
+    },
+    {
+      "index": 9,
+      "title": "金融监管总局：推进人工智能金融行业应用基础设施建设",
+      "summary": "6月18日消息，国家金融监督管理总局发布指导意见，推进人工智能金融行业应用基础设施建设，鼓励大型金融机构向中小机构输出技术和管理经验，支持中小机构协作推进应用场景落地。",
+      "importance": "高",
+      "reason": "中国金融监管机构发布AI基础设施建设政策，属于重大政策与法规。",
+      "tags": [
+        "金融监管",
+        "AI基础设施",
+        "政策",
+        "金融行业",
+        "人工智能"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/umAJxC6SnrzeF4vz.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-17 04:18:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 10,
+      "title": "金融监管总局：支持金融机构在风险可控的前提下，推进生成式人工智能技术的业务应用和配套能力体系建设",
+      "summary": "6月18日消息，国家金融监督管理总局发布指导意见，支持金融机构在风险可控前提下推进生成式AI技术应用，要求对生成式AI模型实施准入管理，外部引入模型需经网信部门备案。",
+      "importance": "高",
+      "reason": "中国金融监管机构明确支持生成式AI在金融领域应用，属于重大政策与法规。",
+      "tags": [
+        "金融监管",
+        "生成式AI",
+        "政策",
+        "风险管控",
+        "备案"
+      ],
+      "url": "https://36kr.com/newsflashes/3858558244656137?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-18 10:58:21",
+      "impact_score": 210.0
+    },
+    {
+      "index": 11,
+      "title": "金融监管总局：加强人工智能安全开发应用治理",
+      "summary": "6月18日消息，国家金融监督管理总局发布指导意见，要求金融机构董事会指定专门委员会负责AI开发应用管理，统筹制定发展规划，确保AI应用与风险管理能力相匹配。",
+      "importance": "高",
+      "reason": "中国金融监管机构强化AI安全治理要求，属于重大政策与法规。",
+      "tags": [
+        "金融监管",
+        "AI安全",
+        "治理",
+        "政策",
+        "风险管理"
+      ],
+      "url": "https://36kr.com/p/3857959588418823?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-18 01:00:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 12,
+      "title": "金融监管总局：鼓励有条件的大型金融机构向中小金融机构输出算力服务，支持同业探索基础设施共建共享",
+      "summary": "6月18日消息，国家金融监督管理总局发布指导意见，鼓励大型金融机构向中小机构输出算力服务，支持同业探索基础设施共建共享，要求建设自主可控、安全高效的算力底座。",
+      "importance": "中",
+      "reason": "中国金融监管机构鼓励算力共享政策，属于重要政策动态。",
+      "tags": [
+        "金融监管",
+        "算力服务",
+        "基础设施",
+        "共建共享",
+        "政策"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/fpHs0biXwPGOEBmK.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-17 06:18:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 13,
+      "title": "汤臣倍健：拟5000万元投资原粒半导体 后者基于Chiplet技术创新打造AI推理芯片",
+      "summary": "6月18日消息，汤臣倍健拟以5000万元投资原粒半导体，后者基于Chiplet技术创新打造积木式AI推理芯片，为边缘端大模型部署提供高性价比算力解决方案。",
+      "importance": "中",
+      "reason": "中国上市公司投资AI芯片初创公司，属于重要商业动态。",
+      "tags": [
+        "投资",
+        "AI芯片",
+        "Chiplet",
+        "原粒半导体",
+        "汤臣倍健"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/1CH2JRMcIM0JbVu1.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-17 10:08:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 14,
+      "title": "星闪开源，能否打通万物互联的“最后一米”？",
+      "summary": "6月18日消息，华为在HDC 2026期间宣布星闪协议栈将于2026年7月全量开源至OpenHarmony社区，该短距通信技术将首次以开源形式向产业链敞开，旨在打通万物互联的“最后一米”。",
+      "importance": "中",
+      "reason": "中国科技巨头华为宣布重要技术开源，属于重大产品发布与商业动态。",
+      "tags": [
+        "华为",
+        "星闪",
+        "开源",
+        "OpenHarmony",
+        "短距通信"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/0rp35cG1uA9fwKCY.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-18 05:49:00",
+      "impact_score": 180.0
+    },
+    {
+      "index": 15,
+      "title": "理想汽车举办Livis Day软件与具身智能发布会",
+      "summary": "6月18日消息，理想汽车举办Livis Day软件与具身智能发布会，提出具身智能汽车定义，展示自研具身智能模型、自研全球首款动态数据流AI芯片马赫M100，并发布覆盖全年的OTA成长里程碑。",
+      "importance": "中",
+      "reason": "中国车企理想汽车发布具身智能战略和自研AI芯片，属于重大产品发布。",
+      "tags": [
+        "理想汽车",
+        "具身智能",
+        "AI芯片",
+        "马赫M100",
+        "OTA"
+      ],
+      "url": "https://36kr.com/newsflashes/3858551531410441?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-18 10:41:35",
+      "impact_score": 175.0
+    },
+    {
+      "index": 16,
+      "title": "算电协同进入Agent时代：商汤大装置SenseSynergy获信通院能力认证",
+      "summary": "6月18日消息，商汤大装置SenseSynergy算电协同Agent平台通过中国信通院测试，成为业界首个通过该项测试的算电协同Agent平台，涵盖智能查询问答、负荷预测等四大能力方向。",
+      "importance": "低",
+      "reason": "中国AI公司商汤产品获得行业认证，属于重要商业动态但影响力相对较低。",
+      "tags": [
+        "商汤",
+        "算电协同",
+        "Agent",
+        "信通院",
+        "认证"
+      ],
+      "url": "https://36kr.com/newsflashes/3858551265662217?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-18 10:41:19",
+      "impact_score": 175.0
+    },
+    {
+      "index": 17,
+      "title": "AI定义汽车，赛豆科技发布AI汽车品牌AIVA",
+      "summary": "6月18日消息，赛豆科技在北京发布AI先锋生态出行品牌AIVA，携手火山引擎联合定义、设计AI汽车体验，首款量产车型AIVA ME7将于2026年年内亮相，全系覆盖20万元以上市场。",
+      "importance": "中",
+      "reason": "中国新品牌发布AI汽车，与火山引擎合作，属于重大产品发布。",
+      "tags": [
+        "赛豆科技",
+        "AIVA",
+        "AI汽车",
+        "火山引擎",
+        "品牌发布"
+      ],
+      "url": "https://36kr.com/newsflashes/3858550775649540?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-18 10:40:49",
+      "impact_score": 175.0
+    },
+    {
+      "index": 18,
+      "title": "远景在欧洲科技峰会宣布Mission Gobi计划，用AI电力系统让全球戈壁成为下一代智能文明摇篮",
+      "summary": "6月18日消息，远景在法国巴黎VivaTech上发布Mission Gobi计划，宣布到2030年在全球戈壁荒漠地区建成5GW规模的绿色AI算力中心，为AI时代打造稳定、绿色的新一代基础设施。",
+      "importance": "中",
+      "reason": "中国能源科技公司发布全球AI算力基础设施计划，属于重要商业动态。",
+      "tags": [
+        "远景",
+        "Mission Gobi",
+        "AI算力",
+        "绿色能源",
+        "基础设施"
+      ],
+      "url": "https://36kr.com/p/3857175761081348?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-17 12:08:32",
+      "impact_score": 175.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Korea Rejects Baemin, Coupang Settlement Bids in Antitrust Probe",
+      "summary": "6月18日消息，韩国反垄断机构拒绝外卖平台Baemin和Coupang Eats的和解提议，两家公司因涉嫌不公平商业行为面临巨额罚款。",
+      "importance": "高",
+      "reason": "重大政策与法规：韩国反垄断调查涉及AI驱动的外卖平台，影响国际AI商业生态。",
+      "tags": [
+        "反垄断",
+        "韩国",
+        "AI平台"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-18/korea-rejects-baemin-coupang-settlement-bids-in-antitrust-probe",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-18 03:26:59",
+      "impact_score": 315.0
+    },
+    {
+      "index": 2,
+      "title": "Anthropic chief tells G7 leaders to ‘resist the temptation to splinter’ over AI",
+      "summary": "6月18日消息，Anthropic CEO Dario Amodei在G7会议上呼吁各国领导人抵制在AI领域分裂的诱惑，得到竞争对手Sam Altman支持。",
+      "importance": "高",
+      "reason": "重大政策与法规：G7级别的AI治理讨论，涉及国际合作与监管方向。",
+      "tags": [
+        "AI治理",
+        "国际合作",
+        "G7"
+      ],
+      "url": "https://www.ft.com/content/573925dd-6d41-4185-810d-2b848195903d",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-06-17 17:11:40",
+      "impact_score": 262.5
+    },
+    {
+      "index": 3,
+      "title": "AI Company Dream Triples Value to $3 Billion in Funding Round",
+      "summary": "6月18日消息，以色列AI公司Dream完成2.6亿美元融资，估值达30亿美元，为政府和关键基础设施提供AI与网络安全服务。",
+      "importance": "高",
+      "reason": "重大商业动态：大额融资（2.6亿美元），估值翻三倍，涉及AI安全领域。",
+      "tags": [
+        "融资",
+        "AI安全",
+        "以色列"
+      ],
+      "url": "https://www.ft.com/content/0ce5d6f0-9417-42ba-839f-e81dbd62d6ff",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-06-17 04:00:44",
+      "impact_score": 255.0
+    },
+    {
+      "index": 4,
+      "title": "Midjourney Announces Full-Body Scanner, Plans to Launch Spa",
+      "summary": "6月18日消息，AI图像生成公司Midjourney发布全身扫描仪，声称比MRI更详细，用于检测疾病和健康问题，并计划推出水疗中心。",
+      "importance": "中",
+      "reason": "重大产品发布：AI公司跨界推出硬件产品，具有创新性和市场关注度。",
+      "tags": [
+        "产品发布",
+        "硬件",
+        "健康"
+      ],
+      "url": "https://www.theinformation.com/articles/information-hires-reporters-report-nvidia-musk-finance-washington",
+      "source": "The Information",
+      "original_pub_date": "2026-06-17 15:00:55",
+      "impact_score": 244.5
+    },
+    {
+      "index": 5,
+      "title": "Digital Decade 2026 - DESI methodological note",
+      "summary": "6月18日消息，欧盟发布数字十年2026年DESI方法论说明，更新数字转型监测体系，涵盖AI等关键技术指标。",
+      "importance": "高",
+      "reason": "重大政策与法规：欧盟AI政策框架更新，影响全球AI合规标准。",
+      "tags": [
+        "欧盟",
+        "政策",
+        "数字转型"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-18/ai-company-dream-triples-value-to-3-billion-in-funding-round",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-18 08:30:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 6,
+      "title": "Anthropic Ban Forces Investor Rethink of Political Risk",
+      "summary": "6月18日消息，Anthropic被禁事件促使投资者重新评估AI股票的政治风险，认为政治干预可能比高估值和巨额支出更具破坏性。",
+      "importance": "高",
+      "reason": "安全与伦理：AI公司被禁事件引发市场对政治风险的关注，影响投资决策。",
+      "tags": [
+        "政治风险",
+        "投资",
+        "AI监管"
+      ],
+      "url": "https://www.theinformation.com/articles/missile-startup-founded-spacex-alumni-targets-12-billion-valuation",
+      "source": "The Information",
+      "original_pub_date": "2026-06-17 21:52:48",
+      "impact_score": 225.0
+    },
+    {
+      "index": 7,
+      "title": "Star Google Researcher Joins OpenAI in Coup for ChatGPT Creator",
+      "summary": "6月18日消息，谷歌顶尖研究员Noam Shazeer加入OpenAI，对Alphabet在AI竞赛中造成打击，凸显人才争夺战白热化。",
+      "importance": "高",
+      "reason": "重大商业动态：顶级AI人才流动，影响两家公司竞争格局。",
+      "tags": [
+        "人才流动",
+        "OpenAI",
+        "谷歌"
+      ],
+      "url": "https://arxiv.org/abs/2606.17443",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-18 04:00:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 8,
+      "title": "AWS Introduces New Cybersecurity, Coding Tools at NY Summit",
+      "summary": "6月18日消息，亚马逊AWS在纽约峰会上推出多项AI新产品，包括代码漏洞识别工具AWS Continuum，解决AI驱动软件工程的新问题。",
+      "importance": "中",
+      "reason": "重大产品发布：云巨头推出AI安全与开发工具，影响企业AI应用生态。",
+      "tags": [
+        "AWS",
+        "产品发布",
+        "网络安全"
+      ],
+      "url": "https://arxiv.org/abs/2606.17642",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-18 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 9,
+      "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
+      "summary": "6月18日消息，Pinterest推出实验性AI购物应用Ask Pinterest，用户可通过对话界面获取推荐和灵感。",
+      "importance": "中",
+      "reason": "重大产品发布：AI驱动的购物应用，拓展电商与AI结合场景。",
+      "tags": [
+        "产品发布",
+        "电商",
+        "AI应用"
+      ],
+      "url": "https://www.ft.com/content/c2514fd8-d5d8-4bde-ad64-1167638d188b",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-06-18 09:54:05",
+      "impact_score": 180.0
+    },
+    {
+      "index": 10,
+      "title": "Blackstone’s AirTrunk Seeks $3 Billion Loan for Sydney Project",
+      "summary": "6月18日消息，黑石旗下数据中心运营商AirTrunk寻求30亿美元贷款用于悉尼新项目，继续在亚太地区债务扩张。",
+      "importance": "中",
+      "reason": "重大商业动态：AI基础设施大额融资，反映数据中心需求增长。",
+      "tags": [
+        "数据中心",
+        "融资",
+        "基础设施"
+      ],
+      "url": "https://www.theinformation.com/briefings/midjourney-announces-full-body-scanner-plans-launch-spa",
+      "source": "The Information",
+      "original_pub_date": "2026-06-18 03:32:35",
+      "impact_score": 173.0
+    },
+    {
+      "index": 11,
+      "title": "Star Google AI Researcher Shazeer Joins OpenAI",
+      "summary": "6月18日消息，谷歌DeepMind研究员Noam Shazeer加入OpenAI，他曾共同创立Character.AI，后因27亿美元交易重返谷歌。",
+      "importance": "高",
+      "reason": "重大商业动态：顶级AI人才从谷歌转投OpenAI，强化后者研发实力。",
+      "tags": [
+        "人才流动",
+        "OpenAI",
+        "谷歌"
+      ],
+      "url": "https://digital-strategy.ec.europa.eu/en/library/digital-decade-2026-desi-methodological-note",
+      "source": "EU AI Policy",
+      "original_pub_date": "2026-06-17 07:15:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 12,
+      "title": "Jeff Bezos backs UK start-up CuspAI in $400mn funding round",
+      "summary": "6月18日消息，杰夫·贝佐斯支持英国AI初创公司CuspAI完成4亿美元融资，估值增至26亿美元，翻四倍以上。",
+      "importance": "中",
+      "reason": "重大商业动态：知名投资者参与的大额融资，估值大幅提升。",
+      "tags": [
+        "融资",
+        "英国",
+        "AI初创"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-18/anthropic-ban-forces-investors-to-reckon-with-political-risk",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-18 06:10:10",
+      "impact_score": 157.5
+    },
+    {
+      "index": 13,
+      "title": "FTC Sues to Stop Sprawling Enterprise Operating Unlawful Subscription Schemes",
+      "summary": "6月18日消息，美国联邦贸易委员会起诉一家大型企业及其关联公司，指控其通过隐藏费用和自动续费欺骗消费者。",
+      "importance": "中",
+      "reason": "重大政策与法规：FTC打击订阅欺诈，涉及AI相关企业合规风险。",
+      "tags": [
+        "FTC",
+        "消费者保护",
+        "监管"
+      ],
+      "url": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-06-17 18:00:00",
+      "impact_score": 155.5
+    },
+    {
+      "index": 14,
+      "title": "Amazon has lagged OpenAI and Anthropic, but AI chief sees path to catch up in 'coming year'",
+      "summary": "6月18日消息，亚马逊AI负责人承认其Nova2模型落后于OpenAI和Anthropic，但预计在未来一年内迎头赶上。",
+      "importance": "中",
+      "reason": "重大商业动态：亚马逊AI战略调整，反映大模型竞争格局。",
+      "tags": [
+        "亚马逊",
+        "AI模型",
+        "竞争"
+      ],
+      "url": "https://www.ft.com/content/f0d87ccb-57a7-4169-a1ae-2b7643f59cc5",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-06-17 12:44:35",
+      "impact_score": 150.0
+    },
+    {
+      "index": 15,
+      "title": "Anthropic asked for regulation. Washington went much further",
+      "summary": "6月18日消息，Anthropic长期支持AI监管，但特朗普政府对其施加了远超预期的严格监管措施。",
+      "importance": "高",
+      "reason": "重大政策与法规：美国政府对AI公司监管升级，影响行业政策走向。",
+      "tags": [
+        "AI监管",
+        "美国政府",
+        "Anthropic"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-18/star-google-researcher-jumps-to-openai-in-coup-for-startup",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-18 03:15:10",
+      "impact_score": 142.5
+    }
+  ],
+  "summary": "今日从195条原始信息中精选出18条国内动态和15条国际动态，其中17条为高重要性。 重点关注：刷新权威榜单SOTA！ACE-Ego 解锁“以人为中心”的规模化具身模型训练新范式；金融监管总局：加强供应链风险与开源技术管理，防范对个别技术服务过度依赖引发的集中度风险；分子之心获逾亿美元融资，多方资本押注AI生物“产业新基建”。",
+  "statistics": {
+    "raw_domestic": 50,
+    "raw_international": 145,
+    "raw_total": 195,
+    "final_domestic": 18,
+    "final_international": 15
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "6月18日消息，大晓机器人联合香港中文大学多媒体实验室发布具身操作VLA模型ACE-Ego并开源，在RoboCasa GR1 TableTop基准上以72.8%平均成功率刷新SOTA，大幅超越英伟达GR00T等模型。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "6月18日消息，国家金融监督管理总局发布银行业保险业人工智能安全开发应用指导意见，要求建立供应链安全合规管理机制，确保应用自主可控，防范对个别技术服务过度依赖引发的集中度风险。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "6月18日消息，AI蛋白质设计平台公司分子之心完成A轮系列融资，累计逾亿美元，由蓝桥资本、浦东创投、中粮新兴产业基金等多家机构投资，凯赛生物等老股东追加，资金将用于AI生物产业新基建。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "6月18日消息，具身智能企业穹彻智能完成新一轮数亿元融资，由无锡数据集团领投，上海交通大学AI未来基金等跟投，此前已获红杉中国、阿里巴巴等投资，核心产品为“穹彻具身大脑”。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "6月18日消息，中科闻歌正式启动招股，发行价60.70港元，市值105.07亿港元，预计6月26日在港交所主板挂牌，将成为“通用决策大模型第一股”，公司由中科院自动化研究所科学家创办。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "6月18日消息，韩国反垄断机构拒绝外卖平台Baemin和Coupang Eats的和解提议，两家公司因涉嫌不公平商业行为面临巨额罚款。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "6月18日消息，Anthropic CEO Dario Amodei在G7会议上呼吁各国领导人抵制在AI领域分裂的诱惑，得到竞争对手Sam Altman支持。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "6月18日消息，以色列AI公司Dream完成2.6亿美元融资，估值达30亿美元，为政府和关键基础设施提供AI与网络安全服务。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "6月18日消息，欧盟发布数字十年2026年DESI方法论说明，更新数字转型监测体系，涵盖AI等关键技术指标。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "6月18日消息，Anthropic被禁事件促使投资者重新评估AI股票的政治风险，认为政治干预可能比高估值和巨额支出更具破坏性。",
+      "importance": "高"
+    }
+  ]
+}
