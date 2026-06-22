@@ -1,0 +1,434 @@
+{
+  "date": "2026-06-22",
+  "generated_at": "2026-06-22 13:38:35",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "映界科技：一支00后团队的空间智能“赌注” | 水下项目",
+      "summary": "6月22日消息，映界科技由三位平均年龄24岁的博士团队创办，专注具身机器人视觉空间感知系统研发，致力于成为世界模型时代的基础设施服务商。",
+      "importance": "中",
+      "reason": "中国初创公司映界科技专注于具身智能空间感知系统，属于国内AI创业动态。",
+      "tags": [
+        "具身智能",
+        "空间感知",
+        "创业"
+      ],
+      "url": "https://36kr.com/newsflashes/3864307999282180?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-22 12:17:22",
+      "impact_score": 307.5
+    },
+    {
+      "index": 2,
+      "title": "LiblibAI 母公司完成近 3 亿美元融资：AI 应用层开始进入「收入说话」的阶段",
+      "summary": "6月22日消息，演语科技完成近3亿美元B+轮融资，投后估值超20亿美元，由Granite A等领投，标志着AI应用层进入收入驱动的阶段。",
+      "importance": "高",
+      "reason": "中国AI公司演语科技获得大额融资，属于国内重大商业动态。",
+      "tags": [
+        "融资",
+        "AI应用",
+        "估值"
+      ],
+      "url": "https://36kr.com/p/3864065855706120?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-22 08:26:13",
+      "impact_score": 294.0
+    },
+    {
+      "index": 3,
+      "title": "AI黑客越来越凶？奇安信推出AI时代的全栈式产品矩阵",
+      "summary": "6月22日消息，国内网安龙头奇安信启动AI时代新品发布周，推出多款聚焦安全智能与智能安全的产品，宣告网络安全进入AI智能体对抗时代。",
+      "importance": "高",
+      "reason": "中国网络安全公司奇安信发布AI防御产品矩阵，属于国内重大产品发布。",
+      "tags": [
+        "网络安全",
+        "AI防御",
+        "产品发布"
+      ],
+      "url": "https://www.leiphone.com/category/yanxishe/9TGZvtD8CvNeaEKw.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-22 10:03:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 4,
+      "title": "36氪首发 | 核心团队曾攻关国家重点大飞机装配，航空航天智能装备商完成数千万元融资",
+      "summary": "6月22日消息，大连坤达自动化完成数千万元A轮融资，由永鑫方舟投资，资金将用于智能装配系统研发和产能扩充，公司服务于航空航天制造领域。",
+      "importance": "中",
+      "reason": "中国航空航天智能装备企业完成融资，属于国内商业动态。",
+      "tags": [
+        "融资",
+        "航空航天",
+        "智能装备"
+      ],
+      "url": "https://36kr.com/p/3864071269569540?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-22 10:00:50",
+      "impact_score": 264.0
+    },
+    {
+      "index": 5,
+      "title": "从代码到产线：恩和发布 BPL 协议语言，定义生物制造的“工业级编译器”",
+      "summary": "6月22日消息，恩和科技发布Biology Protocol Language及其生成管线BPL-COGEN，为生物实验协议建立形式化语言体系，在基准测试中实现95.1%首轮一致性。",
+      "importance": "中",
+      "reason": "中国研究机构恩和科技发布生物制造领域重要技术成果，属于国内学术突破。",
+      "tags": [
+        "生物制造",
+        "形式化语言",
+        "学术突破"
+      ],
+      "url": "https://www.leiphone.com/category/ai/M6tymyAI0col1cpj.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-22 03:00:00",
+      "impact_score": 255.0
+    },
+    {
+      "index": 6,
+      "title": "36氪首发 | 联想之星险峰联合领投，AI算力中心感知与效能管理方案商完成天使轮融资",
+      "summary": "6月22日消息，芯感通科技完成数千万元天使轮融资，由联想之星与险峰联合领投，资金用于芯片研发迭代和市场拓展，公司专注AI算力中心电流与空间磁场感知。",
+      "importance": "中",
+      "reason": "中国AI算力基础设施初创公司获得融资，属于国内商业动态。",
+      "tags": [
+        "融资",
+        "AI算力",
+        "感知技术"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/Qf46ogEyAl3ohR5s.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-22 06:10:00",
+      "impact_score": 225.0
+    },
+    {
+      "index": 7,
+      "title": "入选ECCV 2026！清华开源空间模型打败Gemini：真正的空间智能是在世界变化中持续学习",
+      "summary": "6月22日消息，清华大学开源空间模型在ECCV 2026上表现超越Gemini，该模型能在世界变化中持续学习，实现120分钟长视频的实时理解。",
+      "importance": "高",
+      "reason": "中国清华大学在空间智能领域取得学术突破，成果入选顶级会议并开源，属于国内重大学术突破。",
+      "tags": [
+        "空间智能",
+        "学术突破",
+        "开源"
+      ],
+      "url": "https://www.qbitai.com/2026/06/437198.html",
+      "source": "量子位",
+      "original_pub_date": "2026-06-21 09:18:12",
+      "impact_score": 225.0
+    },
+    {
+      "index": 8,
+      "title": "超越 SONIC ！人形机器人通用小脑迎来 GPT 时刻",
+      "summary": "6月22日消息，银河通用联合研究团队在CVPR 2026提出AstraBrain-WBC 0.5，引入20亿帧人类行为数据，零样本泛化成功率92.58%，全面超越SONIC。",
+      "importance": "高",
+      "reason": "中国研究团队在人形机器人通用小脑领域取得重大突破，属于国内重大学术突破。",
+      "tags": [
+        "人形机器人",
+        "学术突破",
+        "CVPR"
+      ],
+      "url": "https://36kr.com/p/3863883390194692?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-22 05:06:22",
+      "impact_score": 215.0
+    },
+    {
+      "index": 9,
+      "title": "阿里发布视频生成模型HappyHorse 1.1：五大维度全面升级",
+      "summary": "6月22日消息，阿里巴巴发布视频生成模型HappyHorse 1.1，在动态表现力、主体一致性、指令遵循、视觉质感和音频能力五大维度系统性升级。",
+      "importance": "高",
+      "reason": "中国科技巨头阿里巴巴发布重要AI模型更新，属于国内重大产品发布。",
+      "tags": [
+        "视频生成",
+        "模型发布",
+        "阿里巴巴"
+      ],
+      "url": "https://36kr.com/p/3864054145209602?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-22 08:10:06",
+      "impact_score": 210.0
+    },
+    {
+      "index": 10,
+      "title": "上海悦普数智科技股份有限公司递表港交所",
+      "summary": "6月22日消息，上海悦普数智科技向港交所提交上市申请，独家保荐人为招商证券国际，公司计划通过IPO融资。",
+      "importance": "低",
+      "reason": "中国科技公司申请港股上市，属于国内商业动态。",
+      "tags": [
+        "IPO",
+        "港交所",
+        "上市"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/YWWglepflccEwGzS.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-22 02:25:00",
+      "impact_score": 210.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Nobel Laureate John Jumper Departs Google DeepMind for Anthropic",
+      "summary": "6月22日消息，诺贝尔化学奖得主、谷歌DeepMind副总裁John Jumper宣布离职并加入竞争对手Anthropic，这是继另一位谷歌研究员Noam Shazeer之后又一重大人才流失。",
+      "importance": "高",
+      "reason": "重大人才流动，涉及顶级AI研究机构的核心科学家跳槽至竞争对手，对行业格局有深远影响。",
+      "tags": [
+        "人才流动",
+        "Google DeepMind",
+        "Anthropic",
+        "诺贝尔奖"
+      ],
+      "url": "https://www.theinformation.com/articles/lime-plans-name-uber-anchor-investor-ipo",
+      "source": "The Information",
+      "original_pub_date": "2026-06-21 23:44:17",
+      "impact_score": 307.5
+    },
+    {
+      "index": 2,
+      "title": "AI law firm wins UK court case for first time",
+      "summary": "6月22日消息，一家AI法律公司在英国法院首次赢得诉讼，一名自由职业者花费约400英镑使用AI技术起草文件，成功处理了价值7000英镑的索赔案件。",
+      "importance": "高",
+      "reason": "AI在法律领域的里程碑事件，首次在真实法庭案件中获胜，具有重大法律和商业意义。",
+      "tags": [
+        "AI法律",
+        "英国",
+        "司法",
+        "里程碑"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-22/spacex-kicks-off-debut-us-dollar-investment-grade-bond-offering",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-22 12:15:49",
+      "impact_score": 240.0
+    },
+    {
+      "index": 3,
+      "title": "Simon Johnson: ‘Nobody needs as many white-collar workers as they used to’",
+      "summary": "6月22日消息，诺贝尔经济学奖得主、前IMF首席经济学家Simon Johnson警告称，AI将深刻改变就业市场，企业对白领工人的需求将大幅减少，需提前准备应对。",
+      "importance": "高",
+      "reason": "诺贝尔奖得主对AI就业影响的权威观点，具有政策指导意义。",
+      "tags": [
+        "AI就业",
+        "诺贝尔奖",
+        "白领",
+        "经济影响"
+      ],
+      "url": "https://www.cnbc.com/2026/06/22/spacex-spcx-bond-sale-ipo.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-06-22 13:33:09",
+      "impact_score": 165.0
+    },
+    {
+      "index": 4,
+      "title": "Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines",
+      "summary": "6月22日消息，英伟达最新AI服务器冷却液温度可高达45摄氏度，这一突破性技术使数据中心能效大幅提升，为大规模AI计算提供更高效的散热方案。",
+      "importance": "高",
+      "reason": "英伟达在AI基础设施冷却技术上的重大突破，直接影响AI算力成本和部署规模。",
+      "tags": [
+        "英伟达",
+        "冷却技术",
+        "数据中心",
+        "能效"
+      ],
+      "url": "https://www.ft.com/content/b4f8f589-6771-4df5-ac4d-cb15d94991fb",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-06-22 11:27:36",
+      "impact_score": 165.0
+    },
+    {
+      "index": 5,
+      "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
+      "summary": "6月22日消息，Eco Wave Power利用英伟达AI基础设施和数字孪生技术将海浪转化为电能，标志着AI在清洁能源领域的重要应用，助力解决AI自身能耗问题。",
+      "importance": "中",
+      "reason": "AI与清洁能源结合的商业案例，展示AI在能源转型中的潜力。",
+      "tags": [
+        "英伟达",
+        "清洁能源",
+        "数字孪生",
+        "AI应用"
+      ],
+      "url": "https://www.ft.com/content/233b76cf-2e30-48bd-96fc-b996ad5e307a",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-06-22 11:00:01",
+      "impact_score": 157.5
+    },
+    {
+      "index": 6,
+      "title": "AI Could Boost Poland’s Economy by 12% by 2035, World Bank Says",
+      "summary": "6月22日消息，世界银行报告指出，人工智能有望到2035年使波兰经济增长12%，帮助其在本地成本优势消退后与全球最富裕国家接轨。",
+      "importance": "中",
+      "reason": "世界银行对AI经济影响的权威预测，对东欧及新兴市场有参考价值。",
+      "tags": [
+        "世界银行",
+        "波兰",
+        "经济增长",
+        "AI影响"
+      ],
+      "url": "https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/",
+      "source": "NVIDIA AI",
+      "original_pub_date": "2026-06-22 13:00:13",
+      "impact_score": 145.0
+    },
+    {
+      "index": 7,
+      "title": "Cannes Ad Festival Puts OpenAI’s Projections in Spotlight",
+      "summary": "6月22日消息，在戛纳国际广告节上，OpenAI首席营收官Denise Dresser展示公司收入预测，AI对广告和媒体行业的影响成为焦点。",
+      "importance": "中",
+      "reason": "OpenAI在广告行业的商业拓展动态，反映AI商业化进展。",
+      "tags": [
+        "OpenAI",
+        "广告",
+        "戛纳",
+        "商业化"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-22/robinhood-seeks-to-raise-2-billion-in-convertible-bond-sale",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-22 12:23:51",
+      "impact_score": 142.5
+    },
+    {
+      "index": 8,
+      "title": "OpenAI’s Light Balance Sheet Could Face a Hard Look Before IPO",
+      "summary": "6月22日消息，OpenAI的财务报表显示其零债务且现金不足7.5亿美元，这种轻资产结构在IPO前可能面临投资者严格审视。",
+      "importance": "中",
+      "reason": "OpenAI财务状况分析，对其未来IPO和融资策略有重要参考。",
+      "tags": [
+        "OpenAI",
+        "IPO",
+        "财务",
+        "估值"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-06-21/uk-to-ban-social-media-for-under-16s-starting-next-year-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-21 14:39:11",
+      "impact_score": 142.5
+    },
+    {
+      "index": 9,
+      "title": "SpaceX’s 74-Day IPO Sets Pace for OpenAI, Anthropic",
+      "summary": "6月22日消息，SpaceX从IPO秘密提交到上市仅用74天，创下近年科技公司最快纪录，为OpenAI和Anthropic等AI公司提供了快速上市范本。",
+      "importance": "中",
+      "reason": "SpaceX快速IPO案例对AI公司上市节奏有示范效应。",
+      "tags": [
+        "SpaceX",
+        "IPO",
+        "AI公司",
+        "上市"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-06-22/spacex-kicks-off-debut-high-grade-bond-sale-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-22 13:30:49",
+      "impact_score": 127.5
+    },
+    {
+      "index": 10,
+      "title": "SpaceX handed lowest possible ESG rating by MSCI",
+      "summary": "6月22日消息，MSCI将SpaceX的ESG评级评为最低的CCC级，与2022年俄乌冲突后的俄罗斯同级，引发对科技公司ESG表现的关注。",
+      "importance": "中",
+      "reason": "ESG评级影响科技公司声誉和融资，对AI行业有警示作用。",
+      "tags": [
+        "SpaceX",
+        "ESG",
+        "评级",
+        "科技公司"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-22/uber-backed-electric-bike-firm-lime-seeks-180-9-million-in-ipo",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-22 11:16:26",
+      "impact_score": 127.5
+    },
+    {
+      "index": 11,
+      "title": "Korea Markets Chief Regrets Allowing Single-Stock Leveraged ETFs",
+      "summary": "6月22日消息，韩国金融监督院院长对允许单只股票杠杆ETF上市表示后悔，警告其负面效应已显著扩大，可能影响AI相关股票交易。",
+      "importance": "低",
+      "reason": "韩国金融监管动态，对AI相关股票交易有间接影响。",
+      "tags": [
+        "韩国",
+        "金融监管",
+        "ETF",
+        "AI股票"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-22/chinese-backing-helps-african-startup-spiro-near-unicorn-status",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-22 07:45:06",
+      "impact_score": 127.5
+    },
+    {
+      "index": 12,
+      "title": "South Korea’s Policy Chief Flags Property Risks From Chip Windfall",
+      "summary": "6月22日消息，韩国政策室长警告芯片产业繁荣带来的流动性可能涌入房地产市场，需防范资产泡沫风险，AI芯片需求是此轮繁荣的重要推手。",
+      "importance": "低",
+      "reason": "韩国芯片产业政策动态，与AI芯片需求相关。",
+      "tags": [
+        "韩国",
+        "芯片",
+        "房地产",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-22/hong-kong-seeks-more-investment-quotas-ipo-access-for-chinese",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-22 00:40:09",
+      "impact_score": 127.5
+    }
+  ],
+  "summary": "今日从93条原始信息中精选出10条国内动态和12条国际动态，其中9条为高重要性。 重点关注：LiblibAI 母公司完成近 3 亿美元融资：AI 应用层开始进入「收入说话」的阶段；AI黑客越来越凶？奇安信推出AI时代的全栈式产品矩阵；入选ECCV 2026！清华开源空间模型打败Gemini：真正的空间智能是在世界变化中持续学习。",
+  "statistics": {
+    "raw_domestic": 38,
+    "raw_international": 55,
+    "raw_total": 93,
+    "final_domestic": 10,
+    "final_international": 12
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "6月22日消息，演语科技完成近3亿美元B+轮融资，投后估值超20亿美元，由Granite A等领投，标志着AI应用层进入收入驱动的阶段。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "6月22日消息，国内网安龙头奇安信启动AI时代新品发布周，推出多款聚焦安全智能与智能安全的产品，宣告网络安全进入AI智能体对抗时代。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "6月22日消息，清华大学开源空间模型在ECCV 2026上表现超越Gemini，该模型能在世界变化中持续学习，实现120分钟长视频的实时理解。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "6月22日消息，银河通用联合研究团队在CVPR 2026提出AstraBrain-WBC 0.5，引入20亿帧人类行为数据，零样本泛化成功率92.58%，全面超越SONIC。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "6月22日消息，阿里巴巴发布视频生成模型HappyHorse 1.1，在动态表现力、主体一致性、指令遵循、视觉质感和音频能力五大维度系统性升级。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "6月22日消息，诺贝尔化学奖得主、谷歌DeepMind副总裁John Jumper宣布离职并加入竞争对手Anthropic，这是继另一位谷歌研究员Noam Shazeer之后又一重大人才流失。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "6月22日消息，一家AI法律公司在英国法院首次赢得诉讼，一名自由职业者花费约400英镑使用AI技术起草文件，成功处理了价值7000英镑的索赔案件。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "6月22日消息，诺贝尔经济学奖得主、前IMF首席经济学家Simon Johnson警告称，AI将深刻改变就业市场，企业对白领工人的需求将大幅减少，需提前准备应对。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "6月22日消息，英伟达最新AI服务器冷却液温度可高达45摄氏度，这一突破性技术使数据中心能效大幅提升，为大规模AI计算提供更高效的散热方案。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "6月22日消息，Eco Wave Power利用英伟达AI基础设施和数字孪生技术将海浪转化为电能，标志着AI在清洁能源领域的重要应用，助力解决AI自身能耗问题。",
+      "importance": "中"
+    }
+  ]
+}
