@@ -1,0 +1,456 @@
+{
+  "date": "2026-06-23",
+  "generated_at": "2026-06-23 11:22:26",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "网易有道首发14语种零口音语音克隆模型，无需参考文本即可复刻任意音色",
+      "summary": "6月23日消息，网易有道正式推出“子曰4.0”大模型体系TTS语音合成引擎Confucius4-TTS，该引擎凭借全球首个不依赖参考文本即可实现14语种无口音跨语种语音克隆的开创性突破引发行业高度关注，为数字人、跨境传播、智能教育等产业提供国产化、低成本语音克隆功能。",
+      "importance": "高",
+      "reason": "中国公司网易有道发布重大AI产品，属于国内动态，且为重大产品发布。",
+      "tags": [
+        "AI",
+        "大模型",
+        "语音克隆",
+        "网易有道",
+        "产品发布"
+      ],
+      "url": "https://36kr.com/p/3865523201692931?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-23 08:56:37",
+      "impact_score": 517.5
+    },
+    {
+      "index": 2,
+      "title": "成立不到90天的超级创企昆仑行，刷新具身最快独角兽",
+      "summary": "6月23日消息，具身智能创企昆仑行机器人注册不到90天便接连完成3轮融资，累计吸金数十亿元，估值达到具身智能独角兽级别，刷新行业初创公司成长速度上限。",
+      "importance": "高",
+      "reason": "中国公司昆仑行机器人快速融资成为独角兽，属于国内重大商业动态。",
+      "tags": [
+        "融资",
+        "具身智能",
+        "独角兽",
+        "昆仑行",
+        "机器人"
+      ],
+      "url": "https://36kr.com/p/3864082158785539?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-23 10:22:21",
+      "impact_score": 440.0
+    },
+    {
+      "index": 3,
+      "title": "阿里高管集体下田插秧，忙了一上午才种半亩？网友：真人版「芭芭农场」实锤了；智谱市值超1万亿港元；乐道总裁：卖车比我考清华大学还难",
+      "summary": "6月23日消息，智谱AI市值超过11000亿港元，已超过百度、美团和快手三者之和，同时字节跳动暂不考虑上市，蚂蚁集团新一届董事会换届，亿咖通拟18亿收购Flyme软件业务。",
+      "importance": "高",
+      "reason": "涉及多家中国公司（智谱、字节跳动、蚂蚁集团、亿咖通）的重大商业动态，属于国内动态。",
+      "tags": [
+        "智谱",
+        "市值",
+        "字节跳动",
+        "蚂蚁集团",
+        "亿咖通"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/30qYFuhjh76yBsIV.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-23 05:57:00",
+      "impact_score": 410.0
+    },
+    {
+      "index": 4,
+      "title": "LiblibAI 母公司完成近 3 亿美元融资：AI 应用层开始进入「收入说话」的阶段",
+      "summary": "6月23日消息，演语科技（Evoken）正式对外披露近3亿美元B+轮融资，投后估值超过20亿美元，该轮融资由Granite A等机构参与，标志着AI应用层进入以收入说话的新阶段。",
+      "importance": "高",
+      "reason": "中国AI公司演语科技完成大额融资，属于国内重大商业动态。",
+      "tags": [
+        "融资",
+        "AI应用",
+        "演语科技",
+        "估值",
+        "商业动态"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/piPbBllVn6chKHBz.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-23 02:36:00",
+      "impact_score": 315.0
+    },
+    {
+      "index": 5,
+      "title": "AI黑客越来越凶？奇安信推出AI时代的全栈式产品矩阵",
+      "summary": "6月23日消息，国内网安龙头奇安信宣布启动“AI时代，攻防先行”系列新品发布周，推出多款聚焦“安全智能”与“智能安全”的产品，宣告网络安全正式进入“AI智能体对抗”时代。",
+      "importance": "高",
+      "reason": "中国公司奇安信发布AI安全产品，属于国内重大产品发布和安全动态。",
+      "tags": [
+        "奇安信",
+        "AI安全",
+        "产品发布",
+        "网络安全",
+        "AI智能体"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/qCw7a9DKFNHJFgSe.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-23 01:46:00",
+      "impact_score": 305.0
+    },
+    {
+      "index": 6,
+      "title": "GAIR Paper 103｜上海交大联合腾讯提出 Token 级别幻觉优化，实现大模型幻觉精准消除",
+      "summary": "6月23日消息，上海交通大学与腾讯联合提出全新强化学习框架BALTO，通过平衡的token级信用分配机制，精准消除大模型幻觉，同时保持回答的丰富性，为高风险场景部署提供新方案。",
+      "importance": "中",
+      "reason": "中国研究机构与公司联合取得学术突破，属于国内重大学术动态。",
+      "tags": [
+        "上海交大",
+        "腾讯",
+        "大模型",
+        "幻觉优化",
+        "学术突破"
+      ],
+      "url": "https://36kr.com/p/3865513055540481?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-23 08:47:50",
+      "impact_score": 296.0
+    },
+    {
+      "index": 7,
+      "title": "阿里发布视频生成模型HappyHorse 1.1：五大维度全面升级",
+      "summary": "6月23日消息，阿里巴巴发布视频生成模型HappyHorse 1.1，在五大维度进行全面升级，进一步提升了视频生成的质量和效率。",
+      "importance": "中",
+      "reason": "中国公司阿里巴巴发布AI模型，属于国内产品发布动态。",
+      "tags": [
+        "阿里巴巴",
+        "视频生成",
+        "HappyHorse",
+        "模型发布",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/yanxishe/9TGZvtD8CvNeaEKw.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-22 10:03:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 8,
+      "title": "入选ECCV 2026！清华开源空间模型打败Gemini：真正的空间智能是在世界变化中持续学习",
+      "summary": "6月23日消息，清华大学开源空间模型，该模型在空间智能任务上表现优于Gemini，能够处理120分钟长视频并持续学习，相关成果入选ECCV 2026。",
+      "importance": "中",
+      "reason": "中国研究机构清华大学取得学术突破并开源，属于国内重大学术动态。",
+      "tags": [
+        "清华大学",
+        "空间模型",
+        "开源",
+        "ECCV 2026",
+        "学术突破"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/h3CWyacKTOhA0l1L.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-23 02:56:00",
+      "impact_score": 255.0
+    },
+    {
+      "index": 9,
+      "title": "以“高导热+高强韧”镁合金切入机器人等高端制造领域，「宜镁华」完成数千万元天使轮融资｜36氪首发",
+      "summary": "6月23日消息，宜镁华宣布完成数千万元天使轮融资，由星河创投与华中实业集团投资，资金将用于产能建设、研发投入和团队扩充，公司自研高导高强合金设计技术，切入机器人关节电机模组等高端制造场景。",
+      "importance": "中",
+      "reason": "中国公司宜镁华完成融资，属于国内商业动态。",
+      "tags": [
+        "融资",
+        "镁合金",
+        "机器人",
+        "宜镁华",
+        "高端制造"
+      ],
+      "url": "https://www.leiphone.com/category/ai/M6tymyAI0col1cpj.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-22 03:00:00",
+      "impact_score": 255.0
+    },
+    {
+      "index": 10,
+      "title": "有智青年挑战赛暨全国AI+场景应用大赛决赛收官！在WAVES 2026的舞台上，挖掘中国下一代AI独角",
+      "summary": "6月23日消息，有智青年挑战赛暨全国AI+场景应用大赛决赛在WAVES新浪潮大会期间举行，汇聚多支青年团队围绕AI与数字经济前沿场景展开角逐，旨在挖掘中国下一代AI独角兽。",
+      "importance": "低",
+      "reason": "中国举办的AI赛事，属于国内动态，但影响力相对较低。",
+      "tags": [
+        "AI大赛",
+        "青年创业",
+        "WAVES",
+        "场景应用",
+        "独角兽"
+      ],
+      "url": "https://36kr.com/p/3865480064504835?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-23 08:16:45",
+      "impact_score": 240.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos",
+      "summary": "6月23日消息，OpenAI发布改进版GPT-5.5-Cyber模型并启动“Patch the Planet”计划，旨在利用AI修复开源软件漏洞以提升网络安全能力。",
+      "importance": "高",
+      "reason": "OpenAI为海外公司，发布重大产品更新和开源安全计划，属于重大产品发布和安全伦理动态。",
+      "tags": [
+        "OpenAI",
+        "GPT-5",
+        "网络安全",
+        "开源"
+      ],
+      "url": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
+      "source": "Wired AI",
+      "original_pub_date": "2026-06-22 17:00:00",
+      "impact_score": 249.0
+    },
+    {
+      "index": 2,
+      "title": "Why SpaceX Shares Are Under Pressure",
+      "summary": "6月23日消息，SpaceX股价在创纪录IPO后承压，投资者质疑其AI交易放缓及OpenAI和Anthropic等公司即将上市带来的竞争压力。",
+      "importance": "高",
+      "reason": "SpaceX为海外公司，涉及AI相关IPO和商业动态，属于重大商业动态。",
+      "tags": [
+        "SpaceX",
+        "IPO",
+        "AI",
+        "商业动态"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-06-23/why-spacex-shares-are-under-pressure-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-23 09:17:58",
+      "impact_score": 240.0
+    },
+    {
+      "index": 3,
+      "title": "Masayoshi Son Dismisses Musk’s Orbital Data Centers Idea",
+      "summary": "6月23日消息，软银创始人孙正义驳斥马斯克提出的太空数据中心构想，认为AI竞赛将由地球上的计算资源决定胜负。",
+      "importance": "中",
+      "reason": "软银为海外公司，涉及AI基础设施战略讨论，属于重大商业动态。",
+      "tags": [
+        "软银",
+        "孙正义",
+        "马斯克",
+        "数据中心",
+        "AI"
+      ],
+      "url": "https://arxiv.org/abs/2606.20643",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-23 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 4,
+      "title": "AI law firm wins UK court case for first time",
+      "summary": "6月23日消息，一家AI法律公司在英国法院首次赢得案件，一名自由职业者花费约400英镑使用AI技术起草文件，成功索赔7000英镑。",
+      "importance": "中",
+      "reason": "发生在英国的AI法律应用案例，属于安全与伦理及商业动态。",
+      "tags": [
+        "AI法律",
+        "英国",
+        "法院",
+        "商业应用"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-06-23/masayoshi-son-dismisses-musk-s-orbital-data-centers-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-23 10:19:09",
+      "impact_score": 180.0
+    },
+    {
+      "index": 5,
+      "title": "Meta Announces New WhatsApp Leader",
+      "summary": "6月23日消息，Meta以9亿美元投资印度金融科技初创公司Cred，并任命其创始人Kunal Shah接替Will Cathcart担任WhatsApp负责人。",
+      "importance": "中",
+      "reason": "Meta为海外公司，涉及重大投资和人事变动，属于重大商业动态。",
+      "tags": [
+        "Meta",
+        "WhatsApp",
+        "投资",
+        "人事变动"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/masa-son-dismisses-musk-s-space-data-center-as-an-ai-race-winner",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-23 04:16:22",
+      "impact_score": 180.0
+    },
+    {
+      "index": 6,
+      "title": "EU to Escalate Meta Probe Into Addictive Design That Hooks Kids",
+      "summary": "6月23日消息，欧盟计划升级对Meta的调查，指控其产品设计对儿童具有成瘾性，此举加大了对这家美国社交媒体公司的监管压力。",
+      "importance": "高",
+      "reason": "欧盟对Meta的调查属于重大政策与法规动态，涉及AI安全与伦理。",
+      "tags": [
+        "欧盟",
+        "Meta",
+        "监管",
+        "儿童保护",
+        "AI伦理"
+      ],
+      "url": "https://www.cnbc.com/2026/06/23/spacex-stock-tech-sell-off.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-06-23 11:04:31",
+      "impact_score": 165.0
+    },
+    {
+      "index": 7,
+      "title": "Trump Signs Sweeping Quantum Executive Orders",
+      "summary": "6月23日消息，美国总统特朗普签署两项关于量子技术的行政令，鼓励各机构投资研究，量子技术虽非AI但属相关前沿科技政策。",
+      "importance": "中",
+      "reason": "美国政府的行政令属于重大政策与法规动态，虽聚焦量子但影响AI生态。",
+      "tags": [
+        "特朗普",
+        "行政令",
+        "量子技术",
+        "政策"
+      ],
+      "url": "https://www.cnbc.com/2026/06/22/spacex-spcx-bond-sale-ipo.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-06-22 20:33:12",
+      "impact_score": 165.0
+    },
+    {
+      "index": 8,
+      "title": "Abu Dhabi’s MGX Raises About $50 Billion to Accelerate AI Deals",
+      "summary": "6月23日消息，阿布扎比MGX公司从全球投资者处筹集近500亿美元，用于加速人工智能基础设施和技术的投资。",
+      "importance": "高",
+      "reason": "海外基金大额融资，属于重大商业动态。",
+      "tags": [
+        "MGX",
+        "阿布扎比",
+        "AI投资",
+        "融资"
+      ],
+      "url": "https://www.ft.com/content/b4f8f589-6771-4df5-ac4d-cb15d94991fb",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-06-22 11:27:36",
+      "impact_score": 165.0
+    },
+    {
+      "index": 9,
+      "title": "BBVA Offloads AI Risk With $2 Billion Infrastructure-Linked SRT",
+      "summary": "6月23日消息，西班牙BBVA银行接近完成一项20亿美元的风险转移交易，以对冲其快速增长的AI相关贷款组合风险。",
+      "importance": "中",
+      "reason": "海外银行涉及AI金融风险转移，属于重大商业动态。",
+      "tags": [
+        "BBVA",
+        "AI风险",
+        "金融",
+        "风险转移"
+      ],
+      "url": "https://arxiv.org/abs/2606.20624",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-23 04:00:00",
+      "impact_score": 160.0
+    },
+    {
+      "index": 10,
+      "title": "OpenAI pitches ChatGPT ads to Cannes marketers ahead of IPO",
+      "summary": "6月23日消息，OpenAI在IPO前首次参加戛纳国际创意节，向营销人员推销ChatGPT广告业务，以拓展商业化路径。",
+      "importance": "中",
+      "reason": "OpenAI为海外公司，涉及商业化和IPO准备，属于重大商业动态。",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "广告",
+        "IPO"
+      ],
+      "url": "https://www.theinformation.com/briefings/meta-announces-new-whatsapp-leader",
+      "source": "The Information",
+      "original_pub_date": "2026-06-22 15:26:41",
+      "impact_score": 158.0
+    },
+    {
+      "index": 11,
+      "title": "Qualcomm Is Said to Near Deal for AI Software Firm Modular",
+      "summary": "6月23日消息，高通公司接近以约40亿美元收购AI基础设施软件公司Modular，交易估值约40亿美元。",
+      "importance": "高",
+      "reason": "高通为海外公司，涉及重大并购，属于重大商业动态。",
+      "tags": [
+        "高通",
+        "Modular",
+        "收购",
+        "AI软件"
+      ],
+      "url": "https://www.ft.com/content/233b76cf-2e30-48bd-96fc-b996ad5e307a",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-06-22 11:00:01",
+      "impact_score": 157.5
+    },
+    {
+      "index": 12,
+      "title": "Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines",
+      "summary": "6月23日消息，英伟达最新AI服务器冷却液温度可达45摄氏度，突破性散热技术使大型AI机器更高效运行。",
+      "importance": "中",
+      "reason": "英伟达为海外公司，发布硬件技术突破，属于重大产品发布。",
+      "tags": [
+        "英伟达",
+        "散热技术",
+        "AI服务器",
+        "硬件"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/eu-to-escalate-meta-probe-into-addictive-design-that-hooks-kids",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-23 09:12:34",
+      "impact_score": 150.0
+    }
+  ],
+  "summary": "今日从172条原始信息中精选出10条国内动态和12条国际动态，其中10条为高重要性。 重点关注：网易有道首发14语种零口音语音克隆模型，无需参考文本即可复刻任意音色；成立不到90天的超级创企昆仑行，刷新具身最快独角兽；阿里高管集体下田插秧，忙了一上午才种半亩？网友：真人版「芭芭农场」实锤了；智谱市值超1万亿港元；乐道总裁：卖车比我考清华大学还难。",
+  "statistics": {
+    "raw_domestic": 46,
+    "raw_international": 126,
+    "raw_total": 172,
+    "final_domestic": 10,
+    "final_international": 12
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "6月23日消息，网易有道正式推出“子曰4.0”大模型体系TTS语音合成引擎Confucius4-TTS，该引擎凭借全球首个不依赖参考文本即可实现14语种无口音跨语种语音克隆的开创性突破引发行业高度关注，为数字人、跨境传播、智能教育等产业提供国产化、低成本语音克隆功能。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "6月23日消息，具身智能创企昆仑行机器人注册不到90天便接连完成3轮融资，累计吸金数十亿元，估值达到具身智能独角兽级别，刷新行业初创公司成长速度上限。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "6月23日消息，智谱AI市值超过11000亿港元，已超过百度、美团和快手三者之和，同时字节跳动暂不考虑上市，蚂蚁集团新一届董事会换届，亿咖通拟18亿收购Flyme软件业务。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "6月23日消息，演语科技（Evoken）正式对外披露近3亿美元B+轮融资，投后估值超过20亿美元，该轮融资由Granite A等机构参与，标志着AI应用层进入以收入说话的新阶段。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "6月23日消息，国内网安龙头奇安信宣布启动“AI时代，攻防先行”系列新品发布周，推出多款聚焦“安全智能”与“智能安全”的产品，宣告网络安全正式进入“AI智能体对抗”时代。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "6月23日消息，OpenAI发布改进版GPT-5.5-Cyber模型并启动“Patch the Planet”计划，旨在利用AI修复开源软件漏洞以提升网络安全能力。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "6月23日消息，SpaceX股价在创纪录IPO后承压，投资者质疑其AI交易放缓及OpenAI和Anthropic等公司即将上市带来的竞争压力。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "6月23日消息，欧盟计划升级对Meta的调查，指控其产品设计对儿童具有成瘾性，此举加大了对这家美国社交媒体公司的监管压力。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "6月23日消息，阿布扎比MGX公司从全球投资者处筹集近500亿美元，用于加速人工智能基础设施和技术的投资。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "6月23日消息，高通公司接近以约40亿美元收购AI基础设施软件公司Modular，交易估值约40亿美元。",
+      "importance": "高"
+    }
+  ]
+}
