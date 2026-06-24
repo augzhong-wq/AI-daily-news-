@@ -1,0 +1,534 @@
+{
+  "date": "2026-06-24",
+  "generated_at": "2026-06-24 10:55:58",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "网易有道首发14语种零口音语音克隆模型，无需参考文本即可复刻任意音色",
+      "summary": "6月24日消息，网易有道正式推出“子曰4.0”大模型体系TTS语音合成引擎Confucius4-TTS，实现全球首个不依赖参考文本即可完成14语种无口音跨语种语音克隆，为数字人、跨境传播、智能教育等产业提供国产化低成本方案。",
+      "importance": "高",
+      "reason": "中国公司网易有道发布重大产品，属于国内动态中的重大产品发布，技术突破显著。",
+      "tags": [
+        "大模型",
+        "语音克隆",
+        "产品发布"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/30qYFuhjh76yBsIV.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-23 05:57:00",
+      "impact_score": 410.0
+    },
+    {
+      "index": 2,
+      "title": "刚刚，豆包2.1发布！Agent自己跑18个小时搞定芯片设计代码",
+      "summary": "6月24日消息，字节跳动发布豆包2.1大模型，其Agent可自主运行18小时完成芯片设计代码编写，编程能力比肩Opus 4.7，显著提升复杂任务处理能力。",
+      "importance": "高",
+      "reason": "中国公司字节跳动发布旗舰AI模型，属于重大产品发布，技术突破性强。",
+      "tags": [
+        "大模型",
+        "豆包",
+        "产品发布"
+      ],
+      "url": "https://www.leiphone.com/category/chips/B9OrnyYJ8xX88loZ.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-24 03:25:00",
+      "impact_score": 390.0
+    },
+    {
+      "index": 3,
+      "title": "360发布“中国版Mythos”图龙锋 周鸿祎：漏洞发现能力正成为新的战略能力",
+      "summary": "6月24日消息，360集团创始人周鸿祎在ISC.AI 2026大会上发布漏洞自动化挖掘智能体“图龙锋”和网络安全自动化防御系统“仪天阵”，并联合飞腾、麒麟等产业伙伴发起“磐石之盾”安全协作计划。",
+      "importance": "高",
+      "reason": "中国公司360发布重大AI安全产品，属于重大产品发布，涉及安全与伦理领域。",
+      "tags": [
+        "AI安全",
+        "产品发布",
+        "360"
+      ],
+      "url": "https://36kr.com/p/3866900608701449?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-24 08:17:52",
+      "impact_score": 322.5
+    },
+    {
+      "index": 4,
+      "title": "豆包专业版上线：接入全新豆包2.1 Pro大模型 专注复杂工作任务场景",
+      "summary": "6月24日消息，字节跳动旗下豆包正式推出专业版，基于最新豆包2.1 Pro大模型，面向复杂办公和生产力场景，提供更高使用额度和全新办公任务模式，支持本地电脑操作和工具调用。",
+      "importance": "高",
+      "reason": "中国公司字节跳动发布重要产品更新，属于重大产品发布。",
+      "tags": [
+        "大模型",
+        "豆包",
+        "产品发布"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/piPbBllVn6chKHBz.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-23 02:36:00",
+      "impact_score": 315.0
+    },
+    {
+      "index": 5,
+      "title": "成立不到90天的超级创企昆仑行，刷新具身最快独角兽",
+      "summary": "6月24日消息，具身智能初创公司昆仑行机器人成立不到90天完成3轮融资，累计吸金数十亿元，估值达到独角兽级别，刷新行业最快融资纪录，投资方包括顶级资本。",
+      "importance": "中",
+      "reason": "中国初创公司重大商业动态，大额融资，属于国内动态。",
+      "tags": [
+        "融资",
+        "具身智能",
+        "独角兽"
+      ],
+      "url": "https://36kr.com/p/3866666733835522?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-24 04:17:53",
+      "impact_score": 292.5
+    },
+    {
+      "index": 6,
+      "title": "仙工智能的过山车：暗盘破发7%、首日冲高38%",
+      "summary": "6月24日消息，仙工智能正式在港交所上市，开盘平开后一路拉升最高涨38.3%，截至发稿仍涨13.88%，市值127.8亿港元，成为港股估值最贵的机器人新股。",
+      "importance": "中",
+      "reason": "中国公司仙工智能在港交所上市，属于重大商业动态。",
+      "tags": [
+        "上市",
+        "机器人",
+        "港股"
+      ],
+      "url": "https://www.qbitai.com/2026/06/437503.html",
+      "source": "量子位",
+      "original_pub_date": "2026-06-23 13:37:17",
+      "impact_score": 270.0
+    },
+    {
+      "index": 7,
+      "title": "正行创新完成近亿美元天使轮融资，正大集团、华勤技术等多家上市企业联合加持",
+      "summary": "6月24日消息，正行创新完成近亿美元天使轮融资，由正大集团、华勤技术等多家上市企业联合投资，旨在以“数据—模型—基础设施”系统性协同通往物理智能。",
+      "importance": "中",
+      "reason": "中国初创公司获得大额天使轮融资，属于重大商业动态。",
+      "tags": [
+        "融资",
+        "物理智能",
+        "天使轮"
+      ],
+      "url": "https://36kr.com/p/3867032586867972?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-24 10:35:25",
+      "impact_score": 255.0
+    },
+    {
+      "index": 8,
+      "title": "独家丨清研精准完成数亿元 B3 轮融资，目标打造物理 AI 数据基础设施",
+      "summary": "6月24日消息，清华系物理AI企业清研精准完成数亿元B3轮融资，由北京市绿色能源基金、北汽产投领投，资金将用于核心人才招募、多模态数采设备研发及算力采购。",
+      "importance": "中",
+      "reason": "中国公司获得数亿元融资，属于重大商业动态。",
+      "tags": [
+        "融资",
+        "物理AI",
+        "清华系"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/h3CWyacKTOhA0l1L.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-23 02:56:00",
+      "impact_score": 255.0
+    },
+    {
+      "index": 9,
+      "title": "完成数亿元新融资，影眸科技 Hyper3D 让 3D 生成进入“思考时代”丨36氪首发",
+      "summary": "6月24日消息，影眸科技完成数亿元新融资，其3D生成模型Rodin Gen-2 Edit实现AI 3D模型首次可编辑，团队来自上海科技大学，推动3D生成进入“思考时代”。",
+      "importance": "中",
+      "reason": "中国初创公司获得融资并发布技术突破，属于重大商业动态和学术突破。",
+      "tags": [
+        "融资",
+        "3D生成",
+        "学术突破"
+      ],
+      "url": "https://36kr.com/p/3866854221698313?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-24 07:31:56",
+      "impact_score": 240.0
+    },
+    {
+      "index": 10,
+      "title": "起底大晓：四个月狂融数亿美金，国家队、车企、芯片巨头为何集体「押注」",
+      "summary": "6月24日消息，大晓机器人完成天使+轮融资，投资方包括深创投、上海科创基金、吉利资本、沐曦股份等，四个月内累计融资数亿美元，具身智能赛道获多方资本押注。",
+      "importance": "中",
+      "reason": "中国初创公司获得大额融资，属于重大商业动态。",
+      "tags": [
+        "融资",
+        "具身智能",
+        "国家队"
+      ],
+      "url": "https://36kr.com/p/3866622738060553?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-24 03:38:08",
+      "impact_score": 240.0
+    },
+    {
+      "index": 11,
+      "title": "2026世界人工智能大会SAIL奖TOP30及青年优秀论文奖TOP20发布",
+      "summary": "6月24日消息，2026世界人工智能大会发布SAIL奖TOP30及青年优秀论文奖TOP20，表彰人工智能领域的卓越引领性成果和青年学者贡献。",
+      "importance": "中",
+      "reason": "中国举办的AI领域重要奖项发布，属于国内动态中的学术奖项。",
+      "tags": [
+        "人工智能",
+        "奖项",
+        "学术"
+      ],
+      "url": "https://www.qbitai.com/2026/06/437694.html",
+      "source": "量子位",
+      "original_pub_date": "2026-06-23 13:54:31",
+      "impact_score": 240.0
+    },
+    {
+      "index": 12,
+      "title": "微信AI助手小微，还有许多做不到的事情｜产品观察",
+      "summary": "6月24日消息，微信AI助手“小微”正在灰度内测，基于自研模型WeLM，部分调用DeepSeek，打通小程序、聊天、朋友圈等功能，但存在隐私和功能限制问题。",
+      "importance": "中",
+      "reason": "中国公司腾讯发布AI产品，属于产品发布。",
+      "tags": [
+        "AI助手",
+        "微信",
+        "产品发布"
+      ],
+      "url": "https://36kr.com/newsflashes/3867011606303745?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-24 10:07:37",
+      "impact_score": 210.0
+    },
+    {
+      "index": 13,
+      "title": "华为天才少年一作，港大MaRS Lab拿下IEEE TRO傅京孙纪念最佳论文奖",
+      "summary": "6月24日消息，香港大学MaRS Lab以华为天才少年为一作的研究成果获得IEEE TRO傅京孙纪念最佳论文奖，相关开源项目在GitHub获4.2k Star。",
+      "importance": "中",
+      "reason": "中国研究机构获得顶级学术奖项，属于重大学术突破。",
+      "tags": [
+        "学术奖项",
+        "机器人",
+        "华为"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/t81MR1roNriefQ6v.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-24 07:00:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 14,
+      "title": "GAIR Paper 103｜上海交大联合腾讯提出 Token 级别幻觉优化，实现大模型幻觉精准消除",
+      "summary": "6月24日消息，上海交通大学与腾讯联合提出BALTO强化学习框架，通过平衡的token级信用分配机制精准消除大模型幻觉，同时保持回答的丰富性和实用性。",
+      "importance": "中",
+      "reason": "中国研究机构与公司联合取得学术突破，属于重大学术突破。",
+      "tags": [
+        "学术突破",
+        "大模型",
+        "幻觉优化"
+      ],
+      "url": "https://www.leiphone.com/category/transportation/GuMr52kfBBLLfvF1.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-24 03:20:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 15,
+      "title": "火山引擎下半年往哪发力？答案藏在这场Force大会里",
+      "summary": "6月24日消息，火山引擎在2026夏季FORCE原动力大会上公布下半年战略，重点推动Seedance2.0从短剧、漫剧走向更多实际应用场景，持续扩大MaaS市场份额。",
+      "importance": "中",
+      "reason": "中国公司火山引擎发布战略方向，属于重大商业动态。",
+      "tags": [
+        "火山引擎",
+        "大模型",
+        "商业化"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/ATSs1siQdN2RCpgn.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-24 02:54:00",
+      "impact_score": 200.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "SpaceX Sells $25 Billion of Bonds, Cuts Interest Costs",
+      "summary": "6月24日消息，SpaceX出售250亿美元投资级债券，以替换此前为收购X和xAI融资的高成本债务，降低利息支出。",
+      "importance": "高",
+      "reason": "重大商业动态，涉及AI相关公司xAI的融资重组，金额巨大",
+      "tags": [
+        "商业动态",
+        "融资",
+        "SpaceX"
+      ],
+      "url": "https://arxiv.org/abs/2606.24370",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-24 04:00:00",
+      "impact_score": 330.0
+    },
+    {
+      "index": 2,
+      "title": "Hollywood is bending the knee to OpenAI",
+      "summary": "6月24日消息，Netflix、A24等多家好莱坞制片厂拒绝发行关于OpenAI CEO Sam Altman的传记电影《Artificial》，引发行业对AI领袖形象的争议。",
+      "importance": "中",
+      "reason": "涉及OpenAI及AI领袖的文化影响，但重要性相对较低",
+      "tags": [
+        "文化影响",
+        "OpenAI",
+        "Sam Altman"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-06-24/spacex-sells-25-billion-of-bonds-cuts-interest-costs-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-24 05:31:57",
+      "impact_score": 255.0
+    },
+    {
+      "index": 3,
+      "title": "Walmart’s $1.4 Billion Ad Tech Purchase: How The Price Compares",
+      "summary": "6月24日消息，沃尔玛以14亿美元收购纽约广告技术初创公司Vibe，旨在加强其广告业务，帮助小企业购买流媒体广告。",
+      "importance": "中",
+      "reason": "重大商业并购，但AI关联度较低",
+      "tags": [
+        "商业动态",
+        "并购",
+        "广告技术"
+      ],
+      "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-06-23 22:03:18",
+      "impact_score": 229.5
+    },
+    {
+      "index": 4,
+      "title": "AI Billionaires Score Win in $29 Million New York Proxy Fight",
+      "summary": "6月24日消息，AI亿万富翁包括Marc Andreessen和OpenAI总裁Greg Brockman在纽约国会初选中赢得关键胜利，该选举成为一场2900万美元的AI未来控制权代理战。",
+      "importance": "高",
+      "reason": "重大政策与法规相关，AI领袖影响政治选举",
+      "tags": [
+        "政策",
+        "AI影响力",
+        "政治"
+      ],
+      "url": "https://www.theinformation.com/articles/walmarts-1-4-billion-ad-tech-purchase-price-compares",
+      "source": "The Information",
+      "original_pub_date": "2026-06-23 21:20:43",
+      "impact_score": 210.0
+    },
+    {
+      "index": 5,
+      "title": "Amazon CEO Ramps Up Fast Commerce Push in Maiden India Trip",
+      "summary": "6月24日消息，亚马逊CEO Andy Jassy首次访问印度，宣布扩大Amazon Now快速配送服务覆盖范围，以应对本地竞争对手。",
+      "importance": "低",
+      "reason": "商业动态，但AI关联度低",
+      "tags": [
+        "商业动态",
+        "亚马逊",
+        "印度"
+      ],
+      "url": "https://arxiv.org/abs/2606.24124",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-24 04:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 6,
+      "title": "Chip Startup Backed by Ex-ASML CEO Seeks to Raise €200 Million",
+      "summary": "6月24日消息，荷兰芯片初创公司Euclyd获前ASML CEO支持，寻求约2亿欧元A轮融资，以开发AI芯片技术。",
+      "importance": "中",
+      "reason": "重大商业融资，涉及AI芯片领域",
+      "tags": [
+        "商业动态",
+        "融资",
+        "芯片"
+      ],
+      "url": "https://arxiv.org/abs/2606.24196",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-24 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 7,
+      "title": "SpaceX raises $25 billion in debt sale less than two weeks after IPO",
+      "summary": "6月24日消息，SpaceX在IPO后不到两周通过债务出售筹集250亿美元，订单规模近900亿美元，显示市场强劲需求。",
+      "importance": "高",
+      "reason": "重大商业动态，涉及巨额融资",
+      "tags": [
+        "商业动态",
+        "融资",
+        "SpaceX"
+      ],
+      "url": "https://arxiv.org/abs/2606.24235",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-24 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 8,
+      "title": "How AI Customers Are Lowering Their Anthropic and OpenAI Bills",
+      "summary": "6月24日消息，大型AI客户通过使用Anthropic和OpenAI的廉价模型及其他供应商来降低账单，如Ensemble Health Partners计划年支出1亿美元。",
+      "importance": "中",
+      "reason": "商业动态，反映AI市场定价和客户行为变化",
+      "tags": [
+        "商业动态",
+        "AI模型",
+        "成本"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/ai-billionaires-score-win-in-29-million-new-york-proxy-fight",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-24 10:30:00",
+      "impact_score": 180.0
+    },
+    {
+      "index": 9,
+      "title": "Nvidia Launches Open-Source Software For Life Sciences",
+      "summary": "6月24日消息，英伟达发布开源软件BioNeMo Agent Toolkit，帮助科学家和生物技术公司开发AI代理，无需编程经验。",
+      "importance": "高",
+      "reason": "重大产品发布，英伟达在生命科学领域的AI布局",
+      "tags": [
+        "产品发布",
+        "英伟达",
+        "生命科学"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/amazon-ramps-up-india-fast-commerce-push-to-take-on-local-rivals",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-24 08:01:29",
+      "impact_score": 180.0
+    },
+    {
+      "index": 10,
+      "title": "Meta launches cheaper smart glasses without Ray-Ban",
+      "summary": "6月24日消息，Meta推出不依赖Ray-Ban品牌的智能眼镜，提供三种风格和七种颜色，价格更低，拓展可穿戴AI设备市场。",
+      "importance": "中",
+      "reason": "重大产品发布，Meta在AI硬件领域的拓展",
+      "tags": [
+        "产品发布",
+        "Meta",
+        "智能眼镜"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/chip-startup-backed-by-ex-asml-ceo-seeks-to-raise-200-million",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-24 07:51:23",
+      "impact_score": 180.0
+    },
+    {
+      "index": 11,
+      "title": "OpenAI launches new initiative to help find and patch open source bugs",
+      "summary": "6月24日消息，OpenAI启动新计划，利用AI帮助开源社区发现和修复漏洞，提升软件安全性。",
+      "importance": "中",
+      "reason": "产品发布，OpenAI在开源安全领域的AI应用",
+      "tags": [
+        "产品发布",
+        "OpenAI",
+        "开源安全"
+      ],
+      "url": "https://arxiv.org/abs/2606.24388",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-24 04:00:00",
+      "impact_score": 170.0
+    },
+    {
+      "index": 12,
+      "title": "MGX Sets Up $50 Billion AI Fund",
+      "summary": "6月24日消息，阿布扎比MGX从区域和全球投资者筹集近500亿美元，设立专注于AI投资的专项基金。",
+      "importance": "高",
+      "reason": "重大商业动态，全球最大AI投资基金之一",
+      "tags": [
+        "商业动态",
+        "融资",
+        "AI基金"
+      ],
+      "url": "https://www.cnbc.com/2026/06/23/spacex-debt-bond-market-ipo.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-06-23 21:29:33",
+      "impact_score": 165.0
+    },
+    {
+      "index": 13,
+      "title": "SK Hynix Seeks $29 Billion With US Listing to Fund AI Boom",
+      "summary": "6月24日消息，SK海力士计划通过美国上市筹集294亿美元，以扩大AI内存芯片产能，满足人工智能供应链需求。",
+      "importance": "高",
+      "reason": "重大商业动态，AI芯片巨头巨额融资",
+      "tags": [
+        "商业动态",
+        "融资",
+        "AI芯片"
+      ],
+      "url": "https://www.ft.com/content/23944164-b81a-4296-8b85-7d3648f1753c",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-06-23 19:16:28",
+      "impact_score": 165.0
+    },
+    {
+      "index": 14,
+      "title": "BlackRock-Backed AIP, KKR Said to Court Stack Asia Data Centers",
+      "summary": "6月24日消息，贝莱德支持的AI基础设施合伙公司和Brookfield等竞购Stack Infrastructure在亚太的数据中心，以支持AI算力需求。",
+      "importance": "中",
+      "reason": "商业动态，AI基础设施投资",
+      "tags": [
+        "商业动态",
+        "数据中心",
+        "AI基础设施"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/philippines-bans-gorebox-as-police-finds-school-shooter-played-online-game",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-24 04:08:30",
+      "impact_score": 150.0
+    }
+  ],
+  "summary": "今日从182条原始信息中精选出15条国内动态和14条国际动态，其中10条为高重要性。 重点关注：网易有道首发14语种零口音语音克隆模型，无需参考文本即可复刻任意音色；刚刚，豆包2.1发布！Agent自己跑18个小时搞定芯片设计代码；360发布“中国版Mythos”图龙锋 周鸿祎：漏洞发现能力正成为新的战略能力。",
+  "statistics": {
+    "raw_domestic": 50,
+    "raw_international": 132,
+    "raw_total": 182,
+    "final_domestic": 15,
+    "final_international": 14
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "6月24日消息，网易有道正式推出“子曰4.0”大模型体系TTS语音合成引擎Confucius4-TTS，实现全球首个不依赖参考文本即可完成14语种无口音跨语种语音克隆，为数字人、跨境传播、智能教育等产业提供国产化低成本方案。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "6月24日消息，字节跳动发布豆包2.1大模型，其Agent可自主运行18小时完成芯片设计代码编写，编程能力比肩Opus 4.7，显著提升复杂任务处理能力。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "6月24日消息，360集团创始人周鸿祎在ISC.AI 2026大会上发布漏洞自动化挖掘智能体“图龙锋”和网络安全自动化防御系统“仪天阵”，并联合飞腾、麒麟等产业伙伴发起“磐石之盾”安全协作计划。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "6月24日消息，字节跳动旗下豆包正式推出专业版，基于最新豆包2.1 Pro大模型，面向复杂办公和生产力场景，提供更高使用额度和全新办公任务模式，支持本地电脑操作和工具调用。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "6月24日消息，具身智能初创公司昆仑行机器人成立不到90天完成3轮融资，累计吸金数十亿元，估值达到独角兽级别，刷新行业最快融资纪录，投资方包括顶级资本。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "6月24日消息，SpaceX出售250亿美元投资级债券，以替换此前为收购X和xAI融资的高成本债务，降低利息支出。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "6月24日消息，AI亿万富翁包括Marc Andreessen和OpenAI总裁Greg Brockman在纽约国会初选中赢得关键胜利，该选举成为一场2900万美元的AI未来控制权代理战。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "6月24日消息，SpaceX在IPO后不到两周通过债务出售筹集250亿美元，订单规模近900亿美元，显示市场强劲需求。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "6月24日消息，英伟达发布开源软件BioNeMo Agent Toolkit，帮助科学家和生物技术公司开发AI代理，无需编程经验。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "6月24日消息，阿布扎比MGX从区域和全球投资者筹集近500亿美元，设立专注于AI投资的专项基金。",
+      "importance": "高"
+    }
+  ]
+}
