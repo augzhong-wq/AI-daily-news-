@@ -1,0 +1,507 @@
+{
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28 10:30:39",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
+      "summary": "6月28日消息，DeepSeek启动大规模招聘，旨在扩充AI研发团队，加速大模型技术迭代与商业化落地。",
+      "importance": "高",
+      "reason": "国内AI公司DeepSeek的大规模招聘，反映其业务扩张和行业竞争加剧，属于重大商业动态。",
+      "tags": [
+        "招聘",
+        "大模型",
+        "AI"
+      ],
+      "url": "https://36kr.com/p/3870720040588295?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-27 01:02:37",
+      "impact_score": 396.0
+    },
+    {
+      "index": 2,
+      "title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
+      "summary": "6月28日消息，G7易流发布货运行业首款穿戴式AI硬件“拍拍豆”，重30克，支持磁吸佩戴与自动录制上传，填补物流交付场景的AI应用空白。",
+      "importance": "中",
+      "reason": "国内物流AI硬件产品发布，具有行业创新性，但影响力相对有限。",
+      "tags": [
+        "发布",
+        "AI",
+        "硬件",
+        "物流"
+      ],
+      "url": "https://36kr.com/p/3869740772316162?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-27 01:40:53",
+      "impact_score": 279.0
+    },
+    {
+      "index": 3,
+      "title": "独家|美团王兴正面回应股价破发，复盘五年战略节奏得失",
+      "summary": "6月28日消息，美团CEO王兴在股东大会上回应股价破发问题，复盘五年战略节奏得失，并释放回购信号，同时分享对AI的看法。",
+      "importance": "中",
+      "reason": "国内互联网巨头美团高管的公开表态，涉及股价、战略和AI布局，具有一定市场关注度。",
+      "tags": [
+        "CEO",
+        "股价",
+        "AI",
+        "战略"
+      ],
+      "url": "https://www.qbitai.com/2026/06/438895.html",
+      "source": "量子位",
+      "original_pub_date": "2026-06-27 01:53:27",
+      "impact_score": 270.0
+    },
+    {
+      "index": 4,
+      "title": "重构交互底层逻辑：Rokid发布AIOS，智能眼镜行业进入“原生”时刻",
+      "summary": "6月28日消息，Rokid发布全球首款智能眼镜AIOS操作系统YodaOS，从底层重构交互逻辑，推动智能眼镜行业进入原生AI操作系统时代。",
+      "importance": "高",
+      "reason": "国内公司Rokid发布全球首款智能眼镜AIOS，属于重大产品发布，具有行业里程碑意义。",
+      "tags": [
+        "发布",
+        "AI",
+        "操作系统",
+        "智能眼镜"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/RC8Dz2VUQ4F9i90R.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-27 06:56:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 5,
+      "title": "一次吃下一本书！百度开源新OCR，作者疑似前DeepSeek研究员",
+      "summary": "6月28日消息，百度开源新一代OCR技术，可一次性识别整本书内容，提升文档数字化效率，作者疑似前DeepSeek研究员。",
+      "importance": "中",
+      "reason": "国内科技巨头百度的重要开源项目，技术突破显著，但影响力不及旗舰模型发布。",
+      "tags": [
+        "开源",
+        "OCR",
+        "百度"
+      ],
+      "url": "https://36kr.com/p/3871109381035011?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-27 07:37:59",
+      "impact_score": 210.0
+    },
+    {
+      "index": 6,
+      "title": "安全预警系统，看不见的滴滴「基建」",
+      "summary": "6月28日消息，滴滴举办安全开放日，展示其安全预警系统，CEO程维强调保障数千万订单安全是平台责任，安全体系持续迭代。",
+      "importance": "中",
+      "reason": "国内出行巨头滴滴的安全体系展示，涉及AI安全应用，属于安全与伦理范畴。",
+      "tags": [
+        "安全",
+        "AI",
+        "滴滴"
+      ],
+      "url": "https://www.leiphone.com/category/weiwu/k5oKITJv8cfsQwm2.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-27 03:44:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 7,
+      "title": "悟空安全上线“弹必赔”，主打“0添加”安全软件",
+      "summary": "6月28日消息，悟空安全上线“弹必赔”服务，用户安装产品后如遇推广弹窗可获赔，并推出“0添加”理念，利用AI提升弹窗拦截效率。",
+      "importance": "低",
+      "reason": "国内安全软件产品更新，属于商业动态但影响力较小。",
+      "tags": [
+        "上线",
+        "AI",
+        "安全"
+      ],
+      "url": "https://36kr.com/newsflashes/3872537881466120?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-28 08:16:04",
+      "impact_score": 195.0
+    },
+    {
+      "index": 8,
+      "title": "vivo“再造”折叠屏",
+      "summary": "6月28日消息，vivo发布新一代折叠旗舰X Fold6，聚焦“大屏+AI生产力”，搭载专为折叠屏定制的OriginOS 6 Fold系统，实现多线程AI交互。",
+      "importance": "中",
+      "reason": "国内手机厂商vivo的旗舰产品发布，融合AI功能，属于重要产品动态。",
+      "tags": [
+        "发布",
+        "AI",
+        "折叠屏",
+        "vivo"
+      ],
+      "url": "https://36kr.com/newsflashes/3872555153544450?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-28 08:35:39",
+      "impact_score": 147.0
+    },
+    {
+      "index": 9,
+      "title": "汽车安全迎来新标准 汽车侧面碰撞迎20年最严标准升级",
+      "summary": "6月28日消息，7月1日起我国实施汽车安全碰撞新国标，侧面碰撞台车质量提升至1400公斤，动力电池新国标要求“不起火、不爆炸”，并首次定义物理断电装置。",
+      "importance": "高",
+      "reason": "国内汽车安全领域重大政策法规更新，影响广泛，属于重大政策与法规。",
+      "tags": [
+        "政策",
+        "标准",
+        "汽车安全"
+      ],
+      "url": "https://www.qbitai.com/2026/06/439515.html",
+      "source": "量子位",
+      "original_pub_date": "2026-06-28 07:56:22",
+      "impact_score": 135.0
+    },
+    {
+      "index": 10,
+      "title": "创新医疗：控股子公司赛博灵科AM5取得医疗器械注册证",
+      "summary": "6月28日消息，创新医疗控股子公司博灵脑机科技研发的“上肢主被动运动康复训练系统”获浙江省药监局医疗器械注册证，用于中枢神经损伤康复。",
+      "importance": "中",
+      "reason": "国内脑机接口技术取得医疗器械注册，属于学术与商业结合的重要突破。",
+      "tags": [
+        "创新",
+        "医疗器械",
+        "脑机接口"
+      ],
+      "url": "https://www.qbitai.com/2026/06/439464.html",
+      "source": "量子位",
+      "original_pub_date": "2026-06-28 06:04:17",
+      "impact_score": 135.0
+    },
+    {
+      "index": 11,
+      "title": "打造AI轻办公神器 vivo X Fold6折叠旗舰新品正式发布",
+      "summary": "6月28日消息，vivo正式发布折叠旗舰X Fold6，搭载OriginOS 6 Fold系统，支持大屏多线程AI交互，定位AI轻办公神器。",
+      "importance": "中",
+      "reason": "国内手机厂商vivo的旗舰产品发布，强调AI办公功能，属于重要产品动态。",
+      "tags": [
+        "发布",
+        "AI",
+        "折叠屏",
+        "vivo"
+      ],
+      "url": "https://www.leiphone.com/category/transportation/82QuHqwY9evsX0cS.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-27 16:54:00",
+      "impact_score": 135.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+      "summary": "6月28日消息，特朗普政府批准Anthropic向超过100家美国企业和政府机构发布其Mythos 5模型，包括非美国籍员工也可使用，此举缓解了此前因出口管制导致的紧张关系。",
+      "importance": "高",
+      "reason": "重大政策与法规：美国政府直接干预AI模型发布，涉及国家安全与出口管制，影响全球AI产业格局。",
+      "tags": [
+        "出口管制",
+        "国家安全",
+        "Anthropic"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-27/wall-street-bets-billions-on-power-firms-as-ai-boom-drives-ipo-rush",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-27 13:00:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 2,
+      "title": "Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies",
+      "summary": "6月28日消息，特朗普政府允许Anthropic向部分企业和政府机构发布其Mythos 5和Fable 5模型，此前Anthropic因政府出口管制指令而禁用这些模型，此举标志着监管松绑。",
+      "importance": "高",
+      "reason": "重大政策与法规：与上一条互为补充，详细说明了出口管制解除的背景和影响。",
+      "tags": [
+        "出口管制",
+        "国家安全",
+        "Anthropic"
+      ],
+      "url": "https://www.theinformation.com/articles/tech-political-spending-goes-next",
+      "source": "The Information",
+      "original_pub_date": "2026-06-27 15:00:57",
+      "impact_score": 175.0
+    },
+    {
+      "index": 3,
+      "title": "Trump administration allows some access to Anthropic’s Mythos",
+      "summary": "6月28日消息，特朗普政府允许部分机构访问Anthropic的Mythos模型，此举缓解了与AI实验室的紧张关系，但外界对华盛顿临时性监管方式的不满依然存在。",
+      "importance": "高",
+      "reason": "重大政策与法规：进一步确认了政策变化，并指出监管不确定性带来的长期影响。",
+      "tags": [
+        "出口管制",
+        "监管",
+        "Anthropic"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-27/amazon-prime-day-total-online-spending-surpasses-adobe-estimate",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-27 16:59:08",
+      "impact_score": 157.5
+    },
+    {
+      "index": 4,
+      "title": "Trump Administration Allows Anthropic to Release Mythos to Select US Organizations",
+      "summary": "6月28日消息，经过数周谈判，白宫允许Anthropic将其最先进的AI模型Mythos授予选定的美国企业和政府机构使用，标志着政府与AI公司达成阶段性妥协。",
+      "importance": "高",
+      "reason": "重大政策与法规：从谈判角度补充了事件全貌，凸显政策制定的复杂性。",
+      "tags": [
+        "出口管制",
+        "白宫",
+        "Anthropic"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-27/australia-to-strengthen-enforcement-of-under-16-social-media-ban",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-27 12:30:00",
+      "impact_score": 150.0
+    },
+    {
+      "index": 5,
+      "title": "Apple Seeks US Approval to Buy Chips From Blacklisted CXMT: FT",
+      "summary": "6月28日消息，苹果公司正向白宫寻求批准，从被列入黑名单的中国长鑫存储（CXMT）采购内存芯片，以缓解芯片成本上涨压力。",
+      "importance": "高",
+      "reason": "重大政策与法规：涉及出口管制与供应链安全，苹果作为美国巨头寻求豁免，影响中美科技博弈。",
+      "tags": [
+        "出口管制",
+        "供应链",
+        "苹果"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-27/apple-seeks-us-approval-to-buy-chips-from-blacklisted-cxmt-ft",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-27 07:45:23",
+      "impact_score": 150.0
+    },
+    {
+      "index": 6,
+      "title": "Apple seeks to buy memory chips from blacklisted Chinese company",
+      "summary": "6月28日消息，苹果公司希望特朗普政府批准其从被制裁的中国公司长鑫存储购买内存芯片，以应对半导体价格上涨带来的成本压力。",
+      "importance": "高",
+      "reason": "重大政策与法规：与上一条同一事件，进一步确认细节。",
+      "tags": [
+        "出口管制",
+        "供应链",
+        "苹果"
+      ],
+      "url": "https://www.ft.com/content/d72a25e2-7bde-4aa9-bd8d-0c4f3d6cb2cb",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-06-27 02:17:50",
+      "impact_score": 150.0
+    },
+    {
+      "index": 7,
+      "title": "Australia to Strengthen Enforcement of Under-16 Social Media Ban",
+      "summary": "6月28日消息，澳大利亚将赋予在线安全监管机构更大权力，并提高对违反全球首个16岁以下社交媒体禁令的最高罚款，总理称大型科技公司未充分遵守规定。",
+      "importance": "高",
+      "reason": "重大政策与法规：全球首个针对青少年的社交媒体禁令加强执法，影响科技公司合规策略。",
+      "tags": [
+        "社交媒体",
+        "监管",
+        "澳大利亚"
+      ],
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-06-27 12:00:00",
+      "impact_score": 145.0
+    },
+    {
+      "index": 8,
+      "title": "Google Caps Meta’s Use of Gemini AI, Financial Times Reports",
+      "summary": "6月28日消息，谷歌限制Meta使用其Gemini AI模型，因无法提供Meta所需的计算能力，凸显AI算力成为稀缺资源。",
+      "importance": "中",
+      "reason": "重大商业动态：两大科技巨头之间的AI合作受限，反映算力紧张对行业的影响。",
+      "tags": [
+        "算力",
+        "合作",
+        "谷歌"
+      ],
+      "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-06-27 20:42:36",
+      "impact_score": 143.0
+    },
+    {
+      "index": 9,
+      "title": "Google caps Meta’s Gemini use as AI demand strains capacity",
+      "summary": "6月28日消息，谷歌限制Meta使用Gemini模型，因AI需求激增导致计算能力成为科技行业最稀缺的资源。",
+      "importance": "中",
+      "reason": "重大商业动态：与上一条同一事件，补充了算力稀缺的背景。",
+      "tags": [
+        "算力",
+        "合作",
+        "谷歌"
+      ],
+      "url": "https://www.ft.com/content/e5aa937c-bc52-4973-bf21-bfb6afd1d95d",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-06-27 09:30:10",
+      "impact_score": 127.5
+    },
+    {
+      "index": 10,
+      "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
+      "summary": "6月28日消息，亚洲AI初创公司推出类似Mythos能力的模型，利用Anthropic出口禁令持续的机会抢占市场，美国AI实验室可能永久失去这一巨大市场。",
+      "importance": "中",
+      "reason": "重大商业动态：出口管制催生替代者，改变全球AI竞争格局。",
+      "tags": [
+        "出口管制",
+        "竞争",
+        "亚洲AI"
+      ],
+      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-06-27 01:01:37",
+      "impact_score": 117.0
+    },
+    {
+      "index": 11,
+      "title": "AI’s Energy Crunch Has Investors Searching for Next IPO Winners",
+      "summary": "6月28日消息，AI繁荣带来的能源危机促使华尔街投资者押注数十亿美元于解决该问题的公司，即使部分技术尚未完全成熟。",
+      "importance": "中",
+      "reason": "重大商业动态：AI能源需求催生投资热潮，影响能源和科技行业。",
+      "tags": [
+        "能源",
+        "投资",
+        "IPO"
+      ],
+      "url": "https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-06-27 00:34:50",
+      "impact_score": 115.0
+    },
+    {
+      "index": 12,
+      "title": "How GE Vernova builds the massive gas turbines powering the AI data center boom",
+      "summary": "6月28日消息，GE Vernova的燃气轮机正在为Elon Musk的xAI Colossus 1数据中心供电，微软也购买了7台用于其得州数据中心，显示AI算力需求推动传统能源设备升级。",
+      "importance": "中",
+      "reason": "重大商业动态：AI数据中心对能源基础设施的拉动效应，涉及重要企业合作。",
+      "tags": [
+        "能源",
+        "数据中心",
+        "GE"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/google-caps-meta-s-use-of-gemini-ai-financial-times-reports",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-28 09:02:14",
+      "impact_score": 90.0
+    },
+    {
+      "index": 13,
+      "title": "AI ‘exuberance’ risks ending in lengthy investment bust, BIS warns",
+      "summary": "6月28日消息，国际清算银行警告称，AI领域的过度乐观情绪可能导致长期投资低迷，若回报不佳将引发科技公司资金大幅撤出，威胁全球经济。",
+      "importance": "中",
+      "reason": "重大政策与法规：国际金融机构对AI泡沫的官方警告，具有宏观政策参考价值。",
+      "tags": [
+        "投资风险",
+        "BIS",
+        "警告"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/ai-fever-powers-hk-share-sales-through-hurdles-to-five-year-high",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-28 00:00:00",
+      "impact_score": 90.0
+    },
+    {
+      "index": 14,
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "summary": "6月28日消息，苹果Vision Pro负责人Paul Meade据报将离职加入OpenAI的硬件团队，显示AI公司对顶尖硬件人才的争夺加剧。",
+      "importance": "低",
+      "reason": "重大商业动态：高管跳槽反映行业人才流动趋势，但影响力相对有限。",
+      "tags": [
+        "人才流动",
+        "苹果",
+        "OpenAI"
+      ],
+      "url": "https://www.theinformation.com/articles/wear-works-beach",
+      "source": "The Information",
+      "original_pub_date": "2026-06-27 14:01:06",
+      "impact_score": 86.5
+    },
+    {
+      "index": 15,
+      "title": "Salesforce Employees Worry Over Anthropic’s Invasion of Slack",
+      "summary": "6月28日消息，Anthropic在Slack上推出AI产品Claude Tag后，Salesforce员工担忧其可能侵占Slack生态，引发内部竞争焦虑。",
+      "importance": "低",
+      "reason": "安全与伦理：涉及AI产品对现有平台生态的冲击，但属于企业内部反应。",
+      "tags": [
+        "竞争",
+        "Slack",
+        "Anthropic"
+      ],
+      "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-06-27 14:00:00",
+      "impact_score": 86.5
+    },
+    {
+      "index": 16,
+      "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
+      "summary": "6月28日消息，苹果CEO库克将MacBook Pro、iPad Air等产品涨价归因于AI热潮导致的成本上升，称涨价“不可避免”。",
+      "importance": "低",
+      "reason": "重大商业动态：AI成本传导至消费端，但属于间接影响。",
+      "tags": [
+        "涨价",
+        "AI成本",
+        "苹果"
+      ],
+      "url": "https://www.theinformation.com/briefings/coinbase-cuts-ai-spending-half-usage-rises-armstrong-says",
+      "source": "The Information",
+      "original_pub_date": "2026-06-27 11:14:10",
+      "impact_score": 86.5
+    }
+  ],
+  "summary": "今日从60条原始信息中精选出11条国内动态和16条国际动态，其中10条为高重要性。 重点关注：9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元；重构交互底层逻辑：Rokid发布AIOS，智能眼镜行业进入“原生”时刻；汽车安全迎来新标准 汽车侧面碰撞迎20年最严标准升级。",
+  "statistics": {
+    "raw_domestic": 25,
+    "raw_international": 35,
+    "raw_total": 60,
+    "final_domestic": 11,
+    "final_international": 16
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "6月28日消息，DeepSeek启动大规模招聘，旨在扩充AI研发团队，加速大模型技术迭代与商业化落地。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "6月28日消息，Rokid发布全球首款智能眼镜AIOS操作系统YodaOS，从底层重构交互逻辑，推动智能眼镜行业进入原生AI操作系统时代。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "6月28日消息，7月1日起我国实施汽车安全碰撞新国标，侧面碰撞台车质量提升至1400公斤，动力电池新国标要求“不起火、不爆炸”，并首次定义物理断电装置。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "6月28日消息，G7易流发布货运行业首款穿戴式AI硬件“拍拍豆”，重30克，支持磁吸佩戴与自动录制上传，填补物流交付场景的AI应用空白。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "6月28日消息，美团CEO王兴在股东大会上回应股价破发问题，复盘五年战略节奏得失，并释放回购信号，同时分享对AI的看法。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "6月28日消息，特朗普政府批准Anthropic向超过100家美国企业和政府机构发布其Mythos 5模型，包括非美国籍员工也可使用，此举缓解了此前因出口管制导致的紧张关系。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "6月28日消息，特朗普政府允许Anthropic向部分企业和政府机构发布其Mythos 5和Fable 5模型，此前Anthropic因政府出口管制指令而禁用这些模型，此举标志着监管松绑。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "6月28日消息，特朗普政府允许部分机构访问Anthropic的Mythos模型，此举缓解了与AI实验室的紧张关系，但外界对华盛顿临时性监管方式的不满依然存在。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "6月28日消息，经过数周谈判，白宫允许Anthropic将其最先进的AI模型Mythos授予选定的美国企业和政府机构使用，标志着政府与AI公司达成阶段性妥协。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "6月28日消息，苹果公司正向白宫寻求批准，从被列入黑名单的中国长鑫存储（CXMT）采购内存芯片，以缓解芯片成本上涨压力。",
+      "importance": "高"
+    }
+  ]
+}
