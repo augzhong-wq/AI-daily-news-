@@ -1,0 +1,629 @@
+{
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30 11:13:46",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "美媒：快手可灵拟引入泛大西洋投资，投后估值1300亿",
+      "summary": "6月30日消息，快手正与美国投资机构泛大西洋投资洽谈，为旗下视频生成大模型业务可灵引入首轮融资，计划融资超20亿美元，投后估值约1300亿人民币。",
+      "importance": "高",
+      "reason": "中国公司快手旗下可灵大模型业务重大融资动态，涉及高估值和国际化战略。",
+      "tags": [
+        "融资",
+        "大模型",
+        "AI",
+        "投资"
+      ],
+      "url": "https://www.leiphone.com/category/ai/IuG8AWhW3lhmQFPR.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-29 07:01:00",
+      "impact_score": 435.0
+    },
+    {
+      "index": 2,
+      "title": "独家｜获超亿美元融资，Sand.ai 曹越：为什么视频是通往世界模型最重要的路径",
+      "summary": "6月30日消息，中国视频生成模型公司Sand.ai获超亿美元融资，创始人曹越坚持自回归路线，发布Magi-1模型后探索音画同出，押注视频通往世界模型路径。",
+      "importance": "高",
+      "reason": "中国AI创业公司获得大额融资，技术路线非共识，具有行业关注度。",
+      "tags": [
+        "融资",
+        "视频生成",
+        "AI",
+        "创业"
+      ],
+      "url": "https://www.leiphone.com/category/weiwu/455eeQwSDJyMjNAA.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-29 06:57:00",
+      "impact_score": 350.0
+    },
+    {
+      "index": 3,
+      "title": "Agent之间，有互联网了！",
+      "summary": "6月30日消息，明略科技开源发布Octo，旨在打通Agent之间的互联，推动AI Agent生态发展。",
+      "importance": "中",
+      "reason": "中国公司开源发布重要AI基础设施，促进Agent生态建设。",
+      "tags": [
+        "开源",
+        "Agent",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/ai/awNbSNygrWrx5PLw.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-29 06:50:00",
+      "impact_score": 315.0
+    },
+    {
+      "index": 4,
+      "title": "氪星晚报｜百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶；国务院印发《教育发展“十五五”规划》；美国养老金即将被动调仓，300亿美元卖盘“已在路上”",
+      "summary": "6月30日消息，百度OCR模型Unlimited OCR在HuggingFace和GitHub四榜登顶，展现中国AI技术实力；国务院印发《教育发展“十五五”规划》。",
+      "importance": "高",
+      "reason": "中国公司百度在AI视觉领域取得国际领先成果，同时涉及国家教育政策。",
+      "tags": [
+        "百度",
+        "OCR",
+        "AI",
+        "政策"
+      ],
+      "url": "https://36kr.com/p/3874045136720899?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-29 11:51:05",
+      "impact_score": 307.5
+    },
+    {
+      "index": 5,
+      "title": "美媒：腾讯参投林俊旸AI公司2000万美元",
+      "summary": "6月30日消息，腾讯在林俊旸创立的新人工智能实验室首轮融资中投资2000万美元，该实验室已筹集数亿美元，投后估值约20亿美元。",
+      "importance": "中",
+      "reason": "中国科技巨头腾讯投资AI初创公司，显示国内资本对AI领域的持续关注。",
+      "tags": [
+        "投资",
+        "AI",
+        "腾讯",
+        "融资"
+      ],
+      "url": "https://36kr.com/p/3873965241931014?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-29 08:04:11",
+      "impact_score": 299.0
+    },
+    {
+      "index": 6,
+      "title": "“Philo AI”完成近千万美金首轮融资",
+      "summary": "6月30日消息，中国视频模态通用人工智能公司Philo AI完成近千万美元首轮融资，由祥峰投资独家投资，资金将用于世界生命模型研发和团队扩张。",
+      "importance": "中",
+      "reason": "中国AI初创公司获得融资，聚焦视频模态和世界模型前沿方向。",
+      "tags": [
+        "融资",
+        "AI",
+        "视频",
+        "投资"
+      ],
+      "url": "https://www.leiphone.com/category/ai/Ql6vKtKEYLm7Tuin.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-29 06:25:00",
+      "impact_score": 290.0
+    },
+    {
+      "index": 7,
+      "title": "单用户提速 60-85% ！DeepSeek 联手北大开源 DSpark ，突破推理加速工程问题",
+      "summary": "6月30日消息，DeepSeek联合北京大学开源DSpark推理加速框架，将单用户生成速度提升60%至85%，梁文锋署名论文发布，降低推理优化门槛。",
+      "importance": "高",
+      "reason": "中国AI公司DeepSeek与顶尖高校合作，发布重要开源成果，显著提升推理效率。",
+      "tags": [
+        "开源",
+        "推理加速",
+        "DeepSeek",
+        "北大"
+      ],
+      "url": "https://www.leiphone.com/category/private/xumpnjfyYU2IwseH.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-29 06:40:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 8,
+      "title": "36氪首发｜前百度自动驾驶与机器人实验室主任创业，天使轮融资数千万，做机器人“世界通行模型”",
+      "summary": "6月30日消息，前百度自动驾驶与机器人实验室主任杨睿刚创立纽娲机器人，完成5000万元天使轮融资，专注机器人“世界通行模型”研发。",
+      "importance": "中",
+      "reason": "中国AI领域资深专家创业，获得资本支持，聚焦具身智能前沿方向。",
+      "tags": [
+        "融资",
+        "机器人",
+        "具身智能",
+        "创业"
+      ],
+      "url": "https://36kr.com/p/3875047283659777?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-30 03:24:49",
+      "impact_score": 279.0
+    },
+    {
+      "index": 9,
+      "title": "AXera Edge-Day首站收官——构筑物理AI算力底座，打通边缘AI商业闭环",
+      "summary": "6月30日消息，爱芯元智在深圳举办开发者生态沙龙，聚焦物理AI算力底座建设与边缘AI商业化路径，推动端侧智能发展。",
+      "importance": "中",
+      "reason": "中国AI芯片公司举办行业活动，推动物理AI和边缘计算生态。",
+      "tags": [
+        "AI",
+        "边缘计算",
+        "芯片",
+        "生态"
+      ],
+      "url": "https://36kr.com/p/3874911939482880?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-30 00:05:46",
+      "impact_score": 279.0
+    },
+    {
+      "index": 10,
+      "title": "中国信通院发布AI Infra运维领域首个评测基准",
+      "summary": "6月30日消息，中国信通院发布AI Infra运维领域首个评测基准，覆盖5款主流国产芯片，推动AI基础设施标准化。",
+      "importance": "高",
+      "reason": "中国官方研究机构发布重要评测基准，对国产AI芯片生态具有指导意义。",
+      "tags": [
+        "评测基准",
+        "AI Infra",
+        "国产芯片",
+        "信通院"
+      ],
+      "url": "https://www.qbitai.com/2026/06/440199.html",
+      "source": "量子位",
+      "original_pub_date": "2026-06-30 05:23:36",
+      "impact_score": 270.0
+    },
+    {
+      "index": 11,
+      "title": "多篇成果入选，快手邀您共赴ICML 2026！",
+      "summary": "6月30日消息，快手技术团队多篇论文入选ICML 2026，其中1篇入选spotlight papers，覆盖大语言模型、强化学习等方向。",
+      "importance": "中",
+      "reason": "中国公司快手在顶级机器学习会议ICML上有多篇论文入选，展示学术实力。",
+      "tags": [
+        "ICML",
+        "快手",
+        "论文",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/TMiFelendY0h8V6E.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-29 06:50:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 12,
+      "title": "自研全域柔性电子皮肤，Moxy摸喜发布首款AI陪伴机器人｜最前线",
+      "summary": "6月30日消息，中国公司奥感微旗下品牌Moxy摸喜发布首款AI陪伴机器人，采用自研离电型柔性传感技术，实现无对话、无摄像头的纯触觉交互。",
+      "importance": "中",
+      "reason": "中国公司发布创新AI硬件产品，技术差异化明显。",
+      "tags": [
+        "AI陪伴",
+        "机器人",
+        "柔性电子",
+        "发布"
+      ],
+      "url": "https://36kr.com/p/3873626425332743?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-29 11:00:26",
+      "impact_score": 264.0
+    },
+    {
+      "index": 13,
+      "title": "工信部等八部门：积极有序开展工业5G独立专网建设",
+      "summary": "6月30日消息，工信部等八部门印发《关于推动工业互联网高质量发展的实施意见》，提出积极有序开展工业5G独立专网建设，推动网络部署综合成本下降。",
+      "importance": "高",
+      "reason": "中国政府部门发布重要政策，推动工业互联网和5G专网建设，影响AI基础设施。",
+      "tags": [
+        "政策",
+        "5G",
+        "工业互联网",
+        "工信部"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/yLqc9pw9WaqaEzDr.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-06-30 03:37:00",
+      "impact_score": 255.0
+    },
+    {
+      "index": 14,
+      "title": "亿级流量导入，支付宝携手九识智能开启“无人配送”新纪元",
+      "summary": "6月30日消息，支付宝与九识智能及菜鸟无人车达成合作，依托支付宝亿级月活流量，推动RoboVan无人物流车服务千家万户。",
+      "importance": "中",
+      "reason": "中国科技公司支付宝与无人车企业合作，推动AI物流商业化落地。",
+      "tags": [
+        "合作",
+        "无人配送",
+        "支付宝",
+        "AI"
+      ],
+      "url": "https://36kr.com/p/3875513946206216?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-30 10:16:47",
+      "impact_score": 251.0
+    },
+    {
+      "index": 15,
+      "title": "有道把 AI 订阅装进词典笔，学习硬件商业模式迎来变化",
+      "summary": "6月30日消息，网易有道发布新一代词典笔X8系列，推出“按需订阅”模式，基础功能免费，进阶AI能力付费解锁，推动学习硬件从参数竞争转向服务竞争。",
+      "importance": "中",
+      "reason": "中国公司网易有道创新AI硬件商业模式，引领行业变革。",
+      "tags": [
+        "有道",
+        "AI",
+        "硬件",
+        "商业模式"
+      ],
+      "url": "https://36kr.com/p/3873902389794053?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-06-29 07:02:23",
+      "impact_score": 251.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "America 250: At a Pivotal Moment for the Nation, Intel is Advancing U.S. Innovation, AI, and Manufacturing",
+      "summary": "6月30日消息，英特尔宣布推进美国创新、人工智能和制造业发展，强调在人工智能重塑全球竞争之际，美国需要确保国内半导体生产安全并提升劳动力准备度。",
+      "importance": "高",
+      "reason": "涉及美国半导体制造和AI战略，属于重大政策与法规范畴，影响全球AI供应链。",
+      "tags": [
+        "美国",
+        "半导体",
+        "AI战略",
+        "制造业"
+      ],
+      "url": "https://arxiv.org/abs/2606.27652",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-06-30 04:00:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 2,
+      "title": "AI Video Startup in Talks to Quadruple Valuation to $5 Billion",
+      "summary": "6月30日消息，AI视频初创公司Higgsfield AI正与投资者洽谈融资3亿至5亿美元，估值目标达50亿美元，较上一轮融资增长四倍以上。",
+      "importance": "高",
+      "reason": "重大商业动态，大额融资（10亿+级别），反映AI视频领域投资热度。",
+      "tags": [
+        "AI视频",
+        "融资",
+        "估值",
+        "初创公司"
+      ],
+      "url": "https://newsroom.intel.com/corporate/america-250-intel-is-advancing-us-innovation",
+      "source": "Intel AI",
+      "original_pub_date": "2026-06-29 13:29:31",
+      "impact_score": 215.0
+    },
+    {
+      "index": 3,
+      "title": "Taiwan Raids Super Micro in Widening China Chip Smuggling Probe",
+      "summary": "6月30日消息，台湾政府机构突击搜查了Super Micro Computer及其当地关联公司办公室，扩大对涉嫌利用该公司服务器向中国走私英伟达芯片的调查。",
+      "importance": "高",
+      "reason": "涉及芯片出口管制和制裁调查，属于重大政策与法规事件，影响全球芯片贸易。",
+      "tags": [
+        "芯片走私",
+        "出口管制",
+        "英伟达",
+        "调查"
+      ],
+      "url": "https://www.theinformation.com/articles/ai-video-startup-talks-quadruple-valuation-5-billion",
+      "source": "The Information",
+      "original_pub_date": "2026-06-30 00:52:50",
+      "impact_score": 210.0
+    },
+    {
+      "index": 4,
+      "title": "Why Open-Source Models Are Benefitting From The White House Clampdown",
+      "summary": "6月30日消息，开源AI模型正受益于特朗普政府对AI监管的快速政策变化和成本上升，开发者因闭源模型如Anthropic的Fable 5频繁变动而转向开源。",
+      "importance": "高",
+      "reason": "涉及美国AI监管政策变化对行业的影响，属于重大政策与法规。",
+      "tags": [
+        "开源AI",
+        "监管",
+        "政策",
+        "闭源模型"
+      ],
+      "url": "https://aws.amazon.com/blogs/machine-learning/pair-nova-2-lite-with-claude-for-cost-optimized-document-processing/",
+      "source": "Amazon AWS AI",
+      "original_pub_date": "2026-06-29 17:52:33",
+      "impact_score": 200.0
+    },
+    {
+      "index": 5,
+      "title": "Claude Meets Blackwell Ultra: Anthropic’s Models Now Run on NVIDIA GB300 in Azure",
+      "summary": "6月30日消息，Anthropic的Claude模型现已在微软Azure上基于英伟达GB300 Blackwell Ultra GPU正式可用，为Azure企业用户构建自主和特定领域AI代理提供新能力。",
+      "importance": "高",
+      "reason": "重大产品发布，涉及顶级AI模型与最新芯片的集成，标志AI基础设施升级。",
+      "tags": [
+        "Anthropic",
+        "英伟达",
+        "Azure",
+        "AI代理"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-30/stanchart-former-ai-chief-joins-accenture-as-southeast-asia-head",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-30 01:33:48",
+      "impact_score": 195.0
+    },
+    {
+      "index": 6,
+      "title": "Lee’s $880 Billion AI Bet Ties Legacy to South Korea Chip Boom",
+      "summary": "6月30日消息，韩国总统李在明押注8800亿美元计划，将国家欠发达的西南部地区转变为全球芯片中心，以此巩固其政治遗产并抓住全球AI热潮机遇。",
+      "importance": "高",
+      "reason": "重大政策与法规，韩国国家级AI芯片投资计划，影响全球半导体格局。",
+      "tags": [
+        "韩国",
+        "芯片",
+        "投资",
+        "AI战略"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-06-29/the-close-6-29-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-29 22:25:43",
+      "impact_score": 180.0
+    },
+    {
+      "index": 7,
+      "title": "Anthropic’s Mythos Spooked DeepSeek, Prompting Its $7.4 Billion Fundraising",
+      "summary": "6月30日消息，Anthropic发布强大的Mythos模型预览版后，中国AI开发商DeepSeek的CEO梁文锋首次决定寻求外部融资，筹集74亿美元以扩大算力储备。",
+      "importance": "高",
+      "reason": "重大商业动态，大额融资事件，反映全球AI竞争格局变化。",
+      "tags": [
+        "Anthropic",
+        "DeepSeek",
+        "融资",
+        "竞争"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-30/singtel-ceo-s-pay-cut-17-to-5-3-million-after-network-outages",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-30 03:48:23",
+      "impact_score": 165.0
+    },
+    {
+      "index": 8,
+      "title": "StanChart Former AI Chief Joins Accenture as Southeast Asia Head",
+      "summary": "6月30日消息，渣打银行前全球AI负责人David Hardoon加入埃森哲，担任董事总经理兼东南亚地区高级AI主管，负责推动该地区的AI业务发展。",
+      "importance": "中",
+      "reason": "重大商业动态，关键人才流动，反映AI领域人才竞争。",
+      "tags": [
+        "人才流动",
+        "埃森哲",
+        "东南亚",
+        "AI"
+      ],
+      "url": "https://www.ft.com/reports/AI-in-practice",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-06-30 03:35:19",
+      "impact_score": 165.0
+    },
+    {
+      "index": 9,
+      "title": "House Passes Online Safety Bill as Senate Eyes Stricter Push",
+      "summary": "6月30日消息，美国众议院通过一项要求为儿童提供新在线安全保护的法案，显示华盛顿在解决家长关切问题上取得进展，但参议院寻求更严格措施。",
+      "importance": "中",
+      "reason": "涉及美国在线安全立法，属于政策法规，但非直接AI相关。",
+      "tags": [
+        "美国",
+        "在线安全",
+        "立法",
+        "儿童保护"
+      ],
+      "url": "https://www.ft.com/content/811247b5-c42d-4bf5-8bfd-c73d85f70293",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-06-30 03:30:06",
+      "impact_score": 165.0
+    },
+    {
+      "index": 10,
+      "title": "Apple and Google app store fees targeted by UK competition watchdog",
+      "summary": "6月30日消息，英国竞争与市场管理局启动咨询，调查苹果和谷歌的应用商店收费是否应允许竞争对手支付系统，以促进市场竞争。",
+      "importance": "中",
+      "reason": "涉及反垄断调查，属于重大政策与法规，影响科技巨头商业模式。",
+      "tags": [
+        "反垄断",
+        "英国",
+        "苹果",
+        "谷歌"
+      ],
+      "url": "https://www.ft.com/content/a033c2fb-6c0b-4d25-9795-a04b95964e23",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-06-29 20:17:17",
+      "impact_score": 165.0
+    },
+    {
+      "index": 11,
+      "title": "Rocket Lab announces deal to buy satellite company Iridium",
+      "summary": "6月30日消息，火箭实验室宣布以80亿美元现金和股票收购卫星公司Iridium Communications，交易将增强其与SpaceX及Starlink网络的竞争力。",
+      "importance": "中",
+      "reason": "重大商业动态，大额并购，涉及航天与AI基础设施。",
+      "tags": [
+        "并购",
+        "航天",
+        "卫星",
+        "竞争"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-29/super-micro-office-raided-as-taiwan-expands-chip-smuggling-probe",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-29 17:59:46",
+      "impact_score": 165.0
+    },
+    {
+      "index": 12,
+      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+      "summary": "6月30日消息，机器人手初创公司Proception与特斯拉就商业秘密诉讼达成和解，并宣布完成1100万美元融资，用于解决机器人手部训练数据收集难题。",
+      "importance": "中",
+      "reason": "重大商业动态，涉及诉讼和解与融资，反映机器人领域进展。",
+      "tags": [
+        "机器人",
+        "特斯拉",
+        "诉讼",
+        "融资"
+      ],
+      "url": "https://www.cnbc.com/2026/06/29/baidu-kunlunxin-hong-kong-ipo-50-billion-ai-chips.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-06-29 04:09:09",
+      "impact_score": 165.0
+    },
+    {
+      "index": 13,
+      "title": "Taiwan Opposition’s $7.5 Billion Plan Stirs Drone Defense Debate",
+      "summary": "6月30日消息，台湾主要反对党提出75亿美元无人机产业发展计划，此前曾阻挠总统赖清德政府的类似提案，引发关于无人系统对岛内防御影响的辩论。",
+      "importance": "中",
+      "reason": "涉及台湾地区国防与科技政策，属于政策法规。",
+      "tags": [
+        "台湾",
+        "无人机",
+        "国防",
+        "政策"
+      ],
+      "url": "https://www.theinformation.com/articles/open-source-models-benefitting-white-house-clampdown",
+      "source": "The Information",
+      "original_pub_date": "2026-06-29 14:01:14",
+      "impact_score": 160.0
+    },
+    {
+      "index": 14,
+      "title": "MER-R1: Multimodal Emotion Reasoning via Slow-Fast Thinking Synergy",
+      "summary": "6月30日消息，研究人员提出MER-R1框架，通过慢速与快速思维协同进行多模态情感推理，发现显式推理虽提升可解释性但未必提高识别准确率。",
+      "importance": "中",
+      "reason": "重大学术突破，涉及多模态AI和推理研究，但影响力相对有限。",
+      "tags": [
+        "多模态",
+        "情感识别",
+        "推理",
+        "学术"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-29/house-passes-online-safety-bill-as-senators-seek-more-safeguards",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-06-29 23:09:59",
+      "impact_score": 150.0
+    },
+    {
+      "index": 15,
+      "title": "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning",
+      "summary": "6月30日消息，研究人员提出统一智能体训练范式，使大语言模型在长周期任务中具备“假设”推理能力，以克服当前模型的被动反应局限。",
+      "importance": "中",
+      "reason": "重大学术突破，涉及LLM智能体和世界模型规划，有潜在应用价值。",
+      "tags": [
+        "LLM",
+        "智能体",
+        "规划",
+        "推理"
+      ],
+      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+      "source": "MIT Technology Review",
+      "original_pub_date": "2026-06-29 18:00:00",
+      "impact_score": 142.5
+    },
+    {
+      "index": 16,
+      "title": "ToE: A Hierarchical and Explainable Claim Verification Framework with Dynamic Multi-source Evidence Retrieval and Aggregation",
+      "summary": "6月30日消息，研究人员提出ToE框架，通过动态多源证据检索与聚合实现层次化、可解释的虚假信息验证，以应对AI生成错误信息威胁。",
+      "importance": "中",
+      "reason": "重大学术突破，涉及AI安全与虚假信息检测，具有社会意义。",
+      "tags": [
+        "虚假信息",
+        "验证",
+        "AI安全",
+        "学术"
+      ],
+      "url": "https://www.ft.com/content/2c82a371-e97a-4167-98cb-3d32d513f707",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-06-30 10:21:32",
+      "impact_score": 135.0
+    },
+    {
+      "index": 17,
+      "title": "Pair Nova 2 Lite with Claude for cost-optimized document processing",
+      "summary": "6月30日消息，亚马逊AWS展示将Amazon Nova 2 Lite与Anthropic的Claude Sonnet 4.6配对，在Amazon Bedrock上构建双模型流水线，实现扫描文档的高效数字化处理。",
+      "importance": "低",
+      "reason": "商业技术合作，属于产品应用案例，重要性较低。",
+      "tags": [
+        "AWS",
+        "Anthropic",
+        "文档处理",
+        "合作"
+      ],
+      "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-06-30 02:28:41",
+      "impact_score": 132.0
+    },
+    {
+      "index": 18,
+      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+      "summary": "6月30日消息，Wix旗下的vibe编码平台Base44开始推出自有AI模型，希望最终超越前沿模型，以增强AI初创公司的防御能力。",
+      "importance": "低",
+      "reason": "商业动态，小型产品发布，影响力有限。",
+      "tags": [
+        "编码平台",
+        "AI模型",
+        "初创公司"
+      ],
+      "url": "https://www.theinformation.com/briefings/rocket-lab-announces-deal-buy-satellite-company-iridium",
+      "source": "The Information",
+      "original_pub_date": "2026-06-29 17:32:26",
+      "impact_score": 132.0
+    }
+  ],
+  "summary": "今日从194条原始信息中精选出15条国内动态和18条国际动态，其中13条为高重要性。 重点关注：美媒：快手可灵拟引入泛大西洋投资，投后估值1300亿；独家｜获超亿美元融资，Sand.ai 曹越：为什么视频是通往世界模型最重要的路径；氪星晚报｜百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶；国务院印发《教育发展“十五五”规划》；美国养老金即将被动调仓，300亿美元卖盘“已在路上”。",
+  "statistics": {
+    "raw_domestic": 52,
+    "raw_international": 142,
+    "raw_total": 194,
+    "final_domestic": 15,
+    "final_international": 18
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "6月30日消息，快手正与美国投资机构泛大西洋投资洽谈，为旗下视频生成大模型业务可灵引入首轮融资，计划融资超20亿美元，投后估值约1300亿人民币。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "6月30日消息，中国视频生成模型公司Sand.ai获超亿美元融资，创始人曹越坚持自回归路线，发布Magi-1模型后探索音画同出，押注视频通往世界模型路径。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "6月30日消息，百度OCR模型Unlimited OCR在HuggingFace和GitHub四榜登顶，展现中国AI技术实力；国务院印发《教育发展“十五五”规划》。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "6月30日消息，DeepSeek联合北京大学开源DSpark推理加速框架，将单用户生成速度提升60%至85%，梁文锋署名论文发布，降低推理优化门槛。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "6月30日消息，中国信通院发布AI Infra运维领域首个评测基准，覆盖5款主流国产芯片，推动AI基础设施标准化。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "6月30日消息，英特尔宣布推进美国创新、人工智能和制造业发展，强调在人工智能重塑全球竞争之际，美国需要确保国内半导体生产安全并提升劳动力准备度。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "6月30日消息，AI视频初创公司Higgsfield AI正与投资者洽谈融资3亿至5亿美元，估值目标达50亿美元，较上一轮融资增长四倍以上。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "6月30日消息，台湾政府机构突击搜查了Super Micro Computer及其当地关联公司办公室，扩大对涉嫌利用该公司服务器向中国走私英伟达芯片的调查。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "6月30日消息，开源AI模型正受益于特朗普政府对AI监管的快速政策变化和成本上升，开发者因闭源模型如Anthropic的Fable 5频繁变动而转向开源。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "6月30日消息，Anthropic的Claude模型现已在微软Azure上基于英伟达GB300 Blackwell Ultra GPU正式可用，为Azure企业用户构建自主和特定领域AI代理提供新能力。",
+      "importance": "高"
+    }
+  ]
+}
