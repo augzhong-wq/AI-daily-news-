@@ -1,0 +1,168 @@
+======================================================================
+AI每日动态 - 2026-07-01
+生成时间: 2026-07-01 11:28:20
+数据来源: 从 214 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、7月1日消息，智谱AI发布GLM-5.2模型，在闭源前沿领域展现国产最强实力，但美国对Fable 5调用的限制使开发者转向多模型协作策略。
+2、7月1日消息，优必选发布全尺寸超仿生人形机器人“优世界”U1系列，售价11.98万至99万元，全渠道订单累计突破13361台，成为全球首款规模化量产的全尺寸超仿生人形机器人。
+3、7月1日消息，他山科技与图灵奖得主理查德·萨顿团队联合共建“机器人幼儿园”，这是强化学习理论在具身智能领域的首个实体落点，标志着机器人从被动模仿迈向交互试错的“经验时代”。
+4、7月1日消息，腾讯安全发布账号保护、营销保护、金融反诈三位AI风控专家，已上线WorkBuddy平台，用户可一键调用，提升企业风控效率。
+5、7月1日消息，苏州大学教授刘瑞远创立的感知纪元完成千万级天使轮融资，由松禾资本领投，资金用于中试产线搭建和产品迭代，加速多模态智能触觉电子皮肤从研发走向量产。
+
+国际动态：
+1、7月1日消息，Anthropic发布Claude Sonnet 5模型，具备更强的代理能力、更低定价和更高安全性，定位为Opus、GPT-5.5和Gemini Pro的更廉价替代方案。
+2、7月1日消息，Anthropic发布Claude Science桌面应用以辅助生物研究，并宣布启动自主药物临床试验，同时推出Sonnet 5模型。
+3、7月1日消息，投资OpenAI和Anthropic的MGX基金以490亿美元关闭，成为史上最大AI基金之一，此前还投资了Elon Musk的xAI。
+4、7月1日消息，苹果CEO库克与欧盟科技主管进行建设性会谈，讨论Siri AI相关事宜，苹果试图避免因AI助手推出僵局而遭罚款。
+5、7月1日消息，英伟达投资安防公司Verkada，金额未披露，Verkada估值达58亿美元，与去年12月Alphabet旗下投资机构融资时估值相同。
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 7月1日消息，智谱AI发布GLM-5.2模型，在闭源前沿领域展现国产最强实力，但美国对Fable 5调用的限制使开发者转向多模型协作策略。
+   📋 入选理由: 国产大模型重大产品发布，涉及中美AI竞争和开发者生态变化
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/Zi0BnF17zHARAgxx.html
+   🏷️ 标签: 大模型, 国产, 闭源, GLM-5.2
+
+2、🔥 7月1日消息，优必选发布全尺寸超仿生人形机器人“优世界”U1系列，售价11.98万至99万元，全渠道订单累计突破13361台，成为全球首款规模化量产的全尺寸超仿生人形机器人。
+   📋 入选理由: 中国机器人公司重大产品发布，订单量突破性增长，标志人形机器人走向家庭
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3875622047805447?f=rss
+   🏷️ 标签: 优必选, 人形机器人, 量产, 订单
+
+3、🔥 7月1日消息，他山科技与图灵奖得主理查德·萨顿团队联合共建“机器人幼儿园”，这是强化学习理论在具身智能领域的首个实体落点，标志着机器人从被动模仿迈向交互试错的“经验时代”。
+   📋 入选理由: 中国公司与图灵奖得主合作，具身智能领域重大突破，推动行业范式转变
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/07/441240.html
+   🏷️ 标签: 他山科技, 图灵奖, 具身智能, 机器人幼儿园
+
+4、📌 7月1日消息，腾讯安全发布账号保护、营销保护、金融反诈三位AI风控专家，已上线WorkBuddy平台，用户可一键调用，提升企业风控效率。
+   📋 入选理由: 中国科技巨头AI产品落地，覆盖重要安全场景
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3876811895992327?f=rss
+   🏷️ 标签: 腾讯, AI风控, WorkBuddy, 安全
+
+5、📌 7月1日消息，苏州大学教授刘瑞远创立的感知纪元完成千万级天使轮融资，由松禾资本领投，资金用于中试产线搭建和产品迭代，加速多模态智能触觉电子皮肤从研发走向量产。
+   📋 入选理由: 中国高校教授创业获融资，聚焦机器人触觉核心部件，具身智能产业链关键环节
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/LaVawKu3UpUILUSR.html
+   🏷️ 标签: 感知纪元, 融资, 触觉电子皮肤, 机器人
+
+6、📌 7月1日消息，第38届大众电影百花奖联合即梦AI设立AIGC推优单元，这是百花奖首次涉足AIGC领域，面向全球征集AI影像短片，推动AI与影视创作融合。
+   📋 入选理由: 中国主流电影奖项首次设立AIGC单元，标志AI影视创作获官方认可
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3876916974612737?f=rss
+   🏷️ 标签: 百花奖, 即梦AI, AIGC, 影视
+
+7、📌 7月1日消息，空间智能与世界模型初创公司知天下完成天使轮融资，由上海众合创投独家投资，资金用于研发生成式高斯基模，其3DGS平台已汇聚数万用户。
+   📋 入选理由: 中国空间智能初创公司获融资，对标国际前沿，3DGS技术社区活跃
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3874358072710407?f=rss
+   🏷️ 标签: 知天下, 融资, 3DGS, 世界模型
+
+8、📌 7月1日消息，小米MiMo团队开源终端编程Agent项目MiMo Code，采用“无限上下文”记忆架构，在SWE-Bench Pro跑分上表现优异，上线数天获9000+ GitHub stars。
+   📋 入选理由: 中国科技巨头开源AI编程工具，技术创新获开发者社区广泛关注
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3876974521970953?f=rss
+   🏷️ 标签: 小米, MiMo Code, 开源, 编程Agent
+
+9、📌 7月1日消息，在国产大模型编程能力评测中，MiniMax意外登顶，DeepSeek以高性价比著称，显示国产模型在代码生成领域的竞争日趋激烈，Coding成为模型竞争的基础设施级指标。
+   📋 入选理由: 中国AI公司模型能力评测，反映国产大模型在编程领域的进展和竞争格局
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/zHXIS9N1aUAltixB.html
+   🏷️ 标签: MiniMax, DeepSeek, 编程, 大模型
+
+10、📌 7月1日消息，Om AI联汇发布全球首个面向物理世界的端侧流式多模态模型VLX，实现实时多模态感知与处理，推动AI在物理世界应用落地。
+   📋 入选理由: 中国AI公司发布全球首个端侧流式多模态模型，技术创新性强
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/robot/f6tUYpkNfttVSBf3.html
+   🏷️ 标签: Om AI联汇, VLX, 多模态, 端侧
+
+11、📌 7月1日消息，光子跃迁发布个人智能影像生态，推出8K AI拇指运动相机LEAPTIC Cube及AI戒指等产品，实现多设备协同，从“孤岛式记录”迈向“矩阵式协同”。
+   📋 入选理由: 中国AI影像公司发布生态级产品，展示AI与硬件融合创新
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/robot/JFHcks3RY28319Mb.html
+   🏷️ 标签: 光子跃迁, AI影像, LEAPTIC Cube, 生态
+
+12、📌 7月1日消息，智源研究院的SoulAgent亮相2026全球数字经济大会，提供智能听会服务，提升参会体验，展示中国AI在大型活动中的应用能力。
+   📋 入选理由: 中国AI研究院产品在国家级大会亮相，体现AI赋能实体经济
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3876760686309385?f=rss
+   🏷️ 标签: 智源, SoulAgent, 数字经济大会, 智能听会
+
+13、📌 7月1日消息，昆仑万维发布专攻Agent的模型SkyClaw-v1.0，定价0.5元每百万token，面向复杂工具使用和多轮工作流，定位为高性能Agent模型而非通用聊天模型。
+   📋 入选理由: 中国AI公司发布专业化Agent模型，定价策略激进，推动Agent应用发展
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/0LbpBdduLqIu5DRq.html
+   🏷️ 标签: 昆仑万维, SkyClaw, Agent, 大模型
+
+14、📄 7月1日消息，觅蜂科技与同道猎聘集团合作，整合物理AI数据全链路技术与人才资源，打造面向具身智能产业的标准化数据采集人才体系，助推2026具身智能数据元年规模化落地。
+   📋 入选理由: 中国AI公司与人力资源平台合作，聚焦具身智能数据人才体系建设
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/UUV6zpi5yfdmlRjE.html
+   🏷️ 标签: 觅蜂科技, 同道猎聘, 具身智能, 数据
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 7月1日消息，Anthropic发布Claude Sonnet 5模型，具备更强的代理能力、更低定价和更高安全性，定位为Opus、GPT-5.5和Gemini Pro的更廉价替代方案。
+   📋 入选理由: 重大产品发布：Anthropic推出旗舰AI模型Sonnet 5，直接对标GPT-5和Gemini Pro，影响AI模型竞争格局。
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/
+   🏷️ 标签: Anthropic, Claude Sonnet 5, AI模型发布
+
+2、🔥 7月1日消息，Anthropic发布Claude Science桌面应用以辅助生物研究，并宣布启动自主药物临床试验，同时推出Sonnet 5模型。
+   📋 入选理由: 重大商业动态：Anthropic跨界进入药物研发领域，结合AI模型发布，展现AI在生命科学领域的商业化突破。
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-06-30/the-close-6-30-2026-video
+   🏷️ 标签: Anthropic, Claude Science, 药物研发
+
+3、📌 7月1日消息，英伟达投资安防公司Verkada，金额未披露，Verkada估值达58亿美元，与去年12月Alphabet旗下投资机构融资时估值相同。
+   📋 入选理由: 重大商业动态：英伟达作为AI芯片巨头，投资安防AI公司，显示其向AI应用层拓展的战略意图。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/briefings/anthropic-unfolds-claude-science-app-runs-pre-clinical-drug-trials
+   🏷️ 标签: 英伟达, Verkada, AI投资
+
+4、📌 7月1日消息，英伟达竞争对手Etched估值达50亿美元，其AI芯片推理系统已签约销售额达10亿美元，由哈佛辍学生创立。
+   📋 入选理由: 重大商业动态：AI芯片初创公司Etched获得高估值和巨额订单，挑战英伟达地位，反映AI芯片市场竞争加剧。
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-07-01/vimeo-parent-bending-spoons-backers-raise-1-68-billion-in-ipo
+   🏷️ 标签: Etched, AI芯片, 英伟达竞争
+
+5、📌 7月1日消息，AI视频初创公司Higgsfield AI正洽谈以50亿美元估值融资3亿至5亿美元，估值较上一轮增长超四倍。
+   📋 入选理由: 重大商业动态：AI视频生成领域初创公司估值飙升，显示AI视频赛道投资热度高涨。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/briefings/exclusive-nvidia-funds-security-firm-verkada
+   🏷️ 标签: Higgsfield AI, AI视频, 融资
+
+6、🔥 7月1日消息，投资OpenAI和Anthropic的MGX基金以490亿美元关闭，成为史上最大AI基金之一，此前还投资了Elon Musk的xAI。
+   📋 入选理由: 重大商业动态：490亿美元AI基金成立，为全球AI产业注入巨额资本，影响AI投资生态。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/briefings/lime-prices-ipo-25-share
+   🏷️ 标签: MGX, AI基金, OpenAI, Anthropic
+
+7、🔥 7月1日消息，苹果CEO库克与欧盟科技主管进行建设性会谈，讨论Siri AI相关事宜，苹果试图避免因AI助手推出僵局而遭罚款。
+   📋 入选理由: 重大政策与法规：苹果与欧盟就AI监管进行高层对话，涉及AI产品合规与罚款风险，影响全球AI监管走向。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/articles/optical-networking-startup-taps-investors-chip-envy
+   🏷️ 标签: 苹果, 欧盟, Siri AI, AI监管
+
+8、📌 7月1日消息，Anthropic推出Claude Science产品，可应用于3D蛋白质结构渲染和药物发现，旨在开拓制药行业收入来源。
+   📋 入选理由: 重大产品发布：Anthropic推出面向制药领域的AI工具，拓展AI在生命科学的应用场景。
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/
+   🏷️ 标签: Anthropic, Claude Science, 制药AI
+
+9、📌 7月1日消息，英国自动驾驶AI公司Wayve启动8500万美元员工要约收购，公司估值达85亿美元，反映AI初创公司通过员工激励吸引人才的趋势。
+   📋 入选理由: 重大商业动态：Wayve高估值下进行员工要约收购，显示AI人才竞争激烈。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/articles/ai-video-startup-talks-quadruple-valuation-5-billion
+   🏷️ 标签: Wayve, 自动驾驶, 员工要约
+
+10、📌 7月1日消息，亚马逊成立新的10亿美元FDE组织，工程师将嵌入客户公司部署定制化AI代理，效仿OpenAI和Anthropic模式。
+   📋 入选理由: 重大商业动态：亚马逊投入10亿美元组建AI部署团队，跟随OpenAI和Anthropic步伐，显示科技巨头在AI服务领域的竞争。
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2606.31134
+   🏷️ 标签: 亚马逊, AI部署, FDE
+
+11、📌 7月1日消息，Anthropic准备将Claude Agent集成到Microsoft Teams中，尽管微软和Salesforce拥有自有AI代理，但仍对Anthropic采取合作态度。
+   📋 入选理由: 重大商业动态：Anthropic与微软合作将AI代理嵌入Teams，显示AI初创公司与科技巨头的竞合关系。
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2606.31200
+   🏷️ 标签: Anthropic, Microsoft Teams, AI代理
+
+12、📌 7月1日消息，英国竞争监管机构CMA启动咨询，调查苹果和谷歌应用商店费用是否应允许竞争对手支付系统，涉及数字市场反垄断。
+   📋 入选理由: 重大政策与法规：英国对苹果和谷歌应用商店展开反垄断调查，影响全球科技监管趋势。
+   📰 来源: ZDNet AI | 🔗 https://www.zdnet.com/article/ai-model-release-tracker/
+   🏷️ 标签: 苹果, 谷歌, 英国CMA, 反垄断
+
+
+======================================================================
+📊 今日总结: 今日从214条原始信息中精选出14条国内动态和12条国际动态，其中7条为高重要性。 重点关注：杀上闭源前沿，国产最强已经无法满足 GLM-5.2 了；优必选超仿生机器人首发订单破万，最高售价99万元｜最前线；他山科技联合图灵奖得主萨顿共建“机器人幼儿园”，具身智能从“模仿时代”迈向“经验时代”。
+======================================================================
