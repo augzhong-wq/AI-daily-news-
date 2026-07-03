@@ -1,0 +1,448 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03 10:41:59",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "8点1氪丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉",
+      "summary": "7月3日消息，证监会同意宇树科技科创板IPO注册，该公司成为全球首家在IPO前实现人形机器人规模化盈利的企业，将作为A股“人形机器人第一股”正式上市。",
+      "importance": "高",
+      "reason": "重大商业动态：中国公司宇树科技IPO获批，成为A股人形机器人第一股，具有里程碑意义。",
+      "tags": [
+        "IPO",
+        "人形机器人",
+        "宇树科技",
+        "科创板"
+      ],
+      "url": "https://www.leiphone.com/category/yanxishe/GLDTfDIWau83OKGC.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-02 11:22:00",
+      "impact_score": 405.0
+    },
+    {
+      "index": 2,
+      "title": "影智XBOT发布通用餐饮服务机器人矩阵与“一脑多形”具身智能体系",
+      "summary": "7月3日消息，影智XBOT在北京发布自研具身操作系统XOS 3.0、AI Agent产品“爱宝店长”及三款通用餐饮具身机器人新品，构建“一脑多形”完整智能体系。",
+      "importance": "中",
+      "reason": "重大产品发布：中国公司影智XBOT发布具身智能新品，展示技术突破。",
+      "tags": [
+        "具身智能",
+        "机器人",
+        "发布",
+        "影智XBOT"
+      ],
+      "url": "https://36kr.com/p/3879158039834629?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-03 00:06:38",
+      "impact_score": 396.0
+    },
+    {
+      "index": 3,
+      "title": "十年榜单首迎中国双料冠军：这次赢的不只是性能",
+      "summary": "7月3日消息，中科曙光ParaStor F9000分布式全闪存储系统在IO500榜单中同时拿下生产型全节点和10节点双料第一，成为首家达成此成就的中国公司。",
+      "importance": "中",
+      "reason": "重大学术/技术突破：中国公司在高性能计算存储领域取得国际权威榜单双料冠军。",
+      "tags": [
+        "中科曙光",
+        "IO500",
+        "高性能计算",
+        "存储"
+      ],
+      "url": "https://36kr.com/p/3878550357946625?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-02 14:16:31",
+      "impact_score": 381.0
+    },
+    {
+      "index": 4,
+      "title": "全球首份大语言模型安全防范能力测评报告在北京发布",
+      "summary": "7月3日消息，全球首份大语言模型安全防范能力测评报告在北京发布，由东壁科技数据联合上海财经大学研发，对全球主要大语言模型进行统一标准的安全测评。",
+      "importance": "高",
+      "reason": "重大政策与法规/安全伦理：中国机构发布全球首份大模型安全测评报告，具有行业规范意义。",
+      "tags": [
+        "大语言模型",
+        "安全",
+        "测评报告",
+        "北京"
+      ],
+      "url": "https://36kr.com/p/3877990989819909?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-03 02:26:11",
+      "impact_score": 312.5
+    },
+    {
+      "index": 5,
+      "title": "Claude 和 Manus 还要人工搭框架？小米直接让 Agent 自我进化",
+      "summary": "7月3日消息，小米研发的Agent技术实现Harness自我迭代，无需人工搭建提示词模板等框架，推动智能体从“AI写AI”向“AI优化AI”进化。",
+      "importance": "中",
+      "reason": "重大产品/技术突破：中国公司小米在Agent技术领域取得创新突破。",
+      "tags": [
+        "小米",
+        "Agent",
+        "自我进化",
+        "Harness"
+      ],
+      "url": "https://www.leiphone.com/category/ai/Kt66f2aNWvTzcMod.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-02 09:32:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 6,
+      "title": "36氪首发 | 清华、中科院团队联合华西医院研发康养转运机器人，进一步布局居家养老场景",
+      "summary": "7月3日消息，可立点科技完成战略融资，由力合科创领投，其与清华、中科院团队及华西医院联合研发的康养转运机器人已推进小批量试产，布局居家养老场景。",
+      "importance": "中",
+      "reason": "重大商业动态：中国AI养老机器人公司获融资，产学研合作推进商业化。",
+      "tags": [
+        "融资",
+        "养老机器人",
+        "可立点科技",
+        "清华"
+      ],
+      "url": "https://www.leiphone.com/category/shengwuyiyao/5hR8USux68fILtr1.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-02 02:11:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 7,
+      "title": "36氪首发 | 前大疆科学家创业，半年内连获四轮数亿融资，耀途资本、锦秋基金等押注",
+      "summary": "7月3日消息，硅羽科技半年内完成四轮数亿元融资，由耀途资本、锦秋基金、阿里巴巴等投资，公司聚焦通用空中智能，推动飞行器进化为空中智能体。",
+      "importance": "中",
+      "reason": "重大商业动态：中国空中智能初创公司获多轮大额融资，团队背景强大。",
+      "tags": [
+        "融资",
+        "空中智能",
+        "硅羽科技",
+        "大疆"
+      ],
+      "url": "https://36kr.com/p/3877830625046535?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-02 01:33:33",
+      "impact_score": 230.0
+    },
+    {
+      "index": 8,
+      "title": "科大讯飞举办智能交互生态发布会，三大平台同步升级",
+      "summary": "7月3日消息，科大讯飞在深圳举办智能交互生态发布会，三大平台同步升级，进一步推动AI智能交互技术生态发展。",
+      "importance": "中",
+      "reason": "重大产品发布：中国AI龙头科大讯飞发布平台升级，影响行业生态。",
+      "tags": [
+        "科大讯飞",
+        "智能交互",
+        "发布",
+        "生态"
+      ],
+      "url": "https://36kr.com/newsflashes/3879708499275777?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-03 09:23:34",
+      "impact_score": 210.0
+    },
+    {
+      "index": 9,
+      "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
+      "summary": "7月3日消息，AReaL 2.0开源发布，该平台面向自演进智能体强化学习基础设施，旨在与社区共同推进自演进智能体生态发展。",
+      "importance": "中",
+      "reason": "重大学术/技术突破：中国团队开源自演进智能体RL基础设施，推动技术共享。",
+      "tags": [
+        "开源",
+        "AReaL",
+        "强化学习",
+        "智能体"
+      ],
+      "url": "https://36kr.com/p/3878131056701447?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-02 06:40:19",
+      "impact_score": 210.0
+    },
+    {
+      "index": 10,
+      "title": "黄仁勋说的Physical AI，被这家中国跨界选手带进了生命科学实验室",
+      "summary": "7月3日消息，一家中国跨界公司在生命科学实验室中应用Physical AI技术，其第三方测评表现超越OpenAI最强旗舰GPT-5.6 Sol。",
+      "importance": "中",
+      "reason": "重大产品/技术突破：中国公司在Physical AI领域取得超越国际巨头的成果。",
+      "tags": [
+        "Physical AI",
+        "生命科学",
+        "超越",
+        "GPT-5"
+      ],
+      "url": "https://www.leiphone.com/category/transportation/MUVKjPPs0O7fc4PW.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-03 03:41:00",
+      "impact_score": 200.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Google loses fight over record $4.7 billion EU antitrust fine",
+      "summary": "7月3日消息，谷歌在欧洲法院最终上诉中败诉，需支付欧盟创纪录的41亿欧元反垄断罚款，结束了长达八年的法律纠纷。",
+      "importance": "高",
+      "reason": "重大政策与法规：欧盟反垄断裁决，影响全球科技监管格局",
+      "tags": [
+        "反垄断",
+        "欧盟",
+        "罚款"
+      ],
+      "url": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-07-02 11:13:36",
+      "impact_score": 315.0
+    },
+    {
+      "index": 2,
+      "title": "Freshfields’ Anthropic Win; A Squeeze of Lime Returns",
+      "summary": "7月3日消息，英国律所Freshfields赢得Anthropic IPO法律顾问角色，该AI公司估值超1万亿美元，预计融资数百亿美元。",
+      "importance": "高",
+      "reason": "重大商业动态：AI独角兽巨额IPO，估值超万亿",
+      "tags": [
+        "IPO",
+        "Anthropic",
+        "融资"
+      ],
+      "url": "https://www.theinformation.com/articles/freshfields-anthropic-win-squeeze-lime-returns",
+      "source": "The Information",
+      "original_pub_date": "2026-07-02 22:18:20",
+      "impact_score": 307.5
+    },
+    {
+      "index": 3,
+      "title": "Crusoe in Talks to Raise $3 Billion in Round That May Triple Firm’s Value",
+      "summary": "7月3日消息，数据中心初创公司Crusoe正洽谈约30亿美元融资，估值可能增至三倍，该公司为Meta和Oracle等提供AI算力。",
+      "importance": "高",
+      "reason": "重大商业动态：AI基础设施大额融资",
+      "tags": [
+        "融资",
+        "数据中心",
+        "AI算力"
+      ],
+      "url": "https://www.theinformation.com/briefings/google-loses-fight-record-4-1-billion-android-antitrust-fine",
+      "source": "The Information",
+      "original_pub_date": "2026-07-02 19:08:42",
+      "impact_score": 290.0
+    },
+    {
+      "index": 4,
+      "title": "ElevenLabs in Talks on Tender Offer at $22 Billion Valuation",
+      "summary": "7月3日消息，AI语音初创公司ElevenLabs与投资者洽谈二次发行，允许员工出售股份，估值约220亿美元。",
+      "importance": "高",
+      "reason": "重大商业动态：AI语音公司高估值二次发行",
+      "tags": [
+        "估值",
+        "二次发行",
+        "AI语音"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-07-02/the-close-7-2-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-02 22:04:19",
+      "impact_score": 262.5
+    },
+    {
+      "index": 5,
+      "title": "Nvidia’s Longtime Sales Chief Retires",
+      "summary": "7月3日消息，英伟达长期担任销售主管的Jay Puri宣布退休，其继任者Nicholas Parker将接任，标志着公司高层变动。",
+      "importance": "中",
+      "reason": "重大商业动态：芯片巨头高管变动",
+      "tags": [
+        "英伟达",
+        "高管变动",
+        "退休"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/crusoe-in-talks-to-raise-3-billion-in-round-that-may-triple-firm-s-value",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-02 21:14:49",
+      "impact_score": 240.0
+    },
+    {
+      "index": 6,
+      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+      "summary": "7月3日消息，OpenAI CEO Sam Altman提议将公司5%股权捐赠给美国主权财富基金，旨在让公众分享AI繁荣的财务收益。",
+      "importance": "高",
+      "reason": "重大政策与法规：AI公司与政府利益共享提案",
+      "tags": [
+        "OpenAI",
+        "主权财富基金",
+        "股权"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/elevenlabs-in-talks-for-tender-offer-at-22-billion-valuation",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-02 18:35:41",
+      "impact_score": 240.0
+    },
+    {
+      "index": 7,
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "summary": "7月3日消息，微软宣布成立新的AI部署业务部门，承诺投入25亿美元并调配6000名员工，帮助大型客户定制AI应用。",
+      "importance": "高",
+      "reason": "重大商业动态：科技巨头大规模AI投资",
+      "tags": [
+        "微软",
+        "AI部署",
+        "投资"
+      ],
+      "url": "https://www.theinformation.com/briefings/kuaishou-announces-kling-ai-video-units-fundraising-15-billion-valuation",
+      "source": "The Information",
+      "original_pub_date": "2026-07-03 02:07:53",
+      "impact_score": 225.0
+    },
+    {
+      "index": 8,
+      "title": "Meta quietly launches vibe-coded gaming app Pocket",
+      "summary": "7月3日消息，Meta悄然推出实验性AI应用Pocket，允许用户通过文本提示生成和分享互动迷你游戏。",
+      "importance": "中",
+      "reason": "重大产品发布：Meta AI游戏应用",
+      "tags": [
+        "Meta",
+        "AI应用",
+        "游戏"
+      ],
+      "url": "https://www.theinformation.com/briefings/nvidias-longtime-sales-chief-retires",
+      "source": "The Information",
+      "original_pub_date": "2026-07-02 17:34:35",
+      "impact_score": 214.5
+    },
+    {
+      "index": 9,
+      "title": "Greek Politician Investigating Spyware Had Mobile Phone Hacked",
+      "summary": "7月3日消息，一名希腊政客在调查间谍软件销售商时，其手机多次被间谍软件入侵，引发安全与伦理关注。",
+      "importance": "中",
+      "reason": "安全与伦理：间谍软件安全事件",
+      "tags": [
+        "间谍软件",
+        "安全",
+        "调查"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-03/greek-politician-investigating-spyware-had-mobile-phone-hacked",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-03 06:00:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 10,
+      "title": "At 17, She Sued Meta and Google, and Won. Now She’s Ready to Tell Her Story",
+      "summary": "7月3日消息，17岁女孩Kaley Glenn-Mills起诉Meta和谷歌并胜诉，其诉讼重塑了保护儿童免受社交媒体侵害的斗争。",
+      "importance": "中",
+      "reason": "安全与伦理：社交媒体儿童保护诉讼",
+      "tags": [
+        "诉讼",
+        "儿童保护",
+        "社交媒体"
+      ],
+      "url": "https://www.ft.com/content/b2eb8225-54fd-4e6f-889e-d48fcb84faf4",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-07-02 07:58:16",
+      "impact_score": 165.0
+    },
+    {
+      "index": 11,
+      "title": "Quantum Systems weighs merger with kamikaze drone start-up Stark",
+      "summary": "7月3日消息，德国无人机制造商Quantum Systems考虑与自杀式无人机初创公司Stark合并，此前12亿美元融资消除了股东对开发致命武器的反对。",
+      "importance": "中",
+      "reason": "重大商业动态：AI无人机领域并购",
+      "tags": [
+        "并购",
+        "无人机",
+        "国防"
+      ],
+      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-07-02 15:20:51",
+      "impact_score": 158.0
+    },
+    {
+      "index": 12,
+      "title": "AI Factories Create Winners and Losers in Power Equipment Market",
+      "summary": "7月3日消息，下一代AI工厂迫使电力设备公司重新思考产品组合，以在年价值超2000亿美元的市场中获利。",
+      "importance": "低",
+      "reason": "重大商业动态：AI基础设施对电力市场影响",
+      "tags": [
+        "AI工厂",
+        "电力设备",
+        "市场"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-07-02 10:23:27",
+      "impact_score": 158.0
+    },
+    {
+      "index": 13,
+      "title": "Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year",
+      "summary": "7月3日消息，特斯拉股价下跌7%，创近一年最大单日跌幅，尽管交付报告强劲，但消费者对CEO马斯克的抵制影响销售。",
+      "importance": "低",
+      "reason": "重大商业动态：特斯拉股价波动",
+      "tags": [
+        "特斯拉",
+        "股价",
+        "交付"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-07-02/jacob-walthour-jr-discusses-private-capital-strategies-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-02 21:13:37",
+      "impact_score": 157.5
+    }
+  ],
+  "summary": "今日从169条原始信息中精选出10条国内动态和13条国际动态，其中8条为高重要性。 重点关注：8点1氪丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉；全球首份大语言模型安全防范能力测评报告在北京发布；Google loses fight over record $4.7 billion EU antitrust fine。",
+  "statistics": {
+    "raw_domestic": 45,
+    "raw_international": 124,
+    "raw_total": 169,
+    "final_domestic": 10,
+    "final_international": 13
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "7月3日消息，证监会同意宇树科技科创板IPO注册，该公司成为全球首家在IPO前实现人形机器人规模化盈利的企业，将作为A股“人形机器人第一股”正式上市。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "7月3日消息，全球首份大语言模型安全防范能力测评报告在北京发布，由东壁科技数据联合上海财经大学研发，对全球主要大语言模型进行统一标准的安全测评。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "7月3日消息，影智XBOT在北京发布自研具身操作系统XOS 3.0、AI Agent产品“爱宝店长”及三款通用餐饮具身机器人新品，构建“一脑多形”完整智能体系。",
+      "importance": "中"
+    },
+    {
+      "index": 4,
+      "summary": "7月3日消息，中科曙光ParaStor F9000分布式全闪存储系统在IO500榜单中同时拿下生产型全节点和10节点双料第一，成为首家达成此成就的中国公司。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "7月3日消息，小米研发的Agent技术实现Harness自我迭代，无需人工搭建提示词模板等框架，推动智能体从“AI写AI”向“AI优化AI”进化。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "7月3日消息，谷歌在欧洲法院最终上诉中败诉，需支付欧盟创纪录的41亿欧元反垄断罚款，结束了长达八年的法律纠纷。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "7月3日消息，英国律所Freshfields赢得Anthropic IPO法律顾问角色，该AI公司估值超1万亿美元，预计融资数百亿美元。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "7月3日消息，数据中心初创公司Crusoe正洽谈约30亿美元融资，估值可能增至三倍，该公司为Meta和Oracle等提供AI算力。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "7月3日消息，AI语音初创公司ElevenLabs与投资者洽谈二次发行，允许员工出售股份，估值约220亿美元。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "7月3日消息，OpenAI CEO Sam Altman提议将公司5%股权捐赠给美国主权财富基金，旨在让公众分享AI繁荣的财务收益。",
+      "importance": "高"
+    }
+  ]
+}
