@@ -1,0 +1,408 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04 10:16:12",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "8点1氪丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉",
+      "summary": "7月4日消息，证监会同意宇树科技科创板IPO注册，该公司成为全球首家在IPO前实现人形机器人规模化盈利的企业，将成A股“人形机器人第一股”，从受理到注册生效仅用时104天。",
+      "importance": "高",
+      "reason": "重大产品发布：中国公司宇树科技IPO获批，具身智能领域标志性事件",
+      "tags": [
+        "AI",
+        "首次",
+        "发布",
+        "创新",
+        "上市"
+      ],
+      "url": "https://36kr.com/p/3879158039834629?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-03 00:06:38",
+      "impact_score": 396.0
+    },
+    {
+      "index": 2,
+      "title": "秋声 | 袁进辉新公司冲港股IPO，成立不到三年",
+      "summary": "7月4日消息，AI初创公司硅基流动向港交所递交上市申请，以18C未商业化公司身份申报，联席保荐人为华泰与海通国际，该公司在DeepSeek爆火时率先部署其模型。",
+      "importance": "高",
+      "reason": "重大商业动态：中国AI公司硅基流动冲刺港股IPO",
+      "tags": [
+        "AI",
+        "上市",
+        "IPO",
+        "昇腾",
+        "领先"
+      ],
+      "url": "https://36kr.com/p/3879814941437956?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-03 11:12:32",
+      "impact_score": 337.5
+    },
+    {
+      "index": 3,
+      "title": "规范引导情感陪伴人形机器人健康发展 两协会联合倡议",
+      "summary": "7月4日消息，中国人形机器人百人会和中国机械工业联合会联合发布倡议，规范情感陪伴人形机器人发展，要求将安全伦理融入产品全流程，加强个人信息保护，防范人身伤害风险。",
+      "importance": "高",
+      "reason": "重大政策与法规：中国行业协会发布人形机器人伦理规范倡议",
+      "tags": [
+        "风险",
+        "发布",
+        "创新",
+        "隐私",
+        "伦理"
+      ],
+      "url": "https://36kr.com/p/3879991356157952?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-04 01:00:00",
+      "impact_score": 312.5
+    },
+    {
+      "index": 4,
+      "title": "首款神经动力学芯片问世 有助于脑机接口等技术发展",
+      "summary": "7月4日消息，北京大学杨玉超团队联合中科院上海微系统所宋志棠团队研制出全球首款基于相变忆阻器的神经动力学系统芯片，单步时延压缩至2.12毫秒，较GPU提速达50至478倍。",
+      "importance": "高",
+      "reason": "重大学术突破：中国团队研制全球首款神经动力学芯片，突破实时计算瓶颈",
+      "tags": [
+        "突破",
+        "首次"
+      ],
+      "url": "https://36kr.com/p/3877990989819909?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-03 02:26:11",
+      "impact_score": 312.5
+    },
+    {
+      "index": 5,
+      "title": "长光卫星完成近50亿元股权融资",
+      "summary": "7月4日消息，长光卫星完成近50亿元股权融资，由长发集团、陆石投资联合领投，资金将用于加速卫星批产能力建设、推进“吉林一号”卫星工程组网及深化遥感数据应用开发。",
+      "importance": "高",
+      "reason": "重大商业动态：中国商业航天公司长光卫星完成近50亿元大额融资",
+      "tags": [
+        "创新",
+        "投资",
+        "融资"
+      ],
+      "url": "https://36kr.com/newsflashes/3881009011945473?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-04 07:45:16",
+      "impact_score": 264.0
+    },
+    {
+      "index": 6,
+      "title": "具身智能公司光象科技累计完成数亿元天使轮融资",
+      "summary": "7月4日消息，具身智能公司光象科技宣布完成累计数亿元天使轮融资，由珠海科技产业集团、兴证资本等多家机构参与，资金将重点投入物理原生基座模型研发及具身智能机器人商业化交付。",
+      "importance": "中",
+      "reason": "重大商业动态：中国具身智能初创公司光象科技获数亿元天使轮融资",
+      "tags": [
+        "上市",
+        "融资"
+      ],
+      "url": "https://36kr.com/p/3880770270425089?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-04 03:25:22",
+      "impact_score": 236.0
+    },
+    {
+      "index": 7,
+      "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+      "summary": "7月4日消息，因Claude Code被曝存在植入后门的安全风险，阿里经评估后将其列入高风险软件名单，自7月10日起全面禁止内部员工使用，并推荐使用Qoder作为替代方案。",
+      "importance": "中",
+      "reason": "安全与伦理：中国公司阿里因安全风险全面禁用Claude Code",
+      "tags": [
+        "人工智能",
+        "风险",
+        "AI",
+        "发布"
+      ],
+      "url": "https://36kr.com/p/3879807100023040?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-03 12:28:30",
+      "impact_score": 236.0
+    },
+    {
+      "index": 8,
+      "title": "华为何庭波发布V2版“韬定律”论文 补充工程细节和实测数据",
+      "summary": "7月4日消息，华为半导体负责人何庭波发布《面向多层级电子系统的时间缩微理论》V2版本，补充大量工程落地细节、实测量化数据与产品演进路线，完善了以时间常数τ为核心的后摩尔时代缩放理论体系。",
+      "importance": "中",
+      "reason": "重大学术突破：中国华为发布后摩尔时代芯片理论V2版，含工程细节",
+      "tags": [
+        "突破",
+        "发布"
+      ],
+      "url": "https://36kr.com/p/3879796756754694?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-03 10:55:45",
+      "impact_score": 225.0
+    },
+    {
+      "index": 9,
+      "title": "生数科技发布 Vidu S1，推动视频生成迈向“实时交互”新时代",
+      "summary": "7月4日消息，生数科技发布面向实时交互场景的Vidu S1实时交互模型，支持实时视频通话和语音控制视频走向，推动AI视频从“生成一段内容”迈向“持续进行互动”。",
+      "importance": "中",
+      "reason": "重大产品发布：中国AI公司生数科技发布实时交互视频生成模型Vidu S1",
+      "tags": [
+        "大模型",
+        "AI",
+        "发布",
+        "创新",
+        "人工智能"
+      ],
+      "url": "https://36kr.com/newsflashes/3880779651248391?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-04 05:20:01",
+      "impact_score": 221.0
+    },
+    {
+      "index": 10,
+      "title": "WorldClaw与百度智能云达成战略合作，文心5.0系列登陆WorldRouter",
+      "summary": "7月4日消息，WorldClaw与百度智能云达成战略合作，百度文心5.0系列模型将登陆WorldRouter平台，拓展AI模型在行业场景中的应用。",
+      "importance": "低",
+      "reason": "重大商业动态：中国百度智能云与WorldClaw达成合作，文心5.0登陆新平台",
+      "tags": [
+        "合作"
+      ],
+      "url": "https://36kr.com/newsflashes/3880783434149893?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-04 04:35:29",
+      "impact_score": 210.0
+    },
+    {
+      "index": 11,
+      "title": "福建：未来5年力争数字经济核心产业增加值年均增长8%以上",
+      "summary": "7月4日消息，福建省政府印发《“十五五”数字福建规划》，提出到2030年全省数智化发展水平达国内领先，未来5年力争数字经济核心产业增加值年均增长8%以上。",
+      "importance": "低",
+      "reason": "重大政策与法规：中国福建省发布数字经济规划，设定增长目标",
+      "tags": [
+        "领先"
+      ],
+      "url": "https://www.leiphone.com/category/transportation/UQkXlB0ztZlFxtta.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-03 13:04:00",
+      "impact_score": 200.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Quantum Systems Doubles Valuation to $8B in New Round",
+      "summary": "7月4日消息，德国无人机初创公司Quantum Systems完成12亿美元融资，估值翻倍至约80亿美元，受益于欧洲军事支出激增。",
+      "importance": "高",
+      "reason": "重大商业动态：大额融资（12亿美元），估值大幅提升，反映欧洲AI军工领域投资热潮。",
+      "tags": [
+        "融资",
+        "无人机",
+        "欧洲"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-07-03/quantum-systems-doubles-valuation-to-8b-in-new-round-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-03 12:45:08",
+      "impact_score": 255.0
+    },
+    {
+      "index": 2,
+      "title": "Trump will oppose heavy US AI regulation, says outgoing tech adviser",
+      "summary": "7月4日消息，特朗普即将离任的技术顾问表示，特朗普将反对美国对AI实施严格监管，反对设立中央监管机构，以应对日益增长的AI反弹情绪。",
+      "importance": "高",
+      "reason": "重大政策与法规：美国前总统对AI监管的立场，影响未来政策走向。",
+      "tags": [
+        "AI监管",
+        "特朗普",
+        "美国"
+      ],
+      "url": "https://www.theinformation.com/briefings/kuaishou-announces-kling-ai-video-units-fundraising-15-billion-valuation",
+      "source": "The Information",
+      "original_pub_date": "2026-07-03 02:07:53",
+      "impact_score": 225.0
+    },
+    {
+      "index": 3,
+      "title": "Greek Politician Investigating Spyware Had Mobile Phone Hacked",
+      "summary": "7月4日消息，一名调查间谍软件销售的希腊政客手机被多次黑客攻击，新研究揭露了监控技术滥用问题。",
+      "importance": "高",
+      "reason": "安全与伦理：涉及间谍软件和隐私侵犯，引发对AI监控技术的伦理争议。",
+      "tags": [
+        "间谍软件",
+        "隐私",
+        "欧洲"
+      ],
+      "url": "https://www.ft.com/content/5128e476-db8b-48ac-a8fb-0f16d0f5c2ed",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-07-03 14:32:49",
+      "impact_score": 165.0
+    },
+    {
+      "index": 4,
+      "title": "At 17, She Sued Meta and Google, and Won. Now She’s Ready to Tell Her Story",
+      "summary": "7月4日消息，17岁女孩Kaley Glenn-Mills起诉Meta和Google并胜诉，重塑了保护儿童免受社交媒体侵害的斗争，但她仍无法停止刷屏。",
+      "importance": "高",
+      "reason": "安全与伦理：重大儿童保护诉讼案，影响社交媒体平台责任。",
+      "tags": [
+        "诉讼",
+        "儿童保护",
+        "社交媒体"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-03/greek-politician-investigating-spyware-had-mobile-phone-hacked",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-03 06:00:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 5,
+      "title": "Micron Breaks Ground on $9 Billion Plant Expansion in Japan",
+      "summary": "7月4日消息，美光科技在日本西部破土动工扩建工厂，投资1.5万亿日元（约93亿美元）生产先进存储芯片。",
+      "importance": "高",
+      "reason": "重大商业动态：巨额投资扩建工厂，对全球芯片供应链有重要影响。",
+      "tags": [
+        "芯片",
+        "投资",
+        "日本"
+      ],
+      "url": "https://www.bloomberg.com/news/features/2026-07-03/google-and-meta-lost-a-landmark-trial-to-kaley-but-kept-her-as-a-user",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-03 10:00:22",
+      "impact_score": 150.0
+    },
+    {
+      "index": 6,
+      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "summary": "7月4日消息，谷歌DeepMind与电影公司A24宣布首次研究合作，探索AI在创意领域的应用。",
+      "importance": "中",
+      "reason": "重大商业动态：AI与娱乐产业的战略合作，推动AI创意应用。",
+      "tags": [
+        "合作",
+        "AI",
+        "娱乐"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-07-03 11:49:10",
+      "impact_score": 140.5
+    },
+    {
+      "index": 7,
+      "title": "First known congressional SpaceX stock buys surface after record IPO",
+      "summary": "7月4日消息，SpaceX股票首次被国会议员购买，正值该公司深化联邦合同并与特朗普政府关系密切之际。",
+      "importance": "中",
+      "reason": "重大商业动态：SpaceX股票交易引发关注，涉及政治与商业交织。",
+      "tags": [
+        "SpaceX",
+        "股票",
+        "政治"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-03/ai-factories-create-winners-and-losers-in-power-equipment-market",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-03 06:15:00",
+      "impact_score": 127.5
+    },
+    {
+      "index": 8,
+      "title": "Israeli AI Startup Eyes Expansion in Trump-Aligned Latin America",
+      "summary": "7月4日消息，一家以色列AI初创公司押注特朗普盟友在拉丁美洲的选举胜利，将推动其政府网络安全产品的需求。",
+      "importance": "中",
+      "reason": "重大商业动态：AI公司拓展新兴市场，结合地缘政治趋势。",
+      "tags": [
+        "网络安全",
+        "拉丁美洲",
+        "以色列"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-03/china-tech-s-deepening-valuation-slump-fails-to-win-back-buyers",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-03 00:01:10",
+      "impact_score": 127.5
+    },
+    {
+      "index": 9,
+      "title": "From Macron to Modi, governments are rolling out the red carpet for AI giants",
+      "summary": "7月4日消息，法国总统马克龙和印度总理莫迪等领导人积极吸引AI巨头投资，以建设AI数据中心和云基础设施。",
+      "importance": "中",
+      "reason": "重大政策与法规：多国政府推动AI基础设施投资，反映全球AI竞争。",
+      "tags": [
+        "AI投资",
+        "数据中心",
+        "政策"
+      ],
+      "url": "https://www.cnbc.com/2026/07/03/the-hunt-for-ais-next-winners-defined-the-stock-markets-holiday-shortened-week.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-07-03 15:51:06",
+      "impact_score": 115.0
+    },
+    {
+      "index": 10,
+      "title": "Big Tech Sends Workers Into the Field to Help Customers Use AI",
+      "summary": "7月4日消息，微软、亚马逊等科技巨头派遣“前线部署”工程师到客户现场，帮助客户使用AI技术。",
+      "importance": "中",
+      "reason": "重大商业动态：科技巨头加大AI落地服务投入，推动企业AI应用。",
+      "tags": [
+        "AI服务",
+        "微软",
+        "亚马逊"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-04/micron-breaks-ground-on-9-billion-western-japan-plant-expansion",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-04 04:16:21",
+      "impact_score": 112.5
+    }
+  ],
+  "summary": "今日从75条原始信息中精选出11条国内动态和10条国际动态，其中10条为高重要性。 重点关注：8点1氪丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉；秋声 | 袁进辉新公司冲港股IPO，成立不到三年；规范引导情感陪伴人形机器人健康发展 两协会联合倡议。",
+  "statistics": {
+    "raw_domestic": 38,
+    "raw_international": 37,
+    "raw_total": 75,
+    "final_domestic": 11,
+    "final_international": 10
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "7月4日消息，证监会同意宇树科技科创板IPO注册，该公司成为全球首家在IPO前实现人形机器人规模化盈利的企业，将成A股“人形机器人第一股”，从受理到注册生效仅用时104天。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "7月4日消息，AI初创公司硅基流动向港交所递交上市申请，以18C未商业化公司身份申报，联席保荐人为华泰与海通国际，该公司在DeepSeek爆火时率先部署其模型。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "7月4日消息，中国人形机器人百人会和中国机械工业联合会联合发布倡议，规范情感陪伴人形机器人发展，要求将安全伦理融入产品全流程，加强个人信息保护，防范人身伤害风险。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "7月4日消息，北京大学杨玉超团队联合中科院上海微系统所宋志棠团队研制出全球首款基于相变忆阻器的神经动力学系统芯片，单步时延压缩至2.12毫秒，较GPU提速达50至478倍。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "7月4日消息，长光卫星完成近50亿元股权融资，由长发集团、陆石投资联合领投，资金将用于加速卫星批产能力建设、推进“吉林一号”卫星工程组网及深化遥感数据应用开发。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "7月4日消息，德国无人机初创公司Quantum Systems完成12亿美元融资，估值翻倍至约80亿美元，受益于欧洲军事支出激增。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "7月4日消息，特朗普即将离任的技术顾问表示，特朗普将反对美国对AI实施严格监管，反对设立中央监管机构，以应对日益增长的AI反弹情绪。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "7月4日消息，一名调查间谍软件销售的希腊政客手机被多次黑客攻击，新研究揭露了监控技术滥用问题。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "7月4日消息，17岁女孩Kaley Glenn-Mills起诉Meta和Google并胜诉，重塑了保护儿童免受社交媒体侵害的斗争，但她仍无法停止刷屏。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "7月4日消息，美光科技在日本西部破土动工扩建工厂，投资1.5万亿日元（约93亿美元）生产先进存储芯片。",
+      "importance": "高"
+    }
+  ]
+}
