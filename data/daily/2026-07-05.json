@@ -1,0 +1,349 @@
+{
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05 10:20:38",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "硬氪首发 | 港大教授成立的忆生科技获数亿天使轮融资，致力于为机器人造一套记忆系统",
+      "summary": "7月5日消息，港大教授创立的忆生科技完成数亿元天使轮融资，由正大旗下中生制药、浦东创投等多家机构投资，资金将用于可解释具身控制大模型与物理世界模型的研发及上海张江等研发中心建设。",
+      "importance": "高",
+      "reason": "中国公司（忆生科技）获得数亿元大额融资，涉及具身智能和机器人核心AI技术，属于重大商业动态。",
+      "tags": [
+        "融资",
+        "投资",
+        "AI",
+        "大模型",
+        "机器人"
+      ],
+      "url": "https://36kr.com/p/3882365879005186?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-05 06:27:30",
+      "impact_score": 342.5
+    },
+    {
+      "index": 2,
+      "title": "36氪首发 | 剑桥副教授创业硅光芯片，已合作华为，获一亿投资",
+      "summary": "7月5日消息，硅基光电子芯片公司光引科技完成1亿元Pre-A轮融资，投资方包括光子强链基金、善达投资等，资金将用于上海新实验室建设及量产推进，该公司已与华为达成合作。",
+      "importance": "高",
+      "reason": "中国公司（光引科技）获得亿元级融资，且已与华为合作，属于重大商业动态。",
+      "tags": [
+        "融资",
+        "投资",
+        "合作",
+        "芯片"
+      ],
+      "url": "https://36kr.com/p/3879991356157952?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-04 01:00:00",
+      "impact_score": 312.5
+    },
+    {
+      "index": 3,
+      "title": "硬氪首发 | 清华车辆学院师兄弟创业具身智能，已完成数亿元天使融资，将落地汽车产业",
+      "summary": "7月5日消息，清华大学孵化的具身智能公司光象科技完成数亿元天使轮融资，由珠海科技产业集团、兴证资本等多家机构投资，资金将用于物理原生基座模型研发及工业场景商业化交付。",
+      "importance": "高",
+      "reason": "中国公司（光象科技）获得数亿元大额融资，源自清华大学，聚焦具身智能，属于重大商业动态。",
+      "tags": [
+        "融资",
+        "投资",
+        "人工智能",
+        "机器人"
+      ],
+      "url": "https://36kr.com/p/3882364132077577?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-05 06:25:53",
+      "impact_score": 245.0
+    },
+    {
+      "index": 4,
+      "title": "硬氪首发 | 小米前高管唐沐创业咖啡机器人，完成数亿融资，林斌、黎万强投过",
+      "summary": "7月5日消息，通用餐饮具身机器人公司影智XBOT连续完成数亿元两轮融资，A轮2亿元由香港简坤资本出资，B轮3-5亿元由多支政府基金等参与，此前天使轮获张小龙、黎万强等投资。",
+      "importance": "高",
+      "reason": "中国公司（影智XBOT）获得数亿元大额融资，且投资方阵容豪华，属于重大商业动态。",
+      "tags": [
+        "融资",
+        "投资",
+        "机器人",
+        "大模型"
+      ],
+      "url": "https://36kr.com/p/3882361033322755?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-05 06:23:00",
+      "impact_score": 245.0
+    },
+    {
+      "index": 5,
+      "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+      "summary": "7月5日消息，阿里内部全面禁用Claude Code，因其被曝存在植入后门的安全风险，阿里经综合评估后将其列入高风险软件名单，并推荐使用Qoder作为替代方案。",
+      "importance": "高",
+      "reason": "中国公司（阿里巴巴）因安全风险采取重大内部管理措施，涉及AI工具使用，属于安全与伦理及重大商业动态。",
+      "tags": [
+        "发布",
+        "AI",
+        "风险",
+        "人工智能"
+      ],
+      "url": "https://36kr.com/p/3880770270425089?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-04 03:25:22",
+      "impact_score": 236.0
+    },
+    {
+      "index": 6,
+      "title": "华工科技复杂曲面六轴激光加工装备入选工信部工业母机创新产品典型案例",
+      "summary": "7月5日消息，华工科技复杂曲面六轴激光加工装备入选工信部《2026年度工业母机创新产品典型案例名单》，标志着中国在高端工业母机领域的创新突破。",
+      "importance": "中",
+      "reason": "中国公司（华工科技）产品获工信部认可，属于重大政策与法规相关动态。",
+      "tags": [
+        "创新",
+        "政策"
+      ],
+      "url": "https://36kr.com/newsflashes/3882460882857989?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-05 08:03:26",
+      "impact_score": 210.0
+    },
+    {
+      "index": 7,
+      "title": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
+      "summary": "7月5日消息，具身智能公司光象科技累计完成数亿元天使轮融资，资金将重点投入物理原生基座模型的研发迭代，并推进具身智能机器人在工业场景的商业化交付。",
+      "importance": "中",
+      "reason": "中国公司（光象科技）获得大额融资，聚焦物理原生基座模型，属于重大商业动态。",
+      "tags": [
+        "融资",
+        "人工智能"
+      ],
+      "url": "https://36kr.com/p/3880629882679301?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-04 01:03:44",
+      "impact_score": 147.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "summary": "7月5日消息，谷歌发布新广告设想美国开国元勋借助AI撰写《独立宣言》，引发对AI在历史与创意领域应用的讨论。",
+      "importance": "低",
+      "reason": "属于海外公司（谷歌）的营销活动，但影响力较低，仅为商业宣传。",
+      "tags": [
+        "AI",
+        "谷歌",
+        "商业动态"
+      ],
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-07-04 20:55:25",
+      "impact_score": 125.5
+    },
+    {
+      "index": 2,
+      "title": "Micron Breaks Ground on $9 Billion Plant Expansion in Japan",
+      "summary": "7月5日消息，美光科技在日本破土动工扩建工厂，投资93亿美元生产先进存储芯片，以增强全球半导体供应链。",
+      "importance": "高",
+      "reason": "海外公司（美光）的重大投资，涉及芯片制造和全球供应链，属于重大商业动态。",
+      "tags": [
+        "美光",
+        "芯片",
+        "投资",
+        "日本"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-04/micron-breaks-ground-on-9-billion-western-japan-plant-expansion",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-04 04:16:21",
+      "impact_score": 112.5
+    },
+    {
+      "index": 3,
+      "title": "From Macron to Modi, governments are rolling out the red carpet for AI giants",
+      "summary": "7月5日消息，法国总统马克龙和印度总理莫迪积极吸引AI巨头投资数据中心和云基础设施，以推动本国AI产业发展。",
+      "importance": "中",
+      "reason": "涉及法国和印度政府的AI政策动向，属于国际政策动态。",
+      "tags": [
+        "AI",
+        "政策",
+        "法国",
+        "印度"
+      ],
+      "url": "https://www.cnbc.com/2026/07/04/macron-modi-ai-infrastructure-tech-ceos.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-07-04 09:33:19",
+      "impact_score": 70.0
+    },
+    {
+      "index": 4,
+      "title": "Nvidia Supplier Hon Hai’s Sales Beat on Continued AI Demand",
+      "summary": "7月5日消息，英伟达供应商鸿海精密季度销售额超预期增长40%，并指出AI需求持续增长，显示AI产业链强劲。",
+      "importance": "中",
+      "reason": "海外公司（鸿海精密）的业绩报告，反映AI需求趋势，属于商业动态。",
+      "tags": [
+        "英伟达",
+        "鸿海",
+        "AI",
+        "销售"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-05/nvidia-supplier-hon-hai-reports-surging-sales-on-solid-ai-demand",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-05 07:47:23",
+      "impact_score": 45.0
+    },
+    {
+      "index": 5,
+      "title": "Uber stalls European food delivery push as it pursues Delivery Hero takeover",
+      "summary": "7月5日消息，优步暂停在欧洲五个市场的食品配送扩张计划，转而寻求收购Delivery Hero，调整海外战略。",
+      "importance": "低",
+      "reason": "海外公司（优步）的商业决策，但AI关联度较低。",
+      "tags": [
+        "优步",
+        "收购",
+        "欧洲"
+      ],
+      "url": "https://www.ft.com/content/53f631ef-98e4-4eec-92e4-3dd023ed25f5",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-07-05 04:00:03",
+      "impact_score": 45.0
+    },
+    {
+      "index": 6,
+      "title": "India’s CG Semi Starts Production With 200 Million Chips",
+      "summary": "7月5日消息，印度CG电力公司半导体部门启动生产，年产能达2亿颗芯片，标志着印度本土芯片产业取得里程碑进展。",
+      "importance": "中",
+      "reason": "印度半导体产业的重要进展，属于国际产业动态。",
+      "tags": [
+        "印度",
+        "芯片",
+        "半导体"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-04/india-s-cg-semi-starts-production-with-200-million-chips",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-04 13:59:39",
+      "impact_score": 45.0
+    },
+    {
+      "index": 7,
+      "title": "SK Hynix Is Said to Weigh 0.5% Fee Payout in Mega ADR Offering",
+      "summary": "7月5日消息，SK海力士考虑在美国上市中向承销银行支付约0.5%的费用，此次发行规模巨大，为近年来最大股票出售之一。",
+      "importance": "中",
+      "reason": "海外公司（SK海力士）的重大资本运作，涉及芯片行业，属于重大商业动态。",
+      "tags": [
+        "SK海力士",
+        "上市",
+        "芯片"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-04/china-envisions-ai-karaoke-and-coffee-at-cinemas",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-04 06:16:56",
+      "impact_score": 45.0
+    },
+    {
+      "index": 8,
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "summary": "7月5日消息，Midjourney在诉讼中要求三家好莱坞工作室披露其AI使用细节，以推动AI在影视行业应用的透明度。",
+      "importance": "低",
+      "reason": "海外公司（Midjourney）的法律纠纷，涉及AI伦理，但影响力有限。",
+      "tags": [
+        "Midjourney",
+        "AI",
+        "法律"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-04/local-lenders-set-to-supercharge-crypto-trading-in-germany",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-04 05:00:00",
+      "impact_score": 45.0
+    },
+    {
+      "index": 9,
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "summary": "7月5日消息，法国AI初创公司Mistral AI自2023年成立以来融资显著，致力于提供开源AI模型，成为OpenAI的竞争对手。",
+      "importance": "低",
+      "reason": "海外公司（Mistral AI）的介绍性新闻，属于商业动态但重要性较低。",
+      "tags": [
+        "Mistral AI",
+        "AI",
+        "融资"
+      ],
+      "url": "https://www.ft.com/content/4787fc56-f131-4b3b-b90d-c22aa68e7354",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-07-04 04:00:43",
+      "impact_score": 45.0
+    },
+    {
+      "index": 10,
+      "title": "The fanfiction community is at war with AI — and itself",
+      "summary": "7月5日消息，同人小说社区发起运动抵制生成式AI，但检测方法存争议，引发对AI与创意社区冲突的讨论。",
+      "importance": "低",
+      "reason": "海外社区事件，涉及AI伦理，但影响力有限。",
+      "tags": [
+        "AI",
+        "伦理",
+        "社区"
+      ],
+      "url": "https://www.ft.com/content/2601f17e-001f-4f84-a9cc-9979ef63b898",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-07-04 04:00:12",
+      "impact_score": 45.0
+    }
+  ],
+  "summary": "今日从40条原始信息中精选出7条国内动态和10条国际动态，其中6条为高重要性。 重点关注：硬氪首发 | 港大教授成立的忆生科技获数亿天使轮融资，致力于为机器人造一套记忆系统；36氪首发 | 剑桥副教授创业硅光芯片，已合作华为，获一亿投资；硬氪首发 | 清华车辆学院师兄弟创业具身智能，已完成数亿元天使融资，将落地汽车产业。",
+  "statistics": {
+    "raw_domestic": 22,
+    "raw_international": 18,
+    "raw_total": 40,
+    "final_domestic": 7,
+    "final_international": 10
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "7月5日消息，港大教授创立的忆生科技完成数亿元天使轮融资，由正大旗下中生制药、浦东创投等多家机构投资，资金将用于可解释具身控制大模型与物理世界模型的研发及上海张江等研发中心建设。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "7月5日消息，硅基光电子芯片公司光引科技完成1亿元Pre-A轮融资，投资方包括光子强链基金、善达投资等，资金将用于上海新实验室建设及量产推进，该公司已与华为达成合作。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "7月5日消息，清华大学孵化的具身智能公司光象科技完成数亿元天使轮融资，由珠海科技产业集团、兴证资本等多家机构投资，资金将用于物理原生基座模型研发及工业场景商业化交付。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "7月5日消息，通用餐饮具身机器人公司影智XBOT连续完成数亿元两轮融资，A轮2亿元由香港简坤资本出资，B轮3-5亿元由多支政府基金等参与，此前天使轮获张小龙、黎万强等投资。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "7月5日消息，阿里内部全面禁用Claude Code，因其被曝存在植入后门的安全风险，阿里经综合评估后将其列入高风险软件名单，并推荐使用Qoder作为替代方案。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "7月5日消息，美光科技在日本破土动工扩建工厂，投资93亿美元生产先进存储芯片，以增强全球半导体供应链。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "7月5日消息，法国总统马克龙和印度总理莫迪积极吸引AI巨头投资数据中心和云基础设施，以推动本国AI产业发展。",
+      "importance": "中"
+    },
+    {
+      "index": 3,
+      "summary": "7月5日消息，英伟达供应商鸿海精密季度销售额超预期增长40%，并指出AI需求持续增长，显示AI产业链强劲。",
+      "importance": "中"
+    },
+    {
+      "index": 4,
+      "summary": "7月5日消息，印度CG电力公司半导体部门启动生产，年产能达2亿颗芯片，标志着印度本土芯片产业取得里程碑进展。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "7月5日消息，SK海力士考虑在美国上市中向承销银行支付约0.5%的费用，此次发行规模巨大，为近年来最大股票出售之一。",
+      "importance": "中"
+    }
+  ]
+}
