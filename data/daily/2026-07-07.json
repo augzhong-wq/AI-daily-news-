@@ -1,0 +1,566 @@
+{
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07 11:12:36",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "上市前夜｜套现十几亿后，他把矿卡开向港股",
+      "summary": "7月7日消息，易控智驾冲刺港股IPO，创始人蓝水生此前通过游戏公司收购套现约15亿元，公司主营矿卡自动驾驶业务。",
+      "importance": "中",
+      "reason": "中国公司易控智驾的IPO动态，属于国内商业动态。",
+      "tags": [
+        "IPO",
+        "自动驾驶",
+        "融资"
+      ],
+      "url": "https://36kr.com/p/3885318981366023?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-07 08:32:12",
+      "impact_score": 390.0
+    },
+    {
+      "index": 2,
+      "title": "用AI“复刻”人类细胞、预判药效，「华源智因」获千万级人民币种子轮融资｜36氪首发",
+      "summary": "7月7日消息，AI虚拟细胞企业华源智因完成千万级人民币种子轮融资，由水木创投领投，资金将用于多模态测序技术迭代和团队扩充。",
+      "importance": "中",
+      "reason": "中国AI初创公司华源智因的融资动态，属于国内商业动态。",
+      "tags": [
+        "融资",
+        "AI",
+        "生物科技"
+      ],
+      "url": "https://36kr.com/p/3883943959621634?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-07 01:05:00",
+      "impact_score": 342.5
+    },
+    {
+      "index": 3,
+      "title": "百度基础模型换将，这一次把牌交给年轻人",
+      "summary": "7月7日消息，百度任命1997年出生的孙天祥为基础模型研发部负责人，该部门向CEO李彦宏汇报，旨在推动通用人工智能大模型研发。",
+      "importance": "高",
+      "reason": "中国科技巨头百度的重要人事变动，涉及核心AI业务，属于国内重大商业动态。",
+      "tags": [
+        "百度",
+        "人事变动",
+        "大模型"
+      ],
+      "url": "https://www.leiphone.com/category/ai/XR79bc90xongJ7dH.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-07 03:37:00",
+      "impact_score": 330.0
+    },
+    {
+      "index": 4,
+      "title": "登顶多项全球SOTA！大晓全开源首个「统一具身基模型」ACE-Brain-0.5",
+      "summary": "7月7日消息，大晓机器人开源统一具身基模型ACE-Brain-0.5，以空间智能为底座，整合感知、规划、交互与评估四大核心能力，登顶多项全球SOTA。",
+      "importance": "高",
+      "reason": "中国公司大晓机器人的重大技术突破和开源发布，属于国内重大学术/产品动态。",
+      "tags": [
+        "具身智能",
+        "开源",
+        "SOTA"
+      ],
+      "url": "https://www.leiphone.com/category/ai/mzzn6vBmXZn5Ymqj.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-07 08:26:00",
+      "impact_score": 300.0
+    },
+    {
+      "index": 5,
+      "title": "成立半年估值超70亿，墨奇智能刷新国内具身智能首轮融资规模纪录",
+      "summary": "7月7日消息，具身智能企业墨奇智能完成超10亿元天使轮融资，由阿里巴巴、腾讯联合投资，估值突破70亿元，创国内具身智能首轮融资规模纪录。",
+      "importance": "高",
+      "reason": "中国公司墨奇智能获得巨额融资，刷新行业纪录，属于国内重大商业动态。",
+      "tags": [
+        "融资",
+        "具身智能",
+        "估值"
+      ],
+      "url": "https://www.leiphone.com/category/ai/YTCPIZ2kIbjtt6CX.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-06 08:48:00",
+      "impact_score": 300.0
+    },
+    {
+      "index": 6,
+      "title": "极兔速递：已正式接入支付宝AI生态",
+      "summary": "7月7日消息，极兔速递宣布正式接入支付宝AI开放平台，成为首批接入的物流企业，用户可通过AI版支付宝“阿宝”使用极兔服务。",
+      "importance": "中",
+      "reason": "中国公司极兔速递与支付宝的合作，属于国内商业动态。",
+      "tags": [
+        "合作",
+        "AI",
+        "物流"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/P6qnUcERGBlK5wJZ.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-06 07:35:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 7,
+      "title": "北斗人创业，要建太空数据中心，「星际原点」连续完成两轮数千万元融资｜36氪首发",
+      "summary": "7月7日消息，太空算力卫星系统解决方案提供商星际原点完成数千万元种子轮和天使轮融资，由九合创投、梅花创投等联合领投。",
+      "importance": "中",
+      "reason": "中国初创公司星际原点的融资动态，属于国内商业动态。",
+      "tags": [
+        "融资",
+        "太空算力",
+        "卫星"
+      ],
+      "url": "https://36kr.com/p/3885061350617350?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-07 06:23:00",
+      "impact_score": 264.0
+    },
+    {
+      "index": 8,
+      "title": "高德开放平台正式上线新版本世界地图",
+      "summary": "7月7日消息，阿里巴巴旗下高德开放平台上线新版本世界地图，升级驾车、骑行等多类型导航服务，并优化底层POI数据和路径规划算法。",
+      "importance": "中",
+      "reason": "中国公司高德地图的产品更新，属于国内产品动态。",
+      "tags": [
+        "高德",
+        "地图",
+        "导航"
+      ],
+      "url": "https://36kr.com/newsflashes/3885416357638146?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-07 10:09:54",
+      "impact_score": 249.0
+    },
+    {
+      "index": 9,
+      "title": "前大疆员工做了款消费级纺织机，拿下红杉、顺为、米哈游等数亿融资｜产品观察",
+      "summary": "7月7日消息，浪爪智能完成数亿元融资，由元璟资本领投，红杉、顺为、米哈游等参投，其创始人胡文鑫曾就职大疆，产品为消费级家用纺织机。",
+      "importance": "中",
+      "reason": "中国初创公司浪爪智能的融资动态，属于国内商业动态。",
+      "tags": [
+        "融资",
+        "硬件",
+        "消费级"
+      ],
+      "url": "https://36kr.com/p/3885413484163074?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-07 10:07:53",
+      "impact_score": 245.0
+    },
+    {
+      "index": 10,
+      "title": "支付宝AI开放平台开放邀测，高德打车首批接入",
+      "summary": "7月7日消息，支付宝正式上线AI开放平台，面向商家和机构开放AI接入能力，高德打车作为首批接入方，用户可通过AI版支付宝“阿宝”直接叫车。",
+      "importance": "中",
+      "reason": "中国公司支付宝的产品发布及与高德的合作，属于国内产品/商业动态。",
+      "tags": [
+        "支付宝",
+        "AI",
+        "开放平台"
+      ],
+      "url": "https://36kr.com/p/3885457443385346?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-07 10:59:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 11,
+      "title": "海康机器人移动机器人下线突破20万台，推动行业驶入规模化应用快车道",
+      "summary": "7月7日消息，海康机器人宣布其移动机器人全品类累计下线突破20万台，市占率全球第一，标志着中国移动机器人产业加速规模化普及。",
+      "importance": "中",
+      "reason": "中国公司海康机器人的里程碑事件，属于国内商业动态。",
+      "tags": [
+        "海康机器人",
+        "移动机器人",
+        "规模化"
+      ],
+      "url": "https://www.leiphone.com/category/weiwu/QCQTNrrRt6JU1sW8.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-06 10:46:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 12,
+      "title": "36氪首发丨上科大博士团队加速国产超高速光电探测芯片量产，获千万级天使轮融资",
+      "summary": "7月7日消息，上海快粼光电完成数千万元天使轮融资，由小苗朗程领投，资金将用于超高速光探测芯片研发迭代和量产，填补国内空白。",
+      "importance": "中",
+      "reason": "中国初创公司快粼光电的融资动态，属于国内商业动态。",
+      "tags": [
+        "融资",
+        "光电芯片",
+        "国产替代"
+      ],
+      "url": "https://36kr.com/newsflashes/3885422820618248?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-07 10:16:28",
+      "impact_score": 234.0
+    },
+    {
+      "index": 13,
+      "title": "机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
+      "summary": "7月7日消息，蚂蚁灵波发布空间感知模型LingBot-Depth 2.0，在机器人视觉领域实现新突破，提升机器人在真实世界中的感知能力。",
+      "importance": "中",
+      "reason": "中国公司蚂蚁灵波的产品发布，属于国内产品/技术动态。",
+      "tags": [
+        "机器人视觉",
+        "空间感知",
+        "发布"
+      ],
+      "url": "https://36kr.com/p/3884831072514309?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-07 00:15:11",
+      "impact_score": 225.0
+    },
+    {
+      "index": 14,
+      "title": "大道至简，阿里与清华论文揭示扩散大模型推理能力，入选 ICML 杰出论文",
+      "summary": "7月7日消息，阿里巴巴与清华大学合作的论文入选ICML 2026杰出论文，该研究重新审视扩散语言模型的价值，获奖率仅千分之一。",
+      "importance": "高",
+      "reason": "中国公司与高校合作的学术成果获得顶级会议最高荣誉，属于国内重大学术突破。",
+      "tags": [
+        "ICML",
+        "杰出论文",
+        "扩散模型"
+      ],
+      "url": "https://36kr.com/p/3876837605585160?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-07 02:29:47",
+      "impact_score": 210.0
+    },
+    {
+      "index": 15,
+      "title": "刚刚，首个空间原生的具身视觉基模开源！机器人更会看我们的世界了",
+      "summary": "7月7日消息，蚂蚁灵波开源首个空间原生的具身视觉基模，提升机器人在真实世界中的视觉理解和交互能力。",
+      "importance": "中",
+      "reason": "中国公司蚂蚁灵波的开源发布，属于国内技术动态。",
+      "tags": [
+        "开源",
+        "具身视觉",
+        "机器人"
+      ],
+      "url": "https://www.leiphone.com/category/robot/OBTsJOlhcG5e6ylG.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-06 08:53:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 16,
+      "title": "巨人网络：上半年净利润同比预增157.38%至183.12%",
+      "summary": "7月7日消息，巨人网络发布2026年半年度业绩预告，预计净利润20亿至22亿元，同比增长157%至183%，业绩大幅增长。",
+      "importance": "低",
+      "reason": "中国公司巨人网络的业绩预告，属于国内商业动态，但重要性相对较低。",
+      "tags": [
+        "业绩预告",
+        "巨人网络",
+        "净利润"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/QAgdWgSi0taRT6ws.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-07 06:53:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 17,
+      "title": "揭秘字节 Seedance：全球 AI 的第二个好生意 | 深氪",
+      "summary": "7月7日消息，字节跳动视频生成模型Seedance负责人曾妍推动训练200B参数大模型，团队在视频生成领域取得技术突破。",
+      "importance": "中",
+      "reason": "中国公司字节跳动的AI模型动态，属于国内产品/技术动态。",
+      "tags": [
+        "字节跳动",
+        "视频生成",
+        "大模型"
+      ],
+      "url": "https://www.leiphone.com/category/robot/V0sjtRJAoZdt3K8y.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-06 09:13:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 18,
+      "title": "ICML 2026现场最全索引：从快手到大厂，中国企业集体出征",
+      "summary": "7月7日消息，ICML 2026上中国企业表现亮眼，快手11篇论文入选，阿里千问4篇，中科院自动化所50篇，腾讯混元等均有成果。",
+      "importance": "中",
+      "reason": "中国企业和研究机构在顶级学术会议上的集体亮相，属于国内学术动态。",
+      "tags": [
+        "ICML",
+        "中国企业",
+        "学术论文"
+      ],
+      "url": "https://36kr.com/p/3884289424437511?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-07 01:00:00",
+      "impact_score": 160.5
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Google and RWE Back German Nuclear Startup Proxima Fusion at €2.4 Billion Valuation",
+      "summary": "7月7日消息，德国核聚变初创公司Proxima Fusion从包括国家能源公司RWE和谷歌在内的投资者处融资4.11亿欧元，计划在2030年代建成核聚变发电厂。",
+      "importance": "高",
+      "reason": "重大商业动态：谷歌等巨头投资核聚变初创公司，估值达24亿欧元，显示AI产业对能源的重视。",
+      "tags": [
+        "融资",
+        "核聚变",
+        "谷歌"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-07-06/the-close-7-6-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-06 22:14:51",
+      "impact_score": 262.5
+    },
+    {
+      "index": 2,
+      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+      "summary": "7月7日消息，韩国存储芯片制造商SK海力士受益于AI热潮，将于周五在美国进行数十亿美元的IPO，美国投资者将获得投资机会。",
+      "importance": "高",
+      "reason": "重大商业动态：SK海力士作为AI关键芯片供应商，其美国IPO是重要资本市场事件。",
+      "tags": [
+        "IPO",
+        "SK海力士",
+        "AI芯片"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-07/google-rwe-back-german-nuclear-startup-proxima-fusion-at-2-4-billion-valuation",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-07 05:30:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 3,
+      "title": "SpaceX Joins Nasdaq 100 as Wall Street Makes Bullish Calls",
+      "summary": "7月7日消息，SpaceX加入纳斯达克100指数，华尔街多家投行开始覆盖其股票并给出买入评级，看好其火箭、卫星和人工智能业务。",
+      "importance": "高",
+      "reason": "重大商业动态：SpaceX纳入纳斯达克100指数，标志其成为重要科技股，华尔街看好其AI业务。",
+      "tags": [
+        "SpaceX",
+        "纳斯达克100",
+        "AI"
+      ],
+      "url": "https://www.theinformation.com/articles/pika-vs-higgsfield-feud-copying-shows-ai-makes-mimicry-easy",
+      "source": "The Information",
+      "original_pub_date": "2026-07-06 14:00:56",
+      "impact_score": 225.0
+    },
+    {
+      "index": 4,
+      "title": "Ex-Tesla Scientist Unveils Plans For European Humanoid Robot",
+      "summary": "7月7日消息，一位前特斯拉科学家公布了在欧洲生产轻量级人形机器人的计划，该机器人将用于制造工厂、物流仓库和家庭。",
+      "importance": "中",
+      "reason": "重大产品发布：前特斯拉科学家推出人形机器人计划，显示AI机器人领域的新动向。",
+      "tags": [
+        "人形机器人",
+        "欧洲",
+        "AI"
+      ],
+      "url": "https://arxiv.org/abs/2607.03530",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-07-07 04:00:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 5,
+      "title": "AI Won’t Bring Back Era of Rapid Growth, Says Nobel Prize Winner",
+      "summary": "7月7日消息，一位诺贝尔奖得主经济学家警告称，人工智能不会让西方经济体重回快速生产率增长的时代，这一时代可能已经永远消失。",
+      "importance": "中",
+      "reason": "重大政策与法规：诺贝尔奖得主对AI经济影响的权威观点，具有政策参考价值。",
+      "tags": [
+        "诺贝尔奖",
+        "AI经济",
+        "生产率"
+      ],
+      "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-07-06 23:21:03",
+      "impact_score": 210.0
+    },
+    {
+      "index": 6,
+      "title": "Hedge fund run by ex-OpenAI researcher bets on SK Hynix’s US IPO",
+      "summary": "7月7日消息，由前OpenAI研究员运营的对冲基金Situational Awareness与英国投资者Baillie Gifford共同支持SK海力士的美国IPO。",
+      "importance": "中",
+      "reason": "重大商业动态：前OpenAI研究员参与SK海力士IPO，显示AI领域资本动向。",
+      "tags": [
+        "对冲基金",
+        "SK海力士",
+        "IPO"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-07/spacex-shares-win-early-bullish-calls-from-wall-street-brokers",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-07 06:28:23",
+      "impact_score": 180.0
+    },
+    {
+      "index": 7,
+      "title": "Defence groups strike $8bn of maritime tech deals",
+      "summary": "7月7日消息，洛克希德·马丁以34.5亿美元收购Ultra Maritime，泰雷兹宣布收购法国海军无人机公司，两家防务集团达成总计80亿美元的海事技术交易。",
+      "importance": "中",
+      "reason": "重大商业动态：防务巨头大额并购，涉及AI相关海事技术。",
+      "tags": [
+        "防务",
+        "并购",
+        "海事技术"
+      ],
+      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "source": "MIT Technology Review",
+      "original_pub_date": "2026-07-06 18:00:00",
+      "impact_score": 180.0
+    },
+    {
+      "index": 8,
+      "title": "Exclusive: Mercor Hit Over $2 Billion in Gross Annualized Revenue",
+      "summary": "7月7日消息，AI公司Mercor在6月年化总收入超过20亿美元，较年初翻倍，增长来自AI应用开发者和财富500强客户的需求。",
+      "importance": "中",
+      "reason": "重大商业动态：AI初创公司Mercor收入快速增长，显示AI商业应用需求强劲。",
+      "tags": [
+        "Mercor",
+        "收入",
+        "AI应用"
+      ],
+      "url": "https://www.theinformation.com/articles/next-phase-enterprise-ai-decisions-experiments",
+      "source": "The Information",
+      "original_pub_date": "2026-07-06 14:53:33",
+      "impact_score": 173.0
+    },
+    {
+      "index": 9,
+      "title": "British Space Startup Launches Longevity Lab Into Orbit",
+      "summary": "7月7日消息，一家英国太空初创公司将长寿实验室送入轨道，该实验室将回传数据以训练AI模型，预测与阿尔茨海默症和某些癌症相关的蛋白质行为。",
+      "importance": "中",
+      "reason": "重大学术突破：AI与太空、长寿研究结合，具有创新性。",
+      "tags": [
+        "太空",
+        "长寿",
+        "AI模型"
+      ],
+      "url": "https://arxiv.org/abs/2607.02542",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-07-07 04:00:00",
+      "impact_score": 170.0
+    },
+    {
+      "index": 10,
+      "title": "SpaceX wins bullish recommendations from Wall Street banks",
+      "summary": "7月7日消息，摩根士丹利给予SpaceX 300美元目标价，随着IPO后静默期结束，华尔街银行纷纷给出看涨建议。",
+      "importance": "中",
+      "reason": "重大商业动态：华尔街对SpaceX的看涨评级，反映市场对其AI和火箭业务的信心。",
+      "tags": [
+        "SpaceX",
+        "评级",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-07/ex-tesla-scientist-unveils-plans-for-european-humanoid-robot",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-07 10:20:00",
+      "impact_score": 150.0
+    },
+    {
+      "index": 11,
+      "title": "Extreme SK Hynix Stock Swings Add Wild Card to $28 Billion Deal",
+      "summary": "7月7日消息，SK海力士在纽约的上市计划面临全球芯片股剧烈波动的风险，该交易可能成为外国公司在美国最大的IPO。",
+      "importance": "中",
+      "reason": "重大商业动态：SK海力士IPO受市场波动影响，是重要资本市场事件。",
+      "tags": [
+        "SK海力士",
+        "IPO",
+        "芯片股"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-07/ai-won-t-bring-back-era-of-rapid-growth-says-nobel-prize-winner",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-07 05:15:00",
+      "impact_score": 142.5
+    },
+    {
+      "index": 12,
+      "title": "Intel-Backed AI Chip and Software Maker Syntiant Files for IPO",
+      "summary": "7月7日消息，英特尔支持的AI芯片和软件制造商Syntiant提交IPO申请，以利用投资者对AI技术的热情。",
+      "importance": "中",
+      "reason": "重大商业动态：AI芯片公司Syntiant申请IPO，显示AI硬件领域资本活跃。",
+      "tags": [
+        "Syntiant",
+        "IPO",
+        "AI芯片"
+      ],
+      "url": "https://www.ft.com/content/a6f1e92d-0232-4343-9930-6d965a67f187",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-07-06 18:08:25",
+      "impact_score": 142.5
+    },
+    {
+      "index": 13,
+      "title": "Nvidia Supplier Unimicron Raises $1.4 Billion in GDS Sale",
+      "summary": "7月7日消息，英伟达供应商欣兴电子通过出售全球存托凭证筹集13.6亿美元，利用AI热潮使其股价在过去12个月上涨超过700%。",
+      "importance": "中",
+      "reason": "重大商业动态：英伟达供应商大额融资，反映AI供应链资本运作。",
+      "tags": [
+        "欣兴电子",
+        "融资",
+        "AI供应链"
+      ],
+      "url": "https://www.theinformation.com/articles/prometheus-hadrian-silicon-valleys-push-reindustrialize-america",
+      "source": "The Information",
+      "original_pub_date": "2026-07-06 15:00:54",
+      "impact_score": 140.5
+    }
+  ],
+  "summary": "今日从165条原始信息中精选出18条国内动态和13条国际动态，其中7条为高重要性。 重点关注：百度基础模型换将，这一次把牌交给年轻人；登顶多项全球SOTA！大晓全开源首个「统一具身基模型」ACE-Brain-0.5；成立半年估值超70亿，墨奇智能刷新国内具身智能首轮融资规模纪录。",
+  "statistics": {
+    "raw_domestic": 43,
+    "raw_international": 122,
+    "raw_total": 165,
+    "final_domestic": 18,
+    "final_international": 13
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "7月7日消息，百度任命1997年出生的孙天祥为基础模型研发部负责人，该部门向CEO李彦宏汇报，旨在推动通用人工智能大模型研发。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "7月7日消息，大晓机器人开源统一具身基模型ACE-Brain-0.5，以空间智能为底座，整合感知、规划、交互与评估四大核心能力，登顶多项全球SOTA。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "7月7日消息，具身智能企业墨奇智能完成超10亿元天使轮融资，由阿里巴巴、腾讯联合投资，估值突破70亿元，创国内具身智能首轮融资规模纪录。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "7月7日消息，阿里巴巴与清华大学合作的论文入选ICML 2026杰出论文，该研究重新审视扩散语言模型的价值，获奖率仅千分之一。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "7月7日消息，易控智驾冲刺港股IPO，创始人蓝水生此前通过游戏公司收购套现约15亿元，公司主营矿卡自动驾驶业务。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "7月7日消息，德国核聚变初创公司Proxima Fusion从包括国家能源公司RWE和谷歌在内的投资者处融资4.11亿欧元，计划在2030年代建成核聚变发电厂。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "7月7日消息，韩国存储芯片制造商SK海力士受益于AI热潮，将于周五在美国进行数十亿美元的IPO，美国投资者将获得投资机会。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "7月7日消息，SpaceX加入纳斯达克100指数，华尔街多家投行开始覆盖其股票并给出买入评级，看好其火箭、卫星和人工智能业务。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "7月7日消息，一位前特斯拉科学家公布了在欧洲生产轻量级人形机器人的计划，该机器人将用于制造工厂、物流仓库和家庭。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "7月7日消息，一位诺贝尔奖得主经济学家警告称，人工智能不会让西方经济体重回快速生产率增长的时代，这一时代可能已经永远消失。",
+      "importance": "中"
+    }
+  ]
+}
