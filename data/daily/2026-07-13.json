@@ -1,0 +1,424 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13 11:17:28",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "文远知行L2++智驾业务加速出海，一段式端到端方案驶向全球",
+      "summary": "7月13日消息，文远知行首次披露L2++智驾业务出海进展，其自研一段式端到端智能辅助驾驶方案已在德国、法国、日本等国家开展道路测试与适配验证，持续积累全球化场景经验。",
+      "importance": "高",
+      "reason": "中国自动驾驶公司文远知行的重要业务进展，涉及技术出海和全球化布局，属于重大商业动态。",
+      "tags": [
+        "自动驾驶",
+        "出海",
+        "端到端"
+      ],
+      "url": "https://www.qbitai.com/2026/07/448825.html",
+      "source": "量子位",
+      "original_pub_date": "2026-07-13 06:10:36",
+      "impact_score": 300.0
+    },
+    {
+      "index": 2,
+      "title": "头部人形机器人关节公司半年再获新融资，同创伟业领投数亿元｜硬氪首发",
+      "summary": "7月13日消息，零差云控完成C++轮融资数亿元，由同创伟业领投、国泰君安创新投资跟投，资金将用于产能扩张和全球市场布局，该公司专注高可靠机器人关键核心零部件。",
+      "importance": "高",
+      "reason": "中国人形机器人核心零部件公司获得大额融资，反映赛道热度，属于重大商业动态。",
+      "tags": [
+        "人形机器人",
+        "融资",
+        "零部件"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/zEN1JYcVUeuUotRS.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-13 08:07:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 3,
+      "title": "海康威视首次亮相世界人工智能大会，全方位展示观澜大模型技术体系",
+      "summary": "7月13日消息，海康威视将首次亮相世界人工智能大会，全方位展示观澜大模型技术体系，展示大模型如何融入软硬件产品并赋能工业、城市治理、智慧交通等场景。",
+      "importance": "高",
+      "reason": "中国安防巨头海康威视首次参展WAIC并展示其大模型体系，属于重大产品发布和商业动态。",
+      "tags": [
+        "海康威视",
+        "观澜大模型",
+        "WAIC"
+      ],
+      "url": "https://36kr.com/p/3885232033378308?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-13 02:37:39",
+      "impact_score": 256.0
+    },
+    {
+      "index": 4,
+      "title": "字节探索自动驾驶，Seed世界模型团队负责｜36氪独家",
+      "summary": "7月13日消息，字节跳动正探索进入自动驾驶领域，项目由Seed旗下周畅的世界模型团队负责，有意布局无人物流场景，目前项目已进入早期筹备状态。",
+      "importance": "高",
+      "reason": "中国科技巨头字节跳动跨界进入自动驾驶领域，属于重大商业动态，影响深远。",
+      "tags": [
+        "字节跳动",
+        "自动驾驶",
+        "世界模型"
+      ],
+      "url": "https://36kr.com/p/3890940898867712?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-13 00:00:00",
+      "impact_score": 256.0
+    },
+    {
+      "index": 5,
+      "title": "“领铄智能”完成A轮融资",
+      "summary": "7月13日消息，领铄智能完成A轮融资，由中信建投资本与西安财金共同参与，该公司聚焦智能化平台关键技术研发，核心产品包括Blade Agentic OS智能体操作系统等。",
+      "importance": "中",
+      "reason": "中国AI初创公司获得融资，属于商业动态，但金额未披露，重要性中等。",
+      "tags": [
+        "融资",
+        "智能体",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/KYiuLN1LGjGagBUD.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-13 04:49:00",
+      "impact_score": 255.0
+    },
+    {
+      "index": 6,
+      "title": "AI家庭智能硬件公司获数千万元融资，首款产品今年上线海外｜硬氪首发",
+      "summary": "7月13日消息，威联机器人科技完成数千万元天使融资，资金将用于AI算法研发和全球化渠道布局，公司以AI智能语音路由器等产品构建家庭AI基础设施。",
+      "importance": "中",
+      "reason": "中国AI硬件初创公司获得融资，属于商业动态，金额较小，重要性中等。",
+      "tags": [
+        "AI硬件",
+        "融资",
+        "家庭AI"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/L5WoKiH9S0xMGC8q.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-13 02:27:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 7,
+      "title": "36氪首发 | 港中大博士、前大疆工程师创业消费级四足机器人，天使轮获正轩领投数千万元",
+      "summary": "7月13日消息，光之跃迁完成近五千万元天使轮融资，由正轩领投，公司聚焦消费级四足机器人市场，瞄准欧美家庭和户外运动爱好者，计划将四足机器人转化为实用工具。",
+      "importance": "中",
+      "reason": "中国四足机器人初创公司获得融资，属于商业动态，金额中等，重要性中等。",
+      "tags": [
+        "四足机器人",
+        "融资",
+        "消费级"
+      ],
+      "url": "https://36kr.com/newsflashes/3893918561450755?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-13 10:28:43",
+      "impact_score": 210.0
+    },
+    {
+      "index": 8,
+      "title": "CNCF发布招商银行AI调度平台案例 源于范式的HAMi技术获生产级验证",
+      "summary": "7月13日消息，CNCF发布招商银行AI调度平台案例，该平台基于范式的HAMi技术，获得生产级验证，展示了中国金融机构在AI基础设施上的实践成果。",
+      "importance": "中",
+      "reason": "中国金融机构的AI技术应用案例获得国际组织认可，属于技术落地和商业动态，重要性中等。",
+      "tags": [
+        "招商银行",
+        "AI调度",
+        "CNCF"
+      ],
+      "url": "https://www.leiphone.com/category/private/vfNfp926XA89UUvh.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-13 06:14:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 9,
+      "title": "Claude Code砸的坑，蚂蚁安全在尝试填上",
+      "summary": "7月13日消息，蚂蚁安全开源两大安全框架，旨在解决Claude Code等AI编码工具带来的安全问题，体现了中国科技公司在AI安全领域的主动布局。",
+      "importance": "中",
+      "reason": "中国科技公司蚂蚁集团在AI安全领域的开源举措，属于安全与伦理动态，重要性中等。",
+      "tags": [
+        "蚂蚁安全",
+        "开源",
+        "AI安全"
+      ],
+      "url": "https://www.leiphone.com/category/private/m2WcPZmJL6inJb5i.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-13 03:06:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 10,
+      "title": "趋境科技完成A轮融资，半年内募资10亿",
+      "summary": "7月13日消息，趋境科技完成A轮融资，半年内募资10亿元，其高品质AI Token生产服务能力获产业和资本双重认可，体现了中国AI基础设施领域的投资热度。",
+      "importance": "中",
+      "reason": "中国AI初创公司获得大额融资，属于重大商业动态，但公司知名度相对较低，重要性中等。",
+      "tags": [
+        "融资",
+        "AI Token",
+        "基础设施"
+      ],
+      "url": "https://36kr.com/newsflashes/3893969146215433?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-13 11:10:15",
+      "impact_score": 195.0
+    },
+    {
+      "index": 11,
+      "title": "滴滴亮相联合国可持续交通主题边会，分享巴西绿色出行实践",
+      "summary": "7月13日消息，滴滴受邀参加联合国可持续交通主题边会，分享旗下巴西出行平台99推动新能源车辆运营的实践，计划未来五年在巴西推动超30万辆新能源车登记运营。",
+      "importance": "低",
+      "reason": "中国公司滴滴在国际场合分享海外实践，属于商业动态，但影响力相对有限，重要性低。",
+      "tags": [
+        "滴滴",
+        "绿色出行",
+        "巴西"
+      ],
+      "url": "https://36kr.com/p/3893445208717826?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-13 02:39:18",
+      "impact_score": 177.0
+    },
+    {
+      "index": 12,
+      "title": "对话Om AI赵天成：多年坚守，押注物理AI原生的「流式」未来",
+      "summary": "7月13日消息，Om AI发布全球首个面向物理AI的端侧流式多模态模型系列VLX，首次在端侧打通“持续感知+精准定位+行动决策”的物理AI完整闭环。",
+      "importance": "低",
+      "reason": "中国AI初创公司发布新产品，属于产品发布，但公司知名度较低，重要性低。",
+      "tags": [
+        "Om AI",
+        "多模态模型",
+        "物理AI"
+      ],
+      "url": "https://36kr.com/p/3879780282495236?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-13 03:00:00",
+      "impact_score": 167.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
+      "summary": "7月13日消息，OpenAI首席执行官Sam Altman与Elon Musk在社交媒体上就苹果公司对OpenAI提起的诉讼展开争论，Altman称Musk因OpenAI本周发布新模型而再次关注他。",
+      "importance": "高",
+      "reason": "涉及OpenAI与苹果的诉讼纠纷及AI行业领袖公开争论，属于重大商业动态和AI法律事件。",
+      "tags": [
+        "AI法律",
+        "OpenAI",
+        "Elon Musk",
+        "Sam Altman",
+        "苹果"
+      ],
+      "url": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-07-12 20:29:06",
+      "impact_score": 230.0
+    },
+    {
+      "index": 2,
+      "title": "Big Tech to face fines for consumer protection failures, says EU official",
+      "summary": "7月13日消息，欧盟司法专员Michael McGrath表示，布鲁塞尔将加强对大型科技公司的社交媒体保护措施，对未能履行消费者保护义务的企业处以罚款。",
+      "importance": "高",
+      "reason": "欧盟对大型科技公司出台消费者保护新规，属于重大政策与法规。",
+      "tags": [
+        "欧盟",
+        "政策法规",
+        "消费者保护",
+        "罚款",
+        "大型科技公司"
+      ],
+      "url": "https://www.theinformation.com/articles/electric-truck-startup-windrose-stiffed-slew-people",
+      "source": "The Information",
+      "original_pub_date": "2026-07-12 18:00:56",
+      "impact_score": 225.0
+    },
+    {
+      "index": 3,
+      "title": "Europe's Anduril rival Helsing raises $1.8 billion at $18 billion valuation",
+      "summary": "7月13日消息，欧洲国防AI初创公司Helsing完成18亿美元融资，估值达180亿美元，投资者需求远超可用份额。",
+      "importance": "高",
+      "reason": "AI国防领域大额融资，估值超百亿美元，属于重大商业动态。",
+      "tags": [
+        "融资",
+        "AI国防",
+        "Helsing",
+        "估值",
+        "欧洲"
+      ],
+      "url": "https://arxiv.org/abs/2607.09076",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-07-13 04:00:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 4,
+      "title": "Meta’s Louisiana Data Center to Surpass $250 Billion Price Tag",
+      "summary": "7月13日消息，Meta Platforms宣布将额外投入400亿美元扩建其路易斯安那州数据中心园区，使该项目的总投资额超过2500亿美元，以扩大人工智能计算能力。",
+      "importance": "高",
+      "reason": "Meta大规模投资AI基础设施，金额巨大，属于重大商业动态。",
+      "tags": [
+        "Meta",
+        "数据中心",
+        "AI基础设施",
+        "投资",
+        "路易斯安那"
+      ],
+      "url": "https://www.theinformation.com/briefings/states-led-california-nearing-suit-block-paramount-warner-deal",
+      "source": "The Information",
+      "original_pub_date": "2026-07-13 02:23:22",
+      "impact_score": 210.0
+    },
+    {
+      "index": 5,
+      "title": "SK Hynix Shares Slump in South Korea After US Listing",
+      "summary": "7月13日消息，韩国存储芯片制造商SK海力士在美上市后股价在首尔下跌，其265亿美元美国发行被视为测试海外需求和AI涨势持久性的重要指标。",
+      "importance": "中",
+      "reason": "SK海力士作为AI芯片关键供应商，其股价波动反映市场对AI行业信心，属于重大商业动态。",
+      "tags": [
+        "SK海力士",
+        "股价",
+        "AI芯片",
+        "上市",
+        "韩国"
+      ],
+      "url": "https://arxiv.org/abs/2607.09059",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-07-13 04:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 6,
+      "title": "Apple’s $600 Billion Rally Fueled by Traders Fleeing AI Selloff",
+      "summary": "7月13日消息，投资者因对人工智能支出担忧而抛售芯片和云计算股票，转而涌入苹果公司，推动其市值飙升6000亿美元。",
+      "importance": "中",
+      "reason": "反映AI投资市场情绪变化，苹果股价大涨，属于重大商业动态。",
+      "tags": [
+        "苹果",
+        "AI投资",
+        "股价",
+        "市场情绪",
+        "芯片"
+      ],
+      "url": "https://www.ft.com/content/25640be5-a5bd-4548-81f9-bd0e16f87f35",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-07-12 04:00:06",
+      "impact_score": 185.0
+    },
+    {
+      "index": 7,
+      "title": "Meta's Louisiana data center investment to reach $50 billion, aided by generous tax incentives",
+      "summary": "7月13日消息，Meta宣布其路易斯安那州Hyperion数据中心超级集群将耗资超过500亿美元，并受益于慷慨的税收激励措施。",
+      "importance": "中",
+      "reason": "Meta在AI基础设施上的巨额投资，属于重大商业动态。",
+      "tags": [
+        "Meta",
+        "数据中心",
+        "AI基础设施",
+        "投资",
+        "税收激励"
+      ],
+      "url": "https://www.ft.com/content/4194d23f-4cce-4aaa-bf22-9bf4c953e04e",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-07-13 10:29:38",
+      "impact_score": 165.0
+    },
+    {
+      "index": 8,
+      "title": "Vinod Khosla and Family Agree to Buy Seattle Seahawks for $9.6 Billion",
+      "summary": "7月13日消息，风险投资家Vinod Khosla及其家族同意以96亿美元收购西雅图海鹰队NFL球队，交易来自微软联合创始人Paul Allen的遗产。",
+      "importance": "低",
+      "reason": "虽涉及知名AI投资人，但交易本身与AI关联度较低，属于一般商业动态。",
+      "tags": [
+        "Vinod Khosla",
+        "收购",
+        "NFL",
+        "西雅图海鹰",
+        "商业"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-07-13/why-ai-might-actually-create-more-work-for-lawyers-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-13 08:14:32",
+      "impact_score": 165.0
+    },
+    {
+      "index": 9,
+      "title": "Raxio to Enter Tanzania With $380 Million Funding Push",
+      "summary": "7月13日消息，非洲数据中心公司Raxio Group计划进入坦桑尼亚市场，并将融资规模扩大至3.8亿美元。",
+      "importance": "低",
+      "reason": "非洲数据中心扩张，与AI基础设施相关，但金额和影响力相对较小。",
+      "tags": [
+        "Raxio",
+        "数据中心",
+        "非洲",
+        "融资",
+        "坦桑尼亚"
+      ],
+      "url": "https://www.cnbc.com/2026/07/13/helsing-fund-raise-defense-18-billion.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-07-13 08:13:46",
+      "impact_score": 165.0
+    }
+  ],
+  "summary": "今日从113条原始信息中精选出12条国内动态和9条国际动态，其中8条为高重要性。 重点关注：文远知行L2++智驾业务加速出海，一段式端到端方案驶向全球；头部人形机器人关节公司半年再获新融资，同创伟业领投数亿元｜硬氪首发；海康威视首次亮相世界人工智能大会，全方位展示观澜大模型技术体系。",
+  "statistics": {
+    "raw_domestic": 37,
+    "raw_international": 76,
+    "raw_total": 113,
+    "final_domestic": 12,
+    "final_international": 9
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "7月13日消息，文远知行首次披露L2++智驾业务出海进展，其自研一段式端到端智能辅助驾驶方案已在德国、法国、日本等国家开展道路测试与适配验证，持续积累全球化场景经验。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "7月13日消息，零差云控完成C++轮融资数亿元，由同创伟业领投、国泰君安创新投资跟投，资金将用于产能扩张和全球市场布局，该公司专注高可靠机器人关键核心零部件。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "7月13日消息，海康威视将首次亮相世界人工智能大会，全方位展示观澜大模型技术体系，展示大模型如何融入软硬件产品并赋能工业、城市治理、智慧交通等场景。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "7月13日消息，字节跳动正探索进入自动驾驶领域，项目由Seed旗下周畅的世界模型团队负责，有意布局无人物流场景，目前项目已进入早期筹备状态。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "7月13日消息，领铄智能完成A轮融资，由中信建投资本与西安财金共同参与，该公司聚焦智能化平台关键技术研发，核心产品包括Blade Agentic OS智能体操作系统等。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "7月13日消息，OpenAI首席执行官Sam Altman与Elon Musk在社交媒体上就苹果公司对OpenAI提起的诉讼展开争论，Altman称Musk因OpenAI本周发布新模型而再次关注他。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "7月13日消息，欧盟司法专员Michael McGrath表示，布鲁塞尔将加强对大型科技公司的社交媒体保护措施，对未能履行消费者保护义务的企业处以罚款。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "7月13日消息，欧洲国防AI初创公司Helsing完成18亿美元融资，估值达180亿美元，投资者需求远超可用份额。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "7月13日消息，Meta Platforms宣布将额外投入400亿美元扩建其路易斯安那州数据中心园区，使该项目的总投资额超过2500亿美元，以扩大人工智能计算能力。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "7月13日消息，韩国存储芯片制造商SK海力士在美上市后股价在首尔下跌，其265亿美元美国发行被视为测试海外需求和AI涨势持久性的重要指标。",
+      "importance": "中"
+    }
+  ]
+}
