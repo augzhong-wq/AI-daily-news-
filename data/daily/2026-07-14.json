@@ -1,0 +1,457 @@
+{
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14 10:02:43",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "人形机器人公司逐际动力完成2亿美元Pre-IPO轮融资，投后估值达150亿元｜最前线",
+      "summary": "7月14日消息，通用人形机器人公司逐际动力完成近2亿美元Pre-IPO轮融资，投后估值达150亿元，资金将用于技术突破和全球市场拓展。",
+      "importance": "高",
+      "reason": "中国公司大额融资，估值达百亿级，属于重大商业动态。",
+      "tags": [
+        "融资",
+        "人形机器人",
+        "Pre-IPO"
+      ],
+      "url": "https://36kr.com/p/3893976502287618?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-14 00:46:41",
+      "impact_score": 435.0
+    },
+    {
+      "index": 2,
+      "title": "阶跃发布大模型原生AI终端品牌STEPX及Step AOS，全球首款大模型原生智能体手机同步亮相",
+      "summary": "7月14日消息，阶跃星辰发布全球首个大模型原生AI终端品牌STEPX和智能体原生操作系统Step AOS，并推出全球首款大模型原生智能体手机STEPX Neo。",
+      "importance": "高",
+      "reason": "中国公司发布全球首款大模型原生智能体手机，属于重大产品发布。",
+      "tags": [
+        "大模型",
+        "AI终端",
+        "智能体手机"
+      ],
+      "url": "https://www.leiphone.com/category/robot/kgzBZPwpqBBLdoed.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-14 03:42:00",
+      "impact_score": 420.0
+    },
+    {
+      "index": 3,
+      "title": "文远知行L2++智驾业务加速出海，一段式端到端方案驶向全球",
+      "summary": "7月14日消息，文远知行首次披露L2++智驾业务出海进展，其一段式端到端智驾方案已在德国、法国、日本等国家开展道路测试与适配验证。",
+      "importance": "高",
+      "reason": "中国自动驾驶公司技术出海，属于重大商业动态。",
+      "tags": [
+        "自动驾驶",
+        "出海",
+        "端到端"
+      ],
+      "url": "https://www.leiphone.com/category/ai/3WyAbXehaodJ80aQ.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-14 00:37:00",
+      "impact_score": 300.0
+    },
+    {
+      "index": 4,
+      "title": "36氪首发 | 前博世自动驾驶算法工程师创业，用合成数据做触觉大模型",
+      "summary": "7月14日消息，空间智能公司大衍科技完成数千万元天使轮融资，由松禾清湛领投，资金将用于触觉大模型研发和机器人数据产线建设。",
+      "importance": "中",
+      "reason": "中国初创公司获得融资，聚焦触觉大模型，属于重要商业动态。",
+      "tags": [
+        "融资",
+        "触觉大模型",
+        "空间智能"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/zEN1JYcVUeuUotRS.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-13 08:07:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 5,
+      "title": "36氪首发 | 浙大系桌面CNC团队获商汤国香、首形科技等近亿元天使轮，要用AI技术降低制造门槛",
+      "summary": "7月14日消息，桌面级CNC企业奇塑科技完成近亿元天使轮融资，由商汤国香等投资，资金将用于桌面级CNC软硬件产品研发和量产。",
+      "importance": "中",
+      "reason": "中国公司获得近亿元融资，结合AI技术，属于重要商业动态。",
+      "tags": [
+        "融资",
+        "CNC",
+        "AI制造"
+      ],
+      "url": "https://www.leiphone.com/category/ai/yqP7gtoJd0BkqQZ7.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-14 04:15:00",
+      "impact_score": 275.0
+    },
+    {
+      "index": 6,
+      "title": "光迅科技：预计上半年净利润同比增长50%-65.15%",
+      "summary": "7月14日消息，光迅科技预计2026年上半年净利润同比增长50%-65.15%，得益于全球AI算力投资和国内数据中心建设需求驱动。",
+      "importance": "中",
+      "reason": "中国公司业绩预增，反映AI算力需求增长，属于重要商业动态。",
+      "tags": [
+        "业绩预增",
+        "AI算力",
+        "光模块"
+      ],
+      "url": "https://36kr.com/p/3894821059918855?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-14 01:38:13",
+      "impact_score": 275.0
+    },
+    {
+      "index": 7,
+      "title": "《智能体个人信息保护自律公约》发布 31家企业共促AI生态规范",
+      "summary": "7月14日消息，腾讯、百度等31家企业签署《智能体个人信息保护自律公约》，填补了智能体领域专项规范空白，引领AI行业生态规范发展。",
+      "importance": "高",
+      "reason": "中国多家头部企业联合发布自律公约，属于重大政策与法规动态。",
+      "tags": [
+        "自律公约",
+        "个人信息保护",
+        "AI生态"
+      ],
+      "url": "https://36kr.com/p/3894729787767810?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-14 00:04:11",
+      "impact_score": 255.0
+    },
+    {
+      "index": 8,
+      "title": "字节探索自动驾驶，Seed世界模型团队负责｜36氪独家",
+      "summary": "7月14日消息，字节跳动正探索进入自动驾驶领域，由Seed旗下世界模型团队负责，有意布局无人物流场景，项目已进入早期筹备状态。",
+      "importance": "高",
+      "reason": "中国科技巨头字节跳动布局自动驾驶，属于重大商业动态。",
+      "tags": [
+        "自动驾驶",
+        "字节跳动",
+        "世界模型"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/KYiuLN1LGjGagBUD.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-13 04:49:00",
+      "impact_score": 255.0
+    },
+    {
+      "index": 9,
+      "title": "高德发布通用世界模型工坊ABot-World Studio：5090单卡可生成小时级实时交互式视频与3D场景",
+      "summary": "7月14日消息，高德发布通用世界模型工坊ABot-World Studio，单卡可生成小时级实时交互式视频与3D场景，降低世界模型应用门槛。",
+      "importance": "中",
+      "reason": "中国公司发布世界模型工具，属于重要产品发布。",
+      "tags": [
+        "世界模型",
+        "高德",
+        "3D场景"
+      ],
+      "url": "https://36kr.com/newsflashes/3895257213762818?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-14 09:00:32",
+      "impact_score": 249.0
+    },
+    {
+      "index": 10,
+      "title": "为智能体重新设计操作系统：全球首个智能体原生操作系统Step AOS发布",
+      "summary": "7月14日消息，阶跃星辰发布全球首个智能体原生操作系统Step AOS，并推出个人智能体阶跃Amoo，构建从模型到终端的完整技术闭环。",
+      "importance": "高",
+      "reason": "中国公司发布全球首个智能体原生操作系统，属于重大产品发布。",
+      "tags": [
+        "智能体操作系统",
+        "阶跃星辰",
+        "AI终端"
+      ],
+      "url": "https://36kr.com/p/3894935854677249?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-14 03:34:12",
+      "impact_score": 230.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "AI lawsuits expose gaps in conventional insurance, says report",
+      "summary": "7月14日消息，报告指出传统保险在AI诉讼中暴露漏洞，从聊天机器人错误到自主代理的转变使企业面临更广泛的法律索赔风险。",
+      "importance": "高",
+      "reason": "涉及AI法律风险与保险行业影响，属于重大政策与法规相关动态",
+      "tags": [
+        "AI法律",
+        "保险",
+        "诉讼"
+      ],
+      "url": "https://www.ft.com/content/8b3e2431-96b5-477e-b5ea-e3baae671b9c",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-07-14 04:00:19",
+      "impact_score": 330.0
+    },
+    {
+      "index": 2,
+      "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
+      "summary": "7月14日消息，埃隆·马斯克与山姆·奥特曼在X平台上发生争执，此前苹果对OpenAI提起诉讼，奥特曼称马斯克因OpenAI模型发布而再次纠缠。",
+      "importance": "高",
+      "reason": "涉及OpenAI与xAI的法律纠纷，属于重大商业动态",
+      "tags": [
+        "OpenAI",
+        "xAI",
+        "诉讼",
+        "马斯克"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-14/india-s-antitrust-body-fines-hp-13-3-million-for-cartelizing",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-14 05:26:33",
+      "impact_score": 315.0
+    },
+    {
+      "index": 3,
+      "title": "OpenAI’s Feud With xAI Carries On as Apple Secrets Fight Revs Up",
+      "summary": "7月14日消息，OpenAI请求法官认定xAI对其提起的商业秘密盗窃诉讼不应立案，并寻求从马斯克公司追回超过100万美元的法律费用。",
+      "importance": "高",
+      "reason": "涉及OpenAI与xAI的法律纠纷，属于重大商业动态",
+      "tags": [
+        "OpenAI",
+        "xAI",
+        "诉讼",
+        "商业秘密"
+      ],
+      "url": "https://www.theinformation.com/briefings/chinese-humanoid-startup-limx-dynamics-closes-pre-ipo-funding-2-2-billion-valuation",
+      "source": "The Information",
+      "original_pub_date": "2026-07-14 00:31:04",
+      "impact_score": 307.5
+    },
+    {
+      "index": 4,
+      "title": "Europe's Anduril rival Helsing raises $1.8 billion at $18 billion valuation",
+      "summary": "7月14日消息，欧洲AI防务公司Helsing完成18亿美元融资，估值达180亿美元，投资者需求远超可用份额。",
+      "importance": "高",
+      "reason": "大额融资（18亿美元），属于重大商业动态",
+      "tags": [
+        "融资",
+        "AI防务",
+        "Helsing"
+      ],
+      "url": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-07-13 15:56:52",
+      "impact_score": 230.0
+    },
+    {
+      "index": 5,
+      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+      "summary": "7月14日消息，苹果对OpenAI提起的商业秘密诉讼中包含惊人指控，如员工开玩笑称未经授权访问苹果系统，以及面试者被要求携带苹果硬件。",
+      "importance": "高",
+      "reason": "涉及苹果与OpenAI的法律纠纷，属于重大商业动态",
+      "tags": [
+        "苹果",
+        "OpenAI",
+        "诉讼",
+        "商业秘密"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-07-13/the-close-7-13-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-13 22:49:47",
+      "impact_score": 225.0
+    },
+    {
+      "index": 6,
+      "title": "SoftBank Billionaire: Nuclear Fusion Is Key to AI Future",
+      "summary": "7月14日消息，软银创始人孙正义表示，核聚变技术将在不久的将来为AI数据中心的巨大能源需求提供最现实的解决方案。",
+      "importance": "中",
+      "reason": "涉及AI能源未来展望，属于重大商业动态",
+      "tags": [
+        "软银",
+        "核聚变",
+        "AI能源"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-07-13/palantir-co-founder-lonsdale-on-the-ai-investment-boom-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-13 18:34:47",
+      "impact_score": 210.0
+    },
+    {
+      "index": 7,
+      "title": "‘Surveillance Chic’: can Meta make its smart glasses a viable fashion accessory?",
+      "summary": "7月14日消息，Meta试图通过与凯莉·詹娜合作将AI眼镜推向更广泛人群，但此举似乎适得其反，引发关于“监控时尚”的争议。",
+      "importance": "中",
+      "reason": "涉及Meta智能眼镜产品与市场策略，属于重大产品发布相关",
+      "tags": [
+        "Meta",
+        "智能眼镜",
+        "合作"
+      ],
+      "url": "https://www.theinformation.com/briefings/states-led-california-nearing-suit-block-paramount-warner-deal",
+      "source": "The Information",
+      "original_pub_date": "2026-07-13 02:23:22",
+      "impact_score": 210.0
+    },
+    {
+      "index": 8,
+      "title": "Nvidia Partner GMI Cloud Seeks $635 Million GPU-Backed Bank Loan",
+      "summary": "7月14日消息，英伟达合作伙伴GMI Cloud寻求6.35亿美元GPU支持贷款，这是亚洲首批此类融资之一，反映AI需求增长。",
+      "importance": "中",
+      "reason": "涉及AI基础设施融资，属于重大商业动态",
+      "tags": [
+        "英伟达",
+        "GPU",
+        "融资"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-14/openai-s-feud-with-xai-carries-on-as-apple-secrets-fight-revs-up",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-14 01:47:15",
+      "impact_score": 180.0
+    },
+    {
+      "index": 9,
+      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+      "summary": "7月14日消息，全球估值最高的AI公司Anthropic发布最新研究，揭示其AI系统的内部机制，但研究结果存在局限性。",
+      "importance": "中",
+      "reason": "涉及Anthropic的AI研究突破，属于重大学术突破",
+      "tags": [
+        "Anthropic",
+        "AI研究",
+        "可解释性"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-07-13/new-mountain-capital-ceo-ai-saaspocalypse-is-overstated-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-13 21:33:56",
+      "impact_score": 180.0
+    },
+    {
+      "index": 10,
+      "title": "Meta’s Louisiana Purchase",
+      "summary": "7月14日消息，Meta宣布向其路易斯安那州数据中心追加400亿美元投资，使其在该设施的总投资达到500亿美元。",
+      "importance": "中",
+      "reason": "涉及Meta大规模AI基础设施投资，属于重大商业动态",
+      "tags": [
+        "Meta",
+        "数据中心",
+        "投资"
+      ],
+      "url": "https://www.ft.com/content/4194d23f-4cce-4aaa-bf22-9bf4c953e04e",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-07-13 10:29:38",
+      "impact_score": 165.0
+    },
+    {
+      "index": 11,
+      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "summary": "7月14日消息，AI视频生成初创公司PixVerse完成4.39亿美元融资，估值突破20亿美元，计划扩展世界模型产品并覆盖更多地区。",
+      "importance": "中",
+      "reason": "大额融资（4.39亿美元），属于重大商业动态",
+      "tags": [
+        "PixVerse",
+        "融资",
+        "视频生成"
+      ],
+      "url": "https://www.cnbc.com/2026/07/13/helsing-fund-raise-defense-18-billion.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-07-13 08:13:46",
+      "impact_score": 165.0
+    },
+    {
+      "index": 12,
+      "title": "Palantir Co-Founder Joe Lonsdale on the AI Investment Boom",
+      "summary": "7月14日消息，Palantir联合创始人乔·朗斯代尔讨论8VC创纪录的15亿美元基金，以及AI投资热潮中初创公司融资规模扩大的趋势。",
+      "importance": "低",
+      "reason": "涉及AI投资趋势讨论，属于一般商业动态",
+      "tags": [
+        "Palantir",
+        "AI投资",
+        "风投"
+      ],
+      "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-07-13 18:22:10",
+      "impact_score": 145.0
+    },
+    {
+      "index": 13,
+      "title": "The Hottest Research Papers From the International Conference on Machine Learning",
+      "summary": "7月14日消息，国际机器学习大会在首尔举行，AI研究人员分享了更高效运行和训练模型的新方法，并讨论了AI自动化可能取代其工作的前景。",
+      "importance": "低",
+      "reason": "涉及学术会议动态，属于一般学术动态",
+      "tags": [
+        "机器学习",
+        "学术会议",
+        "AI研究"
+      ],
+      "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-07-13 17:00:00",
+      "impact_score": 145.0
+    },
+    {
+      "index": 14,
+      "title": "Satya Nadella has issued a shocking warning to companies using AI",
+      "summary": "7月14日消息，微软CEO萨提亚·纳德拉警告称，销售专有模型的AI实验室可能像特洛伊木马一样，给使用AI的公司带来潜在风险。",
+      "importance": "低",
+      "reason": "涉及行业领袖观点，属于一般商业动态",
+      "tags": [
+        "微软",
+        "AI风险",
+        "纳德拉"
+      ],
+      "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-07-13 16:31:23",
+      "impact_score": 145.0
+    }
+  ],
+  "summary": "今日从161条原始信息中精选出10条国内动态和14条国际动态，其中11条为高重要性。 重点关注：人形机器人公司逐际动力完成2亿美元Pre-IPO轮融资，投后估值达150亿元｜最前线；阶跃发布大模型原生AI终端品牌STEPX及Step AOS，全球首款大模型原生智能体手机同步亮相；文远知行L2++智驾业务加速出海，一段式端到端方案驶向全球。",
+  "statistics": {
+    "raw_domestic": 48,
+    "raw_international": 113,
+    "raw_total": 161,
+    "final_domestic": 10,
+    "final_international": 14
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "7月14日消息，通用人形机器人公司逐际动力完成近2亿美元Pre-IPO轮融资，投后估值达150亿元，资金将用于技术突破和全球市场拓展。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "7月14日消息，阶跃星辰发布全球首个大模型原生AI终端品牌STEPX和智能体原生操作系统Step AOS，并推出全球首款大模型原生智能体手机STEPX Neo。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "7月14日消息，文远知行首次披露L2++智驾业务出海进展，其一段式端到端智驾方案已在德国、法国、日本等国家开展道路测试与适配验证。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "7月14日消息，腾讯、百度等31家企业签署《智能体个人信息保护自律公约》，填补了智能体领域专项规范空白，引领AI行业生态规范发展。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "7月14日消息，字节跳动正探索进入自动驾驶领域，由Seed旗下世界模型团队负责，有意布局无人物流场景，项目已进入早期筹备状态。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "7月14日消息，报告指出传统保险在AI诉讼中暴露漏洞，从聊天机器人错误到自主代理的转变使企业面临更广泛的法律索赔风险。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "7月14日消息，埃隆·马斯克与山姆·奥特曼在X平台上发生争执，此前苹果对OpenAI提起诉讼，奥特曼称马斯克因OpenAI模型发布而再次纠缠。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "7月14日消息，OpenAI请求法官认定xAI对其提起的商业秘密盗窃诉讼不应立案，并寻求从马斯克公司追回超过100万美元的法律费用。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "7月14日消息，欧洲AI防务公司Helsing完成18亿美元融资，估值达180亿美元，投资者需求远超可用份额。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "7月14日消息，苹果对OpenAI提起的商业秘密诉讼中包含惊人指控，如员工开玩笑称未经授权访问苹果系统，以及面试者被要求携带苹果硬件。",
+      "importance": "高"
+    }
+  ]
+}
