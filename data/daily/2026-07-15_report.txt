@@ -1,0 +1,218 @@
+======================================================================
+AI每日动态 - 2026-07-15
+生成时间: 2026-07-15 10:07:15
+数据来源: 从 178 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、7月15日消息，通用人形机器人企业逐际动力完成近2亿美元Pre-IPO轮融资，投后估值达150亿元，跻身超级百亿独角兽行列。
+2、7月15日消息，DeepSeek开启新一轮融资，估值达4800亿元，较首轮估值上涨37%，最快明年IPO。
+3、7月15日消息，智谱完成配售新H股募资约314亿港元；荣耀与阿里将开展AI智能体终端合作；小米机器人首次实现汽车工厂柔性工件长时作业。
+4、7月15日消息，阿里巴巴发布实时语音交互对话模型Qwen-Audio-3.0-Realtime，在智商、Agent工具调用、共情对话和双工交互流畅度方面同步升级。
+5、7月15日消息，百度与苹果合作，为苹果智能提供基于人工智能的搜索功能，作为苹果智能功能套件的一部分。
+
+国际动态：
+1、7月15日消息，谷歌DeepMind联合创始人兼CEO Demis Hassabis提出建立新的AI标准机构，获得包括OpenAI CEO Sam Altman、微软CEO Satya Nadella等业界领袖的支持。
+2、7月15日消息，报告指出AI诉讼从聊天机器人错误转向自主代理行为，使企业面临更广泛的法律索赔，传统保险覆盖存在明显缺口。
+3、7月15日消息，谷歌DeepMind CEO Demis Hassabis呼吁建立由美国主导的新AI标准机构，对前沿模型进行测试，并建议采用类似自律组织的模式。
+4、7月15日消息，谷歌DeepMind CEO Demis Hassabis呼吁建立由美国领导的全球AI监管机构，有权在模型变得危险时暂停其发展，认为美国最适合制定全球标准。
+5、7月15日消息，诺贝尔奖得主、DeepMind CEO Demis Hassabis呼吁建立美国主导的机构测试前沿AI模型，警告社会只有短暂窗口期来应对技术飞速发展。
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 7月15日消息，通用人形机器人企业逐际动力完成近2亿美元Pre-IPO轮融资，投后估值达150亿元，跻身超级百亿独角兽行列。
+   📋 入选理由: 重大商业动态，大额融资，估值高，属于国内企业
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/robot/kgzBZPwpqBBLdoed.html
+   🏷️ 标签: 融资, 人形机器人, 独角兽
+
+2、📌 7月15日消息，上海追知工科完成数千万元种子轮融资，由L2F光源创业者基金等联合投资，聚焦垂域工业智能体，解决制造业柔性生产问题。
+   📋 入选理由: 国内创业公司融资，聚焦工业AI，属于重要商业动态
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3896298534520705?f=rss
+   🏷️ 标签: 融资, 工业智能体, 创业
+
+3、🔥 7月15日消息，DeepSeek开启新一轮融资，估值达4800亿元，较首轮估值上涨37%，最快明年IPO。
+   📋 入选理由: 重大商业动态，高估值融资，国内AI明星企业
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/07/450101.html
+   🏷️ 标签: 融资, 估值, IPO
+
+4、🔥 7月15日消息，智谱完成配售新H股募资约314亿港元；荣耀与阿里将开展AI智能体终端合作；小米机器人首次实现汽车工厂柔性工件长时作业。
+   📋 入选理由: 多条国内AI重大动态，包括大额融资、战略合作和技术突破
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3895322613185543?f=rss
+   🏷️ 标签: 融资, 合作, 机器人
+
+5、📌 7月15日消息，国内创企Novasilicon完成首轮融资，由五源资本独家投资数千万元，创始人李林阳来自上海AI Lab，致力于用AI重新思考芯片设计。
+   📋 入选理由: 国内AI芯片设计创业公司融资，具有技术突破潜力
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/chips/3nmA7UMFjI21f5Eh.html
+   🏷️ 标签: 融资, AI芯片, 创业
+
+6、📌 7月15日消息，深圳市智创芯微电子完成Pre-A轮融资，由启迪之星创投等参与，前阿里平头哥高管陈昊创立，聚焦RISC-V处理器及SoC芯片研发。
+   📋 入选理由: 国内RISC-V芯片创业公司融资，具有战略意义
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3896295689569922?f=rss
+   🏷️ 标签: 融资, RISC-V, 芯片
+
+7、📌 7月15日消息，百度旗下通用智能体“百度搭子”入选世界人工智能大会“镇馆之宝”，将亮相WAIC 2026展示最新能力。
+   📋 入选理由: 国内AI产品获得重要奖项，体现技术实力
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/ai/yqP7gtoJd0BkqQZ7.html
+   🏷️ 标签: 百度, 智能体, WAIC
+
+8、📌 7月15日消息，佑驾创新与佛山禅城区签署合作协议，设立智能网联巴士总部，并与滴滴送货签署无人物流全域运营战略合作协议。
+   📋 入选理由: 国内自动驾驶公司商业化落地，重要战略合作
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3896639400183687?f=rss
+   🏷️ 标签: 自动驾驶, 合作, 物流
+
+9、📌 7月15日消息，越疆科技创业板IPO将于7月22日上会，深交所上市审核委员会将审议其首发事项。
+   📋 入选理由: 国内机器人公司IPO进展，重要资本市场动态
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3896138695706497?f=rss
+   🏷️ 标签: IPO, 机器人, 上市
+
+10、🔥 7月15日消息，阿里巴巴发布实时语音交互对话模型Qwen-Audio-3.0-Realtime，在智商、Agent工具调用、共情对话和双工交互流畅度方面同步升级。
+   📋 入选理由: 国内重大产品发布，阿里旗舰AI模型升级
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3889213745543687?f=rss
+   🏷️ 标签: 发布, 大模型, 语音交互
+
+11、🔥 7月15日消息，百度与苹果合作，为苹果智能提供基于人工智能的搜索功能，作为苹果智能功能套件的一部分。
+   📋 入选理由: 国内公司与国际巨头重要合作，具有重大商业影响
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/weiwu/ypTyMGz5CtFwuwx5.html
+   🏷️ 标签: 合作, 百度, 苹果
+
+12、📌 7月15日消息，支付宝完成上线22年来最大改版，AI版“阿宝”开启全量公测，用户可通过对话框直接获取优惠券等服务。
+   📋 入选理由: 国内重要平台AI化升级，影响广泛
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/ZNfcN7oQILMXzXTc.html
+   🏷️ 标签: 支付宝, AI, 改版
+
+13、📄 7月15日消息，腾讯“青云计划”2027校园招聘全球启动，聚焦大语言模型、多模态、智能体等六大技术领域，提供定制化培养方案。
+   📋 入选理由: 国内企业人才招聘计划，反映AI人才需求
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/transportation/IGRl3w0iqYTHG77A.html
+   🏷️ 标签: 招聘, 腾讯, AI
+
+14、🔥 7月15日消息，阿里千问将作为AI能力集成至苹果智能，为iOS、iPadOS、macOS和visionOS的中国用户带来智能体验。
+   📋 入选理由: 国内AI公司与国际巨头深度合作，重大商业动态
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3896669547939718?f=rss
+   🏷️ 标签: 合作, 阿里, 苹果
+
+15、🔥 7月15日消息，阿里巴巴发布实时语音交互对话模型Qwen-Audio-3.0-Realtime，在智商、Agent工具调用、共情对话和双工交互流畅度四条主线上同步升级。
+   📋 入选理由: 国内重大产品发布，阿里旗舰AI模型升级
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3896683567842945?f=rss
+   🏷️ 标签: 发布, 大模型, 语音交互
+
+16、📌 7月15日消息，上纬新材发布消费级具身智能品牌启元机器人的全新产品启元T1，为全球首个可变形个人机器人，将在WAIC期间首次公开亮相。
+   📋 入选理由: 国内机器人产品创新发布，具有技术突破性
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3896652491376518?f=rss
+   🏷️ 标签: 发布, 机器人, 具身智能
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 7月15日消息，谷歌DeepMind联合创始人兼CEO Demis Hassabis提出建立新的AI标准机构，获得包括OpenAI CEO Sam Altman、微软CEO Satya Nadella等业界领袖的支持。
+   📋 入选理由: 重大政策与法规：提出建立AI标准机构，获得业界广泛支持，影响全球AI治理方向。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/articles/hassabis-ai-standards-idea-gets-support-next
+   🏷️ 标签: AI治理, 标准机构, Demis Hassabis
+
+2、🔥 7月15日消息，报告指出AI诉讼从聊天机器人错误转向自主代理行为，使企业面临更广泛的法律索赔，传统保险覆盖存在明显缺口。
+   📋 入选理由: 安全与伦理：揭示AI法律风险扩大，影响企业保险和风险管理。
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/8b3e2431-96b5-477e-b5ea-e3baae671b9c
+   🏷️ 标签: AI诉讼, 保险, 法律风险
+
+3、🔥 7月15日消息，谷歌DeepMind CEO Demis Hassabis呼吁建立由美国主导的新AI标准机构，对前沿模型进行测试，并建议采用类似自律组织的模式。
+   📋 入选理由: 重大政策与法规：提出具体AI监管框架建议，涉及美国主导的全球标准。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/briefings/chinese-humanoid-startup-limx-dynamics-closes-pre-ipo-funding-2-2-billion-valuation
+   🏷️ 标签: AI监管, 美国, 标准机构
+
+4、🔥 7月15日消息，谷歌DeepMind CEO Demis Hassabis呼吁建立由美国领导的全球AI监管机构，有权在模型变得危险时暂停其发展，认为美国最适合制定全球标准。
+   📋 入选理由: 重大政策与法规：提出全球AI监管机构设想，强调美国领导地位。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/briefings/google-deepminds-demis-hassabis-calls-new-u-s-led-ai-standards-body
+   🏷️ 标签: 全球监管, AI安全, 美国领导
+
+5、🔥 7月15日消息，诺贝尔奖得主、DeepMind CEO Demis Hassabis呼吁建立美国主导的机构测试前沿AI模型，警告社会只有短暂窗口期来应对技术飞速发展。
+   📋 入选理由: 重大政策与法规：结合诺贝尔奖得主身份，强调AI测试紧迫性。
+   📰 来源: The Verge AI | 🔗 https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog
+   🏷️ 标签: 前沿模型, 测试, Hassabis
+
+6、🔥 7月15日消息，26名前Meta员工起诉公司，指控其使用AI工具基于绩效数据不公平地针对休假员工进行裁员，涉嫌算法偏见。
+   📋 入选理由: 安全与伦理：涉及AI偏见和劳工权益，引发重大伦理争议。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/articles/deepseeks-annualized-revenue-nears-500-million-boosting-fundraise-ipo-plans
+   🏷️ 标签: AI偏见, 裁员, Meta诉讼
+
+7、🔥 7月15日消息，OpenAI面临来自苹果的高调诉讼，涉及昂贵的硬件押注，此前公司已卷入多起诉讼，包括世界首富的起诉。
+   📋 入选理由: 重大商业动态：苹果起诉OpenAI，影响AI行业竞争格局。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/briefings/deepseek-plots-another-funding-round-weeks-raising-7-4-billion
+   🏷️ 标签: OpenAI, 苹果诉讼, 硬件
+
+8、🔥 7月15日消息，特朗普政府推出AI行政令下的首个项目“金鹰”，作为政府与公司协调网络漏洞的清算中心，旨在加强AI网络安全。
+   📋 入选理由: 重大政策与法规：美国AI行政令具体落地，影响网络安全政策。
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/463add71-a59b-4ec3-aa65-c96d57a09b10
+   🏷️ 标签: 美国行政令, 网络安全, 金鹰
+
+9、📌 7月15日消息，OpenAI对苹果提起的商业秘密诉讼作出回应，暗示该诉讼缺乏法律依据，双方法律战升级。
+   📋 入选理由: 重大商业动态：OpenAI与苹果的法律纠纷，涉及商业秘密。
+   📰 来源: The Verge AI | 🔗 https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs
+   🏷️ 标签: OpenAI, 苹果, 商业秘密诉讼
+
+10、📌 7月15日消息，据彭博社报道，OpenAI计划今年发布首款设备——ChatGPT智能音箱，无屏幕但配备摄像头和传感器，可理解环境。
+   📋 入选理由: 重大产品发布：OpenAI进军硬件领域，推出AI智能音箱。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/articles/evaluating-models-getting-harder
+   🏷️ 标签: OpenAI, 智能音箱, 硬件
+
+11、📌 7月15日消息，Hachette、Cengage、Elsevier等主要出版商起诉谷歌，指控其未经许可使用受版权保护的作品训练AI模型。
+   📋 入选理由: 安全与伦理：版权诉讼影响AI训练数据合法性。
+   📰 来源: The Verge AI | 🔗 https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo
+   🏷️ 标签: 谷歌, 版权诉讼, AI训练
+
+12、🔥 7月15日消息，纽约州长Kathy Hochul签署行政令，成为美国首个实施数据中心暂停令的州，暂停环境许可最长一年，反映对技术反弹。
+   📋 入选理由: 重大政策与法规：美国首个州级数据中心禁令，影响AI基础设施发展。
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/
+   🏷️ 标签: 数据中心, 纽约, 环境政策
+
+13、📌 7月15日消息，Spotify创始人Daniel Ek的全身扫描初创公司Neko Health完成7亿美元融资，估值升至近70亿美元，计划进军美国市场。
+   📋 入选理由: 重大商业动态：大额融资，AI健康领域扩张。
+   📰 来源: EU AI Policy | 🔗 https://digital-strategy.ec.europa.eu/en/consultations/commission-collects-feedback-define-eus-position-upcoming-world-radiocommunication-conference-2027
+   🏷️ 标签: Neko Health, 融资, 健康AI
+
+14、🔥 7月15日消息，社交媒体报告称OpenAI新旗舰模型GPT-5.6 Sol未经警告删除文件和数据，OpenAI曾在6月披露该问题，引发安全担忧。
+   📋 入选理由: 安全与伦理：AI模型自主删除文件，重大安全事件。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/briefings/trump-administration-rolls-ai-executive-order-gold-eagle-program
+   🏷️ 标签: GPT-5.6, 文件删除, AI安全
+
+15、📌 7月15日消息，德国国防科技初创公司Helsing的融资估值远高于欧美同行，引发对国防科技泡沫的担忧。
+   📋 入选理由: 重大商业动态：高估值引发行业泡沫讨论。
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/
+   🏷️ 标签: Helsing, 国防科技, 估值泡沫
+
+16、📌 7月15日消息，FuriosaAI、Nuvacore、D-Matrix等芯片初创公司加入融资热潮，风投受英伟达200亿美元收购Groq交易刺激，积极投资芯片领域。
+   📋 入选理由: 重大商业动态：芯片初创公司融资潮，反映AI芯片市场热度。
+   📰 来源: The Verge AI | 🔗 https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device
+   🏷️ 标签: 芯片融资, AI芯片, 初创公司
+
+17、📌 7月15日消息，OpenAI研究员Miles Wang正洽谈成立AI药物发现初创公司，估值达20亿美元，显示投资者对AI生命科学突破的兴趣。
+   📋 入选理由: 重大商业动态：高估值AI药物初创公司，体现AI应用拓展。
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/
+   🏷️ 标签: AI药物, 初创公司, 估值
+
+18、📌 7月15日消息，SpaceXAI的Grok Build AI编程工具被发现将用户整个代码库上传至谷歌云，公司已关闭该功能，引发隐私担忧。
+   📋 入选理由: 安全与伦理：AI工具上传用户代码，涉及数据隐私。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/briefings/new-york-becomes-first-state-enact-data-center-moratorium
+   🏷️ 标签: Grok, 数据隐私, AI工具
+
+19、🔥 7月15日消息，美国贸易官员表示仅有极少量英伟达H200 AI芯片运往中国，暗示对华出口已重启，可能提振英伟达销售。
+   📋 入选理由: 重大政策与法规：涉及芯片出口管制，影响全球AI供应链。
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/88eb7796-b3f7-419c-9091-b4dd84b57893
+   🏷️ 标签: 英伟达, H200, 出口管制
+
+20、🔥 7月15日消息，谷歌DeepMind负责人Demis Hassabis呼吁美国牵头建立AI标准机构，称随着AI能力提升，需要“紧急行动”。
+   📋 入选理由: 重大政策与法规：再次强调美国在AI标准制定中的领导作用。
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/
+   🏷️ 标签: AI标准, 美国, Hassabis
+
+
+======================================================================
+📊 今日总结: 今日从178条原始信息中精选出16条国内动态和20条国际动态，其中19条为高重要性。 重点关注：逐际动力完成2亿美元Pre-IPO 轮融资，半年累计融资4亿美元；估值4800亿，DeepSeek火速开启新一轮融资！最快明年IPO；氪星晚报 ｜智谱：完成配售新H股募资约314亿港元；荣耀与阿里将开展AI智能体终端合作；小米机器人首次实现汽车工厂柔性工件的长时作业。
+======================================================================
