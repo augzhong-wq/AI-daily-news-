@@ -1,0 +1,614 @@
+{
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17 10:02:42",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "36氪首发 | 这家人形机器人ODM厂商获千万融资，飞荣达、索辰科技接连下注",
+      "summary": "7月17日消息，人形机器人ODM方案商半醒具身完成千万元级新一轮融资，由A股上市公司索辰科技投资，资金将用于下一代人形机器人研发及海外市场拓展。",
+      "importance": "中",
+      "reason": "中国公司半醒具身获得融资，属于国内商业动态。",
+      "tags": [
+        "融资",
+        "人形机器人",
+        "ODM"
+      ],
+      "url": "https://36kr.com/p/3899057634363266?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-17 01:26:47",
+      "impact_score": 327.5
+    },
+    {
+      "index": 2,
+      "title": "Moonix AI 眼镜标准版 7 月 17 日全球同步发售，主打 14.9 克轻量化设计",
+      "summary": "7月17日消息，中国AI穿戴硬件品牌Moonix正式全球同步发售首款AI眼镜标准版，主打14.9克轻量化设计，定价2299元起，标志AI眼镜走向大众消费市场。",
+      "importance": "中",
+      "reason": "中国公司Moonix发布AI眼镜产品，属于国内产品发布动态。",
+      "tags": [
+        "发布",
+        "AI眼镜",
+        "轻量化"
+      ],
+      "url": "https://36kr.com/newsflashes/3899513390368642?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-17 09:10:09",
+      "impact_score": 307.5
+    },
+    {
+      "index": 3,
+      "title": "不改造门店机器人直接上岗，蚂蚁灵波智慧药房获WAIC 2026“镇馆之宝”",
+      "summary": "7月17日消息，蚂蚁集团旗下具身智能公司蚂蚁灵波携手国大药房打造的机器人智慧药房获WAIC 2026“镇馆之宝”，以“通用大脑”驱动不同品牌机器人，无需改造门店。",
+      "importance": "中",
+      "reason": "中国公司蚂蚁集团旗下产品获得WAIC奖项，属于国内技术突破动态。",
+      "tags": [
+        "具身智能",
+        "智慧药房",
+        "WAIC"
+      ],
+      "url": "https://www.leiphone.com/category/weiwu/FjYVgX5VSuvkTEib.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-17 02:56:00",
+      "impact_score": 300.0
+    },
+    {
+      "index": 4,
+      "title": "独家 | 智谱 ARR 达到10 亿美元，半年增长 15 倍",
+      "summary": "7月17日消息，中国大模型公司智谱截至2026年7月ARR达到10亿美元，半年增长15倍，成为国内AI造血能力最强的公司之一。",
+      "importance": "高",
+      "reason": "中国AI公司智谱实现重大商业里程碑，属于国内重大商业动态。",
+      "tags": [
+        "ARR",
+        "大模型",
+        "商业增长"
+      ],
+      "url": "https://36kr.com/newsflashes/3899550016259976?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-17 09:47:24",
+      "impact_score": 275.0
+    },
+    {
+      "index": 5,
+      "title": "高德问店正式发布",
+      "summary": "7月17日消息，阿里巴巴旗下高德云图发布高德问店产品，整合出行、位置和商业经营能力，通过自然语言交互为商户提供选址到经营决策支持。",
+      "importance": "中",
+      "reason": "中国公司阿里巴巴旗下高德发布AI产品，属于国内产品发布动态。",
+      "tags": [
+        "发布",
+        "AI",
+        "商业决策"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/tA7cOaKzZYIzZTd1.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-16 05:56:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 6,
+      "title": "36氪首发 | 前蔚来、华为智驾核心成员联手创业具身世界模型，三个月内完成数亿元融资",
+      "summary": "7月17日消息，具身智能世界模型公司日冕开物完成连续两轮种子轮融资，合计数亿元，由鼎峰科创、百度风投等投资，资金用于世界模型LaMPA研发。",
+      "importance": "中",
+      "reason": "中国初创公司日冕开物获得大额融资，属于国内商业动态。",
+      "tags": [
+        "融资",
+        "具身智能",
+        "世界模型"
+      ],
+      "url": "https://36kr.com/p/3898662052693894?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-17 01:05:04",
+      "impact_score": 260.0
+    },
+    {
+      "index": 7,
+      "title": "36氪首发 | 港科大博士创业做机器人全身触觉系统，红杉、瓴智、智元共同押注",
+      "summary": "7月17日消息，全身触觉解决方案公司模感科技完成数千万元天使轮融资，由红杉中国、高瓴创投及智元机器人投资，资金用于研发和量产测试。",
+      "importance": "中",
+      "reason": "中国公司模感科技获得知名机构融资，属于国内商业动态。",
+      "tags": [
+        "融资",
+        "触觉系统",
+        "机器人"
+      ],
+      "url": "https://36kr.com/newsflashes/3899538479253381?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-17 09:35:40",
+      "impact_score": 249.0
+    },
+    {
+      "index": 8,
+      "title": "WAIC 2026探营：蚂蚁集团展示面向智能体商业的三层布局",
+      "summary": "7月17日消息，蚂蚁集团在WAIC 2026展示面向智能体商业的三层AI布局，包括AI应用、智能体商业生态和技术基座，推动AI从对话走向服务与交易。",
+      "importance": "中",
+      "reason": "中国公司蚂蚁集团在WAIC展示AI战略布局，属于国内技术动态。",
+      "tags": [
+        "WAIC",
+        "智能体",
+        "蚂蚁集团"
+      ],
+      "url": "https://36kr.com/p/3899081603483525?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-17 01:52:16",
+      "impact_score": 245.0
+    },
+    {
+      "index": 9,
+      "title": "国产大芯片厂商“必修课”：从云豹智能看DPU赛道现实考题",
+      "summary": "7月17日消息，国产DPU厂商云豹智能向深交所递交创业板IPO申请，成为“国产DPU第一股”，但连续三年亏损且营收依赖单一大客户引发市场争议。",
+      "importance": "中",
+      "reason": "中国芯片公司云豹智能申请IPO，属于国内商业动态。",
+      "tags": [
+        "IPO",
+        "DPU",
+        "芯片"
+      ],
+      "url": "https://36kr.com/newsflashes/3899526806980484?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-17 09:23:47",
+      "impact_score": 234.0
+    },
+    {
+      "index": 10,
+      "title": "2026世界人工智能大会聚焦AI治理，奇安信展示AI+安全双轮驱动布局",
+      "summary": "7月17日消息，奇安信在WAIC 2026展示AI安全产品，聚焦大模型和智能体应用带来的新型安全风险，参与全球AI治理讨论。",
+      "importance": "中",
+      "reason": "中国公司奇安信在WAIC展示AI安全能力，属于国内安全动态。",
+      "tags": [
+        "AI安全",
+        "WAIC",
+        "奇安信"
+      ],
+      "url": "https://36kr.com/p/3899128277452681?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-17 02:39:17",
+      "impact_score": 215.0
+    },
+    {
+      "index": 11,
+      "title": "不追制程、不靠HBM、不复制GPU，东方算芯首颗AI芯片有哪些新招数",
+      "summary": "7月17日消息，国产AI芯片公司东方算芯发布国内首颗软件定义近存计算3D AI芯片DF1000，采用全国产供应链完成工程验证，探索推理时代新路径。",
+      "importance": "中",
+      "reason": "中国公司东方算芯发布国产AI芯片，属于国内产品发布动态。",
+      "tags": [
+        "发布",
+        "AI芯片",
+        "国产化"
+      ],
+      "url": "https://36kr.com/newsflashes/3899519661361030?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-17 09:16:31",
+      "impact_score": 210.0
+    },
+    {
+      "index": 12,
+      "title": "给机器人造一座「数据工厂」，小米 Robotics-U0 如何破解具身智能最难的一道题？",
+      "summary": "7月17日消息，小米Robotics-U0团队研发机器人数据工厂，通过人类示范和记录数据训练机器人，解决具身智能数据瓶颈问题。",
+      "importance": "中",
+      "reason": "中国公司小米在机器人数据领域取得进展，属于国内技术动态。",
+      "tags": [
+        "机器人",
+        "数据工厂",
+        "小米"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/ZdWJuL7Ip26NbIY5.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-17 07:16:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 13,
+      "title": "穿越无人之海：斯年智驾驶出港口，奔向万里通途",
+      "summary": "7月17日消息，港口无人驾驶公司斯年智驾完成3亿元C轮融资，由兴证资本、颐道资本投资，资金用于新一代车规级自动驾驶方案研发。",
+      "importance": "中",
+      "reason": "中国公司斯年智驾获得大额融资，属于国内商业动态。",
+      "tags": [
+        "融资",
+        "自动驾驶",
+        "港口"
+      ],
+      "url": "https://www.leiphone.com/category/chips/lxIbicm9WU6RU1Qe.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-16 07:45:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 14,
+      "title": "科氪 | 中国联通携华为发布全球最大规模 5G-A百兆大上行网络",
+      "summary": "7月17日消息，中国联通北京分公司携华为发布全球最大规模5G-A大上行商用网络，在北京全域实现百兆上行连续覆盖，基站数超10000。",
+      "importance": "中",
+      "reason": "中国公司中国联通和华为联合发布5G-A网络，属于国内产品发布动态。",
+      "tags": [
+        "发布",
+        "5G-A",
+        "华为"
+      ],
+      "url": "https://www.leiphone.com/category/private/XjLhqoCs0fFsyEIN.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-16 07:32:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 15,
+      "title": "科大讯飞发布GuideX",
+      "summary": "7月17日消息，科大讯飞在WAIC 2026发布智能交互服务Agent GuideX，融合全模态感知、自治理Agent等能力，打通服务全链路。",
+      "importance": "中",
+      "reason": "中国公司科大讯飞发布AI产品，属于国内产品发布动态。",
+      "tags": [
+        "发布",
+        "智能交互",
+        "科大讯飞"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/lxXkqwf4vc9J3opM.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-16 06:29:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 16,
+      "title": "工业母机进入“计算化时刻”：中国移动投资友机技术，押注工业AI下一代基础设施",
+      "summary": "7月17日消息，中国移动投资工业AI公司友机技术，押注工业母机计算化转型，推动工业AI基础设施建设。",
+      "importance": "中",
+      "reason": "中国公司中国移动投资工业AI，属于国内商业动态。",
+      "tags": [
+        "投资",
+        "工业AI",
+        "中国移动"
+      ],
+      "url": "https://www.leiphone.com/category/chips/Y7ghB3uOJbHaNTyi.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-17 02:24:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 17,
+      "title": "行业首个！中国一汽大模型入驻阿里云百炼，面向全行业开放",
+      "summary": "7月17日消息，中国一汽基于千问自主研发的行业大模型入驻阿里云百炼平台，面向全行业开放，成为业内首个商业化服务的汽车行业大模型。",
+      "importance": "中",
+      "reason": "中国公司中国一汽和阿里云合作开放行业大模型，属于国内产品发布动态。",
+      "tags": [
+        "发布",
+        "大模型",
+        "汽车行业"
+      ],
+      "url": "https://www.leiphone.com/category/robot/2m3jnMIPtYerJ6UR.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-16 02:53:00",
+      "impact_score": 180.0
+    },
+    {
+      "index": 18,
+      "title": "阶跃与支付宝达成AI Agent系统级合作",
+      "summary": "7月17日消息，支付宝与阶跃在WAIC 2026达成AI Agent系统级合作，用户通过自然语言调用AI版支付宝“阿宝”实现跨应用多任务执行。",
+      "importance": "中",
+      "reason": "中国公司支付宝和阶跃达成合作，属于国内商业动态。",
+      "tags": [
+        "合作",
+        "AI Agent",
+        "支付宝"
+      ],
+      "url": "https://www.leiphone.com/category/transportation/ZNhRb9vxyX6mGHZp.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-16 03:43:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 19,
+      "title": "九州一轨：拟取得通用半导体6.47%股权，深入半导体高端制造领域",
+      "summary": "7月17日消息，九州一轨拟以6998.96万元认购通用半导体新增注册资本，取得约6.47%股权，深入半导体高端制造领域，优化工业AI产业布局。",
+      "importance": "低",
+      "reason": "中国公司九州一轨投资半导体公司，属于国内商业动态，但AI关联度较低。",
+      "tags": [
+        "投资",
+        "半导体",
+        "工业AI"
+      ],
+      "url": "https://36kr.com/p/3899398088509319?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-17 07:13:05",
+      "impact_score": 147.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "DeepMind CEO to Lobby Washington on Plan for Group to Vet AI Models",
+      "summary": "7月17日消息，谷歌DeepMind首席执行官Demis Hassabis向华盛顿游说，提议成立一个国际监管机构，在发布前沿AI模型前进行严格测试和审查。",
+      "importance": "高",
+      "reason": "重大政策与法规：涉及国际AI监管提案，影响全球AI治理格局。",
+      "tags": [
+        "AI监管",
+        "DeepMind",
+        "国际组织"
+      ],
+      "url": "https://www.theinformation.com/articles/uber-big-deal-netflixs-growth-slows",
+      "source": "The Information",
+      "original_pub_date": "2026-07-17 00:01:22",
+      "impact_score": 322.5
+    },
+    {
+      "index": 2,
+      "title": "DeepMind CEO Rallies Support for International Group to Vet AI Models",
+      "summary": "7月17日消息，谷歌DeepMind首席执行官Demis Hassabis计划与美国政策制定者会面，为其提出的国际AI模型审查组织争取支持。",
+      "importance": "高",
+      "reason": "重大政策与法规：与上一条新闻互补，强调政策推动进程。",
+      "tags": [
+        "AI监管",
+        "DeepMind",
+        "政策游说"
+      ],
+      "url": "https://arxiv.org/abs/2607.13548",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-07-17 04:00:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 3,
+      "title": "Commission accepts X’s action plan to comply with Digital Services Act",
+      "summary": "7月17日消息，欧盟委员会接受了X平台提出的行动计划，以遵守《数字服务法》的透明度义务和研究人员数据访问要求。",
+      "importance": "高",
+      "reason": "重大政策与法规：欧盟对大型科技平台执行数字监管，影响AI内容治理。",
+      "tags": [
+        "欧盟",
+        "数字服务法",
+        "平台监管"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-16/deepmind-ceo-to-lobby-washington-on-plan-for-group-to-vet-ai-models",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-16 20:17:36",
+      "impact_score": 262.5
+    },
+    {
+      "index": 4,
+      "title": "Google ordered to open Android and Search to rivals in Europe",
+      "summary": "7月17日消息，欧盟命令谷歌向竞争对手开放Android和搜索的关键部分，以遵守数字反垄断规则，可能削弱谷歌对AI助手和搜索引擎的控制。",
+      "importance": "高",
+      "reason": "重大政策与法规：欧盟反垄断裁决直接影响谷歌AI生态和搜索市场。",
+      "tags": [
+        "反垄断",
+        "谷歌",
+        "欧盟"
+      ],
+      "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-07-16 14:40:00",
+      "impact_score": 251.0
+    },
+    {
+      "index": 5,
+      "title": "Nvidia unveils new AI model and expands Japan’s physical AI ecosystem",
+      "summary": "7月17日消息，英伟达发布新AI模型Cosmos 3 Edge，并宣布扩大其在日本的物理AI生态系统，推动机器人等应用发展。",
+      "importance": "高",
+      "reason": "重大产品发布：英伟达发布新AI模型，拓展物理AI领域。",
+      "tags": [
+        "英伟达",
+        "AI模型",
+        "物理AI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-16/cxmt-s-blockbuster-ipo-212-times-covered-for-retail-investors",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-16 11:52:25",
+      "impact_score": 240.0
+    },
+    {
+      "index": 6,
+      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+      "summary": "7月17日消息，OpenAI推出名为GPT-Red的LLM超级黑客，用于测试和提升自身模型的安全性，作为对抗性训练伙伴。",
+      "importance": "高",
+      "reason": "重大产品发布：OpenAI发布安全测试工具，提升AI模型安全性。",
+      "tags": [
+        "OpenAI",
+        "安全",
+        "LLM"
+      ],
+      "url": "https://www.theinformation.com/articles/stripes-paypal-bid-puts-payments-firm-play-musk-jump",
+      "source": "The Information",
+      "original_pub_date": "2026-07-16 00:01:28",
+      "impact_score": 240.0
+    },
+    {
+      "index": 7,
+      "title": "Nvidia-backed Fireworks hits $17.5 billion valuation as companies pursue cheaper AI models",
+      "summary": "7月17日消息，英伟达支持的AI初创公司Fireworks估值达到175亿美元，因其提供低成本AI模型而获得市场青睐。",
+      "importance": "中",
+      "reason": "重大商业动态：高估值融资，反映低成本AI模型趋势。",
+      "tags": [
+        "英伟达",
+        "融资",
+        "AI模型"
+      ],
+      "url": "https://www.theinformation.com/articles/m-buzz-centers-data-software-startups",
+      "source": "The Information",
+      "original_pub_date": "2026-07-16 23:31:05",
+      "impact_score": 225.0
+    },
+    {
+      "index": 8,
+      "title": "Exclusive: Humanoid, UK-Based Robot Maker, Becomes a Unicorn",
+      "summary": "7月17日消息，英国人形机器人公司Humanoid完成1.5亿美元A轮融资，估值达12亿美元，成为新晋独角兽。",
+      "importance": "中",
+      "reason": "重大商业动态：机器人领域重要融资，估值达独角兽级别。",
+      "tags": [
+        "人形机器人",
+        "融资",
+        "独角兽"
+      ],
+      "url": "https://www.theinformation.com/articles/160-enterprise-software-startups-sale-year",
+      "source": "The Information",
+      "original_pub_date": "2026-07-16 13:02:24",
+      "impact_score": 225.0
+    },
+    {
+      "index": 9,
+      "title": "Nuclear Startup Valar Atomics in Talks for $6 Billion Valuation After Power Milestone",
+      "summary": "7月17日消息，核能初创公司Valar Atomics正洽谈以约50亿美元估值融资10亿美元，其小型核反应堆旨在为数据中心供电。",
+      "importance": "中",
+      "reason": "重大商业动态：AI数据中心能源需求推动核能初创高估值融资。",
+      "tags": [
+        "核能",
+        "数据中心",
+        "融资"
+      ],
+      "url": "https://www.theinformation.com/briefings/china-memory-chipmaker-cxmt-seeks-8-6-billion-shanghai-ipo",
+      "source": "The Information",
+      "original_pub_date": "2026-07-17 09:22:17",
+      "impact_score": 210.0
+    },
+    {
+      "index": 10,
+      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+      "summary": "7月17日消息，Roblox在其移动应用中推出AI驱动的游戏创建功能，用户可通过文本提示生成基础游戏。",
+      "importance": "中",
+      "reason": "重大产品发布：AI赋能游戏创作，降低用户门槛。",
+      "tags": [
+        "Roblox",
+        "AI",
+        "游戏"
+      ],
+      "url": "https://www.theinformation.com/articles/nuclear-startup-valar-atomics-talks-6-billion-valuation-power-milestone",
+      "source": "The Information",
+      "original_pub_date": "2026-07-17 00:18:15",
+      "impact_score": 210.0
+    },
+    {
+      "index": 11,
+      "title": "A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War",
+      "summary": "7月17日消息，由埃里克·特朗普支持的人形机器人公司Foundation Future Industries正探索将机器人用于军事用途。",
+      "importance": "中",
+      "reason": "安全与伦理：AI机器人军事化引发伦理争议。",
+      "tags": [
+        "人形机器人",
+        "军事",
+        "伦理"
+      ],
+      "url": "https://arxiv.org/abs/2607.13344",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-07-17 04:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 12,
+      "title": "How Far Can Root Cause Analysis Go on Real-World Telemetry Data?",
+      "summary": "7月17日消息，arXiv发布OpenRCA数据集研究，探索利用大语言模型对微服务故障进行根因分析，挑战传统方法。",
+      "importance": "低",
+      "reason": "重大学术突破：AI在运维领域的学术研究，但影响力有限。",
+      "tags": [
+        "学术",
+        "根因分析",
+        "LLM"
+      ],
+      "url": "https://www.cnbc.com/2026/07/16/nvidia-reveals-new-ai-model-and-expands-japans-physical-ai-ecosystem.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-07-16 16:08:29",
+      "impact_score": 195.0
+    },
+    {
+      "index": 13,
+      "title": "EZSMT Version 3, Matured",
+      "summary": "7月17日消息，arXiv发布EZSMT 3.0版本，改进约束答案集编程与SMT的结合，提升复杂组合搜索的推理能力。",
+      "importance": "低",
+      "reason": "重大学术突破：AI推理领域的技术改进，但非主流热点。",
+      "tags": [
+        "学术",
+        "推理",
+        "SMT"
+      ],
+      "url": "https://www.theinformation.com/briefings/uber-buy-germanys-delivery-hero-around-14-billion",
+      "source": "The Information",
+      "original_pub_date": "2026-07-16 12:42:26",
+      "impact_score": 195.0
+    },
+    {
+      "index": 14,
+      "title": "Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL",
+      "summary": "7月17日消息，arXiv发表论文提出基于Belnap类型化内涵一阶逻辑的概率扩展，用于神经符号AGI机器人。",
+      "importance": "低",
+      "reason": "重大学术突破：AGI理论探索，但偏学术且影响力有限。",
+      "tags": [
+        "学术",
+        "AGI",
+        "神经符号"
+      ],
+      "url": "https://arxiv.org/abs/2607.13073",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-07-17 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 15,
+      "title": "Multi-Agent Collaborative Reasoning with Tool-Augmented Evidence for Urban Region Profiling",
+      "summary": "7月17日消息，arXiv发表研究提出多智能体协作推理框架，利用工具增强证据进行城市区域画像分析。",
+      "importance": "低",
+      "reason": "重大学术突破：AI在城市计算中的应用研究。",
+      "tags": [
+        "学术",
+        "多智能体",
+        "城市计算"
+      ],
+      "url": "https://www.bloomberg.com/news/newsletters/2026-07-16/deepmind-ceo-rallies-support-for-international-group-to-vet-ai-models",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-16 20:13:40",
+      "impact_score": 180.0
+    }
+  ],
+  "summary": "今日从179条原始信息中精选出19条国内动态和15条国际动态，其中7条为高重要性。 重点关注：独家 | 智谱 ARR 达到10 亿美元，半年增长 15 倍；DeepMind CEO to Lobby Washington on Plan for Group to Vet AI Models；DeepMind CEO Rallies Support for International Group to Vet AI Models。",
+  "statistics": {
+    "raw_domestic": 47,
+    "raw_international": 132,
+    "raw_total": 179,
+    "final_domestic": 19,
+    "final_international": 15
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "7月17日消息，中国大模型公司智谱截至2026年7月ARR达到10亿美元，半年增长15倍，成为国内AI造血能力最强的公司之一。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "7月17日消息，人形机器人ODM方案商半醒具身完成千万元级新一轮融资，由A股上市公司索辰科技投资，资金将用于下一代人形机器人研发及海外市场拓展。",
+      "importance": "中"
+    },
+    {
+      "index": 3,
+      "summary": "7月17日消息，中国AI穿戴硬件品牌Moonix正式全球同步发售首款AI眼镜标准版，主打14.9克轻量化设计，定价2299元起，标志AI眼镜走向大众消费市场。",
+      "importance": "中"
+    },
+    {
+      "index": 4,
+      "summary": "7月17日消息，蚂蚁集团旗下具身智能公司蚂蚁灵波携手国大药房打造的机器人智慧药房获WAIC 2026“镇馆之宝”，以“通用大脑”驱动不同品牌机器人，无需改造门店。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "7月17日消息，阿里巴巴旗下高德云图发布高德问店产品，整合出行、位置和商业经营能力，通过自然语言交互为商户提供选址到经营决策支持。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "7月17日消息，谷歌DeepMind首席执行官Demis Hassabis向华盛顿游说，提议成立一个国际监管机构，在发布前沿AI模型前进行严格测试和审查。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "7月17日消息，谷歌DeepMind首席执行官Demis Hassabis计划与美国政策制定者会面，为其提出的国际AI模型审查组织争取支持。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "7月17日消息，欧盟委员会接受了X平台提出的行动计划，以遵守《数字服务法》的透明度义务和研究人员数据访问要求。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "7月17日消息，欧盟命令谷歌向竞争对手开放Android和搜索的关键部分，以遵守数字反垄断规则，可能削弱谷歌对AI助手和搜索引擎的控制。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "7月17日消息，英伟达发布新AI模型Cosmos 3 Edge，并宣布扩大其在日本的物理AI生态系统，推动机器人等应用发展。",
+      "importance": "高"
+    }
+  ]
+}
