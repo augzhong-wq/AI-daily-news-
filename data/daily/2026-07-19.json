@@ -1,0 +1,517 @@
+{
+  "date": "2026-07-19",
+  "generated_at": "2026-07-19 09:55:26",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "阿里最新一代大模型千问3.8将至，正式版预计近期开源",
+      "summary": "7月19日消息，阿里发布最新一代大模型千问3.8预览版，正式版将于近期开源，用户可提前体验新模型能力。",
+      "importance": "高",
+      "reason": "中国公司阿里发布重大AI模型产品，属于国内动态中的重大产品发布。",
+      "tags": [
+        "大模型",
+        "发布",
+        "开源"
+      ],
+      "url": "https://36kr.com/p/3900449325287305?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-18 01:05:45",
+      "impact_score": 411.0
+    },
+    {
+      "index": 2,
+      "title": "一目科技完成超10亿元E轮融资 估值过百亿元",
+      "summary": "7月19日消息，一目科技完成超10亿元E轮融资，估值突破100亿元，资金将用于具身智能触觉感知技术研发和规模化量产。",
+      "importance": "高",
+      "reason": "中国公司一目科技完成大额融资，属于国内动态中的重大商业动态。",
+      "tags": [
+        "融资",
+        "百亿",
+        "估值"
+      ],
+      "url": "https://36kr.com/newsflashes/3902296634050437?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-19 08:43:04",
+      "impact_score": 366.0
+    },
+    {
+      "index": 3,
+      "title": "WAIC 2026 ｜李未可 发布全球首款X-AI记忆眼镜",
+      "summary": "7月19日消息，李未可在WAIC 2026发布全球首款AI记忆眼镜，以长期记忆为核心突破，重新定义随身AI交互形态。",
+      "importance": "高",
+      "reason": "中国公司李未可发布全球首款AI记忆眼镜，属于国内动态中的重大产品发布。",
+      "tags": [
+        "AI",
+        "发布",
+        "创新"
+      ],
+      "url": "https://36kr.com/newsflashes/3902093496813441?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-19 05:15:39",
+      "impact_score": 307.5
+    },
+    {
+      "index": 4,
+      "title": "爱芯元智携完整AI生态亮相WAIC 2026，重磅揭秘“元曦”系列大算力AI推理新品",
+      "summary": "7月19日消息，爱芯元智在WAIC 2026展示全线AI算力产品矩阵，并首度揭秘元曦系列大算力AI推理新品。",
+      "importance": "高",
+      "reason": "中国公司爱芯元智发布重要AI芯片新品，属于国内动态中的重大产品发布。",
+      "tags": [
+        "AI",
+        "发布",
+        "芯片"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/wUFNlyBF4e1FwnS6.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-18 04:09:00",
+      "impact_score": 300.0
+    },
+    {
+      "index": 5,
+      "title": "商汤大装置联合五家头部科研机构启动科学发现平台战略合作，探索科学智能新范式",
+      "summary": "7月19日消息，商汤大装置联合五家国内顶尖科研机构启动科学发现平台战略合作，共同探索AI赋能基础研究的新范式。",
+      "importance": "高",
+      "reason": "中国公司商汤与国内科研机构达成重要战略合作，属于国内动态中的重大商业动态。",
+      "tags": [
+        "AI",
+        "合作",
+        "大模型"
+      ],
+      "url": "https://www.leiphone.com/category/chips/JfJwRDdJFvaNBzO7.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-18 11:33:00",
+      "impact_score": 235.0
+    },
+    {
+      "index": 6,
+      "title": "让智能走进产业现场，鹿明机器人亮相WAIC 2026",
+      "summary": "7月19日消息，鹿明机器人在WAIC 2026展示产业具身技术体系，发布工业场景合作案例和产业具身大脑Prime R0。",
+      "importance": "中",
+      "reason": "中国公司鹿明机器人展示具身智能技术成果，属于国内动态中的重大产品发布。",
+      "tags": [
+        "AI",
+        "发布",
+        "机器人"
+      ],
+      "url": "https://www.leiphone.com/category/ai/STqP2Xt59jKRSEkT.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-18 08:59:00",
+      "impact_score": 225.0
+    },
+    {
+      "index": 7,
+      "title": "新易盛：上半年净利同比预增78%-103% 受益于人工智能相关算力投资持续增长产品结构优化",
+      "summary": "7月19日消息，新易盛预计上半年净利润同比增长78%-103%，受益于AI算力投资增长和产品结构优化。",
+      "importance": "中",
+      "reason": "中国公司新易盛业绩预增，反映国内AI产业景气度，属于国内动态中的重大商业动态。",
+      "tags": [
+        "AI",
+        "上市",
+        "投资"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/Ch0J0HQjN5HwBc2H.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-18 06:02:00",
+      "impact_score": 225.0
+    },
+    {
+      "index": 8,
+      "title": "百度秒哒发布3.5版本，市场份额位居中国AI原生无代码应用生成平台第一",
+      "summary": "7月19日消息，百度秒哒发布3.5版本，新增SEO Agent等六大能力，以33.4%市场份额位居中国AI原生无代码应用生成平台第一。",
+      "importance": "中",
+      "reason": "中国公司百度发布重要产品版本并取得市场领先地位，属于国内动态中的重大产品发布。",
+      "tags": [
+        "AI",
+        "发布",
+        "领先"
+      ],
+      "url": "https://36kr.com/newsflashes/3902322110170761?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-19 08:55:14",
+      "impact_score": 210.0
+    },
+    {
+      "index": 9,
+      "title": "WAIC 2026商汤大装置发布算电协同Agent，单位电力成本Token产出提升80%",
+      "summary": "7月19日消息，商汤大装置发布算电协同Agent，通过AI调度系统实现算力与电力协同优化，单位电力成本Token产出提升80%。",
+      "importance": "中",
+      "reason": "中国公司商汤发布创新产品，属于国内动态中的重大产品发布。",
+      "tags": [
+        "AI",
+        "发布",
+        "算力"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/aRNiQFaWXJssTnLJ.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-18 10:48:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 10,
+      "title": "后摩智能携 M50 Inside 终端亮相 WAIC 2026，支撑端侧 AI 算力与终端创新",
+      "summary": "7月19日消息，后摩智能在WAIC 2026展示多款M50 Inside创新AI终端，推动大模型从云端走向本地端侧智能。",
+      "importance": "中",
+      "reason": "中国公司后摩智能展示端侧AI终端产品，属于国内动态中的重大产品发布。",
+      "tags": [
+        "AI",
+        "大模型",
+        "创新"
+      ],
+      "url": "https://www.leiphone.com/category/chips/dX9rUFVHGEWJz4yQ.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-19 07:21:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 11,
+      "title": "世界人工智能合作组织未来将重点开展三方面工作",
+      "summary": "7月19日消息，29国签署世界人工智能合作组织协定，中方将推动组织启动运转，重点加强AI能力建设国际合作。",
+      "importance": "高",
+      "reason": "中国主导推动成立世界人工智能合作组织，属于国内动态中的重大政策与法规。",
+      "tags": [
+        "人工智能",
+        "合作",
+        "政策"
+      ],
+      "url": "https://www.leiphone.com/category/ai/XlIcqYndwT6w0wv7.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-18 01:14:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 12,
+      "title": "“人工智能+防震减灾”行动方案发布",
+      "summary": "7月19日消息，中国地震局发布《“人工智能+防震减灾”行动方案（2026—2028年）》，构建AI技术体系，巩固防震减灾AI先发优势。",
+      "importance": "高",
+      "reason": "中国政府机构发布AI+防震减灾行动方案，属于国内动态中的重大政策与法规。",
+      "tags": [
+        "AI",
+        "发布",
+        "政策"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/M1iLyizkT9WLF8YH.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-18 07:02:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 13,
+      "title": "WAIC 2026 | 摩尔线程首次公开多项训练推理实践成果，三大“AI工厂”持续释放算力价值",
+      "summary": "7月19日消息，摩尔线程在WAIC 2026首次公开多项训练推理实践成果，三大AI工厂持续释放算力价值。",
+      "importance": "中",
+      "reason": "中国公司摩尔线程展示AI算力成果，属于国内动态中的重大产品发布。",
+      "tags": [
+        "AI",
+        "首次",
+        "算力"
+      ],
+      "url": "https://36kr.com/newsflashes/3902324507281026?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-19 08:58:39",
+      "impact_score": 147.0
+    },
+    {
+      "index": 14,
+      "title": "魔法原子Magic-VLA K02攻克叠盒封胶长程任务，成功率超90%",
+      "summary": "7月19日消息，魔法原子在WAIC现场展示Magic-VLA K02机器人，攻克叠盒封胶长程任务，成功率超90%。",
+      "importance": "中",
+      "reason": "中国公司魔法原子展示机器人技术突破，属于国内动态中的重大学术突破。",
+      "tags": [
+        "AGI",
+        "AI",
+        "机器人"
+      ],
+      "url": "https://36kr.com/newsflashes/3902090005743493?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-19 05:00:07",
+      "impact_score": 147.0
+    },
+    {
+      "index": 15,
+      "title": "看了20万小时「人类干活实录」，机器人悟了",
+      "summary": "7月19日消息，黎曼动力正式发布Riemann-1.0，通过观看20万小时人类操作视频，实现机器人技能学习突破。",
+      "importance": "中",
+      "reason": "中国公司黎曼动力发布机器人学习模型，属于国内动态中的重大学术突破。",
+      "tags": [
+        "发布",
+        "机器人",
+        "AI"
+      ],
+      "url": "https://www.qbitai.com/2026/07/454170.html",
+      "source": "量子位",
+      "original_pub_date": "2026-07-19 06:23:00",
+      "impact_score": 142.5
+    },
+    {
+      "index": 16,
+      "title": "从CPU到Agentic OS，此芯走向智能体的「调度中枢」",
+      "summary": "7月19日消息，此芯科技在WAIC 2026发布AGX Agentic Compute战略和Agentic OS，打造面向智能体运行的操作系统。",
+      "importance": "中",
+      "reason": "中国公司此芯科技发布面向智能体的操作系统，属于国内动态中的重大产品发布。",
+      "tags": [
+        "AI",
+        "发布",
+        "大模型"
+      ],
+      "url": "https://www.qbitai.com/2026/07/454155.html",
+      "source": "量子位",
+      "original_pub_date": "2026-07-19 02:36:39",
+      "impact_score": 142.5
+    },
+    {
+      "index": 17,
+      "title": "中科闻歌WAIC2026发布业界首个全系决策智能产品",
+      "summary": "7月19日消息，中科闻歌在WAIC 2026发布业界首个全系决策智能产品体系，覆盖数据治理到AI决策全链路。",
+      "importance": "中",
+      "reason": "中国公司中科闻歌发布全系决策智能产品，属于国内动态中的重大产品发布。",
+      "tags": [
+        "AI",
+        "发布",
+        "人工智能"
+      ],
+      "url": "https://36kr.com/newsflashes/3902363827766920?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-19 09:36:39",
+      "impact_score": 140.5
+    },
+    {
+      "index": 18,
+      "title": "商汤科技旗舰级SenseNova U1 Pro正式发布",
+      "summary": "7月19日消息，商汤科技正式发布旗舰级大模型SenseNova U1 Pro，定位面向长程任务的交付级原生多模态智能体基座。",
+      "importance": "高",
+      "reason": "中国公司商汤发布旗舰级大模型，属于国内动态中的重大产品发布。",
+      "tags": [
+        "大模型",
+        "发布"
+      ],
+      "url": "https://www.qbitai.com/2026/07/454592.html",
+      "source": "量子位",
+      "original_pub_date": "2026-07-19 08:32:36",
+      "impact_score": 135.0
+    },
+    {
+      "index": 19,
+      "title": "苏度 WAIC 首秀：从1到10+技能跃迁，探索通用机器人 Scaling 路径",
+      "summary": "7月19日消息，苏度科技在WAIC 2026展示全栈自研具身智能平台，机器人实现从1到10+技能跃迁，稳定性与泛化性出色。",
+      "importance": "中",
+      "reason": "中国公司苏度科技展示具身智能平台，属于国内动态中的重大产品发布。",
+      "tags": [
+        "AI",
+        "首次",
+        "机器人"
+      ],
+      "url": "https://www.leiphone.com/category/chips/4JCICECxlFdQqpE3.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-19 01:23:00",
+      "impact_score": 135.0
+    },
+    {
+      "index": 20,
+      "title": "印奇在 WAIC 2026 开幕式主论坛发表主题演讲：当智能体走进物理世界",
+      "summary": "7月19日消息，阶跃星辰董事长印奇在WAIC 2026主论坛发表演讲，判断2026年模型能力跨越临界点，AI从数秒任务进阶到长程任务。",
+      "importance": "中",
+      "reason": "中国AI企业高管在WAIC发表重要观点，属于国内动态中的重大商业动态。",
+      "tags": [
+        "AI",
+        "人工智能",
+        "AGI"
+      ],
+      "url": "https://36kr.com/newsflashes/3902288636282757?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-19 08:24:08",
+      "impact_score": 132.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Trump’s AI Agenda Collides With Reality",
+      "summary": "7月19日消息，美国总统特朗普签署行政令撤销拜登政府多项AI监管措施，推行轻触式监管方针，但面临现实执行挑战。",
+      "importance": "高",
+      "reason": "重大政策与法规：美国行政令直接影响全球AI监管格局，属于最高优先级。",
+      "tags": [
+        "美国",
+        "AI监管",
+        "行政令"
+      ],
+      "url": "https://www.theinformation.com/articles/trumps-ai-agenda-collides-reality",
+      "source": "The Information",
+      "original_pub_date": "2026-07-18 14:00:43",
+      "impact_score": 275.0
+    },
+    {
+      "index": 2,
+      "title": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
+      "summary": "7月19日消息，作家Dave Eggers在OpenAI内部演讲中批评ChatGPT正在‘沉默整整一代人’，引发对AI伦理与创作自由的讨论。",
+      "importance": "高",
+      "reason": "安全与伦理：涉及AI对文化创作的影响，属于重大伦理争议。",
+      "tags": [
+        "OpenAI",
+        "AI伦理",
+        "创作自由"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-19/china-s-moonshot-plans-ipo-in-six-months-after-ai-breakthrough",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-19 05:31:31",
+      "impact_score": 157.5
+    },
+    {
+      "index": 3,
+      "title": "Exclusive: Oracle Data Centers Face Multibillion-Dollar Cost Surprises",
+      "summary": "7月19日消息，甲骨文数据中心面临数十亿美元成本超支，其在新墨西哥州的1650亿美元AI超级园区项目因天然气发电厂建设受阻。",
+      "importance": "中",
+      "reason": "重大商业动态：涉及AI基础设施巨额投资与成本问题，影响行业供应链。",
+      "tags": [
+        "甲骨文",
+        "数据中心",
+        "成本超支"
+      ],
+      "url": "https://www.ft.com/content/2b96703d-440b-46db-8d86-9fff9ecc59d5?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-07-18 11:00:02",
+      "impact_score": 142.5
+    },
+    {
+      "index": 4,
+      "title": "The AI rotation stole the spotlight from a strong start to earnings season",
+      "summary": "7月19日消息，AI交易热潮本周主导市场，盖过了第二季度财报季的强劲开局，显示AI板块对全球资本市场的持续影响力。",
+      "importance": "中",
+      "reason": "重大商业动态：AI板块市场表现影响全球投资趋势。",
+      "tags": [
+        "AI交易",
+        "资本市场",
+        "财报季"
+      ],
+      "url": "https://www.theinformation.com/articles/exclusive-oracle-data-centers-face-multibillion-dollar-cost-surprises",
+      "source": "The Information",
+      "original_pub_date": "2026-07-18 17:04:53",
+      "impact_score": 132.5
+    },
+    {
+      "index": 5,
+      "title": "Asia AI bets power record equities run for Wall Street banks",
+      "summary": "7月19日消息，亚洲AI投资推动华尔街银行创下股票业务收入纪录，半导体投资成为区域收入增长主要动力。",
+      "importance": "中",
+      "reason": "重大商业动态：AI投资驱动华尔街银行业绩，反映全球资本流向。",
+      "tags": [
+        "华尔街",
+        "亚洲AI",
+        "半导体"
+      ],
+      "url": "https://www.cnbc.com/2026/07/18/the-ai-rotation-stole-the-spotlight-from-a-strong-start-to-earnings-season-.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-07-18 16:33:19",
+      "impact_score": 100.0
+    },
+    {
+      "index": 6,
+      "title": "‘Gullible and ridiculous’: Dave Eggers on why no one will read AI novels",
+      "summary": "7月19日消息，作家Dave Eggers批评AI生成小说‘轻信且荒谬’，认为读者不会接受，并表达对技术过度采用的失望。",
+      "importance": "低",
+      "reason": "安全与伦理：涉及AI创作伦理，但影响力相对有限。",
+      "tags": [
+        "AI小说",
+        "创作伦理",
+        "Dave Eggers"
+      ],
+      "url": "https://www.ft.com/content/5a8dc7cd-35c8-4aeb-8f09-1df8afb2cf2e?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-07-19 04:00:20",
+      "impact_score": 97.5
+    },
+    {
+      "index": 7,
+      "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
+      "summary": "7月19日消息，研究人员发现‘上下文轰炸’提示注入攻击可有效阻止恶意AI代理，为AI安全提供新防御手段。",
+      "importance": "低",
+      "reason": "安全与伦理：AI安全技术进展，但属于技术细节。",
+      "tags": [
+        "AI安全",
+        "提示注入",
+        "防御"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-18/moonshot-s-kimi-upends-conventional-wisdom-on-us-lead-over-china",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-18 11:00:00",
+      "impact_score": 90.0
+    },
+    {
+      "index": 8,
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "summary": "7月19日消息，Index Ventures联合创始人Neil Rimer预测硅谷AI创造的巨额财富将被迫或自愿重新分配，引发行业讨论。",
+      "importance": "低",
+      "reason": "重大商业动态：风投大佬对AI财富分配的预测，但属于观点性内容。",
+      "tags": [
+        "AI财富",
+        "硅谷",
+        "财富分配"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-07-18 20:54:42",
+      "impact_score": 86.5
+    }
+  ],
+  "summary": "今日从66条原始信息中精选出20条国内动态和8条国际动态，其中10条为高重要性。 重点关注：阿里最新一代大模型千问3.8将至，正式版预计近期开源；一目科技完成超10亿元E轮融资 估值过百亿元；WAIC 2026 ｜李未可 发布全球首款X-AI记忆眼镜。",
+  "statistics": {
+    "raw_domestic": 45,
+    "raw_international": 21,
+    "raw_total": 66,
+    "final_domestic": 20,
+    "final_international": 8
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "7月19日消息，阿里发布最新一代大模型千问3.8预览版，正式版将于近期开源，用户可提前体验新模型能力。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "7月19日消息，一目科技完成超10亿元E轮融资，估值突破100亿元，资金将用于具身智能触觉感知技术研发和规模化量产。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "7月19日消息，李未可在WAIC 2026发布全球首款AI记忆眼镜，以长期记忆为核心突破，重新定义随身AI交互形态。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "7月19日消息，爱芯元智在WAIC 2026展示全线AI算力产品矩阵，并首度揭秘元曦系列大算力AI推理新品。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "7月19日消息，商汤大装置联合五家国内顶尖科研机构启动科学发现平台战略合作，共同探索AI赋能基础研究的新范式。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "7月19日消息，美国总统特朗普签署行政令撤销拜登政府多项AI监管措施，推行轻触式监管方针，但面临现实执行挑战。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "7月19日消息，作家Dave Eggers在OpenAI内部演讲中批评ChatGPT正在‘沉默整整一代人’，引发对AI伦理与创作自由的讨论。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "7月19日消息，甲骨文数据中心面临数十亿美元成本超支，其在新墨西哥州的1650亿美元AI超级园区项目因天然气发电厂建设受阻。",
+      "importance": "中"
+    },
+    {
+      "index": 4,
+      "summary": "7月19日消息，AI交易热潮本周主导市场，盖过了第二季度财报季的强劲开局，显示AI板块对全球资本市场的持续影响力。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "7月19日消息，亚洲AI投资推动华尔街银行创下股票业务收入纪录，半导体投资成为区域收入增长主要动力。",
+      "importance": "中"
+    }
+  ]
+}
