@@ -1,0 +1,443 @@
+{
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21 10:28:15",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "《深化互联网协议第六版（IPv6）技术创新和融合应用实施方案（2026—2030年）》发布",
+      "summary": "7月21日消息，中央网络安全和信息化委员会印发《深化互联网协议第六版（IPv6）技术创新和融合应用实施方案（2026—2030年）》，明确到2027年IPv6端到端贯通水平全面提升，到2030年IPv6与经济社会各行业各领域深度融合。",
+      "importance": "高",
+      "reason": "重大政策与法规，国家层面发布AI相关基础设施规划，影响深远。",
+      "tags": [
+        "政策",
+        "IPv6",
+        "人工智能"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/QH5u0DdBWdEuwwbG.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-21 00:41:00",
+      "impact_score": 420.0
+    },
+    {
+      "index": 2,
+      "title": "国产首个十万卡集群曙光8000亮相WAIC，上线首周应用满载",
+      "summary": "7月21日消息，中科曙光国产首个十万卡AI超集群系统曙光8000（登峰）正式落成并亮相WAIC，上线首周即实现应用满载运行，日均处理作业数突破15万个，单日峰值超50万个。",
+      "importance": "高",
+      "reason": "重大产品发布，国产算力基础设施里程碑，体现国内AI算力突破。",
+      "tags": [
+        "算力",
+        "曙光8000",
+        "国产",
+        "WAIC"
+      ],
+      "url": "https://36kr.com/p/3905124154721925?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-21 08:43:23",
+      "impact_score": 322.5
+    },
+    {
+      "index": 3,
+      "title": "国家超算互联网上线Kimi K3 API服务",
+      "summary": "7月21日消息，国家超算互联网上线Kimi K3模型API调用服务，支持快速调用2.8万亿参数开源大模型能力，兼容OpenAI与Anthropic接口规范，已汇聚MiniMax、DeepSeek、Qwen等开源大模型。",
+      "importance": "高",
+      "reason": "重大产品发布，国家级平台接入国产大模型，推动AI应用生态发展。",
+      "tags": [
+        "大模型",
+        "Kimi K3",
+        "超算互联网",
+        "开源"
+      ],
+      "url": "https://36kr.com/p/3904814486718342?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-21 03:05:20",
+      "impact_score": 322.5
+    },
+    {
+      "index": 4,
+      "title": "深庭纪正式推出户外具身智能架构SWAN",
+      "summary": "7月21日消息，具身智能公司深庭纪正式发布户外伴随机器人专属具身智能架构SWAN，由模型推理主链、混合记忆身份数据库、安全数据飞轮系统三大模块组成，将率先落地于首款消费级双轮足户外陪伴机器人Rovar，产品预计年底上市。",
+      "importance": "中",
+      "reason": "重大产品发布，国内具身智能领域创新，推动户外机器人商业化。",
+      "tags": [
+        "具身智能",
+        "SWAN",
+        "机器人",
+        "发布"
+      ],
+      "url": "https://36kr.com/p/3904783876982405?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-21 02:32:15",
+      "impact_score": 307.5
+    },
+    {
+      "index": 5,
+      "title": "阿里硬核少年技术节5.0开幕，发布AIGX技术体系四项重磅成果",
+      "summary": "7月21日消息，阿里巴巴ATH事业群和淘天集团联合举办硬核少年技术节5.0，发布AIGX技术体系四项最新成果，包括拍立淘全模态实时Agent、全场景AI创作工作台if Studio、Coupella智惠引擎和Agentic推荐系统Dream。",
+      "importance": "中",
+      "reason": "重大产品发布，阿里AI技术体系重要更新，展示国内电商AI应用前沿。",
+      "tags": [
+        "阿里巴巴",
+        "AIGX",
+        "AI",
+        "技术节"
+      ],
+      "url": "https://36kr.com/p/3904781968508550?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-21 02:30:15",
+      "impact_score": 307.5
+    },
+    {
+      "index": 6,
+      "title": "独家 | PICO创始人周宏伟将卸任，李晓凯成为新任业务负责人",
+      "summary": "7月21日消息，字节旗下XR业务PICO创始人周宏伟因个人规划原因卸任，李晓凯接任负责人全面负责PICO业务，此次管理交接不会影响PICO既定战略方向和产品计划，今年将按计划带来全新混合现实产品。",
+      "importance": "中",
+      "reason": "重大商业动态，字节跳动XR业务核心人事变动，影响国内XR产业格局。",
+      "tags": [
+        "PICO",
+        "字节跳动",
+        "XR",
+        "人事变动"
+      ],
+      "url": "https://36kr.com/newsflashes/3905233856071555?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-21 10:09:18",
+      "impact_score": 264.0
+    },
+    {
+      "index": 7,
+      "title": "WAIC重磅成果｜上海仪电智算牵头成立“智算系统架构联盟”并发布《超节点系统架构规范》",
+      "summary": "7月21日消息，上海仪电智算在WAIC牵头成立“智算系统架构联盟”并发布《超节点系统架构规范》，推动智算产业标准化与协同创新。",
+      "importance": "中",
+      "reason": "重大政策与法规/行业标准，国内智算领域重要联盟与规范发布。",
+      "tags": [
+        "智算",
+        "联盟",
+        "规范",
+        "WAIC"
+      ],
+      "url": "https://36kr.com/newsflashes/3905153414628997?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-21 09:32:15",
+      "impact_score": 249.0
+    },
+    {
+      "index": 8,
+      "title": "智算云启 万象新生丨上海仪电“新一代智算云产业技术创新论坛”亮相2026世界人工智能大会",
+      "summary": "7月21日消息，上海仪电在WAIC联合主办“新一代智算云产业技术创新论坛”，集中发布四项智算领域重磅成果，覆盖产业、科研、教育、国资数字化等领域，中国工程院院士郑纬民作主题报告。",
+      "importance": "中",
+      "reason": "重大商业动态，国内智算云产业重要论坛与成果发布，体现产业协同。",
+      "tags": [
+        "智算云",
+        "上海仪电",
+        "WAIC",
+        "论坛"
+      ],
+      "url": "https://36kr.com/newsflashes/3905144193042309?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-21 09:25:52",
+      "impact_score": 249.0
+    },
+    {
+      "index": 9,
+      "title": "Momenta股价涨超10%，Robotaxi业务取得新进展",
+      "summary": "7月21日消息，Momenta股价涨超10%，公司获深圳智能网联汽车道路测试许可将开展L4级Robotaxi实地测试，享道出行启动上汽Robotaxi量产定制车项目搭载Momenta L4级智驾系统，计划2027年亮相。",
+      "importance": "中",
+      "reason": "重大商业动态，国内自动驾驶企业商业化进展显著，股价反应积极。",
+      "tags": [
+        "Momenta",
+        "Robotaxi",
+        "自动驾驶",
+        "股价"
+      ],
+      "url": "https://36kr.com/p/3905176863721349?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-21 09:34:21",
+      "impact_score": 245.0
+    },
+    {
+      "index": 10,
+      "title": "乐道L90达成第60,000台交付里程碑",
+      "summary": "7月21日消息，乐道L90正式完成第60,000台交付，以技术创新推动大三排SUV品类革新，带动品牌新能源汽车保值率升至81.5%，位居市场主流品牌榜首。",
+      "importance": "低",
+      "reason": "重大商业动态，国内新能源汽车品牌交付里程碑，体现市场认可。",
+      "tags": [
+        "乐道",
+        "交付",
+        "新能源汽车",
+        "SUV"
+      ],
+      "url": "https://36kr.com/newsflashes/3905219733161604?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-21 09:54:56",
+      "impact_score": 221.0
+    },
+    {
+      "index": 11,
+      "title": "国内首个！阿里健康氢离子达成NEJM、JAMA、BMJ三大医学顶刊内容合作",
+      "summary": "7月21日消息，阿里健康氢离子达成与NEJM、JAMA、BMJ三大医学顶刊的内容合作，成为国内首个实现此合作的平台，推动AI在医疗领域的应用。",
+      "importance": "低",
+      "reason": "重大商业动态，国内AI医疗领域重要合作，提升行业影响力。",
+      "tags": [
+        "阿里健康",
+        "医学顶刊",
+        "合作",
+        "AI医疗"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/3iymNQRAMbqR1zxG.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-20 10:15:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 12,
+      "title": "阿里Qoder上线全新安全能力，为每位用户配备一位专属安全工程师",
+      "summary": "7月21日消息，阿里Qoder上线全新安全能力，为每位用户配备专属安全工程师，提升AI开发平台的安全防护水平。",
+      "importance": "低",
+      "reason": "重大产品发布，阿里AI开发平台安全功能升级，体现国内AI安全投入。",
+      "tags": [
+        "阿里",
+        "Qoder",
+        "安全",
+        "AI"
+      ],
+      "url": "https://36kr.com/newsflashes/3905251476391812?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-21 10:27:14",
+      "impact_score": 210.0
+    },
+    {
+      "index": 13,
+      "title": "WAIC重磅成果｜智爱赛思全面升级并发布科研专属Token Plan",
+      "summary": "7月21日消息，智爱赛思在WAIC全面升级并发布科研专属Token Plan，为科研用户提供定制化AI服务。",
+      "importance": "低",
+      "reason": "重大产品发布，国内AI平台针对科研场景的优化，推动AI科研应用。",
+      "tags": [
+        "智爱赛思",
+        "WAIC",
+        "科研",
+        "Token"
+      ],
+      "url": "https://36kr.com/newsflashes/3905133015680645?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-21 08:26:43",
+      "impact_score": 210.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "EU fines AliExpress €550mn for failing to prevent sale of illegal goods",
+      "summary": "7月21日消息，欧盟对阿里巴巴旗下全球速卖通处以5.5亿欧元罚款，因其未能阻止非法商品销售，这是欧盟《数字服务法》下的最高罚单。",
+      "importance": "高",
+      "reason": "欧盟重大政策法规执行，涉及AI系统监管，影响力大",
+      "tags": [
+        "欧盟",
+        "罚款",
+        "数字服务法",
+        "AI监管"
+      ],
+      "url": "https://www.ft.com/content/13c385e7-600f-471a-858e-6f1970802a10?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-07-20 10:00:03",
+      "impact_score": 315.0
+    },
+    {
+      "index": 2,
+      "title": "Guidelines on transparency obligations for providers and deployers of AI systems",
+      "summary": "7月21日消息，欧盟委员会发布AI系统提供者和部署者透明度义务指南，明确《AI法案》第50条适用范围，采用基于风险的分级管理方法。",
+      "importance": "高",
+      "reason": "欧盟AI法案重要配套政策，影响全球AI合规标准",
+      "tags": [
+        "欧盟",
+        "AI法案",
+        "透明度",
+        "合规"
+      ],
+      "url": "https://digital-strategy.ec.europa.eu/en/library/guidelines-transparency-obligations-providers-and-deployers-ai-systems",
+      "source": "EU AI Policy",
+      "original_pub_date": "2026-07-20 06:58:00",
+      "impact_score": 315.0
+    },
+    {
+      "index": 3,
+      "title": "Here are the 30,000 songs Sony is suing Udio’s AI music generator over",
+      "summary": "7月21日消息，索尼音乐娱乐起诉AI音乐生成器Udio，指控其侵犯超过3万首歌曲版权，涉及猫王、碧昂丝等艺人作品。",
+      "importance": "高",
+      "reason": "重大AI版权诉讼，影响AI音乐生成行业法律边界",
+      "tags": [
+        "AI版权",
+        "诉讼",
+        "音乐生成",
+        "索尼"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-20/alibaba-fined-550-million-for-illegal-sales-in-biggest-dsa-case",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-20 10:00:00",
+      "impact_score": 300.0
+    },
+    {
+      "index": 4,
+      "title": "Google Plans New ‘Frozen’ Chip to Run Its AI Models Much More Efficiently",
+      "summary": "7月21日消息，谷歌计划开发代号“Frozen”的新型服务器芯片，直接集成Gemini AI模型蓝图，以大幅提升AI模型服务效率。",
+      "importance": "高",
+      "reason": "谷歌重大AI芯片产品发布，可能改变AI计算格局",
+      "tags": [
+        "谷歌",
+        "AI芯片",
+        "Gemini",
+        "硬件"
+      ],
+      "url": "https://arxiv.org/abs/2607.16208",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-07-21 04:00:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 5,
+      "title": "Anduril launches helicopter strike drone",
+      "summary": "7月21日消息，美国防务公司Anduril发布名为“Thunder”的直升机攻击无人机，随着各国军队增加自主系统装备，该产品引发关注。",
+      "importance": "中",
+      "reason": "军事AI应用重要进展，涉及自主武器系统",
+      "tags": [
+        "军事AI",
+        "无人机",
+        "自主系统",
+        "Anduril"
+      ],
+      "url": "https://arxiv.org/abs/2607.16560",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-07-21 04:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 6,
+      "title": "YouTube clarifies policies around AI slop and upsetting videos",
+      "summary": "7月21日消息，YouTube更新变现政策，更清晰界定AI生成和低质量视频类型，此类内容将无法获得广告收入。",
+      "importance": "中",
+      "reason": "平台AI内容治理政策调整，影响AI生成内容生态",
+      "tags": [
+        "YouTube",
+        "AI内容",
+        "变现政策",
+        "内容审核"
+      ],
+      "url": "https://www.theinformation.com/articles/new-kimi-k3-model-means-u-s-china-ai-race",
+      "source": "The Information",
+      "original_pub_date": "2026-07-20 14:05:26",
+      "impact_score": 173.0
+    },
+    {
+      "index": 7,
+      "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
+      "summary": "7月21日消息，英伟达在SIGGRAPH大会上展示图形与仿真领域突破，推出开放模型和实时仿真技术，推动媒体、内容创作和机器人技术变革。",
+      "importance": "中",
+      "reason": "英伟达重大技术发布，涉及AI与图形学交叉领域",
+      "tags": [
+        "英伟达",
+        "SIGGRAPH",
+        "图形学",
+        "物理AI"
+      ],
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-fines-aliexpress-eu550-million-breaching-digital-services-act",
+      "source": "EU AI Policy",
+      "original_pub_date": "2026-07-20 08:22:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 8,
+      "title": "BlackRock-MGX Consortium Eyes $5 Billion Aligned Data Centers Expansion",
+      "summary": "7月21日消息，贝莱德与阿布扎比MGX组成的财团计划投资50亿美元，支持Aligned Data Centers扩张，以完成对该公司的收购。",
+      "importance": "中",
+      "reason": "重大AI基础设施投资，反映AI算力需求增长",
+      "tags": [
+        "AI基础设施",
+        "数据中心",
+        "投资",
+        "贝莱德"
+      ],
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-publishes-guidelines-transparency-obligations-providers-and-deployers-certain-ai-systems",
+      "source": "EU AI Policy",
+      "original_pub_date": "2026-07-20 07:08:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 9,
+      "title": "Some Large Language Models Exhibit Consistent Risk Attitudes",
+      "summary": "7月21日消息，研究显示部分大语言模型表现出系统性和一致的风险态度，这对AI在高风险场景中的部署具有重要安全启示。",
+      "importance": "低",
+      "reason": "AI安全与伦理研究，揭示模型行为偏差",
+      "tags": [
+        "AI安全",
+        "风险态度",
+        "大语言模型",
+        "研究"
+      ],
+      "url": "https://www.ft.com/content/716d0651-6f1f-4215-9d98-96a5047539cd",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-07-21 04:00:10",
+      "impact_score": 150.0
+    }
+  ],
+  "summary": "今日从173条原始信息中精选出13条国内动态和9条国际动态，其中7条为高重要性。 重点关注：《深化互联网协议第六版（IPv6）技术创新和融合应用实施方案（2026—2030年）》发布；国产首个十万卡集群曙光8000亮相WAIC，上线首周应用满载；国家超算互联网上线Kimi K3 API服务。",
+  "statistics": {
+    "raw_domestic": 49,
+    "raw_international": 124,
+    "raw_total": 173,
+    "final_domestic": 13,
+    "final_international": 9
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "7月21日消息，中央网络安全和信息化委员会印发《深化互联网协议第六版（IPv6）技术创新和融合应用实施方案（2026—2030年）》，明确到2027年IPv6端到端贯通水平全面提升，到2030年IPv6与经济社会各行业各领域深度融合。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "7月21日消息，中科曙光国产首个十万卡AI超集群系统曙光8000（登峰）正式落成并亮相WAIC，上线首周即实现应用满载运行，日均处理作业数突破15万个，单日峰值超50万个。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "7月21日消息，国家超算互联网上线Kimi K3模型API调用服务，支持快速调用2.8万亿参数开源大模型能力，兼容OpenAI与Anthropic接口规范，已汇聚MiniMax、DeepSeek、Qwen等开源大模型。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "7月21日消息，具身智能公司深庭纪正式发布户外伴随机器人专属具身智能架构SWAN，由模型推理主链、混合记忆身份数据库、安全数据飞轮系统三大模块组成，将率先落地于首款消费级双轮足户外陪伴机器人Rovar，产品预计年底上市。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "7月21日消息，阿里巴巴ATH事业群和淘天集团联合举办硬核少年技术节5.0，发布AIGX技术体系四项最新成果，包括拍立淘全模态实时Agent、全场景AI创作工作台if Studio、Coupella智惠引擎和Agentic推荐系统Dream。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "7月21日消息，欧盟对阿里巴巴旗下全球速卖通处以5.5亿欧元罚款，因其未能阻止非法商品销售，这是欧盟《数字服务法》下的最高罚单。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "7月21日消息，欧盟委员会发布AI系统提供者和部署者透明度义务指南，明确《AI法案》第50条适用范围，采用基于风险的分级管理方法。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "7月21日消息，索尼音乐娱乐起诉AI音乐生成器Udio，指控其侵犯超过3万首歌曲版权，涉及猫王、碧昂丝等艺人作品。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "7月21日消息，谷歌计划开发代号“Frozen”的新型服务器芯片，直接集成Gemini AI模型蓝图，以大幅提升AI模型服务效率。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "7月21日消息，美国防务公司Anduril发布名为“Thunder”的直升机攻击无人机，随着各国军队增加自主系统装备，该产品引发关注。",
+      "importance": "中"
+    }
+  ]
+}
