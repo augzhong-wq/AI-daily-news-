@@ -1,0 +1,707 @@
+{
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23 10:27:39",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "氪星晚报 ｜DeepSeek今年已增资65%；马斯克：FSD是拉动特斯拉汽车需求的核心驱动力",
+      "summary": "7月23日消息，DeepSeek今年已增资65%，其关联公司杭州深度求索注册资本由1000万人民币增至约1645万人民币，创始人梁文锋明确表示公司主线为通往通用人工智能。",
+      "importance": "高",
+      "reason": "中国AI公司DeepSeek的重大资本动态，反映国内AI企业融资活跃",
+      "tags": [
+        "融资",
+        "AI",
+        "大模型"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/jzcW1HyiLtvtbWCt.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-22 07:58:00",
+      "impact_score": 515.0
+    },
+    {
+      "index": 2,
+      "title": "市场监管总局部署专项行动，提升企业海外反垄断合规能力",
+      "summary": "7月23日消息，市场监管总局部署开展企业海外反垄断合规能力提升专项行动，聚焦企业海外投资、跨境并购、产品出口等重点场景，强化合规指导，力争一年内完善综合服务支撑体系。",
+      "importance": "高",
+      "reason": "中国政府重要政策法规，直接影响AI企业海外业务合规",
+      "tags": [
+        "监管",
+        "反垄断",
+        "政策"
+      ],
+      "url": "https://www.leiphone.com/category/weiwu/d0zvXA2M7boZiVR0.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-23 03:03:00",
+      "impact_score": 350.0
+    },
+    {
+      "index": 3,
+      "title": "中国脑机接口重要突破，首次实现跨地域上千人同步脑电信号采集",
+      "summary": "7月23日消息，我国科研团队发布新型脑电信号采集装置，在全球首次实现跨地域上千人同步脑电信号采集，攻克设备小型化与毫秒级时间对齐两大技术难关，为神经大模型训练迈出关键一步。",
+      "importance": "高",
+      "reason": "中国科研团队重大技术突破，具有国际领先意义",
+      "tags": [
+        "突破",
+        "脑机接口",
+        "AI"
+      ],
+      "url": "https://36kr.com/p/3907536767833473?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-23 01:12:15",
+      "impact_score": 327.5
+    },
+    {
+      "index": 4,
+      "title": "世界模型迎来「中国引领时刻」，昆仑万维 Matrix-Game 3.5 要迈向真实世界",
+      "summary": "7月23日消息，昆仑万维在WAIC宣布2026年为世界模型元年，发布Matrix-Game 3.5，旨在推动AI从理解物理世界迈向真实世界执行，展现中国在世界模型领域的领先地位。",
+      "importance": "高",
+      "reason": "中国公司昆仑万维发布重要AI产品，引领世界模型赛道",
+      "tags": [
+        "发布",
+        "AI",
+        "世界模型"
+      ],
+      "url": "https://36kr.com/p/3908051015488640?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-23 10:09:52",
+      "impact_score": 279.0
+    },
+    {
+      "index": 5,
+      "title": "白宫下场亲自「围攻」Kimi K3，评论区全员唱反调？",
+      "summary": "7月23日消息，白宫科技政策办公室主任公开指控月之暗面在开发Kimi K3时蒸馏了Anthropic的Claude Fable，引发美国AI圈对开放模型与闭源生意利益裂缝的广泛讨论。",
+      "importance": "高",
+      "reason": "涉及中国AI公司月之暗面，反映中美AI竞争加剧",
+      "tags": [
+        "AI",
+        "发布",
+        "争议"
+      ],
+      "url": "https://36kr.com/newsflashes/3908039241569411?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-23 09:43:05",
+      "impact_score": 275.0
+    },
+    {
+      "index": 6,
+      "title": "Kimi K3 已提前亮相？神秘模型「Kivine」现身，百万上下文能力惊艳全球",
+      "summary": "7月23日消息，一款名为Kivine的匿名模型在LMArena上线后迅速引发关注，被怀疑是月之暗面尚未发布的旗舰模型Kimi K3，其百万上下文能力惊艳全球AI社区。",
+      "importance": "高",
+      "reason": "中国AI公司月之暗面潜在重大产品发布，引发全球关注",
+      "tags": [
+        "AI",
+        "发布",
+        "大模型"
+      ],
+      "url": "https://www.leiphone.com/category/ai/XRwFfhV1xdAQfrac.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-23 04:38:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 7,
+      "title": "独家｜混元多模态理解负责人胡瀚离职创业，原团队或将聚焦世界模型",
+      "summary": "7月23日消息，腾讯混元多模态理解负责人胡瀚离职创业，其原研究组或将聚焦世界模型前沿研究，腾讯大语言模型部负责人姚顺雨正密集梳理团队，大语言模型仍是混元最重要方向。",
+      "importance": "中",
+      "reason": "中国科技巨头腾讯AI团队重要人事变动，影响后续研发方向",
+      "tags": [
+        "AI",
+        "大模型",
+        "人事变动"
+      ],
+      "url": "https://36kr.com/newsflashes/3908041021871240?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-23 09:50:55",
+      "impact_score": 266.0
+    },
+    {
+      "index": 8,
+      "title": "芯片卖了56万片之后，阿里平头哥把最值钱的东西开源了",
+      "summary": "7月23日消息，阿里平头哥开源AI软件栈SAIL，支持260+框架即开即用，此前其芯片已累计销售56万片，此举旨在推动国产AI生态发展。",
+      "importance": "中",
+      "reason": "中国公司阿里平头哥重要开源动作，促进AI软件生态",
+      "tags": [
+        "开源",
+        "AI",
+        "芯片"
+      ],
+      "url": "https://36kr.com/p/3907676111983745?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-23 04:23:24",
+      "impact_score": 264.0
+    },
+    {
+      "index": 9,
+      "title": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座",
+      "summary": "7月23日消息，科大讯飞发布星火Token Factory，为企业提供AI模型智能路由与治理新底座，助力企业高效管理和调用多种AI模型。",
+      "importance": "中",
+      "reason": "中国AI公司科大讯飞发布重要企业级产品",
+      "tags": [
+        "发布",
+        "AI",
+        "企业服务"
+      ],
+      "url": "https://36kr.com/p/3906474040153220?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-23 02:30:00",
+      "impact_score": 245.0
+    },
+    {
+      "index": 10,
+      "title": "阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务",
+      "summary": "7月23日消息，阿里云宣布真武芯片超节点成功适配Qwen3.8模型，并已上线百炼平台提供推理服务，推动国产芯片与AI模型深度融合。",
+      "importance": "中",
+      "reason": "中国公司阿里云在芯片与AI模型适配方面取得进展",
+      "tags": [
+        "上线",
+        "芯片",
+        "AI"
+      ],
+      "url": "https://36kr.com/p/3907532622648453?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-23 01:08:03",
+      "impact_score": 245.0
+    },
+    {
+      "index": 11,
+      "title": "电费与Token的经济账：运营商在GPU之外盯上了TPU",
+      "summary": "7月23日消息，中国电信、移动、联通等运营商在智算建设中从单一依赖GPU转向多元化算力选型，国产TPU等芯片进入规模化落地阶段，以降低算力成本并满足自主可控政策要求。",
+      "importance": "中",
+      "reason": "中国运营商算力选型变化，影响国产AI芯片产业走向",
+      "tags": [
+        "投资",
+        "芯片",
+        "AI"
+      ],
+      "url": "https://36kr.com/p/3907639172027522?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-23 02:57:46",
+      "impact_score": 236.0
+    },
+    {
+      "index": 12,
+      "title": "超越π0，中国团队用1B参数模型登顶具身智能榜单",
+      "summary": "7月23日消息，中国团队用仅1B参数的模型超越π0，登顶具身智能榜单，表明具身智能正从参数竞赛进入架构竞赛阶段。",
+      "importance": "中",
+      "reason": "中国团队在具身智能领域取得学术突破",
+      "tags": [
+        "超越",
+        "AI",
+        "具身智能"
+      ],
+      "url": "https://36kr.com/newsflashes/3908009431356808?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-23 09:12:46",
+      "impact_score": 225.0
+    },
+    {
+      "index": 13,
+      "title": "36氪首发 | 前华尔街投资人下场造“手”，以“自研视触觉+软硬闭环”破解行业数据难题",
+      "summary": "7月23日消息，机器人灵巧操作方案提供商拾玥科技完成数千万元天使轮融资，由某上市公司旗下基金领投，资金用于团队扩张、产品迭代及灵巧操作数据采集与模型研发。",
+      "importance": "中",
+      "reason": "中国AI机器人初创公司获得融资，推动灵巧操作技术发展",
+      "tags": [
+        "融资",
+        "机器人",
+        "AI"
+      ],
+      "url": "https://36kr.com/p/3907953777120385?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-23 08:16:42",
+      "impact_score": 225.0
+    },
+    {
+      "index": 14,
+      "title": "具身智能数据需求暴涨千倍，这家“数据炼油厂”刚拿到近亿元融资",
+      "summary": "7月23日消息，人工智能高质量数据生产运营商景联文科技完成近亿元A轮融资，投资方包括滨江金投、杭州金投等，资金将用于数据生产与流通，反映AI数据成为竞争关键变量。",
+      "importance": "中",
+      "reason": "中国AI数据公司获得大额融资，凸显数据在AI产业中的核心地位",
+      "tags": [
+        "融资",
+        "AI",
+        "数据"
+      ],
+      "url": "https://36kr.com/newsflashes/3908029751432328?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-23 09:33:26",
+      "impact_score": 210.0
+    },
+    {
+      "index": 15,
+      "title": "不拼通用能力、聚焦端侧，腾讯副总裁林松涛：Marvis专注做好系统级操作",
+      "summary": "7月23日消息，腾讯副总裁林松涛在WAIC表示，腾讯Agent产品Marvis走差异化系统级Agent路线，专注端侧系统级操作，而WorkBuddy的DAU已稳居国内效率智能体产品第一。",
+      "importance": "中",
+      "reason": "中国科技巨头腾讯发布AI产品战略，聚焦端侧应用",
+      "tags": [
+        "发布",
+        "AI",
+        "智能体"
+      ],
+      "url": "https://36kr.com/newsflashes/3908008828523904?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-23 09:12:09",
+      "impact_score": 210.0
+    },
+    {
+      "index": 16,
+      "title": "硬氪首发 | 大疆系AI自然探索公司获五源、顺为投资，首创水下光学系统",
+      "summary": "7月23日消息，水下AI自然探索科技公司Deeplore完成数千万元种子轮融资，由五源资本、顺为资本联合投资，核心团队出自大疆，将研发首款AI潜水面镜。",
+      "importance": "中",
+      "reason": "中国AI初创公司获得知名机构投资，探索水下AI应用",
+      "tags": [
+        "融资",
+        "AI",
+        "投资"
+      ],
+      "url": "https://36kr.com/newsflashes/3907997226062984?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-23 09:00:21",
+      "impact_score": 210.0
+    },
+    {
+      "index": 17,
+      "title": "36氪首发 | 同济博士做几何、物理AI重构设计制造，累计获超3亿元融资",
+      "summary": "7月23日消息，工业AI设计研发解决方案供应商设序科技完成B轮超亿元融资，累计获超3亿元，投资方包括深产投等，其产品“则形AI”基于自研工业世界模型提供智能设计服务。",
+      "importance": "中",
+      "reason": "中国工业AI公司获得大额融资，推动AI在制造业应用",
+      "tags": [
+        "融资",
+        "AI",
+        "工业"
+      ],
+      "url": "https://www.leiphone.com/category/ai/ElUplw96iXqIFTPd.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-23 04:00:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 18,
+      "title": "对话蚂蚁数科：打造商业智能体超级工厂，生态共建中国行业版Harness标准",
+      "summary": "7月23日消息，蚂蚁数科副总裁孙磊在WAIC表示，蚂蚁数科正打造商业智能体超级工厂，聚焦行业垂直大模型和AI工程化能力，助力企业智能化升级。",
+      "importance": "中",
+      "reason": "中国科技公司蚂蚁数科发布AI战略，推动企业智能体落地",
+      "tags": [
+        "发布",
+        "AI",
+        "智能体"
+      ],
+      "url": "https://www.leiphone.com/category/aijuejinzhi/u7fivcCZqZGaCGUp.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-23 03:56:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 19,
+      "title": "东莞金信低空经济产业创业投资基金登记成立，出资额3亿",
+      "summary": "7月23日消息，东莞金信低空经济产业创业投资基金成立，出资额3亿人民币，由广东金信资本等共同出资，将用于股权投资，支持低空经济产业发展。",
+      "importance": "低",
+      "reason": "中国地方产业基金成立，涉及AI相关低空经济领域",
+      "tags": [
+        "投资",
+        "低空经济"
+      ],
+      "url": "https://www.leiphone.com/category/ai/NRMCQhmYyxQ6TSP0.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-23 04:33:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 20,
+      "title": "网格智算：“不堆算力”的AI大脑如何填补林下场景空白 | 水下项目",
+      "summary": "7月23日消息，网格智算开发AI大脑填补林下场景空白，解决GNSS信号丢失和通讯衰减问题，利用深度学习实现自动化作业，满足林业等领域的巨大需求。",
+      "importance": "低",
+      "reason": "中国AI初创公司探索林下场景应用，解决实际痛点",
+      "tags": [
+        "AI",
+        "深度学习"
+      ],
+      "url": "https://www.leiphone.com/category/ai/JdrD0eOAqnAiX1s7.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-23 04:22:00",
+      "impact_score": 195.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Stripe Minted $3.2 Billion in Cash in 2025, Setting Up Acquisition Hunt",
+      "summary": "7月23日消息，支付巨头Stripe因AI行业支付业务增长，2025年营收达68亿美元，同比增长33%，并计划利用32亿美元现金储备进行收购。",
+      "importance": "高",
+      "reason": "重大商业动态，涉及AI支付领域巨头业绩与收购计划",
+      "tags": [
+        "商业动态",
+        "AI",
+        "支付",
+        "收购"
+      ],
+      "url": "https://www.theinformation.com/articles/stripe-minted-3-2-billion-cash-2025-setting-acquisition-hunt",
+      "source": "The Information",
+      "original_pub_date": "2026-07-22 19:12:01",
+      "impact_score": 307.5
+    },
+    {
+      "index": 2,
+      "title": "U.S. Investigates Chinese AI Companies’ Access to Chips Amid Moonshot Accusations",
+      "summary": "7月23日消息，美国政府调查中国AI公司获取芯片渠道，指控月之暗面等公司窃取Anthropic等美国AI开发商知识产权，可能实施制裁。",
+      "importance": "高",
+      "reason": "重大政策与法规，涉及出口管制与知识产权调查",
+      "tags": [
+        "政策法规",
+        "出口管制",
+        "AI",
+        "调查"
+      ],
+      "url": "https://www.theinformation.com/articles/u-s-investigates-chinese-ai-companies-access-chips-amid-moonshot-accusations",
+      "source": "The Information",
+      "original_pub_date": "2026-07-22 22:42:27",
+      "impact_score": 275.0
+    },
+    {
+      "index": 3,
+      "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
+      "summary": "7月23日消息，英伟达CEO黄仁勋在加州海军研究生院正式启用DGX GB300系统，将全球最强大AI平台之一投入美国军方旗舰研究生院使用。",
+      "importance": "高",
+      "reason": "重大产品发布，涉及英伟达最新AI超算系统部署",
+      "tags": [
+        "产品发布",
+        "英伟达",
+        "AI",
+        "军事"
+      ],
+      "url": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
+      "source": "NVIDIA AI",
+      "original_pub_date": "2026-07-23 02:00:46",
+      "impact_score": 229.5
+    },
+    {
+      "index": 4,
+      "title": "AMD commits up to $5 billion to Anthropic",
+      "summary": "7月23日消息，AMD宣布向AI公司Anthropic投资高达50亿美元，并帮助其扩展算力，Anthropic将部署多达2吉瓦的AMD Instinct MI450 GPU。",
+      "importance": "高",
+      "reason": "重大商业动态，大额投资与战略合作",
+      "tags": [
+        "商业动态",
+        "AMD",
+        "Anthropic",
+        "投资"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-07-22 14:44:27",
+      "impact_score": 210.0
+    },
+    {
+      "index": 5,
+      "title": "Google Fined €890 Million in EU Over Search, App Store Breaches",
+      "summary": "7月23日消息，欧盟因谷歌违反《数字市场法案》对其处以8.9亿欧元（约10亿美元）罚款，指控其偏袒自有搜索和商店服务。",
+      "importance": "高",
+      "reason": "重大政策与法规，欧盟反垄断罚款",
+      "tags": [
+        "政策法规",
+        "反垄断",
+        "谷歌",
+        "罚款"
+      ],
+      "url": "https://www.cnbc.com/2026/07/22/amazon-lays-off-some-employees-in-its-agi-unit.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-07-22 19:50:16",
+      "impact_score": 185.0
+    },
+    {
+      "index": 6,
+      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+      "summary": "7月23日消息，美国财政部威胁实施制裁，此前白宫指控中国AI公司月之暗面蒸馏了Anthropic的Fable模型，引发华盛顿对中国开源模型涌入的辩论。",
+      "importance": "高",
+      "reason": "重大政策与法规，涉及制裁威胁与知识产权争议",
+      "tags": [
+        "政策法规",
+        "制裁",
+        "AI",
+        "知识产权"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/google-fined-890-million-in-eu-over-search-app-store-breaches",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-23 10:01:54",
+      "impact_score": 165.0
+    },
+    {
+      "index": 7,
+      "title": "AMD to invest up to $5bn in Anthropic in chip deal",
+      "summary": "7月23日消息，AMD将向Anthropic投资高达50亿美元，作为芯片交易的一部分，Anthropic承诺购买价值数百亿美元的AMD最新AI服务器芯片。",
+      "importance": "高",
+      "reason": "重大商业动态，大额投资与芯片采购协议",
+      "tags": [
+        "商业动态",
+        "AMD",
+        "Anthropic",
+        "芯片"
+      ],
+      "url": "https://www.ft.com/content/b7e572e2-ac26-4842-82ee-1c355ac7c848?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-07-22 20:34:31",
+      "impact_score": 150.0
+    },
+    {
+      "index": 8,
+      "title": "Samsung in talks to invest in Mistral at €20bn valuation",
+      "summary": "7月23日消息，三星正洽谈以200亿欧元估值投资法国AI公司Mistral，可能投资高达10亿欧元，Mistral致力于成为美国科技巨头的领先替代方案。",
+      "importance": "高",
+      "reason": "重大商业动态，大额投资与高估值",
+      "tags": [
+        "商业动态",
+        "三星",
+        "Mistral",
+        "投资"
+      ],
+      "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+      "source": "MIT Technology Review",
+      "original_pub_date": "2026-07-22 12:10:00",
+      "impact_score": 150.0
+    },
+    {
+      "index": 9,
+      "title": "Google slapped with $1 billion fine under landmark EU digital law",
+      "summary": "7月23日消息，欧盟监管机构依据《数字市场法案》对谷歌处以8.9亿欧元（约10亿美元）罚款，指控其偏袒自身服务。",
+      "importance": "高",
+      "reason": "重大政策与法规，欧盟数字法罚款",
+      "tags": [
+        "政策法规",
+        "反垄断",
+        "谷歌",
+        "罚款"
+      ],
+      "url": "https://arxiv.org/abs/2607.18239",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-07-23 04:00:00",
+      "impact_score": 145.0
+    },
+    {
+      "index": 10,
+      "title": "Amazon cuts some jobs in its artificial general intelligence unit",
+      "summary": "7月23日消息，亚马逊在其通用人工智能（AGI）部门裁减部分岗位，该部门曾发布Nova系列AI模型，并涉及硅片和量子计算研究。",
+      "importance": "中",
+      "reason": "重大商业动态，科技巨头裁员",
+      "tags": [
+        "商业动态",
+        "亚马逊",
+        "AGI",
+        "裁员"
+      ],
+      "url": "https://arxiv.org/abs/2607.18259",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-07-23 04:00:00",
+      "impact_score": 145.0
+    },
+    {
+      "index": 11,
+      "title": "Mercedes risks US sales ban under Senate China bill",
+      "summary": "7月23日消息，美国参议院委员会批准法案，禁止具有重大中国所有权的公司进入美国市场，梅赛德斯面临美国销售禁令风险。",
+      "importance": "中",
+      "reason": "重大政策与法规，涉及中国所有权限制",
+      "tags": [
+        "政策法规",
+        "汽车",
+        "中国",
+        "禁令"
+      ],
+      "url": "https://arxiv.org/abs/2607.18266",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-07-23 04:00:00",
+      "impact_score": 145.0
+    },
+    {
+      "index": 12,
+      "title": "Exclusive: Cursor Launches Model Router",
+      "summary": "7月23日消息，AI编程工具Cursor即将发布模型路由器，可根据任务自动选择最佳模型以平衡性能和成本，引发行业关注。",
+      "importance": "中",
+      "reason": "重大产品发布，AI工具新功能",
+      "tags": [
+        "产品发布",
+        "AI",
+        "模型路由"
+      ],
+      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-07-22 20:49:03",
+      "impact_score": 145.0
+    },
+    {
+      "index": 13,
+      "title": "AI Data Center Boom Sparks 80% Surge in First-Half FDI Applications to Thailand",
+      "summary": "7月23日消息，受AI和数据中心投资浪潮推动，2026年上半年外国投资者向泰国申请投资1.37万亿泰铢（406亿美元），同比增长80%。",
+      "importance": "中",
+      "reason": "重大商业动态，AI数据中心投资热潮",
+      "tags": [
+        "商业动态",
+        "AI",
+        "数据中心",
+        "投资"
+      ],
+      "url": "https://www.theinformation.com/briefings/exclusive-cursor-launches-model-router",
+      "source": "The Information",
+      "original_pub_date": "2026-07-22 17:41:18",
+      "impact_score": 137.0
+    },
+    {
+      "index": 14,
+      "title": "Alphabet’s $205 Billion Spending Target Fuels AI Cost Fears",
+      "summary": "7月23日消息，Alphabet将今年资本支出预测上调至2050亿美元，引发市场对AI竞赛中缺乏财政纪律的担忧。",
+      "importance": "中",
+      "reason": "重大商业动态，巨额资本支出",
+      "tags": [
+        "商业动态",
+        "Alphabet",
+        "AI",
+        "资本支出"
+      ],
+      "url": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
+      "source": "MIT Technology Review",
+      "original_pub_date": "2026-07-22 09:00:00",
+      "impact_score": 135.0
+    },
+    {
+      "index": 15,
+      "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
+      "summary": "7月23日消息，Anthropic营收从2025年90亿美元跃升至2026年5月470亿美元，Menlo Ventures合伙人称这是25年来未见的高速增长。",
+      "importance": "中",
+      "reason": "重大商业动态，AI初创公司高速增长",
+      "tags": [
+        "商业动态",
+        "Anthropic",
+        "AI",
+        "增长"
+      ],
+      "url": "https://www.theinformation.com/briefings/veteran-fidelity-fund-manager-joins-michael-dells-family-office",
+      "source": "The Information",
+      "original_pub_date": "2026-07-22 13:50:50",
+      "impact_score": 132.5
+    },
+    {
+      "index": 16,
+      "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
+      "summary": "7月23日消息，研究人员发布SysAdmin基准测试，用于衡量前沿AI系统在获取资源、逃避监督等方面的权力寻求行为，以评估失控风险。",
+      "importance": "中",
+      "reason": "重大学术突破，AI安全研究",
+      "tags": [
+        "学术突破",
+        "AI安全",
+        "基准测试"
+      ],
+      "url": "https://www.theinformation.com/articles/ai-trading-agents-robinhood",
+      "source": "The Information",
+      "original_pub_date": "2026-07-22 18:14:55",
+      "impact_score": 132.0
+    },
+    {
+      "index": 17,
+      "title": "Operational Hallucination and Safety Drift in AI Agents",
+      "summary": "7月23日消息，研究揭示大语言模型作为工具使用自主智能体时，在多轮执行中会出现操作幻觉和安全漂移等动态可靠性风险。",
+      "importance": "中",
+      "reason": "重大学术突破，AI安全与可靠性研究",
+      "tags": [
+        "学术突破",
+        "AI安全",
+        "幻觉"
+      ],
+      "url": "https://arxiv.org/abs/2607.18254",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-07-23 04:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 18,
+      "title": "What AI Trading Agents Are Up to on Robinhood",
+      "summary": "7月23日消息，自Robinhood向AI代理开放以来，用户利用AI进行研究和交易，市场关注该技术能为投资者带来多大优势。",
+      "importance": "低",
+      "reason": "重大商业动态，AI在金融领域的应用",
+      "tags": [
+        "商业动态",
+        "AI",
+        "金融",
+        "交易"
+      ],
+      "url": "https://arxiv.org/abs/2607.18258",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-07-23 04:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 19,
+      "title": "Nokia’s Profit Beats Estimates as Data Centers Boost Growth",
+      "summary": "7月23日消息，芬兰网络设备制造商诺基亚第二季度利润超预期，得益于向数据中心供应设备的业务推动销售增长。",
+      "importance": "低",
+      "reason": "重大商业动态，数据中心业务增长",
+      "tags": [
+        "商业动态",
+        "诺基亚",
+        "数据中心"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/spacex-attempts-major-flight-test-again-in-post-ipo-spotlight",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-23 09:30:00",
+      "impact_score": 127.5
+    }
+  ],
+  "summary": "今日从180条原始信息中精选出20条国内动态和19条国际动态，其中15条为高重要性。 重点关注：氪星晚报 ｜DeepSeek今年已增资65%；马斯克：FSD是拉动特斯拉汽车需求的核心驱动力；市场监管总局部署专项行动，提升企业海外反垄断合规能力；中国脑机接口重要突破，首次实现跨地域上千人同步脑电信号采集。",
+  "statistics": {
+    "raw_domestic": 48,
+    "raw_international": 132,
+    "raw_total": 180,
+    "final_domestic": 20,
+    "final_international": 19
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "7月23日消息，DeepSeek今年已增资65%，其关联公司杭州深度求索注册资本由1000万人民币增至约1645万人民币，创始人梁文锋明确表示公司主线为通往通用人工智能。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "7月23日消息，市场监管总局部署开展企业海外反垄断合规能力提升专项行动，聚焦企业海外投资、跨境并购、产品出口等重点场景，强化合规指导，力争一年内完善综合服务支撑体系。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "7月23日消息，我国科研团队发布新型脑电信号采集装置，在全球首次实现跨地域上千人同步脑电信号采集，攻克设备小型化与毫秒级时间对齐两大技术难关，为神经大模型训练迈出关键一步。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "7月23日消息，昆仑万维在WAIC宣布2026年为世界模型元年，发布Matrix-Game 3.5，旨在推动AI从理解物理世界迈向真实世界执行，展现中国在世界模型领域的领先地位。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "7月23日消息，白宫科技政策办公室主任公开指控月之暗面在开发Kimi K3时蒸馏了Anthropic的Claude Fable，引发美国AI圈对开放模型与闭源生意利益裂缝的广泛讨论。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "7月23日消息，支付巨头Stripe因AI行业支付业务增长，2025年营收达68亿美元，同比增长33%，并计划利用32亿美元现金储备进行收购。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "7月23日消息，美国政府调查中国AI公司获取芯片渠道，指控月之暗面等公司窃取Anthropic等美国AI开发商知识产权，可能实施制裁。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "7月23日消息，英伟达CEO黄仁勋在加州海军研究生院正式启用DGX GB300系统，将全球最强大AI平台之一投入美国军方旗舰研究生院使用。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "7月23日消息，AMD宣布向AI公司Anthropic投资高达50亿美元，并帮助其扩展算力，Anthropic将部署多达2吉瓦的AMD Instinct MI450 GPU。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "7月23日消息，欧盟因谷歌违反《数字市场法案》对其处以8.9亿欧元（约10亿美元）罚款，指控其偏袒自有搜索和商店服务。",
+      "importance": "高"
+    }
+  ]
+}
