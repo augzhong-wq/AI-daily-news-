@@ -1,0 +1,198 @@
+======================================================================
+AI每日动态 - 2026-07-24
+生成时间: 2026-07-24 10:23:39
+数据来源: 从 189 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、7月24日消息，腾讯宣布混元多模态模型部门与大语言模型部门合并，成立基础模型部，由腾讯首席AI科学家姚顺雨管理，以提升模型研发和协同效率，探索全模态模型的智能上限。
+2、7月24日消息，LPU创业公司元川微完成Pre-A轮数亿元融资，由IDG资本领投，资金将用于LPU+芯片研发、软件生态建设及产品工程化推进，该公司由华为22年老兵杨滨创立。
+3、7月24日消息，白宫科技政策办公室主任Michael Kratsios公开指控月之暗面在开发Kimi K3时蒸馏了Anthropic的Claude Fable，引发中美AI争议，月之暗面尚未回应。
+4、7月24日消息，国家网信办、公安部联合公布《小型个人信息处理者个人信息保护简化措施规定》，自2026年9月1日起施行，旨在降低小型个人信息处理者合规成本。
+5、7月24日消息，阿里真武M890超节点成功适配Qwen3.8并上线阿里云百炼平台，这是国内首个成功运行超2万亿参数大模型的超节点。
+
+国际动态：
+1、7月24日消息，Stripe正洽谈以约100亿美元收购AI模型路由公司OpenRouter，后者估值13亿美元，帮助客户选择最优AI模型。
+2、7月24日消息，苹果与OpenAI之间的商业秘密诉讼持续发酵，焦点在于谁将定义后智能手机时代的AI格局。
+3、7月24日消息，英伟达创始人黄仁勋在加州海军研究生院启用DGX GB300系统，为美国军方提供顶级AI算力。
+4、7月24日消息，欧盟以违反竞争法为由对谷歌处以8.9亿欧元罚款，称有责任捍卫法治并向科技巨头发出强烈信号。
+5、7月24日消息，美国两党议员拟提出《AI紧急关闭法案》，要求AI公司按国土安全部命令关闭或限制其系统。
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 7月24日消息，腾讯宣布混元多模态模型部门与大语言模型部门合并，成立基础模型部，由腾讯首席AI科学家姚顺雨管理，以提升模型研发和协同效率，探索全模态模型的智能上限。
+   📋 入选理由: 中国公司腾讯的重大组织架构调整，直接影响其AI模型研发效率，属于重大商业动态。
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3909084356433025?f=rss
+   🏷️ 标签: 组织架构, AI模型, 腾讯
+
+2、🔥 7月24日消息，LPU创业公司元川微完成Pre-A轮数亿元融资，由IDG资本领投，资金将用于LPU+芯片研发、软件生态建设及产品工程化推进，该公司由华为22年老兵杨滨创立。
+   📋 入选理由: 中国AI芯片创业公司获得大额融资，涉及华为背景创始人和LPU芯片技术，属于重大商业动态。
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3909449232913795?f=rss
+   🏷️ 标签: 融资, AI芯片, LPU
+
+3、📌 7月24日消息，人工智能高质量数据生产运营商景联文科技完成近亿元A轮融资，投资方包括滨江金投、杭州金投等国资及产业资本，用于扩大AI数据生产与流通能力。
+   📋 入选理由: 中国AI数据公司获得近亿元融资，反映数据在AI竞争中的关键地位，属于重要商业动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/yanxishe/ngOQ8jWhVY9EAqHp.html
+   🏷️ 标签: 融资, AI数据, 具身智能
+
+4、📌 7月24日消息，字节跳动在中卫成立新科技公司，注册资本22亿元，进一步扩展其AI及科技业务布局。
+   📋 入选理由: 中国公司字节跳动成立新公司，注册资本巨大，属于重要商业动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/yanxishe/QYg8NFOX1UYDWoXQ.html
+   🏷️ 标签: 字节跳动, 公司成立, AI
+
+5、📌 7月24日消息，腾讯副总裁林松涛在WAIC上表示，腾讯Agent产品Marvis专注系统级操作，走差异化路线，同时WorkBuddy的DAU已稳居国内效率智能体产品第一。
+   📋 入选理由: 中国公司腾讯发布AI产品战略，涉及Agent产品布局，属于重要商业动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/LNHgLirIT5DvYfcV.html
+   🏷️ 标签: 腾讯, AI Agent, 系统级操作
+
+6、🔥 7月24日消息，白宫科技政策办公室主任Michael Kratsios公开指控月之暗面在开发Kimi K3时蒸馏了Anthropic的Claude Fable，引发中美AI争议，月之暗面尚未回应。
+   📋 入选理由: 涉及中国AI公司月之暗面被美国官方指控，属于重大政策与法规事件。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/chips/AGaAOgr50XhElaxq.html
+   🏷️ 标签: 月之暗面, Kimi K3, 蒸馏争议
+
+7、📌 7月24日消息，匿名模型Kivine在LMArena上线后迅速引发关注，外界猜测其可能是月之暗面尚未发布的下一代旗舰模型Kimi K3，具备百万上下文能力。
+   📋 入选理由: 中国AI公司月之暗面疑似发布新模型，属于重要产品发布动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/ai/XRwFfhV1xdAQfrac.html
+   🏷️ 标签: 月之暗面, Kimi K3, 模型发布
+
+8、📌 7月24日消息，腾讯混元多模态理解负责人胡瀚离职创业，此前他曾任微软亚洲研究院首席研究员，其原团队或将聚焦世界模型的前沿研究。
+   📋 入选理由: 中国公司腾讯AI团队核心人员变动，涉及世界模型研发方向，属于重要商业动态。
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3908051015488640?f=rss
+   🏷️ 标签: 腾讯, 人员变动, 世界模型
+
+9、📌 7月24日消息，通用AI机器人公司智元创新表示已启动赴港上市流程，成为AI机器人领域的重要上市动态。
+   📋 入选理由: 中国AI机器人公司启动上市流程，属于重要商业动态。
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3907676111983745?f=rss
+   🏷️ 标签: 智元, 上市, AI机器人
+
+10、📌 7月24日消息，Seed Edge团队正式发布Seed STEM科学家计划，拟邀请100位前沿科学领域学者，共同探索AI加速科学发现的可能性。
+   📋 入选理由: 中国AI团队发起学术合作计划，属于重要学术动态。
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3908881985901959?f=rss
+   🏷️ 标签: Seed Edge, AI科学, 学者计划
+
+11、🔥 7月24日消息，国家网信办、公安部联合公布《小型个人信息处理者个人信息保护简化措施规定》，自2026年9月1日起施行，旨在降低小型个人信息处理者合规成本。
+   📋 入选理由: 中国政府部门发布AI相关法规，属于重大政策与法规。
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3907639172027522?f=rss
+   🏷️ 标签: 政策法规, 个人信息保护, 网信办
+
+12、📌 7月24日消息，晶核能源总裁李延涛在2026年汽车热系统学术年会上发布全球首个电池仿生智能体系统，应用后开发周期缩短超60%，研发成本降低超50%。
+   📋 入选理由: 中国公司发布AI相关创新产品，属于重要产品发布动态。
+   📰 来源: 36氪 | 🔗 https://36kr.com/p/3907953777120385?f=rss
+   🏷️ 标签: 晶核能源, 电池仿生智能体, AI应用
+
+13、🔥 7月24日消息，阿里真武M890超节点成功适配Qwen3.8并上线阿里云百炼平台，这是国内首个成功运行超2万亿参数大模型的超节点。
+   📋 入选理由: 中国公司阿里云的重大技术突破，涉及超大规模模型推理，属于重大产品发布。
+   📰 来源: 36氪 | 🔗 https://36kr.com/newsflashes/3909405612905858?f=rss
+   🏷️ 标签: 阿里云, 真武芯片, Qwen3.8
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 7月24日消息，Stripe正洽谈以约100亿美元收购AI模型路由公司OpenRouter，后者估值13亿美元，帮助客户选择最优AI模型。
+   📋 入选理由: 重大商业并购，金额巨大，影响AI模型分发格局
+   📰 来源: The Information | 🔗 https://www.theinformation.com/articles/startups-angling-go-public-anthropic
+   🏷️ 标签: 并购, AI, 估值
+
+2、🔥 7月24日消息，苹果与OpenAI之间的商业秘密诉讼持续发酵，焦点在于谁将定义后智能手机时代的AI格局。
+   📋 入选理由: 重大法律纠纷，涉及AI行业未来方向定义权
+   📰 来源: The Verge AI | 🔗 https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive
+   🏷️ 标签: 诉讼, AI, 商业秘密
+
+3、📌 7月24日消息，Anthropic将Claude语音模式扩展至Opus和Sonnet模型，并集成至Gmail、Slack和Canva等应用。
+   📋 入选理由: 重要产品功能更新，提升用户体验和生态覆盖
+   📰 来源: The Verge AI | 🔗 https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai
+   🏷️ 标签: 产品发布, AI, 语音
+
+4、📌 7月24日消息，机器人初创公司Genesis AI正与投资者洽谈新一轮约5亿美元融资，估值达30亿美元。
+   📋 入选理由: 大额融资，反映机器人AI领域投资热度
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-07-23/robotics-startup-genesis-in-talks-to-raise-about-500-million
+   🏷️ 标签: 融资, 机器人, AI
+
+5、📌 7月24日消息，亚马逊关闭其旧金山AGI实验室，该团队致力于提升AI代理的实用性，作为AGI部门裁员的一部分。
+   📋 入选理由: 重大战略调整，关闭核心研究团队，影响AI代理研发
+   📰 来源: The Information | 🔗 https://www.theinformation.com/briefings/amazon-shuts-ai-agent-research-lab-agi-layoffs
+   🏷️ 标签: 裁员, AGI, AI代理
+
+6、📌 7月24日消息，韩国总统李在明在旧金山AI峰会上与英伟达及合作伙伴共同规划韩国AI发展蓝图。
+   📋 入选理由: 国家层面AI战略合作，涉及英伟达等关键企业
+   📰 来源: NVIDIA AI | 🔗 https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/
+   🏷️ 标签: 国际合作, AI, 英伟达
+
+7、🔥 7月24日消息，英伟达创始人黄仁勋在加州海军研究生院启用DGX GB300系统，为美国军方提供顶级AI算力。
+   📋 入选理由: 重大军事AI基础设施部署，标志性事件
+   📰 来源: NVIDIA AI | 🔗 https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/
+   🏷️ 标签: 军事AI, 超级计算机, 英伟达
+
+8、📌 7月24日消息，AI搜索与市场研究工具公司AlphaSense年经常性收入超7亿美元，正筹备未来数月内IPO。
+   📋 入选理由: 重要商业里程碑，AI企业IPO进展
+   📰 来源: The Information | 🔗 https://www.theinformation.com/articles/alphasense-tops-700-million-annual-recurring-revenue-takes-ipo-steps
+   🏷️ 标签: IPO, AI, 营收
+
+9、🔥 7月24日消息，欧盟以违反竞争法为由对谷歌处以8.9亿欧元罚款，称有责任捍卫法治并向科技巨头发出强烈信号。
+   📋 入选理由: 重大反垄断处罚，影响科技巨头全球运营
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2607.20462
+   🏷️ 标签: 反垄断, 罚款, 欧盟
+
+10、🔥 7月24日消息，美国两党议员拟提出《AI紧急关闭法案》，要求AI公司按国土安全部命令关闭或限制其系统。
+   📋 入选理由: 重大AI监管立法提案，可能重塑AI安全标准
+   📰 来源: Science Magazine | 🔗 https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public
+   🏷️ 标签: 立法, AI安全, 监管
+
+11、🔥 7月24日消息，英伟达与Amkor Technology签署15亿美元协议，以扩大美国本土芯片封装产能。
+   📋 入选理由: 重大供应链投资，强化美国半导体制造能力
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/c836e73b-66bb-4aa1-b85b-dd5b6eb89af0?syn-25a6b1a6=1
+   🏷️ 标签: 芯片封装, 投资, 英伟达
+
+12、📌 7月24日消息，SAP云产品销售额超预期，企业客户加速升级系统并采用AI产品套件。
+   📋 入选理由: 企业AI应用加速的商业信号
+   📰 来源: Science Magazine | 🔗 https://www.science.org/content/article/four-takeaways-our-investigation-hidden-gene-editing-death
+   🏷️ 标签: 企业AI, 云服务, 财报
+
+13、🔥 7月24日消息，白宫官员称中国AI公司月之暗面在泰国获取英伟达GB300芯片，违反美国对华出口禁令。
+   📋 入选理由: 重大出口管制违规事件，涉及中美科技博弈
+   📰 来源: Science Magazine | 🔗 https://www.science.org/content/article/genesis-mission-department-energy-s-big-ai-push-unveils-first-grants
+   🏷️ 标签: 出口管制, 芯片, 中美
+
+14、📌 7月24日消息，Runway推出AI模型路由器Media Router，可自动选择最佳图像、视频或音频生成模型。
+   📋 入选理由: 新产品发布，优化生成式AI工作流
+   📰 来源: The Verge AI | 🔗 https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal
+   🏷️ 标签: 产品发布, 生成式AI, 路由
+
+15、📌 7月24日消息，软银集团正考虑收购瑞士机器人初创公司Gravis Robotics，押注AI驱动的机器人技术。
+   📋 入选理由: 潜在重大并购，软银持续布局AI机器人领域
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-07-23/nvidia-signs-1-5-billion-accord-with-amkor-for-chip-packaging
+   🏷️ 标签: 并购, 机器人, 软银
+
+16、📌 7月24日消息，谷歌母公司Alphabet因AI投资支出增加导致股价下跌7%，华尔街对科技巨头AI资本支出策略表示质疑。
+   📋 入选理由: 市场对AI投资回报的担忧信号
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-07-23/sap-cloud-revenue-beats-estimates-as-legacy-support-nears-cutoff
+   🏷️ 标签: 市场反应, AI投资, 谷歌
+
+17、📌 7月24日消息，Alphabet在AI初创公司Anthropic的持股价值飙升至约1240亿美元，成为其史上最成功投资之一。
+   📋 入选理由: 重大投资增值，反映AI公司估值飙升
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2607.20493
+   🏷️ 标签: 投资, 估值, Anthropic
+
+18、📌 7月24日消息，AI客服公司Sierra收购AI代理初创公司Takeoff，以拓展业务多元化。
+   📋 入选理由: AI代理领域并购，行业整合趋势
+   📰 来源: CNBC Tech | 🔗 https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html
+   🏷️ 标签: 并购, AI代理, 客服
+
+19、🔥 7月24日消息，OpenAI向全美用户推出ChatGPT Health，允许连接医疗记录，并声称模型具备医疗级推理能力。
+   📋 入选理由: 重大产品发布，AI进入医疗健康领域，涉及安全与伦理
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/
+   🏷️ 标签: 产品发布, 医疗AI, ChatGPT
+
+
+======================================================================
+📊 今日总结: 今日从189条原始信息中精选出13条国内动态和19条国际动态，其中13条为高重要性。 重点关注：腾讯混元组织架构再升级，合并大语言模型和多模态团队，加速模型研发；独家丨华为22年老兵从AI终局倒推LPU，元川微完成新一轮数亿元融资；白宫下场亲自「围攻」Kimi K3，评论区全员唱反调？。
+======================================================================
