@@ -1,0 +1,550 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28 10:39:56",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "UCLA博士团队创业做人形机器人基础模型，拿下近5亿元天使++轮融资｜硬氪首发",
+      "summary": "7月28日消息，德塔智能完成近5亿元天使++轮融资，由多家上市公司产业方和头部财务投资机构投资，资金将用于人形机器人基础模型迭代、数采设备量产及核心团队扩充。",
+      "importance": "高",
+      "reason": "重大商业动态，大额融资，涉及人形机器人基础模型，中国创业公司",
+      "tags": [
+        "投资",
+        "人形机器人",
+        "融资"
+      ],
+      "url": "https://36kr.com/p/3913213962540164?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-28 10:38:46",
+      "impact_score": 342.5
+    },
+    {
+      "index": 2,
+      "title": "2026年，为什么资本更青睐“会赚钱”的AI应用？",
+      "summary": "7月28日消息，月之暗面发布Kimi K3模型后估值半年翻6倍至300亿美元，并推进赴港IPO，创始人杨植麟表示2026年聚焦Agent，不以绝对用户数量为目标。",
+      "importance": "高",
+      "reason": "重大商业动态，中国AI公司估值飙升及IPO进展",
+      "tags": [
+        "IPO",
+        "估值",
+        "大模型"
+      ],
+      "url": "https://36kr.com/p/3913706151400583?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-27 09:48:07",
+      "impact_score": 322.5
+    },
+    {
+      "index": 3,
+      "title": "8点1氪丨李斌现身长鑫科技答谢晚宴；瑞幸打赢“泰国瑞幸”，获赔近2000万；澳门政府发布美素佳儿奶粉铅超标事件最新检测结果",
+      "summary": "7月28日消息，长鑫科技登陆科创板，收盘涨幅465.82%，总市值3.31万亿元，蔚来战略配售1.58亿元，浮盈超7亿，李斌现身答谢晚宴。",
+      "importance": "高",
+      "reason": "重大商业动态，中国存储龙头上市，市值巨大",
+      "tags": [
+        "上市",
+        "科创板",
+        "存储"
+      ],
+      "url": "https://www.leiphone.com/category/ai/W2vBQuWfmmiIJOtO.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-28 06:24:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 4,
+      "title": "最前线 | 最大起飞重量8吨的无人货运 eVTOL，牧羽天航空飞行重卡AT8000整机机身下线",
+      "summary": "7月28日消息，牧羽天航空飞行重卡AT8000整机机身下线，最大起飞重量8吨，为全球已知最大eVTOL，标志中国在重载低空物流装备领域实现全球领跑。",
+      "importance": "高",
+      "reason": "重大产品发布，中国在低空经济领域的里程碑突破",
+      "tags": [
+        "eVTOL",
+        "低空经济",
+        "突破"
+      ],
+      "url": "https://36kr.com/p/3913637793059968?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-28 09:24:01",
+      "impact_score": 256.0
+    },
+    {
+      "index": 5,
+      "title": "Kimi K3 发布 47 页技术报告，最有价值的创新点是这些",
+      "summary": "7月28日消息，月之暗面发布Kimi K3技术报告，模型总参数2.8T、激活参数104B、支持100万token上下文，创新点在于解决长上下文Agent场景下的架构和训练系统问题。",
+      "importance": "高",
+      "reason": "重大产品发布，中国大模型技术突破",
+      "tags": [
+        "大模型",
+        "发布",
+        "技术报告"
+      ],
+      "url": "https://36kr.com/p/3915057199535233?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-28 08:42:58",
+      "impact_score": 225.0
+    },
+    {
+      "index": 6,
+      "title": "国内首个！阿里Qoder上线实时语音交互智能体，让Agent像真人一样交流干活",
+      "summary": "7月28日消息，阿里Qoder上线国内首个实时语音交互智能体Qoder Voice，由实时全双工语音模型Qwen-Audio-3.0-Realtime驱动，用户可语音唤醒并实时互动执行任务。",
+      "importance": "高",
+      "reason": "重大产品发布，中国AI公司推出创新交互模式",
+      "tags": [
+        "AI",
+        "语音交互",
+        "智能体"
+      ],
+      "url": "https://36kr.com/p/3914520847570307?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-27 23:36:45",
+      "impact_score": 225.0
+    },
+    {
+      "index": 7,
+      "title": "长鑫科技今日登陆科创板！员工：和我们没啥关系，更关心未来薪资、待遇；日方拆完宇树机器人，认输了；黄仁勋、马斯克就中国AI同日发声",
+      "summary": "7月28日消息，日本技术人员发布宇树G1拆机视频后认输，称短期内赶不上中国；长鑫科技上市；月之暗面Kimi K3夜店庆功；华为李小龙谈手机电池锁容量。",
+      "importance": "中",
+      "reason": "重大商业动态，中国机器人技术获国际认可，长鑫科技上市",
+      "tags": [
+        "机器人",
+        "上市",
+        "大模型"
+      ],
+      "url": "https://36kr.com/p/3912369056240772?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-27 08:23:39",
+      "impact_score": 221.0
+    },
+    {
+      "index": 8,
+      "title": "氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业成本核算模型通则》发布，引导行业有序竞争",
+      "summary": "7月28日消息，小米MiMo-V2.5登OpenRouter全球大模型调用量周榜、月榜双第一，成为当周全球调用量唯一突破10T的模型。",
+      "importance": "中",
+      "reason": "重大商业动态，中国AI模型在全球调用量领先",
+      "tags": [
+        "大模型",
+        "调用量",
+        "小米"
+      ],
+      "url": "https://36kr.com/newsflashes/3915132358956418?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-28 10:05:30",
+      "impact_score": 210.0
+    },
+    {
+      "index": 9,
+      "title": "Kimi K3、Unlimited OCR包揽全球前二，中国开源模型持续刷屏海外",
+      "summary": "7月28日消息，Kimi K3和Unlimited OCR包揽全球开源模型榜单前二，中国开源模型持续在海外获得关注。",
+      "importance": "中",
+      "reason": "重大产品发布，中国开源模型全球领先",
+      "tags": [
+        "开源",
+        "大模型",
+        "榜单"
+      ],
+      "url": "https://www.leiphone.com/category/ai/z5MDzpTPInNSRTkt.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-28 06:37:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 10,
+      "title": "清华博士团队创业，这家公司要给飞机做氢能「心脏」｜36氪首发",
+      "summary": "7月28日消息，易氢动力完成数千万元天使+轮融资，由红鸟启航基金等领投，资金用于航空级液冷燃料电池产品开发及验证，推动氢能航空技术商业化。",
+      "importance": "中",
+      "reason": "重大商业动态，中国氢能航空创业公司获融资",
+      "tags": [
+        "融资",
+        "氢能",
+        "航空"
+      ],
+      "url": "https://36kr.com/p/3913529825039745?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-28 03:34:04",
+      "impact_score": 210.0
+    },
+    {
+      "index": 11,
+      "title": "长鑫科技批量造富：12名核心成员身家过亿，碧桂园却卖飞痛失490亿；哈啰电车骑行中断电落锁致博士十级伤残；月之暗面开源Kimi K3模型",
+      "summary": "7月28日消息，月之暗面开源Kimi K3模型，参数规模2.8万亿；长鑫科技上市造富12名核心成员身家过亿；哈啰电车骑行中断电落锁致博士十级伤残。",
+      "importance": "中",
+      "reason": "重大产品发布，中国大模型开源；重大商业动态，长鑫科技上市",
+      "tags": [
+        "开源",
+        "大模型",
+        "上市"
+      ],
+      "url": "https://www.leiphone.com/category/ai/Y7Md1KutNgNzfyFH.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-28 07:11:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 12,
+      "title": "阿里云真武超节点Day0适配Kimi K3大模型，双方展开国产算力合作",
+      "summary": "7月28日消息，阿里云真武M890超节点实例Day0适配Kimi K3，成为国内首个跑通近3万亿参数模型的超节点，双方将展开国产算力合作。",
+      "importance": "中",
+      "reason": "重大商业动态，中国国产算力与大模型合作",
+      "tags": [
+        "合作",
+        "国产算力",
+        "大模型"
+      ],
+      "url": "https://www.leiphone.com/category/private/KaA5T40NOj9bLBM3.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-27 02:29:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 13,
+      "title": "超维动力携手北大医疗：务实构建具身智能医疗落地路径",
+      "summary": "7月28日消息，超维动力与北大医疗达成合作，围绕具身智能在医疗场景的数据采集、世界模型与仿真训练展开联合创新，构建从拟真训练到医院应用的落地路径。",
+      "importance": "中",
+      "reason": "重大商业动态，中国具身智能医疗合作",
+      "tags": [
+        "合作",
+        "具身智能",
+        "医疗"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/Le7pnnrg155qtynu.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-28 07:26:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 14,
+      "title": "金山办公：预计2026年半年度净利润同比增长209.98%-263.89%",
+      "summary": "7月28日消息，金山办公预计2026年上半年净利润同比增长209.98%-263.89%，因AI能力与办公场景深度融合，研发投入转化为商业化成果。",
+      "importance": "中",
+      "reason": "重大商业动态，中国AI办公公司业绩大幅增长",
+      "tags": [
+        "业绩",
+        "AI",
+        "办公"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/HGxBBy0zagYMlNHt.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-27 00:54:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 15,
+      "title": "OPPO 宣布启动小布Next计划，开放首个端侧Multi-Agent系统内测",
+      "summary": "7月28日消息，OPPO启动小布Next计划，开放行业首个端侧Multi-Agent协同系统内测，搭载端侧全域记忆系统，提供主动服务能力。",
+      "importance": "中",
+      "reason": "重大产品发布，中国手机厂商推出端侧AI创新",
+      "tags": [
+        "AI",
+        "端侧",
+        "智能体"
+      ],
+      "url": "https://www.leiphone.com/category/ai/04XawISL9c51HVxB.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-27 11:18:00",
+      "impact_score": 180.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Nvidia bets $5bn on Ilya Sutskever’s AI breakthrough",
+      "summary": "7月28日消息，英伟达向Ilya Sutskever的Safe Superintelligence投资50亿美元，助其使用Vera Rubin芯片快速扩展计算能力以推进超级智能研究。",
+      "importance": "高",
+      "reason": "重大商业动态，英伟达巨额投资顶级AI研究机构，涉及超级智能突破",
+      "tags": [
+        "英伟达",
+        "超级智能",
+        "投资"
+      ],
+      "url": "https://www.ft.com/content/5c78dec1-b6d6-415e-9456-f1ab5eed6146?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-07-27 17:20:13",
+      "impact_score": 270.0
+    },
+    {
+      "index": 2,
+      "title": "Nvidia’s $750 Billion in Deals Reignite Circular AI Fears",
+      "summary": "7月28日消息，英伟达正在推进超过7500亿美元的AI交易，加速投资引发市场对AI需求与估值虚高的担忧。",
+      "importance": "高",
+      "reason": "重大商业动态，英伟达巨额交易规模影响全球AI产业格局",
+      "tags": [
+        "英伟达",
+        "AI投资",
+        "市场担忧"
+      ],
+      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+      "source": "MIT Technology Review",
+      "original_pub_date": "2026-07-27 12:00:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 3,
+      "title": "Trump Administration Nears AI Framework as Open-Source Questions Loom",
+      "summary": "7月28日消息，特朗普政府接近完成AI自愿框架，要求公司在发布前沿模型前提交政府审查，开源问题引发争议。",
+      "importance": "高",
+      "reason": "重大政策与法规，美国AI监管框架即将出台",
+      "tags": [
+        "美国",
+        "AI监管",
+        "开源"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/cxmt-founder-zhu-yiming-pledges-5-6-billion-in-worker-bonuses-after-china-ipo",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-27 09:42:15",
+      "impact_score": 255.0
+    },
+    {
+      "index": 4,
+      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+      "summary": "7月28日消息，Anthropic创始人Dario Amodei表示不反对开源权重模型，但担忧中国AI能力崛起带来的风险。",
+      "importance": "中",
+      "reason": "重大商业动态，AI领袖对开源与中美竞争表态",
+      "tags": [
+        "Anthropic",
+        "开源",
+        "中美竞争"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/angola-raises-321-million-through-nation-s-biggest-ipo",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-27 18:55:52",
+      "impact_score": 240.0
+    },
+    {
+      "index": 5,
+      "title": "Anthropic’s Amodei Rejects Open Model Ban, Calls for Testing",
+      "summary": "7月28日消息，Anthropic的Dario Amodei与英伟达黄仁勋反对美国对开源AI系统实施禁令，呼吁加强测试而非限制。",
+      "importance": "中",
+      "reason": "重大政策与法规，硅谷领袖反对开源禁令",
+      "tags": [
+        "Anthropic",
+        "英伟达",
+        "开源禁令"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-27 10:20:03",
+      "impact_score": 240.0
+    },
+    {
+      "index": 6,
+      "title": "Nvidia behind $50bn lease on Texas data centre that will use its chips",
+      "summary": "7月28日消息，英伟达支持一项500亿美元租赁协议，在得克萨斯州建设使用其芯片的数据中心，以支撑AI计算市场增长。",
+      "importance": "中",
+      "reason": "重大商业动态，英伟达大规模数据中心投资",
+      "tags": [
+        "英伟达",
+        "数据中心",
+        "得克萨斯"
+      ],
+      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-07-28 00:13:33",
+      "impact_score": 229.5
+    },
+    {
+      "index": 7,
+      "title": "Nvidia Makes Multibillion Dollar Investment in Ilya Sutskever’s Safe Superintelligence",
+      "summary": "7月28日消息，英伟达对Ilya Sutskever的Safe Superintelligence进行数十亿美元投资，助其明年计算资源提升10倍。",
+      "importance": "中",
+      "reason": "重大商业动态，英伟达加码超级智能研究",
+      "tags": [
+        "英伟达",
+        "超级智能",
+        "投资"
+      ],
+      "url": "https://arxiv.org/abs/2607.21626",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-07-28 04:00:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 8,
+      "title": "Nvidia’s New Rubin Servers Offer Early Relief to Cloud Providers",
+      "summary": "7月28日消息，英伟达下一代Rubin芯片服务器有望缓解云提供商的数据中心部署难题，带来早期利好。",
+      "importance": "中",
+      "reason": "重大产品发布，英伟达新芯片进展",
+      "tags": [
+        "英伟达",
+        "Rubin芯片",
+        "云服务"
+      ],
+      "url": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
+      "source": "Wired AI",
+      "original_pub_date": "2026-07-28 10:00:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 9,
+      "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+      "summary": "7月28日消息，Ilya Sutskever的Safe Superintelligence宣布与英伟达建立长期合作伙伴关系，以扩展其AI研究规模。",
+      "importance": "中",
+      "reason": "重大商业动态，超级智能研究机构与芯片巨头合作",
+      "tags": [
+        "超级智能",
+        "英伟达",
+        "合作"
+      ],
+      "url": "https://www.theinformation.com/articles/investors-panic-nvidias-commitments",
+      "source": "The Information",
+      "original_pub_date": "2026-07-28 00:01:25",
+      "impact_score": 210.0
+    },
+    {
+      "index": 10,
+      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+      "summary": "7月28日消息，微软推出其首个AI安全模型及新的智能体网络安全系统，强化AI在安全领域的应用。",
+      "importance": "中",
+      "reason": "重大产品发布，微软AI安全新品",
+      "tags": [
+        "微软",
+        "AI安全",
+        "产品发布"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/anthropic-s-amodei-rejects-open-model-ban-but-calls-for-testing",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-28 01:51:32",
+      "impact_score": 195.0
+    },
+    {
+      "index": 11,
+      "title": "Microsoft Launches Mythos Competitor, New Homegrown AI for Cybersecurity",
+      "summary": "7月28日消息，微软发布名为Project Perception的AI安全产品，基于自研模型，定位为Anthropic Mythos的廉价替代方案。",
+      "importance": "中",
+      "reason": "重大产品发布，微软AI安全竞争产品",
+      "tags": [
+        "微软",
+        "AI安全",
+        "竞争"
+      ],
+      "url": "https://www.ft.com/content/30148bfe-3628-4072-a973-facce5ca564e?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-07-27 03:00:03",
+      "impact_score": 195.0
+    },
+    {
+      "index": 12,
+      "title": "Meta, BlackRock Plan to Invest in $14 Billion Texas Data Center",
+      "summary": "7月28日消息，Meta与贝莱德计划合资在得克萨斯州建设14亿美元、1吉瓦的数据中心，以支持AI计算需求。",
+      "importance": "中",
+      "reason": "重大商业动态，科技巨头与资管公司联合投资AI基础设施",
+      "tags": [
+        "Meta",
+        "贝莱德",
+        "数据中心"
+      ],
+      "url": "https://arxiv.org/abs/2607.21600",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-07-28 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 13,
+      "title": "Why Investors Shouldn’t Panic About Nvidia’s Commitments",
+      "summary": "7月28日消息，英伟达与SK集团达成5000亿美元合作，并洽谈为OpenAI融资5000亿美元数据中心，引发市场波动但分析师建议不必恐慌。",
+      "importance": "中",
+      "reason": "重大商业动态，英伟达巨额合作与融资计划",
+      "tags": [
+        "英伟达",
+        "SK集团",
+        "OpenAI"
+      ],
+      "url": "https://www.ft.com/content/685014e7-47dd-471b-a585-1b9b73ce5d6f?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-07-28 04:00:15",
+      "impact_score": 180.0
+    },
+    {
+      "index": 14,
+      "title": "Robotics Startup Tacta Shows Its Hand (and Glove)",
+      "summary": "7月28日消息，机器人初创公司Tacta展示专用手套，通过人类操作收集数据以训练人形机器人AI模型。",
+      "importance": "低",
+      "reason": "重大商业动态，机器人数据采集创新",
+      "tags": [
+        "机器人",
+        "数据采集",
+        "初创公司"
+      ],
+      "url": "https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-07-27 14:19:43",
+      "impact_score": 165.0
+    },
+    {
+      "index": 15,
+      "title": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
+      "summary": "7月28日消息，Anthropic和OpenAI员工预计在公司IPO后慷慨捐赠，非营利组织已做好准备迎接科技新贵。",
+      "importance": "低",
+      "reason": "重大商业动态，AI公司IPO预期与慈善影响",
+      "tags": [
+        "Anthropic",
+        "OpenAI",
+        "IPO"
+      ],
+      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+      "source": "MIT Technology Review",
+      "original_pub_date": "2026-07-27 11:40:16",
+      "impact_score": 165.0
+    }
+  ],
+  "summary": "今日从166条原始信息中精选出15条国内动态和15条国际动态，其中9条为高重要性。 重点关注：UCLA博士团队创业做人形机器人基础模型，拿下近5亿元天使++轮融资｜硬氪首发；2026年，为什么资本更青睐“会赚钱”的AI应用？；8点1氪丨李斌现身长鑫科技答谢晚宴；瑞幸打赢“泰国瑞幸”，获赔近2000万；澳门政府发布美素佳儿奶粉铅超标事件最新检测结果。",
+  "statistics": {
+    "raw_domestic": 42,
+    "raw_international": 124,
+    "raw_total": 166,
+    "final_domestic": 15,
+    "final_international": 15
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "7月28日消息，德塔智能完成近5亿元天使++轮融资，由多家上市公司产业方和头部财务投资机构投资，资金将用于人形机器人基础模型迭代、数采设备量产及核心团队扩充。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "7月28日消息，月之暗面发布Kimi K3模型后估值半年翻6倍至300亿美元，并推进赴港IPO，创始人杨植麟表示2026年聚焦Agent，不以绝对用户数量为目标。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "7月28日消息，长鑫科技登陆科创板，收盘涨幅465.82%，总市值3.31万亿元，蔚来战略配售1.58亿元，浮盈超7亿，李斌现身答谢晚宴。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "7月28日消息，牧羽天航空飞行重卡AT8000整机机身下线，最大起飞重量8吨，为全球已知最大eVTOL，标志中国在重载低空物流装备领域实现全球领跑。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "7月28日消息，月之暗面发布Kimi K3技术报告，模型总参数2.8T、激活参数104B、支持100万token上下文，创新点在于解决长上下文Agent场景下的架构和训练系统问题。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "7月28日消息，英伟达向Ilya Sutskever的Safe Superintelligence投资50亿美元，助其使用Vera Rubin芯片快速扩展计算能力以推进超级智能研究。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "7月28日消息，英伟达正在推进超过7500亿美元的AI交易，加速投资引发市场对AI需求与估值虚高的担忧。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "7月28日消息，特朗普政府接近完成AI自愿框架，要求公司在发布前沿模型前提交政府审查，开源问题引发争议。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "7月28日消息，Anthropic创始人Dario Amodei表示不反对开源权重模型，但担忧中国AI能力崛起带来的风险。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "7月28日消息，Anthropic的Dario Amodei与英伟达黄仁勋反对美国对开源AI系统实施禁令，呼吁加强测试而非限制。",
+      "importance": "中"
+    }
+  ]
+}
