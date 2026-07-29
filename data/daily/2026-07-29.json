@@ -1,0 +1,566 @@
+{
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29 10:43:28",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "在大模型的下一阶段议题上，我们找到了一家做持续学习的中国Neo Lab",
+      "summary": "7月29日消息，中国AI实验室Mind Lab成立并押注持续学习技术，团队来自xAI、DeepMind、DeepSeek等，致力于推动大模型下一阶段发展。",
+      "importance": "高",
+      "reason": "中国AI实验室成立，聚焦前沿持续学习技术，团队背景强大，具有重大技术突破潜力。",
+      "tags": [
+        "大模型",
+        "持续学习",
+        "AI实验室"
+      ],
+      "url": "https://36kr.com/p/3916202023660929?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-29 04:10:36",
+      "impact_score": 396.0
+    },
+    {
+      "index": 2,
+      "title": "小米连续8年上榜《财富》世界500强：排名232创新高，“人车家全生态”战略释放增长动能",
+      "summary": "7月29日消息，小米集团连续8年上榜《财富》世界500强，位列第232位创新高，AI加速重构“人车家全生态”产品与场景，推动经营质量提升。",
+      "importance": "中",
+      "reason": "中国公司小米的全球排名提升，反映AI战略成效，属于重要商业动态。",
+      "tags": [
+        "小米",
+        "世界500强",
+        "人车家全生态"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/zULUfH2xUCd8RoAK.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-28 11:08:00",
+      "impact_score": 385.0
+    },
+    {
+      "index": 3,
+      "title": "天普股份：未来36个月内，中昊芯英不存在通过上市公司借壳上市的计划或安排",
+      "summary": "7月29日消息，中国AI芯片企业中昊芯英启动独立IPO并完成股份制改造，否认借壳天普股份上市，公司无开展AI相关业务计划。",
+      "importance": "中",
+      "reason": "中国AI芯片企业IPO进展，涉及资本市场动态，但存在炒作风险。",
+      "tags": [
+        "中昊芯英",
+        "IPO",
+        "AI芯片"
+      ],
+      "url": "https://36kr.com/newsflashes/3916565023141507?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-29 10:27:51",
+      "impact_score": 352.5
+    },
+    {
+      "index": 4,
+      "title": "UCLA博士团队创业做人形机器人基础模型，拿下近5亿元天使++轮融资｜硬氪首发",
+      "summary": "7月29日消息，中国人形机器人基础模型公司德塔智能完成近5亿元天使++轮融资，投资方包括多家产业方和财务机构，半年内完成第六轮融资。",
+      "importance": "高",
+      "reason": "中国公司获得大额融资，聚焦人形机器人基础模型，属于重大商业动态。",
+      "tags": [
+        "德塔智能",
+        "人形机器人",
+        "融资"
+      ],
+      "url": "https://36kr.com/p/3913213962540164?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-28 10:38:46",
+      "impact_score": 342.5
+    },
+    {
+      "index": 5,
+      "title": "月之暗面Kimi已完成超35亿美元F轮融资，投后估值涨至350亿美元",
+      "summary": "7月29日消息，中国AI公司月之暗面Kimi完成超35亿美元F轮融资，投后估值涨至350亿美元，G轮融资已提前启动，投前估值升至500亿美元。",
+      "importance": "高",
+      "reason": "中国AI公司获得巨额融资，估值极高，属于重大商业动态。",
+      "tags": [
+        "月之暗面",
+        "Kimi",
+        "融资"
+      ],
+      "url": "https://36kr.com/newsflashes/3916524344045192?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-29 09:34:35",
+      "impact_score": 292.5
+    },
+    {
+      "index": 6,
+      "title": "柔性触觉感知企业获新一轮融资，预计2026年公司营收翻10倍｜硬氪首发",
+      "summary": "7月29日消息，中国柔性触觉感知企业尧乐科技完成Pre-A+轮融资，由鼎和高达领投，资金用于柔性织物传感技术研发，加速具身智能场景落地。",
+      "importance": "中",
+      "reason": "中国公司获得融资，聚焦具身智能传感器，属于重要商业动态。",
+      "tags": [
+        "尧乐科技",
+        "柔性触觉",
+        "融资"
+      ],
+      "url": "https://36kr.com/p/3915175290901889?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-29 01:30:00",
+      "impact_score": 286.0
+    },
+    {
+      "index": 7,
+      "title": "科氪 | 定义AI睡眠健康新赛道 东莞数字人体与智慧睡眠创新联合体落地慕思",
+      "summary": "7月29日消息，中国慕思联合华中科技大学成立东莞市数字人体与智慧睡眠创新联合体，聘任中科院院士尹周平为首席科学家，推动AI睡眠健康技术发展。",
+      "importance": "中",
+      "reason": "中国企业与高校合作成立创新联合体，聚焦AI睡眠健康，属于重要产学研动态。",
+      "tags": [
+        "慕思",
+        "数字人体",
+        "AI睡眠"
+      ],
+      "url": "https://36kr.com/p/3915953688604296?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-28 23:54:15",
+      "impact_score": 270.0
+    },
+    {
+      "index": 8,
+      "title": "《中华人民共和国反网络暴力法（征求意见稿）》公开征求意见",
+      "summary": "7月29日消息，国家互联网信息办公室会同有关部门起草《中华人民共和国反网络暴力法（征求意见稿）》，向社会公开征求意见，旨在加强反网络暴力工作。",
+      "importance": "高",
+      "reason": "中国国家层面立法，涉及AI相关网络治理，属于重大政策法规。",
+      "tags": [
+        "反网络暴力法",
+        "立法",
+        "网络治理"
+      ],
+      "url": "https://36kr.com/p/3915239611739781?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-28 11:48:20",
+      "impact_score": 266.0
+    },
+    {
+      "index": 9,
+      "title": "36氪研究院 | 2026年中国智能硬件行业发展研究报告",
+      "summary": "7月29日消息，36氪研究院发布2026年中国智能硬件行业发展研究报告，指出AI技术加速渗透，80.8%消费者已购买或使用AI硬件产品，端侧AI芯片等取得突破。",
+      "importance": "中",
+      "reason": "中国智能硬件行业研究报告，反映国内AI硬件市场趋势，属于重要行业动态。",
+      "tags": [
+        "智能硬件",
+        "AI",
+        "行业报告"
+      ],
+      "url": "https://36kr.com/newsflashes/3916563593850247?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-29 10:14:30",
+      "impact_score": 260.0
+    },
+    {
+      "index": 10,
+      "title": "氪星晚报｜Meta宣布与贝莱德达成战略合作，将在埃尔帕索开发数据中心；“国科超导”完成超亿元融资；我国启动人工智能大模型IPv6能力提升专项行动",
+      "summary": "7月29日消息，我国启动人工智能大模型IPv6能力提升专项行动，推动AI大模型与IPv6技术融合，提升网络能力。",
+      "importance": "高",
+      "reason": "中国国家层面启动AI大模型IPv6专项行动，属于重大政策法规。",
+      "tags": [
+        "IPv6",
+        "大模型",
+        "专项行动"
+      ],
+      "url": "https://36kr.com/p/3915066350327176?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-28 23:30:00",
+      "impact_score": 251.0
+    },
+    {
+      "index": 11,
+      "title": "自研SNN类脑芯片、做医疗设备的“上游大脑”，「米能科技」获数千万元融资｜36氪首发",
+      "summary": "7月29日消息，中国类脑芯片企业米能科技完成数千万元融资，由仙居蓝湾基金、锡创投联合投资，资金用于医疗级标准化模组量产迭代。",
+      "importance": "中",
+      "reason": "中国公司获得融资，聚焦SNN类脑芯片，属于重要商业动态。",
+      "tags": [
+        "米能科技",
+        "类脑芯片",
+        "融资"
+      ],
+      "url": "https://36kr.com/newsflashes/3916533010722177?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-29 09:49:25",
+      "impact_score": 240.0
+    },
+    {
+      "index": 12,
+      "title": "周鸿祎用纳米Work 30天改造360：企业AI化，老板要先用",
+      "summary": "7月29日消息，360集团创始人周鸿祎发布纳米Work企业智能体工作平台，称30天内用其改造360，推动智能体进入真实办公和业务流程。",
+      "importance": "中",
+      "reason": "中国公司发布企业AI平台，属于重要产品发布。",
+      "tags": [
+        "360",
+        "纳米Work",
+        "企业AI"
+      ],
+      "url": "https://36kr.com/p/3913321294369924?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-28 11:39:56",
+      "impact_score": 240.0
+    },
+    {
+      "index": 13,
+      "title": "当AI学会“仿真思维”，教师才能回归育人本质——从“工具效率”到“认知理解”，教育AI进入深水区",
+      "summary": "7月29日消息，教育部等五部门印发《“人工智能+教育”行动计划》，要求分层提升教师AI数字素养，构建人机协同的新型课堂模式。",
+      "importance": "高",
+      "reason": "中国国家层面发布AI教育行动计划，属于重大政策法规。",
+      "tags": [
+        "人工智能+教育",
+        "政策",
+        "教师素养"
+      ],
+      "url": "https://36kr.com/p/3878652674715905?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-29 00:15:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 14,
+      "title": "豪能股份：拟投建机器人关节减速器生产基地项目，项目计划投资10亿元",
+      "summary": "7月29日消息，中国公司豪能股份拟投资10亿元在泸州建设机器人关节减速器生产基地，年产500万件，以把握机器人产业发展机遇。",
+      "importance": "中",
+      "reason": "中国公司大额投资机器人核心部件，属于重要商业动态。",
+      "tags": [
+        "豪能股份",
+        "机器人",
+        "减速器"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/NUlmI6oIv8mgLWxI.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-29 05:05:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 15,
+      "title": "国内首个！阿里Qoder上线实时语音交互智能体，让Agent像真人一样交流干活",
+      "summary": "7月29日消息，阿里Qoder上线国内首个实时语音交互智能体Qoder Voice，由Qwen-Audio-3.0-Realtime模型驱动，实现用户与Agent实时语音互动。",
+      "importance": "高",
+      "reason": "中国公司发布国内首个实时语音交互智能体，属于重大产品发布。",
+      "tags": [
+        "阿里",
+        "Qoder",
+        "语音交互"
+      ],
+      "url": "https://www.leiphone.com/category/ai/Y7Md1KutNgNzfyFH.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-28 07:11:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 16,
+      "title": "萝卜快跑跑通全球首例右舵全无人 伦敦接力开启公开道路测试",
+      "summary": "7月29日消息，百度萝卜快跑在伦敦启动公开道路测试，这是中国无人车首次在英国右舵路况下实地测试，计划2027年提供无人驾驶出行服务。",
+      "importance": "高",
+      "reason": "中国公司无人驾驶技术取得国际突破，属于重大产品发布。",
+      "tags": [
+        "百度",
+        "萝卜快跑",
+        "无人驾驶"
+      ],
+      "url": "https://36kr.com/newsflashes/3916572581342851?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-29 10:33:34",
+      "impact_score": 195.0
+    },
+    {
+      "index": 17,
+      "title": "OceanBase回应融资报道：全力投入AI数据创新，与资本市场保持开放沟通",
+      "summary": "7月29日消息，中国数据库公司OceanBase回应融资报道，表示将全力投入AI数据创新，与资本市场保持开放沟通。",
+      "importance": "中",
+      "reason": "中国公司回应融资传闻，涉及AI数据创新，属于重要商业动态。",
+      "tags": [
+        "OceanBase",
+        "融资",
+        "AI数据"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/Le7pnnrg155qtynu.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-28 07:26:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 18,
+      "title": "GAIR Paper 111 | 谁动了我的大模型？IJCAI 2026最新综述揭秘大模型“隐式身份”防伪战",
+      "summary": "7月29日消息，IJCAI 2026发布大模型身份认证综述，揭示大模型面临恶意蒸馏、套壳等风险，提出建立LLM身份认证机制。",
+      "importance": "中",
+      "reason": "国际会议发布大模型安全综述，涉及中国研究机构参与，属于重要学术动态。",
+      "tags": [
+        "大模型",
+        "安全",
+        "身份认证"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/wBq37lyzbyhtGza5.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-28 08:46:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 19,
+      "title": "独揽 IJCAI 2026 两大 Tutorial！清华王鑫团队如何用「OOD泛化」夺取生成式 AI 的国际定义权？",
+      "summary": "7月29日消息，清华大学王鑫团队在IJCAI 2026上独揽两个Tutorial，聚焦OOD泛化与生成式AI，彰显中国在AI领域的学术话语权。",
+      "importance": "高",
+      "reason": "中国高校团队在国际顶级AI会议获得重要学术认可，属于重大学术突破。",
+      "tags": [
+        "清华大学",
+        "IJCAI",
+        "OOD泛化"
+      ],
+      "url": "https://www.qbitai.com/2026/07/462380.html",
+      "source": "量子位",
+      "original_pub_date": "2026-07-29 06:39:43",
+      "impact_score": 180.0
+    },
+    {
+      "index": 20,
+      "title": "超越OpenAI、Anthropic！国产AI安全智能体杀进全球前四、国内第一",
+      "summary": "7月29日消息，国产AI安全智能体在权威评测中超越OpenAI、Anthropic，杀进全球前四、国内第一，展现中国AI安全技术实力。",
+      "importance": "高",
+      "reason": "中国AI安全产品取得全球领先排名，属于重大产品发布。",
+      "tags": [
+        "AI安全",
+        "智能体",
+        "国产"
+      ],
+      "url": "https://www.leiphone.com/category/private/zMLBm0T9HRKVLIaF.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-28 09:29:00",
+      "impact_score": 180.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+      "summary": "7月29日消息，Anthropic创始人兼CEO Dario Amodei明确表示不反对开源权重模型，但对中国的AI能力增长表示担忧。",
+      "importance": "高",
+      "reason": "涉及AI安全与伦理及中美AI竞争，属于重大政策与伦理讨论",
+      "tags": [
+        "AI安全",
+        "开源模型",
+        "中美竞争"
+      ],
+      "url": "https://arxiv.org/abs/2607.24782",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-07-29 04:00:00",
+      "impact_score": 300.0
+    },
+    {
+      "index": 2,
+      "title": "Why Investors Shouldn’t Panic About Nvidia’s Commitments",
+      "summary": "7月29日消息，英伟达与韩国SK集团达成5000亿美元合作伙伴关系，并另与OpenAI洽谈5000亿美元数据中心融资，引发市场关注。",
+      "importance": "高",
+      "reason": "涉及英伟达重大商业合作与投资，影响全球AI基础设施格局",
+      "tags": [
+        "英伟达",
+        "SK集团",
+        "数据中心"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-29/china-s-moonshot-ai-passes-funding-goal-to-hit-35-billion-value",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-29 08:19:02",
+      "impact_score": 285.0
+    },
+    {
+      "index": 3,
+      "title": "Nvidia revealed as tenant for $50bn data centre that will use its chips",
+      "summary": "7月29日消息，英伟达被披露为一座500亿美元数据中心的租户，该中心将使用其芯片，CEO黄仁勋动用资产负债表支持AI计算市场增长。",
+      "importance": "高",
+      "reason": "英伟达重大商业动态，显示其对AI基础设施的深度参与",
+      "tags": [
+        "英伟达",
+        "数据中心",
+        "AI基础设施"
+      ],
+      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-07-28 00:13:33",
+      "impact_score": 229.5
+    },
+    {
+      "index": 4,
+      "title": "Trump Administration Bans New Humanoid Robots From China",
+      "summary": "7月29日消息，美国政府以国家安全风险为由，宣布禁止进口中国制造的新型人形机器人，反映对中国在全球机器人产业角色的担忧。",
+      "importance": "高",
+      "reason": "美国重大出口管制政策，直接影响全球机器人供应链",
+      "tags": [
+        "出口管制",
+        "人形机器人",
+        "国家安全"
+      ],
+      "url": "https://www.theinformation.com/articles/jump-capital-raises-350-million-fund-ai-investments",
+      "source": "The Information",
+      "original_pub_date": "2026-07-28 22:50:11",
+      "impact_score": 225.0
+    },
+    {
+      "index": 5,
+      "title": "Google DeepMind dismantles Nobel-winning AlphaFold team in strategy shift",
+      "summary": "7月29日消息，谷歌DeepMind解散了获得诺贝尔奖的AlphaFold团队，转向更广泛的AI科学发现系统竞赛。",
+      "importance": "高",
+      "reason": "谷歌DeepMind重大战略调整，影响AI在科学领域的应用方向",
+      "tags": [
+        "谷歌DeepMind",
+        "AlphaFold",
+        "战略调整"
+      ],
+      "url": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
+      "source": "Wired AI",
+      "original_pub_date": "2026-07-28 10:00:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 6,
+      "title": "Jump Capital Raises $350 Million Fund For AI Investments",
+      "summary": "7月29日消息，Jump Capital筹集了3.5亿美元新基金，用于扩大对AI初创公司的投资。",
+      "importance": "中",
+      "reason": "重大商业融资动态，显示资本对AI领域的持续投入",
+      "tags": [
+        "融资",
+        "AI投资",
+        "风投"
+      ],
+      "url": "https://www.theinformation.com/articles/investors-panic-nvidias-commitments",
+      "source": "The Information",
+      "original_pub_date": "2026-07-28 00:01:25",
+      "impact_score": 210.0
+    },
+    {
+      "index": 7,
+      "title": "SK Hynix Drops as Profit Disappoints",
+      "summary": "7月29日消息，SK海力士股价暴跌19%，因第二季度营业利润低于预期并宣布至少310亿美元资本支出，引发对AI过度投资的担忧。",
+      "importance": "中",
+      "reason": "韩国芯片巨头业绩与投资计划影响AI硬件供应链预期",
+      "tags": [
+        "SK海力士",
+        "芯片",
+        "资本支出"
+      ],
+      "url": "https://arxiv.org/abs/2607.24794",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-07-29 04:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 8,
+      "title": "Apple tops $5tn valuation for first time",
+      "summary": "7月29日消息，苹果公司市值首次突破5万亿美元，得益于其在AI领域相对较低的支出以及投资者寻求避险。",
+      "importance": "中",
+      "reason": "苹果市值里程碑，反映市场对AI投资策略的差异化反应",
+      "tags": [
+        "苹果",
+        "市值",
+        "AI投资"
+      ],
+      "url": "https://arxiv.org/abs/2607.24784",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-07-29 04:00:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 9,
+      "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
+      "summary": "7月29日消息，Recursive Superintelligence与亚马逊签署4.1亿美元计算协议，将预算集中于算力以自动化产品开发。",
+      "importance": "中",
+      "reason": "重大商业合作，显示AI公司对云计算的依赖",
+      "tags": [
+        "亚马逊",
+        "算力",
+        "超级智能"
+      ],
+      "url": "https://www.ft.com/content/685014e7-47dd-471b-a585-1b9b73ce5d6f?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-07-28 04:00:15",
+      "impact_score": 180.0
+    },
+    {
+      "index": 10,
+      "title": "Personalization, Personas, and Forecasting in Value Alignment",
+      "summary": "7月29日消息，arXiv发表研究探讨LLM行为如何通过用户身份条件化，测试不同框架在价值对齐中的互换性。",
+      "importance": "低",
+      "reason": "学术研究，涉及AI对齐领域，但影响力相对有限",
+      "tags": [
+        "AI对齐",
+        "LLM",
+        "学术研究"
+      ],
+      "url": "https://www.theinformation.com/articles/paypals-message-shareholders-trust",
+      "source": "The Information",
+      "original_pub_date": "2026-07-29 00:01:30",
+      "impact_score": 155.5
+    },
+    {
+      "index": 11,
+      "title": "Reasoning with Memory: A Temporal Granularity-Adaptive Framework for Training-Free Long Video Understanding",
+      "summary": "7月29日消息，arXiv发表研究提出一种时间粒度自适应框架，用于无需训练的长视频理解，提升多模态大模型性能。",
+      "importance": "低",
+      "reason": "学术突破，但属于技术细节改进，影响力中等",
+      "tags": [
+        "视频理解",
+        "多模态",
+        "学术研究"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-29/dji-debuts-long-awaited-osmo-4p-camera-but-us-creators-can-t-buy-it",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-29 10:00:05",
+      "impact_score": 150.0
+    }
+  ],
+  "summary": "今日从174条原始信息中精选出20条国内动态和11条国际动态，其中15条为高重要性。 重点关注：在大模型的下一阶段议题上，我们找到了一家做持续学习的中国Neo Lab；UCLA博士团队创业做人形机器人基础模型，拿下近5亿元天使++轮融资｜硬氪首发；月之暗面Kimi已完成超35亿美元F轮融资，投后估值涨至350亿美元。",
+  "statistics": {
+    "raw_domestic": 55,
+    "raw_international": 119,
+    "raw_total": 174,
+    "final_domestic": 20,
+    "final_international": 11
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "7月29日消息，中国AI实验室Mind Lab成立并押注持续学习技术，团队来自xAI、DeepMind、DeepSeek等，致力于推动大模型下一阶段发展。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "7月29日消息，中国人形机器人基础模型公司德塔智能完成近5亿元天使++轮融资，投资方包括多家产业方和财务机构，半年内完成第六轮融资。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "7月29日消息，中国AI公司月之暗面Kimi完成超35亿美元F轮融资，投后估值涨至350亿美元，G轮融资已提前启动，投前估值升至500亿美元。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "7月29日消息，国家互联网信息办公室会同有关部门起草《中华人民共和国反网络暴力法（征求意见稿）》，向社会公开征求意见，旨在加强反网络暴力工作。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "7月29日消息，我国启动人工智能大模型IPv6能力提升专项行动，推动AI大模型与IPv6技术融合，提升网络能力。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "7月29日消息，Anthropic创始人兼CEO Dario Amodei明确表示不反对开源权重模型，但对中国的AI能力增长表示担忧。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "7月29日消息，英伟达与韩国SK集团达成5000亿美元合作伙伴关系，并另与OpenAI洽谈5000亿美元数据中心融资，引发市场关注。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "7月29日消息，英伟达被披露为一座500亿美元数据中心的租户，该中心将使用其芯片，CEO黄仁勋动用资产负债表支持AI计算市场增长。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "7月29日消息，美国政府以国家安全风险为由，宣布禁止进口中国制造的新型人形机器人，反映对中国在全球机器人产业角色的担忧。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "7月29日消息，谷歌DeepMind解散了获得诺贝尔奖的AlphaFold团队，转向更广泛的AI科学发现系统竞赛。",
+      "importance": "高"
+    }
+  ]
+}
