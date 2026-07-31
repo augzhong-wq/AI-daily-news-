@@ -1,0 +1,512 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31 10:43:50",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "字节跳动发布 Seedance 2.5，徐工、小鹏等企业官宣合作",
+      "summary": "7月31日消息，字节跳动正式发布新一代视频生成模型Seedance 2.5，在生成时长、多模态理解、编辑精度等维度实现全面升级，已上线豆包、即梦等产品，并将通过火山引擎向企业开放。",
+      "importance": "高",
+      "reason": "字节跳动作为中国头部科技公司，发布旗舰AI视频生成模型，属于重大产品发布，且已与多家企业合作，影响广泛。",
+      "tags": [
+        "字节跳动",
+        "Seedance 2.5",
+        "视频生成",
+        "产品发布"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/FMW8XVv6xVkpqzGT.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-31 05:13:00",
+      "impact_score": 335.0
+    },
+    {
+      "index": 2,
+      "title": "谁在训练 Kimi K3 ? 深挖贡献者名单，这有一份最全档案",
+      "summary": "7月31日消息，月之暗面开源满血版2.8T模型Kimi K3，并首次公布401位贡献者名单，公司估值飙升至315亿美元，成为国产大模型之光。",
+      "importance": "高",
+      "reason": "月之暗面作为中国AI大模型创业公司，开源旗舰模型并公布团队，属于重大产品发布和商业动态，显示中国AI实力。",
+      "tags": [
+        "月之暗面",
+        "Kimi K3",
+        "开源",
+        "大模型"
+      ],
+      "url": "https://www.leiphone.com/category/yanxishe/ttnVYVYTZknBAiVR.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-31 02:38:00",
+      "impact_score": 330.0
+    },
+    {
+      "index": 3,
+      "title": "WorkBuddy重大升级：「人机双写」上线，AI时代的Office来了！",
+      "summary": "7月31日消息，腾讯WorkBuddy发布V5.3.5版本，联合腾讯文档推出“人机双写”协同编辑能力，支持用户与AI在同一文件内共同创作，实现人人、人机、机机多端同步协同。",
+      "importance": "高",
+      "reason": "腾讯作为中国科技巨头，发布AI办公协同重大升级，属于重大产品发布，推动Office进入AI原生协作时代。",
+      "tags": [
+        "腾讯",
+        "WorkBuddy",
+        "人机双写",
+        "AI办公"
+      ],
+      "url": "https://36kr.com/newsflashes/3919370364890497?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-31 09:59:40",
+      "impact_score": 307.5
+    },
+    {
+      "index": 4,
+      "title": "菜鸟CTO李强创业做Physical AI平台，获云启、商汤超亿元种子轮融资｜硬氪首发",
+      "summary": "7月31日消息，Physical AI平台公司昆腾动力完成超亿元种子轮融资，由云启资本、商汤科技联合投资，资金将用于核心技术研发和全球化市场拓展。",
+      "importance": "高",
+      "reason": "中国创业公司获得超亿元融资，属于重大商业动态，且聚焦Physical AI前沿领域，显示资本对中国AI创业的青睐。",
+      "tags": [
+        "昆腾动力",
+        "Physical AI",
+        "融资",
+        "商汤科技"
+      ],
+      "url": "https://36kr.com/p/3918250549931394?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-31 00:30:54",
+      "impact_score": 307.5
+    },
+    {
+      "index": 5,
+      "title": "德塔智能完成近5亿元天使++轮融资，成立半年融资六轮",
+      "summary": "7月31日消息，人形机器人基础模型公司德塔智能完成近5亿元天使++轮融资，成立半年内已融资六轮，资金将用于模型迭代、数据采集设备量产和团队扩充。",
+      "importance": "高",
+      "reason": "中国AI公司半年内完成六轮融资，累计金额巨大，属于重大商业动态，反映人形机器人赛道热度。",
+      "tags": [
+        "德塔智能",
+        "人形机器人",
+        "融资",
+        "天使轮"
+      ],
+      "url": "https://www.leiphone.com/category/ai/Jz79dkQ6b4MZOQzB.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-30 09:28:00",
+      "impact_score": 300.0
+    },
+    {
+      "index": 6,
+      "title": "晶泰科技发布AI4S原生操作系统 XtalPi Science ，以多智能体矩阵开启自主科学发现新范式",
+      "summary": "7月31日消息，晶泰科技发布XtalPi Science科学智能平台与Genius Agents智能体矩阵，并联合26家伙伴成立“科学智能开放生态联盟”，推动AI for Science发展。",
+      "importance": "高",
+      "reason": "中国科技公司发布全球首个整合LLM、科学智能体与自动化实验的AI4S平台，属于重大产品发布和学术突破。",
+      "tags": [
+        "晶泰科技",
+        "XtalPi Science",
+        "AI4S",
+        "科学智能"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/8MKR072E5thjAEJQ.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-30 04:25:00",
+      "impact_score": 300.0
+    },
+    {
+      "index": 7,
+      "title": "36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报",
+      "summary": "7月31日消息，曾爱玲入职哔哩哔哩担任AI视频生成业务负责人，直接向CEO陈睿汇报，她曾在腾讯混元、IDEA和Anuttacon任职，将参与B站AI视频相关业务。",
+      "importance": "中",
+      "reason": "中国互联网公司B站引入AI人才，属于重要人事变动，显示其对AI视频生成业务的重视。",
+      "tags": [
+        "B站",
+        "曾爱玲",
+        "AI视频生成",
+        "人事任命"
+      ],
+      "url": "https://36kr.com/p/3919225763540611?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-31 08:58:59",
+      "impact_score": 266.0
+    },
+    {
+      "index": 8,
+      "title": "滴普科技首份半年报：AI业务收入增长209%，二季度已实现盈利",
+      "summary": "7月31日消息，滴普科技发布上市后首份中期业绩，上半年营收2.84亿元，同比增长115%，其中AI业务收入增长209%，二季度实现盈利。",
+      "importance": "中",
+      "reason": "中国AI企业上市后首份财报显示AI业务高速增长，属于重要商业动态，验证AI商业化落地。",
+      "tags": [
+        "滴普科技",
+        "AI业务",
+        "财报",
+        "盈利"
+      ],
+      "url": "https://36kr.com/p/3917874427555457?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-31 01:52:24",
+      "impact_score": 260.0
+    },
+    {
+      "index": 9,
+      "title": "最前线｜武汉建成全国首个超大城市全域低空遥感监测网络，146座无人机机场构建“城市智眼”",
+      "summary": "7月31日消息，武汉市测绘研究院联合大疆行业应用发布“城市智眼”低空无人机遥感监测体系，建成146座无人值守机场，实现全市5分钟无人机响应，成为全国首个超大城市全域覆盖网络。",
+      "importance": "中",
+      "reason": "中国城市建成全国首个低空遥感监测网络，属于重大应用落地，展示AI与低空经济结合。",
+      "tags": [
+        "武汉",
+        "低空遥感",
+        "无人机",
+        "城市治理"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/e48WOG7kaZV3MfXp.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-30 00:33:00",
+      "impact_score": 255.0
+    },
+    {
+      "index": 10,
+      "title": "国家广播电视总局：微短剧按照投资额度、题材等分为一类微短剧、二类微短剧和三类微短剧",
+      "summary": "7月31日消息，国家广播电视总局发布《微短剧发展管理办法》，将微短剧按投资额度和题材分为三类，实行分类备案和发行许可制度，自9月1日起施行。",
+      "importance": "中",
+      "reason": "中国广电总局发布微短剧管理办法，属于政策法规，影响AI内容生成领域。",
+      "tags": [
+        "国家广播电视总局",
+        "微短剧",
+        "管理办法",
+        "政策"
+      ],
+      "url": "https://www.leiphone.com/category/ai/LwA3PaasIacDAQS6.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-30 03:36:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 11,
+      "title": "市场监管总局开展光伏行业价格合规指导",
+      "summary": "7月31日消息，市场监管总局在江苏盐城对光伏行业开展价格合规指导，推动光伏企业从“拼价格”向“拼质量”转变，促进高质量发展。",
+      "importance": "中",
+      "reason": "中国市场监管总局对光伏行业进行价格合规指导，属于政策监管，虽非直接AI，但涉及行业规范。",
+      "tags": [
+        "市场监管总局",
+        "光伏行业",
+        "价格合规",
+        "监管"
+      ],
+      "url": "https://36kr.com/p/3919378312670857?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-31 10:01:34",
+      "impact_score": 225.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "EU launches AI Gigafactories call to boost Europe's computing capacity and unlock more than €30 billion in investment",
+      "summary": "7月31日消息，欧盟发起AI超级工厂招标，计划在欧洲建立多达七个AI超级工厂，以提升欧洲计算能力并撬动超过300亿欧元的投资。",
+      "importance": "高",
+      "reason": "欧盟重大政策举措，涉及巨额投资和AI基础设施建设，属于国际动态中的重大政策与法规。",
+      "tags": [
+        "欧盟",
+        "AI超级工厂",
+        "政策",
+        "投资"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-30/korea-plans-14-billion-for-wealth-fund-s-ai-bets-after-rout",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-30 23:30:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 2,
+      "title": "Korea Plans $14 Billion for Wealth Fund’s AI Bets After Rout",
+      "summary": "7月31日消息，韩国计划向其主权财富基金注资20万亿韩元（约139亿美元），用于AI、数据中心和基础设施的战略投资，首次将国内资产纳入其投资范围。",
+      "importance": "高",
+      "reason": "韩国政府大规模投资AI领域，属于重大政策与战略投资，符合国际动态。",
+      "tags": [
+        "韩国",
+        "主权财富基金",
+        "AI投资",
+        "数据中心"
+      ],
+      "url": "https://www.theinformation.com/briefings/coinbase-revenue-fell-19-renews-circle-partnership",
+      "source": "The Information",
+      "original_pub_date": "2026-07-30 21:25:50",
+      "impact_score": 225.0
+    },
+    {
+      "index": 3,
+      "title": "U.S. Senators Press Apple Not to Buy Chinese Memory Chips",
+      "summary": "7月31日消息，美国多位参议员敦促苹果公司放弃从中国供应商长鑫存储和长江存储购买内存芯片的计划，称存在国家安全风险。",
+      "importance": "高",
+      "reason": "美国政治人物干预企业供应链，涉及国家安全和出口管制，属于重大政策与法规。",
+      "tags": [
+        "美国",
+        "苹果",
+        "芯片",
+        "国家安全"
+      ],
+      "url": "https://www.theinformation.com/articles/data-center-operator-cyrusone-lays-ipo-groundwork",
+      "source": "The Information",
+      "original_pub_date": "2026-07-31 02:02:05",
+      "impact_score": 210.0
+    },
+    {
+      "index": 4,
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "summary": "7月31日消息，研究人员在顶级AI会议ICML上指出，大型语言模型存在根本性缺陷，无法完全抵御黑客攻击，这对AI安全具有重大影响。",
+      "importance": "高",
+      "reason": "关于LLM安全性的重大研究发现，属于安全与伦理类别，且为国际研究团队成果。",
+      "tags": [
+        "LLM",
+        "安全",
+        "漏洞",
+        "ICML"
+      ],
+      "url": "https://www.theinformation.com/articles/neocloud-nscale-gets-ready-pitch-investors-multibillion-dollar-ipo",
+      "source": "The Information",
+      "original_pub_date": "2026-07-30 20:17:01",
+      "impact_score": 210.0
+    },
+    {
+      "index": 5,
+      "title": "AI Cloud Provider Nscale to Buy Software Startup Anyscale for $1.6 billion",
+      "summary": "7月31日消息，AI云服务商Nscale宣布以16亿美元收购软件初创公司Anyscale，后者专注于AI模型的训练、微调和运行，交易将增强Nscale的AI服务能力。",
+      "importance": "高",
+      "reason": "重大并购交易，涉及16亿美元，属于重大商业动态，且主体为海外公司。",
+      "tags": [
+        "Nscale",
+        "Anyscale",
+        "并购",
+        "AI云"
+      ],
+      "url": "https://www.theinformation.com/articles/server-networking-boom-drives-300-million-funding-xsight",
+      "source": "The Information",
+      "original_pub_date": "2026-07-30 14:00:57",
+      "impact_score": 210.0
+    },
+    {
+      "index": 6,
+      "title": "OpenAI Slashes Prices on Some of Its Newest Models",
+      "summary": "7月31日消息，OpenAI宣布下调其最新发布的两款GPT-5.6模型的价格，以回应客户对服务费用飙升的担忧，调整自周四生效。",
+      "importance": "高",
+      "reason": "OpenAI作为国际AI巨头，其产品定价策略调整影响广泛，属于重大产品发布相关动态。",
+      "tags": [
+        "OpenAI",
+        "GPT-5.6",
+        "降价",
+        "AI模型"
+      ],
+      "url": "https://arxiv.org/abs/2607.26465",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-07-31 04:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 7,
+      "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
+      "summary": "7月31日消息，谷歌DeepMind发布Gemini Robotics 2，其最新AI模型在物理世界交互方面取得重大进展，向“物理AGI”迈进，但伴随风险。",
+      "importance": "高",
+      "reason": "谷歌DeepMind的重大产品发布，标志着AI进入物理世界，属于重大产品发布。",
+      "tags": [
+        "谷歌",
+        "Gemini Robotics",
+        "AI",
+        "物理世界"
+      ],
+      "url": "https://arxiv.org/abs/2607.26661",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-07-31 04:00:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 8,
+      "title": "TSMC Develops AI Chip Packaging Tech to Counter Intel",
+      "summary": "7月31日消息，台积电正在开发类似英特尔已有的先进芯片封装技术，以应对来自竞争对手的挑战，此举关乎AI芯片性能。",
+      "importance": "高",
+      "reason": "台积电作为全球领先芯片制造商，其技术动态对AI硬件发展至关重要，属于重大产品发布。",
+      "tags": [
+        "台积电",
+        "芯片封装",
+        "AI芯片",
+        "英特尔"
+      ],
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "source": "MIT Technology Review",
+      "original_pub_date": "2026-07-30 10:15:19",
+      "impact_score": 195.0
+    },
+    {
+      "index": 9,
+      "title": "Situational Awareness Hit by AI Selloff",
+      "summary": "7月31日消息，Leopold Aschenbrenner的对冲基金Situational Awareness因AI股票抛售被迫出售数十亿美元科技投资，银行要求增加抵押品，Citadel基金接盘。",
+      "importance": "中",
+      "reason": "AI市场波动影响对冲基金，属于重大商业动态，涉及巨额资金。",
+      "tags": [
+        "对冲基金",
+        "AI抛售",
+        "Citadel",
+        "市场波动"
+      ],
+      "url": "https://digital-strategy.ec.europa.eu/en/news/eu-launches-ai-gigafactories-call-boost-europes-computing-capacity-and-unlock-more-eu30-billion",
+      "source": "EU AI Policy",
+      "original_pub_date": "2026-07-30 09:50:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 10,
+      "title": "New Microsoft Copilot Security Flaws Show How AI Can Leak Customer Secrets",
+      "summary": "7月31日消息，微软Copilot被曝存在安全漏洞，可能泄露客户机密，凸显AI工具自身的安全风险，引发对AI安全性的担忧。",
+      "importance": "中",
+      "reason": "微软Copilot的安全漏洞属于安全与伦理事件，且主体为海外公司。",
+      "tags": [
+        "微软",
+        "Copilot",
+        "安全漏洞",
+        "AI安全"
+      ],
+      "url": "https://arxiv.org/abs/2607.26155",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-07-31 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 11,
+      "title": "Server Networking Boom Drives $300 Million Funding For Xsight",
+      "summary": "7月31日消息，以色列初创公司Xsight获得3亿美元融资，该公司开发服务器网络和存储芯片，用于连接GPU，受益于AI服务器网络需求激增。",
+      "importance": "中",
+      "reason": "重大融资事件，金额达3亿美元，属于重大商业动态，且为海外公司。",
+      "tags": [
+        "Xsight",
+        "融资",
+        "网络芯片",
+        "AI基础设施"
+      ],
+      "url": "https://arxiv.org/abs/2607.26393",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-07-31 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 12,
+      "title": "Neocloud Nscale Gets Ready to Pitch Investors on Multibillion Dollar IPO",
+      "summary": "7月31日消息，英国AI云服务商Nscale正筹备数十亿美元IPO，已与潜在投资者会面，尽管市场动荡，仍推进上市计划。",
+      "importance": "中",
+      "reason": "Nscale的IPO计划属于重大商业动态，涉及数十亿美元，且为海外公司。",
+      "tags": [
+        "Nscale",
+        "IPO",
+        "AI云",
+        "融资"
+      ],
+      "url": "https://www.theinformation.com/briefings/ai-cloud-provider-nscale-buy-software-startup-anyscale-1-6-billion",
+      "source": "The Information",
+      "original_pub_date": "2026-07-30 23:08:44",
+      "impact_score": 160.0
+    },
+    {
+      "index": 13,
+      "title": "Data Center Operator CyrusOne Lays IPO Groundwork",
+      "summary": "7月31日消息，数据中心运营商CyrusOne正筹备IPO，已开始面试投行，可能成为明年最大规模IPO之一，该公司由KKR和BlackRock旗下基金所有。",
+      "importance": "中",
+      "reason": "CyrusOne的IPO计划属于重大商业动态，且为海外公司。",
+      "tags": [
+        "CyrusOne",
+        "IPO",
+        "数据中心",
+        "KKR"
+      ],
+      "url": "https://www.theinformation.com/articles/new-microsoft-copilot-security-flaws-show-ai-can-leak-customer-secrets",
+      "source": "The Information",
+      "original_pub_date": "2026-07-30 18:57:57",
+      "impact_score": 158.0
+    },
+    {
+      "index": 14,
+      "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
+      "summary": "7月31日消息，AI硬件公司Friend重新推出其AI吊坠，新增扬声器功能，可与用户对话，但价格翻倍至原价两倍。",
+      "importance": "低",
+      "reason": "AI硬件产品更新，属于产品发布，但影响力相对较小。",
+      "tags": [
+        "Friend",
+        "AI吊坠",
+        "硬件",
+        "产品发布"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/deepseek-unveils-public-beta-api-for-flagship-ai-model",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-31 06:50:42",
+      "impact_score": 150.0
+    },
+    {
+      "index": 15,
+      "title": "Meta Could Learn Cost Control From Microsoft",
+      "summary": "7月31日消息，Meta和微软发布季度财报，显示两家公司在成本控制上的不同策略，Meta的支出方式引发关注，或需向微软学习。",
+      "importance": "低",
+      "reason": "财报分析，涉及成本控制，属于商业动态，但重要性较低。",
+      "tags": [
+        "Meta",
+        "微软",
+        "财报",
+        "成本控制"
+      ],
+      "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+      "source": "MIT Technology Review",
+      "original_pub_date": "2026-07-30 12:10:00",
+      "impact_score": 150.0
+    }
+  ],
+  "summary": "今日从199条原始信息中精选出11条国内动态和15条国际动态，其中14条为高重要性。 重点关注：字节跳动发布 Seedance 2.5，徐工、小鹏等企业官宣合作；谁在训练 Kimi K3 ? 深挖贡献者名单，这有一份最全档案；WorkBuddy重大升级：「人机双写」上线，AI时代的Office来了！。",
+  "statistics": {
+    "raw_domestic": 46,
+    "raw_international": 153,
+    "raw_total": 199,
+    "final_domestic": 11,
+    "final_international": 15
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "7月31日消息，字节跳动正式发布新一代视频生成模型Seedance 2.5，在生成时长、多模态理解、编辑精度等维度实现全面升级，已上线豆包、即梦等产品，并将通过火山引擎向企业开放。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "7月31日消息，月之暗面开源满血版2.8T模型Kimi K3，并首次公布401位贡献者名单，公司估值飙升至315亿美元，成为国产大模型之光。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "7月31日消息，腾讯WorkBuddy发布V5.3.5版本，联合腾讯文档推出“人机双写”协同编辑能力，支持用户与AI在同一文件内共同创作，实现人人、人机、机机多端同步协同。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "7月31日消息，Physical AI平台公司昆腾动力完成超亿元种子轮融资，由云启资本、商汤科技联合投资，资金将用于核心技术研发和全球化市场拓展。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "7月31日消息，人形机器人基础模型公司德塔智能完成近5亿元天使++轮融资，成立半年内已融资六轮，资金将用于模型迭代、数据采集设备量产和团队扩充。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "7月31日消息，欧盟发起AI超级工厂招标，计划在欧洲建立多达七个AI超级工厂，以提升欧洲计算能力并撬动超过300亿欧元的投资。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "7月31日消息，韩国计划向其主权财富基金注资20万亿韩元（约139亿美元），用于AI、数据中心和基础设施的战略投资，首次将国内资产纳入其投资范围。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "7月31日消息，美国多位参议员敦促苹果公司放弃从中国供应商长鑫存储和长江存储购买内存芯片的计划，称存在国家安全风险。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "7月31日消息，研究人员在顶级AI会议ICML上指出，大型语言模型存在根本性缺陷，无法完全抵御黑客攻击，这对AI安全具有重大影响。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "7月31日消息，AI云服务商Nscale宣布以16亿美元收购软件初创公司Anyscale，后者专注于AI模型的训练、微调和运行，交易将增强Nscale的AI服务能力。",
+      "importance": "高"
+    }
+  ]
+}
