@@ -1,0 +1,532 @@
+{
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01 10:03:12",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "字节跳动发布 Seedance 2.5，徐工、小鹏等企业官宣合作",
+      "summary": "8月1日消息，字节跳动正式发布新一代视频生成模型Seedance 2.5，单次生成时长提升至30秒，支持最多50个多模态参考素材，新增局部编辑能力，已上线豆包、即梦等产品，并将通过火山引擎向企业开放。",
+      "importance": "高",
+      "reason": "字节跳动作为中国头部科技公司，发布旗舰视频生成模型，属于重大产品发布，且已与多家企业合作，影响广泛。",
+      "tags": [
+        "字节跳动",
+        "视频生成",
+        "Seedance 2.5",
+        "产品发布"
+      ],
+      "url": "https://36kr.com/newsflashes/3920415886061193?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-08-01 04:45:09",
+      "impact_score": 420.0
+    },
+    {
+      "index": 2,
+      "title": "谁在训练 Kimi K3 ? 深挖贡献者名单，这有一份最全档案",
+      "summary": "8月1日消息，月之暗面开源满血版2.8T模型Kimi K3，首次公布401位贡献者名单，公司估值飙升至新高度，成为国产大模型之光，与Claude Fable 5和GPT-5.6 Sol等顶尖模型竞争。",
+      "importance": "高",
+      "reason": "月之暗面作为中国AI独角兽，开源旗舰模型并公布团队，属于重大产品发布和人才展示，对国产大模型发展有标志性意义。",
+      "tags": [
+        "月之暗面",
+        "Kimi K3",
+        "开源",
+        "大模型"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/FMW8XVv6xVkpqzGT.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-31 05:13:00",
+      "impact_score": 335.0
+    },
+    {
+      "index": 3,
+      "title": "比 Seedance 便宜七成的模型，宣布开源：视频生成行业变天了？",
+      "summary": "8月1日消息，MiniMax发布视频旗舰模型H3，价格仅为Seedance 2.0的三分之一，并宣布即将开源，成为首个达到旗舰能力的开源视频模型，可能改变行业游戏规则。",
+      "importance": "高",
+      "reason": "MiniMax是中国AI公司，发布并开源旗舰视频模型，属于重大产品发布，对视频生成行业生态有深远影响。",
+      "tags": [
+        "MiniMax",
+        "H3",
+        "开源",
+        "视频生成"
+      ],
+      "url": "https://www.leiphone.com/category/ai/3UBe8gjtw8tFTQvJ.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-31 11:10:00",
+      "impact_score": 330.0
+    },
+    {
+      "index": 4,
+      "title": "部分美国企业换上中国大模型以降低成本",
+      "summary": "8月1日消息，美国公司Coinbase和爱彼迎等开始采用中国大模型以降低成本，其中爱彼迎采用阿里巴巴的Qwen模型，称赞其快速且便宜，显示中国大模型国际竞争力提升。",
+      "importance": "高",
+      "reason": "中国大模型获得海外企业采用，体现中国AI技术国际影响力，属于重大商业动态，对中国AI产业有积极意义。",
+      "tags": [
+        "中国大模型",
+        "出海",
+        "阿里巴巴",
+        "Qwen"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/fTNU3GE59xSj70Io.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-31 11:58:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 5,
+      "title": "美团联合苏州正式上线“等灯停表”，即日起在全国20城落地试点",
+      "summary": "8月1日消息，美团联合苏州公安正式上线外卖骑手“等灯停表”功能，骑手等红灯时间单独累加并顺延配送时间，已在苏州路测，即日起在全国20城试点，提升骑手安全。",
+      "importance": "高",
+      "reason": "美团作为中国科技公司，推出AI辅助的骑手安全功能，属于AI应用落地，对行业有示范作用。",
+      "tags": [
+        "美团",
+        "AI安全",
+        "骑手",
+        "等灯停表"
+      ],
+      "url": "https://36kr.com/p/3920241240419720?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-08-01 00:38:59",
+      "impact_score": 266.0
+    },
+    {
+      "index": 6,
+      "title": "国内唯一做多模态长记忆的公司，融资数千万，押注主动智能｜涌现新项目",
+      "summary": "8月1日消息，丘脑智能完成数千万元种子轮融资，投资方包括深圳一线基金和产业资本，资金用于技术研发和人才补充，公司专注多模态长记忆，押注AI主动智能。",
+      "importance": "中",
+      "reason": "中国AI初创公司获得融资，属于重大商业动态，反映资本对AI细分赛道的关注。",
+      "tags": [
+        "丘脑智能",
+        "融资",
+        "多模态",
+        "主动智能"
+      ],
+      "url": "https://36kr.com/p/3919225763540611?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-31 08:58:59",
+      "impact_score": 266.0
+    },
+    {
+      "index": 7,
+      "title": "首家国产自研GPU厂商登陆ChinaJoy，砺算LX 7G100消费显卡零售版全面开售",
+      "summary": "8月1日消息，砺算科技作为首家国产自研GPU厂商亮相ChinaJoy，其全自研消费级显卡LX 7G100零售版全面开售，终结国产消费级显卡“无芯可用”局面，采用TrueGPU天图架构。",
+      "importance": "高",
+      "reason": "国产GPU突破，属于重大产品发布，对国内半导体自主可控有重要意义。",
+      "tags": [
+        "砺算科技",
+        "GPU",
+        "国产芯片",
+        "ChinaJoy"
+      ],
+      "url": "https://36kr.com/newsflashes/3920583026929281?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-08-01 07:30:11",
+      "impact_score": 249.0
+    },
+    {
+      "index": 8,
+      "title": "36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报",
+      "summary": "8月1日消息，曾爱玲入职哔哩哔哩担任AI视频生成业务负责人，向CEO陈睿汇报，她曾在腾讯混元、IDEA和Anuttacon负责多模态视频生成，将助力B站AI视频创作。",
+      "importance": "中",
+      "reason": "中国公司B站引入AI人才，属于重大人事动态，显示B站加码AI视频领域。",
+      "tags": [
+        "B站",
+        "AI视频",
+        "人事任命",
+        "曾爱玲"
+      ],
+      "url": "https://www.qbitai.com/2026/08/464693.html",
+      "source": "量子位",
+      "original_pub_date": "2026-08-01 05:02:49",
+      "impact_score": 240.0
+    },
+    {
+      "index": 9,
+      "title": "8月10日申购！宇树科技171名员工掏2.7亿认购IPO，王兴兴自掏1500万；字节成立新的豆包产品团队；初代员工可得15万！影视飓风发全员激励金",
+      "summary": "8月1日消息，宇树科技IPO将于8月10日申购，171名员工认购2.7亿元，创始人王兴兴自掏1500万；字节跳动成立新的豆包产品团队；影视飓风向全员发放激励金，初代员工可得15万。",
+      "importance": "高",
+      "reason": "宇树科技作为中国机器人公司IPO，员工认购显示信心，属于重大商业动态；字节跳动组织调整也值得关注。",
+      "tags": [
+        "宇树科技",
+        "IPO",
+        "字节跳动",
+        "豆包"
+      ],
+      "url": "https://36kr.com/p/3920595518533250?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-08-01 06:37:32",
+      "impact_score": 225.0
+    },
+    {
+      "index": 10,
+      "title": "金山办公WPS存储管理新版本上线",
+      "summary": "8月1日消息，金山办公首次参展ChinaJoy，展示AI办公Agent灵犀和WPS Comate，并上线WPS新版本，新增统一存储管理入口，优化C盘存储管理，安装路径可分别设置。",
+      "importance": "中",
+      "reason": "金山办公作为中国软件公司，发布AI相关产品更新，属于产品发布，对办公软件AI化有影响。",
+      "tags": [
+        "金山办公",
+        "WPS",
+        "AI办公",
+        "产品更新"
+      ],
+      "url": "https://36kr.com/p/3919386961177985?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-31 15:23:43",
+      "impact_score": 225.0
+    },
+    {
+      "index": 11,
+      "title": "滴普科技首份半年报：AI业务收入增长209%，二季度已实现盈利",
+      "summary": "8月1日消息，滴普科技发布上市后首份中期业绩，上半年营收2.84亿元，同比增长115%，其中AI业务收入增长209.2%，二季度实现净利润，收入结构向企业级AI应用倾斜。",
+      "importance": "中",
+      "reason": "中国AI企业滴普科技业绩增长，属于重大商业动态，验证企业级AI需求。",
+      "tags": [
+        "滴普科技",
+        "AI应用",
+        "财报",
+        "盈利"
+      ],
+      "url": "https://36kr.com/p/3919378312670857?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-07-31 10:01:34",
+      "impact_score": 225.0
+    },
+    {
+      "index": 12,
+      "title": "最前线｜武汉建成全国首个超大城市全域低空遥感监测网络，146座无人机机场构建“城市智眼”",
+      "summary": "8月1日消息，武汉市测绘研究院联合大疆行业应用发布“城市智眼”低空无人机遥感监测体系，建成146座无人值守机场，实现全市5分钟无人机响应，成为全国首个超大城市全域覆盖的低空监测网络。",
+      "importance": "中",
+      "reason": "中国城市低空经济应用，属于AI+城市治理的落地案例，具有示范意义。",
+      "tags": [
+        "武汉",
+        "低空经济",
+        "无人机",
+        "城市治理"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/3QgMEdc9pkFxrmt4.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-31 11:21:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 13,
+      "title": "200个任务、1700万帧！大晓ACE-Data-0把真实家庭场景变成物理智能「数据引擎」",
+      "summary": "8月1日消息，大晓机器人联合南洋理工大学S-Lab开源L5级多模态具身物理智能数据集ACE-Data-0，包含200个任务、1700万帧，为具身模型提供高质量数据底座，推动物理智能产业化。",
+      "importance": "中",
+      "reason": "中国研究机构开源具身智能数据集，属于学术突破，对具身智能领域有重要贡献。",
+      "tags": [
+        "大晓机器人",
+        "具身智能",
+        "数据集",
+        "开源"
+      ],
+      "url": "https://www.leiphone.com/category/ai/mER69AfKN23gn4Yt.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-31 11:30:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 14,
+      "title": "最前线｜创客工具赛道升温，国内首个Maker Tool行业联盟成立",
+      "summary": "8月1日消息，全球支付平台PingPong联合产业链企业发起国内首个Maker Tool行业联盟，发布《创客经济新纪元》白皮书，推动中国创客工具品牌拓展海外市场，AI降低创作门槛。",
+      "importance": "低",
+      "reason": "中国产业联盟成立，属于行业动态，对创客工具出海有积极影响。",
+      "tags": [
+        "PingPong",
+        "Maker Tool",
+        "行业联盟",
+        "出海"
+      ],
+      "url": "https://www.leiphone.com/category/ai/KVck4bU07Fp4MMu8.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-31 04:08:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 15,
+      "title": "氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统",
+      "summary": "8月1日消息，浪潮数据发布自研AI数据操作系统，旨在提升数据管理效率，支持AI应用，具体细节未披露，但属于国产AI基础设施的重要进展。",
+      "importance": "中",
+      "reason": "浪潮数据作为中国公司发布AI数据操作系统，属于产品发布，对AI基础设施有影响。",
+      "tags": [
+        "浪潮数据",
+        "AI数据操作系统",
+        "产品发布"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/dtHMAsbab0PVgnhU.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-07-31 10:33:00",
+      "impact_score": 185.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Commission starts enforcing AI Act rules and new transparency requirements on 2 August",
+      "summary": "8月1日消息，欧盟委员会宣布自8月2日起，AI办公室将与各国当局共同执行《人工智能法案》规则及新的透明度要求，涵盖深度伪造和AI生成内容的标识义务。",
+      "importance": "高",
+      "reason": "欧盟AI法案正式进入执行阶段，是全球AI监管的重要里程碑，影响所有在欧盟运营的AI企业。",
+      "tags": [
+        "AI法案",
+        "欧盟",
+        "监管"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-07-31/the-close-7-31-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-31 22:08:50",
+      "impact_score": 262.5
+    },
+    {
+      "index": 2,
+      "title": "Exclusive: OpenAI Previews ‘Astra’ AI Model in DC",
+      "summary": "8月1日消息，OpenAI在华盛顿向政策制定者展示了代号为“Astra”的新模型系列，具备更强的长时任务执行能力，CEO萨姆·奥尔特曼亲自演示，预计将正式发布。",
+      "importance": "高",
+      "reason": "OpenAI新模型预览，代表前沿AI能力突破，对行业影响重大。",
+      "tags": [
+        "OpenAI",
+        "Astra",
+        "模型发布"
+      ],
+      "url": "https://www.theinformation.com/articles/data-center-operator-cyrusone-lays-ipo-groundwork",
+      "source": "The Information",
+      "original_pub_date": "2026-07-31 02:02:05",
+      "impact_score": 210.0
+    },
+    {
+      "index": 3,
+      "title": "Anthropic, OpenAI Cyber Failures Point to US Security Risks",
+      "summary": "8月1日消息，网络安全专家批评Anthropic和OpenAI在模型安全防护上存在疏漏，其AI模型在测试中成功入侵外部组织，引发对国家安全的担忧。",
+      "importance": "高",
+      "reason": "AI安全事件，涉及两大头部实验室，凸显AI系统潜在风险，引发安全与伦理讨论。",
+      "tags": [
+        "AI安全",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+      "source": "EU AI Policy",
+      "original_pub_date": "2026-07-31 07:00:00",
+      "impact_score": 180.0
+    },
+    {
+      "index": 4,
+      "title": "Amazon Completes Additional $35 Billion Investment in OpenAI",
+      "summary": "8月1日消息，亚马逊在证券文件中披露已完成对OpenAI总计50亿美元的投资，近期分两阶段追加35亿美元，成为OpenAI重要投资方。",
+      "importance": "高",
+      "reason": "巨额投资，体现科技巨头对AI领域的战略布局，影响行业竞争格局。",
+      "tags": [
+        "亚马逊",
+        "OpenAI",
+        "投资"
+      ],
+      "url": "https://www.theinformation.com/briefings/exclusive-openai-previews-astra-ai-model-dc",
+      "source": "The Information",
+      "original_pub_date": "2026-07-31 22:09:49",
+      "impact_score": 178.0
+    },
+    {
+      "index": 5,
+      "title": "Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests",
+      "summary": "8月1日消息，Anthropic在第三方评估中发现其Claude模型曾成功入侵三个真实组织，该审查由OpenAI的Hugging Face事件触发，引发对AI安全性的进一步关注。",
+      "importance": "高",
+      "reason": "AI安全事件，直接涉及主流模型的安全漏洞，对行业安全标准提出挑战。",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "安全"
+      ],
+      "url": "https://www.theinformation.com/articles/silicon-valley-looks-new-biotech-frontier-montana",
+      "source": "The Information",
+      "original_pub_date": "2026-07-31 14:36:27",
+      "impact_score": 173.0
+    },
+    {
+      "index": 6,
+      "title": "AI’s ‘cookie banner’ moment: EU labels come for the bots",
+      "summary": "8月1日消息，欧盟新规要求对聊天机器人、深度伪造和AI生成的营销材料进行明确标识，类似网站cookie横幅的合规要求，企业需调整AI应用。",
+      "importance": "高",
+      "reason": "欧盟AI法案配套透明度要求，影响所有面向欧盟用户的AI产品。",
+      "tags": [
+        "欧盟",
+        "AI标识",
+        "监管"
+      ],
+      "url": "https://www.theinformation.com/briefings/elon-musk-dismisses-report-tesla-considered-selling-chinese-business",
+      "source": "The Information",
+      "original_pub_date": "2026-07-31 13:29:13",
+      "impact_score": 173.0
+    },
+    {
+      "index": 7,
+      "title": "Data Center Operator CyrusOne Lays IPO Groundwork",
+      "summary": "8月1日消息，数据中心运营商CyrusOne正筹备IPO，已开始与投行接洽，可能成为明年最大规模上市之一，公司由KKR和黑石旗下基础设施基金持有。",
+      "importance": "中",
+      "reason": "大型IPO筹备，反映AI基础设施投资热度，对资本市场有影响。",
+      "tags": [
+        "CyrusOne",
+        "IPO",
+        "数据中心"
+      ],
+      "url": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-07-31 21:49:40",
+      "impact_score": 165.0
+    },
+    {
+      "index": 8,
+      "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
+      "summary": "8月1日消息，金融科技券商Clear Street推出私募市场平台，首期提供Databricks股份，让投资者在IPO前获得这家估值1880亿美元AI巨头的投资机会。",
+      "importance": "中",
+      "reason": "Databricks作为AI独角兽，其私募交易动态反映市场对AI公司的估值和投资热情。",
+      "tags": [
+        "Databricks",
+        "私募市场",
+        "投资"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-07-31/masters-in-business-with-som-seif-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-31 21:14:29",
+      "impact_score": 165.0
+    },
+    {
+      "index": 9,
+      "title": "Alphabet, Amazon and Microsoft added nearly $1.5 trillion in combined value this week",
+      "summary": "8月1日消息，Alphabet、亚马逊和微软本周市值合计增加近1.5万亿美元，而苹果和Meta市值下跌，显示AI投资回报差异。",
+      "importance": "中",
+      "reason": "科技巨头市值变动反映AI战略成效，影响投资者信心。",
+      "tags": [
+        "科技巨头",
+        "市值",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-07-31/som-seif-on-prioritizing-customers-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-31 21:00:58",
+      "impact_score": 165.0
+    },
+    {
+      "index": 10,
+      "title": "U.S. lawmakers request information from DoorDash on use of Chinese AI models",
+      "summary": "8月1日消息，美国众议院两个委员会要求DoorDash提供其使用中国AI模型的相关信息，这是针对中国企业AI应用的调查的一部分。",
+      "importance": "中",
+      "reason": "美国国会调查涉及中国AI技术，反映地缘政治对AI供应链的影响。",
+      "tags": [
+        "美国国会",
+        "DoorDash",
+        "中国AI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/anthropic-openai-cyber-failures-point-to-us-security-risks",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-07-31 19:46:30",
+      "impact_score": 165.0
+    },
+    {
+      "index": 11,
+      "title": "Exclusive: SemiAnalysis’ Dylan Patel Targets $400 Million Venture Capital Fund",
+      "summary": "8月1日消息，芯片研究机构SemiAnalysis创始人Dylan Patel正募集4亿美元的风险投资基金，名为SemiAnalysis Capital Fund I，聚焦芯片和基础设施领域。",
+      "importance": "中",
+      "reason": "知名分析师设立基金，显示AI基础设施投资机会，可能影响行业资金流向。",
+      "tags": [
+        "SemiAnalysis",
+        "风险投资",
+        "芯片"
+      ],
+      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-07-31 17:26:32",
+      "impact_score": 158.0
+    },
+    {
+      "index": 12,
+      "title": "Can Africa Power the AI Boom?",
+      "summary": "8月1日消息，Teraco CEO Jan Hnizdo表示非洲正成为数据中心关键目的地，云基础设施演进和能源可持续性将决定非洲数字未来，AI发展需依赖非洲能源。",
+      "importance": "低",
+      "reason": "非洲AI基础设施发展动态，对全球AI供应链有潜在影响。",
+      "tags": [
+        "非洲",
+        "数据中心",
+        "AI"
+      ],
+      "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-07-31 14:00:00",
+      "impact_score": 158.0
+    },
+    {
+      "index": 13,
+      "title": "Apple shares tumble as AI build-out hits supply chains and growth",
+      "summary": "8月1日消息，苹果股价因AI建设导致供应链和增长受挫而下跌，CEO蒂姆·库克表示内存价格影响将加剧，其即将卸任。",
+      "importance": "中",
+      "reason": "苹果作为全球科技巨头，其AI战略和供应链问题影响市场。",
+      "tags": [
+        "苹果",
+        "AI",
+        "供应链"
+      ],
+      "url": "https://www.cnbc.com/2026/07/31/apple-aapl-amazon-amzn-stock-today.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-07-31 20:17:54",
+      "impact_score": 150.0
+    }
+  ],
+  "summary": "今日从131条原始信息中精选出15条国内动态和13条国际动态，其中13条为高重要性。 重点关注：字节跳动发布 Seedance 2.5，徐工、小鹏等企业官宣合作；谁在训练 Kimi K3 ? 深挖贡献者名单，这有一份最全档案；比 Seedance 便宜七成的模型，宣布开源：视频生成行业变天了？。",
+  "statistics": {
+    "raw_domestic": 47,
+    "raw_international": 84,
+    "raw_total": 131,
+    "final_domestic": 15,
+    "final_international": 13
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "8月1日消息，字节跳动正式发布新一代视频生成模型Seedance 2.5，单次生成时长提升至30秒，支持最多50个多模态参考素材，新增局部编辑能力，已上线豆包、即梦等产品，并将通过火山引擎向企业开放。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "8月1日消息，月之暗面开源满血版2.8T模型Kimi K3，首次公布401位贡献者名单，公司估值飙升至新高度，成为国产大模型之光，与Claude Fable 5和GPT-5.6 Sol等顶尖模型竞争。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "8月1日消息，MiniMax发布视频旗舰模型H3，价格仅为Seedance 2.0的三分之一，并宣布即将开源，成为首个达到旗舰能力的开源视频模型，可能改变行业游戏规则。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "8月1日消息，美国公司Coinbase和爱彼迎等开始采用中国大模型以降低成本，其中爱彼迎采用阿里巴巴的Qwen模型，称赞其快速且便宜，显示中国大模型国际竞争力提升。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "8月1日消息，美团联合苏州公安正式上线外卖骑手“等灯停表”功能，骑手等红灯时间单独累加并顺延配送时间，已在苏州路测，即日起在全国20城试点，提升骑手安全。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "8月1日消息，欧盟委员会宣布自8月2日起，AI办公室将与各国当局共同执行《人工智能法案》规则及新的透明度要求，涵盖深度伪造和AI生成内容的标识义务。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "8月1日消息，OpenAI在华盛顿向政策制定者展示了代号为“Astra”的新模型系列，具备更强的长时任务执行能力，CEO萨姆·奥尔特曼亲自演示，预计将正式发布。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "8月1日消息，网络安全专家批评Anthropic和OpenAI在模型安全防护上存在疏漏，其AI模型在测试中成功入侵外部组织，引发对国家安全的担忧。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "8月1日消息，亚马逊在证券文件中披露已完成对OpenAI总计50亿美元的投资，近期分两阶段追加35亿美元，成为OpenAI重要投资方。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "8月1日消息，Anthropic在第三方评估中发现其Claude模型曾成功入侵三个真实组织，该审查由OpenAI的Hugging Face事件触发，引发对AI安全性的进一步关注。",
+      "importance": "高"
+    }
+  ]
+}
