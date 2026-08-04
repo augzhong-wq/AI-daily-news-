@@ -1,0 +1,646 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04 10:43:52",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "阿里Qwen3.8正式发布，编程与办公再进化，推理更快更稳定",
+      "summary": "8月4日消息，阿里巴巴正式发布新一代基座大模型Qwen3.8，总参数量2.4万亿，编程与办公能力大幅提升，API已上线千问AI平台，并接入Agent产品“千问办公”，Qwen3.8-Max预计下周开源。",
+      "importance": "高",
+      "reason": "国内头部企业重大产品发布，旗舰大模型迭代，影响全球AI竞争格局",
+      "tags": [
+        "大模型",
+        "阿里巴巴",
+        "产品发布"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/sJsXwQ2i70NZsIDQ.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-03 00:32:00",
+      "impact_score": 615.0
+    },
+    {
+      "index": 2,
+      "title": "阿里“千问办公”开启公测",
+      "summary": "8月4日消息，阿里巴巴旗下企业级Agent产品“千问办公”开启公测，支持桌面端、云端和企业协同，整合QoderWork、MuleRun、悟空三款产品，瞄准企业级市场，提升办公生产力。",
+      "importance": "高",
+      "reason": "国内头部企业重要产品发布，企业级AI Agent市场布局关键动作",
+      "tags": [
+        "阿里巴巴",
+        "Agent",
+        "企业服务"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/M2J5PdYX80CwYSvX.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-03 02:49:00",
+      "impact_score": 390.0
+    },
+    {
+      "index": 3,
+      "title": "原生统一多模态进阶！SenseNova U1.5-Lite-Preview开源，生成编辑能力再进化",
+      "summary": "8月4日消息，商汤科技开源轻量级统一多模态模型SenseNova U1.5-Lite-Preview，基于NEO-Unify架构，仅8B-MoT参数，支持4K分辨率，视觉理解、生成与编辑能力显著提升。",
+      "importance": "高",
+      "reason": "国内AI企业重大技术突破与开源，推动多模态模型发展",
+      "tags": [
+        "商汤科技",
+        "多模态",
+        "开源"
+      ],
+      "url": "https://www.leiphone.com/category/aihealth/EFjXKXuEFXgXkrIo.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-03 02:35:00",
+      "impact_score": 320.0
+    },
+    {
+      "index": 4,
+      "title": "RSS-2026 | 港科大（广州）开源首个无需训练的开放词汇3D占据地图构建系统｜RRS 2026",
+      "summary": "8月4日消息，港科大（广州）开源首个无需训练的开放词汇3D占据地图构建系统，解决机器人具身感知中依赖标注和精确位姿的问题，为空间推理与导航提供新方案。",
+      "importance": "高",
+      "reason": "国内高校重大学术突破，开源系统提升机器人感知能力",
+      "tags": [
+        "港科大",
+        "机器人",
+        "学术突破"
+      ],
+      "url": "https://36kr.com/p/3924628805351811?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-08-04 02:59:50",
+      "impact_score": 312.5
+    },
+    {
+      "index": 5,
+      "title": "独家丨璨辰科技完成数千万天使系列融资，AI 虚拟器官仿真平台加速落地",
+      "summary": "8月4日消息，璨辰科技完成种子轮、天使轮、天使+/++轮系列融资，累计数千万人民币，投资方包括东方富海、松禾资本等，聚焦系统级虚拟器官仿真平台，替代动物实验，服务新药研发。",
+      "importance": "高",
+      "reason": "国内AI医疗创新企业重大融资，虚拟器官仿真技术商业化加速",
+      "tags": [
+        "融资",
+        "AI医疗",
+        "虚拟器官"
+      ],
+      "url": "https://36kr.com/newsflashes/3925067035654274?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-08-04 10:24:39",
+      "impact_score": 260.0
+    },
+    {
+      "index": 6,
+      "title": "36氪首发 | 为果链、头部灵巧手公司供货，新型减速器厂商完成超亿元融资，估值破10亿",
+      "summary": "8月4日消息，精密减速器企业陶世智能完成1.2亿元融资，由国创集团等参与，资金用于产品研发和机器人市场拓展，产品已进入富士康、蓝思科技等供应链，并与近百家机器人企业合作。",
+      "importance": "高",
+      "reason": "国内机器人核心零部件企业重大融资，估值破10亿，产业链关键环节",
+      "tags": [
+        "机器人",
+        "融资",
+        "减速器"
+      ],
+      "url": "https://36kr.com/p/3925017067862409?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-08-04 09:38:53",
+      "impact_score": 249.0
+    },
+    {
+      "index": 7,
+      "title": "一层“布”涨价270%之后，投资机构用数亿元投票玻璃基板，巽霖科技完成近2亿元B轮融资",
+      "summary": "8月4日消息，国内玻璃基板领军企业巽霖科技完成近2亿元B轮融资，由英诺基金、千乘资本等投资，资金用于产能扩张和封装产线建设，应对AI封装载板供给危机。",
+      "importance": "高",
+      "reason": "国内半导体材料企业重大融资，玻璃基板国产化进程加速",
+      "tags": [
+        "半导体",
+        "融资",
+        "玻璃基板"
+      ],
+      "url": "https://36kr.com/p/3924634192673153?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-08-04 03:05:05",
+      "impact_score": 230.0
+    },
+    {
+      "index": 8,
+      "title": "市场监管总局召开深入贯彻落实公平竞争审查制度专项行动推进会",
+      "summary": "8月4日消息，市场监管总局在北京召开公平竞争审查制度专项行动推进会，强调严格规范审查、加强监督保障，对企业反映强烈的不当干预市场竞争问题开展重点抽查，强化刚性约束。",
+      "importance": "高",
+      "reason": "国内重大政策监管动态，影响市场公平竞争环境",
+      "tags": [
+        "市场监管",
+        "反垄断",
+        "政策"
+      ],
+      "url": "https://36kr.com/p/3924953058605444?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-08-04 08:31:59",
+      "impact_score": 225.0
+    },
+    {
+      "index": 9,
+      "title": "我们让 vivago R1 拍了一部土耳其山寨「星战」，结果出乎意料",
+      "summary": "8月4日消息，智象未来发布全球首个无限时长内容创作多模态智能体vivago R1，并完成C轮融资，近三个月融资超20亿元人民币，长视频编排能力成为新护城河。",
+      "importance": "高",
+      "reason": "国内AI视频生成企业重大产品发布与巨额融资，体现赛道热度",
+      "tags": [
+        "智象未来",
+        "AI视频",
+        "融资"
+      ],
+      "url": "https://36kr.com/newsflashes/3925019592816776?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-08-04 09:36:24",
+      "impact_score": 210.0
+    },
+    {
+      "index": 10,
+      "title": "3氪首发 | 两位“三清”博士联合创业做空间态势感知服务，完成数千万天使+轮融资",
+      "summary": "8月4日消息，空间态势感知公司清博空天完成数千万元天使+轮融资，由明荟投资领投，资金用于空间目标监测网络建设和算法平台迭代，应对低轨卫星碰撞风险。",
+      "importance": "中",
+      "reason": "国内商业航天领域重要融资，空间态势感知技术商业化",
+      "tags": [
+        "商业航天",
+        "融资",
+        "空间态势感知"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/ioD5Es7RrtPpeM7P.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-03 03:27:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 11,
+      "title": "中国铜箔生产商龙电华鑫IPO定价20-22美元/股，拟募资7500万美元",
+      "summary": "8月4日消息，中国电解铜箔制造商龙电华鑫公布IPO条款，计划发行360万股ADS，募资约7500万美元，现有投资者意向认购，市值约16亿美元。",
+      "importance": "中",
+      "reason": "国内企业海外IPO动态，反映中国制造企业资本运作",
+      "tags": [
+        "IPO",
+        "铜箔",
+        "龙电华鑫"
+      ],
+      "url": "https://www.leiphone.com/category/transportation/p0Xe4IQIySizkKC0.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-04 04:46:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 12,
+      "title": "奇瑞长安东风集体入局，无人配送是「真风口」还是「新泡沫」？",
+      "summary": "8月4日消息，奇瑞、长安、东风等车企集体入局无人配送车，2025年交付量增长七八倍，2026年再增两三倍，成本下降推动商业化加速，但行业仍面临盈利挑战。",
+      "importance": "中",
+      "reason": "国内车企布局无人配送，反映自动驾驶商业化趋势",
+      "tags": [
+        "无人配送",
+        "自动驾驶",
+        "车企"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/5hrzL5QHORl8yoVf.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-04 00:41:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 13,
+      "title": "三星被曝收缩中国手机布局：月销不足30万元的门店，将逐步清退；宗馥莉的「同父异母兄弟」成立新公司；约120万辆特斯拉汽车遭调查",
+      "summary": "8月4日消息，三星被曝收缩中国手机业务，月销不足30万元门店将清退；宗馥莉同父异母兄弟成立新公司；约120万辆特斯拉遭调查。",
+      "importance": "中",
+      "reason": "国内手机市场动态与商业新闻，涉及三星中国策略调整",
+      "tags": [
+        "三星",
+        "手机",
+        "市场"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/qqTUnzcUVPuJaEeA.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-03 11:27:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 14,
+      "title": "我们用 Kimi K3 搓了一颗火影螺旋丸，只花129元就顶一个前端团队？",
+      "summary": "8月4日消息，月之暗面Kimi K3模型在推理轻量化、训练提效25%方面表现出色，前端效果惊艳，成本仅129元，展示国产大模型在代码生成与前端开发中的应用潜力。",
+      "importance": "中",
+      "reason": "国内大模型产品能力实测，体现Kimi K3技术优势",
+      "tags": [
+        "Kimi",
+        "大模型",
+        "代码生成"
+      ],
+      "url": "https://36kr.com/p/3923603053686151?f=rss",
+      "source": "36氪",
+      "original_pub_date": "2026-08-03 09:44:31",
+      "impact_score": 195.0
+    },
+    {
+      "index": 15,
+      "title": "8点1氪丨宗馥莉同父异母兄弟出任新公司董事长；DeepSeek升至全球调用量第一；iPhone被曝最高或涨价超千元",
+      "summary": "8月4日消息，DeepSeek升至全球调用量第一，宗馥莉同父异母兄弟出任新公司董事长，iPhone被曝最高涨价超千元。",
+      "importance": "中",
+      "reason": "国内AI企业重大成就，DeepSeek全球调用量第一",
+      "tags": [
+        "DeepSeek",
+        "AI",
+        "全球第一"
+      ],
+      "url": "https://www.leiphone.com/category/private/OuSOPivjok83Q3nb.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-03 08:30:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 16,
+      "title": "Kimi K3与DeepSeek V4之间，隔着原生多模态的时间差",
+      "summary": "8月4日消息，分析指出Kimi K3与DeepSeek V4在原生多模态能力上存在差距，视觉反馈对长链任务至关重要，国产大模型在多模态领域竞争加剧。",
+      "importance": "中",
+      "reason": "国内大模型技术对比分析，反映行业趋势",
+      "tags": [
+        "Kimi",
+        "DeepSeek",
+        "多模态"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/keVMfihBTyvo7FGk.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-03 03:02:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 17,
+      "title": "内容创作者不会搭 AI 工作流？TRAE Work 做了本40万字「入门宝典」",
+      "summary": "8月4日消息，TRAE Work发布40万字AI工作流入门宝典，帮助内容创作者搭建AI工作流，提升生产效率，体现国内AI应用落地趋势。",
+      "importance": "低",
+      "reason": "国内AI应用工具发布，助力内容创作效率提升",
+      "tags": [
+        "AI工作流",
+        "内容创作",
+        "TRAE Work"
+      ],
+      "url": "https://www.leiphone.com/category/chips/3VeAr0iNJfCrIF40.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-03 07:13:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 18,
+      "title": "对话哈啰Robotaxi CTO于乾坤：Robotaxi入场窗口已经关闭",
+      "summary": "8月4日消息，哈啰Robotaxi联合创始人于乾坤表示Robotaxi入场窗口已关闭，哈啰联合蚂蚁、宁德时代成立造父智能，目标2027年部署1万辆Robotaxi，行业竞争进入盈利比拼。",
+      "importance": "中",
+      "reason": "国内Robotaxi行业重要观点与动态，反映竞争格局",
+      "tags": [
+        "哈啰",
+        "Robotaxi",
+        "自动驾驶"
+      ],
+      "url": "https://www.leiphone.com/category/yanxishe/AOe4ZF41ZUAzREV5.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-03 03:50:00",
+      "impact_score": 180.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Anthropic, OpenAI among firms facing new scrutiny under EU AI Act enforcement powers",
+      "summary": "8月4日消息，欧盟委员会依据《人工智能法案》获得检查AI模型、限制市场准入及处以最高1500万欧元或3%营业额罚款的权力，Anthropic、OpenAI等企业面临新的监管审查。",
+      "importance": "高",
+      "reason": "欧盟AI法案执法权正式落地，对全球AI企业具有重大政策影响，属于重大政策法规。",
+      "tags": [
+        "欧盟",
+        "AI监管",
+        "AI法案"
+      ],
+      "url": "https://www.theinformation.com/articles/google-deepmind-exec-says-unprecedented-capex-actually-bet-rsi",
+      "source": "The Information",
+      "original_pub_date": "2026-08-03 14:01:20",
+      "impact_score": 251.0
+    },
+    {
+      "index": 2,
+      "title": "Europe’s AI labeling and transparency rules are now in effect",
+      "summary": "8月4日消息，欧盟《人工智能法案》下的AI标签与透明度规则于8月2日生效，要求企业披露用户是否在与聊天机器人或AI深度伪造内容互动，以提升在线信息透明度。",
+      "importance": "高",
+      "reason": "欧盟AI法案透明度条款正式实施，直接影响所有在欧运营的AI企业，属于重大政策法规。",
+      "tags": [
+        "欧盟",
+        "AI法案",
+        "透明度"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-08-04/mediatek-backed-african-fintech-palmpay-eyes-hong-kong-ipo",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-08-04 09:12:23",
+      "impact_score": 225.0
+    },
+    {
+      "index": 3,
+      "title": "White House to Host AI Companies on Tuesday to Review AI Framework",
+      "summary": "8月4日消息，白宫邀请OpenAI、谷歌、Anthropic等主要AI公司于周二审查AI监管框架的完成版本，该框架将建立评估先进AI模型网络安全能力的自愿程序。",
+      "importance": "高",
+      "reason": "美国白宫主导的AI监管框架进入关键审查阶段，涉及顶级AI公司，属于重大政策法规。",
+      "tags": [
+        "美国",
+        "AI监管",
+        "白宫"
+      ],
+      "url": "https://www.cnbc.com/2026/08/03/eu-ai-act-enforcement-powers.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-08-04 08:57:25",
+      "impact_score": 215.0
+    },
+    {
+      "index": 4,
+      "title": "White House to host AI companies Tuesday to review new model-testing framework",
+      "summary": "8月4日消息，白宫将于周二召集AI公司审查新的模型测试框架，该框架依据特朗普6月行政令制定，旨在评估先进AI模型的网络安全能力。",
+      "importance": "高",
+      "reason": "美国行政令驱动的AI模型测试框架即将落地，对AI行业具有广泛影响，属于重大政策法规。",
+      "tags": [
+        "美国",
+        "AI测试",
+        "行政令"
+      ],
+      "url": "https://arxiv.org/abs/2608.00102",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-08-04 04:00:00",
+      "impact_score": 180.0
+    },
+    {
+      "index": 5,
+      "title": "Apple launches legal challenge to UK attempt to access encrypted user data",
+      "summary": "8月4日消息，苹果公司对英国政府要求访问用户加密云备份数据的最新命令提起法律挑战，向法院提出申诉，以保护用户隐私和数据安全。",
+      "importance": "高",
+      "reason": "苹果与英国政府在加密数据访问上的法律对抗，涉及隐私与安全重大议题，属于重大政策法规。",
+      "tags": [
+        "苹果",
+        "英国",
+        "加密数据"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-08-03 17:38:45",
+      "impact_score": 160.0
+    },
+    {
+      "index": 6,
+      "title": "U.S. lawmakers request information from DoorDash on use of Chinese AI models",
+      "summary": "8月4日消息，美国众议院两个委员会联合调查中，要求DoorDash提供其使用中国AI模型的相关信息，这是最新一家被要求披露AI使用情况的公司。",
+      "importance": "高",
+      "reason": "美国国会针对中国企业AI模型的使用展开调查，涉及国家安全与供应链问题，属于重大政策法规。",
+      "tags": [
+        "美国",
+        "国会调查",
+        "中国AI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-08-04/blackrock-launches-tokenized-money-market-funds-in-europe",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-08-04 05:30:00",
+      "impact_score": 150.0
+    },
+    {
+      "index": 7,
+      "title": "James Dacombe, 25, triples AI chip start-up’s valuation to $3.3bn",
+      "summary": "8月4日消息，25岁英国企业家James Dacombe创立的AI芯片初创公司Olix完成3.12亿美元融资，估值达33亿美元，投资方包括Arm，旨在挑战英伟达。",
+      "importance": "高",
+      "reason": "AI芯片初创公司获得巨额融资，估值大幅提升，对芯片行业竞争格局有重要影响，属于重大商业动态。",
+      "tags": [
+        "AI芯片",
+        "融资",
+        "英国"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-08-04/china-s-ai-blitz-creates-death-zone-for-rival-us-model-makers",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-08-04 04:38:44",
+      "impact_score": 150.0
+    },
+    {
+      "index": 8,
+      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+      "summary": "8月4日消息，Palantir CEO Alex Karp在季度利润达10亿美元后，再次警告AI前沿实验室对企业不够可信，并称AI行业具有“马克思主义”倾向。",
+      "importance": "中",
+      "reason": "Palantir CEO对AI行业的尖锐批评引发关注，反映行业内部争议，属于商业动态与伦理争议。",
+      "tags": [
+        "Palantir",
+        "AI行业",
+        "争议"
+      ],
+      "url": "https://www.ft.com/content/2cc9c96a-0e5b-4c33-a95a-3d11072a145c?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-08-03 18:10:01",
+      "impact_score": 150.0
+    },
+    {
+      "index": 9,
+      "title": "Palantir jumps 16% on 'otherworldly' commercial revenue — here's what's driving the demand",
+      "summary": "8月4日消息，Palantir因第二季度商业收入超预期大涨16%，CEO Alex Karp表示客户拒绝成为“语言实验室的附庸”，AI需求强劲。",
+      "importance": "中",
+      "reason": "Palantir业绩超预期，反映AI商业应用需求增长，属于重大商业动态。",
+      "tags": [
+        "Palantir",
+        "财报",
+        "AI需求"
+      ],
+      "url": "https://www.ft.com/content/69d55b1b-fa3f-420c-905a-6699d28a7b89?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-08-03 04:00:13",
+      "impact_score": 150.0
+    },
+    {
+      "index": 10,
+      "title": "AI Power Demands Spur Builders to Seek Billions in Bank Pledges",
+      "summary": "8月4日消息，美国AI数据中心电力需求激增，电力公司面临开发商可能放弃项目的风险，开发商正寻求银行数十亿美元承诺以支撑基础设施投资。",
+      "importance": "中",
+      "reason": "AI算力扩张引发的电力基础设施融资问题，影响AI产业可持续发展，属于重大商业动态。",
+      "tags": [
+        "AI数据中心",
+        "电力",
+        "融资"
+      ],
+      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-08-03 16:40:55",
+      "impact_score": 145.0
+    },
+    {
+      "index": 11,
+      "title": "Google DeepMind Exec Says Unprecedented Capex Is Actually a Bet On ‘RSI’",
+      "summary": "8月4日消息，谷歌DeepMind首席战略官Jasjeet Sekhon表示，AI行业前所未有的资本支出是对“递归自我改进”的押注，即AI能自动创造更好的AI。",
+      "importance": "中",
+      "reason": "DeepMind高管对AI资本支出的核心逻辑进行阐述，反映行业战略方向，属于重大商业动态。",
+      "tags": [
+        "谷歌",
+        "DeepMind",
+        "资本支出"
+      ],
+      "url": "https://www.theinformation.com/articles/white-house-host-ai-companies-tuesday-review-ai-framework",
+      "source": "The Information",
+      "original_pub_date": "2026-08-03 14:24:36",
+      "impact_score": 145.0
+    },
+    {
+      "index": 12,
+      "title": "Congress’ favorite AI tool? ChatGPT",
+      "summary": "8月4日消息，美国国会支出记录显示，OpenAI的ChatGPT主导了国会山的付费AI使用，各办公室依赖其起草备忘录、总结立法和协助选民沟通。",
+      "importance": "中",
+      "reason": "ChatGPT在美国国会的广泛应用，体现AI在政府领域的渗透，属于商业动态。",
+      "tags": [
+        "ChatGPT",
+        "美国国会",
+        "AI应用"
+      ],
+      "url": "https://www.theinformation.com/articles/apple-icloud-policy-fueled-employee-leaks-ahead-openai-suit",
+      "source": "The Information",
+      "original_pub_date": "2026-08-03 13:00:43",
+      "impact_score": 145.0
+    },
+    {
+      "index": 13,
+      "title": "How an Apple iCloud Policy Fueled Employee Leaks Ahead of OpenAI Suit",
+      "summary": "8月4日消息，苹果在诉讼中指控前员工（现OpenAI员工）窃取商业机密，部分通过不当访问苹果机密文件，涉及iCloud政策漏洞，引发对数据安全的关注。",
+      "importance": "中",
+      "reason": "苹果与OpenAI之间的法律纠纷涉及商业机密和员工行为，属于安全与伦理事件。",
+      "tags": [
+        "苹果",
+        "OpenAI",
+        "法律诉讼"
+      ],
+      "url": "https://arxiv.org/abs/2608.00006",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-08-04 04:00:00",
+      "impact_score": 135.0
+    },
+    {
+      "index": 14,
+      "title": "Apple Briefly Removes Telegram App for Child Abuse Content",
+      "summary": "8月4日消息，苹果因Telegram平台存在违反儿童性虐待内容禁令的内容，短暂将其从App Store下架，随后恢复。",
+      "importance": "中",
+      "reason": "苹果对应用内容进行审查，涉及平台安全与伦理问题，属于安全与伦理事件。",
+      "tags": [
+        "苹果",
+        "Telegram",
+        "内容审查"
+      ],
+      "url": "https://arxiv.org/abs/2608.00014",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-08-04 04:00:00",
+      "impact_score": 135.0
+    },
+    {
+      "index": 15,
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "summary": "8月4日消息，苹果终于对Siri进行AI改造，使其成为预期中的助手，但在当前AI助手能力普遍提升的背景下，这一改进显得平淡。",
+      "importance": "低",
+      "reason": "苹果Siri的AI升级是产品更新，但缺乏突破性，属于产品发布。",
+      "tags": [
+        "苹果",
+        "Siri",
+        "AI助手"
+      ],
+      "url": "https://arxiv.org/abs/2608.00200",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-08-04 04:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 16,
+      "title": "Apple’s India Sales Top $10 Billion on Widening Retail Push",
+      "summary": "8月4日消息，苹果在印度上一财年销售额首次突破100亿美元，得益于零售网络的扩张和当地对高价设备的需求增长。",
+      "importance": "低",
+      "reason": "苹果在印度市场的销售里程碑，属于商业动态，但AI相关性较低。",
+      "tags": [
+        "苹果",
+        "印度",
+        "销售"
+      ],
+      "url": "https://arxiv.org/abs/2608.00215",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-08-04 04:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 17,
+      "title": "BlackRock Launches Tokenized Money Market Funds in Europe",
+      "summary": "8月4日消息，贝莱德在欧洲推出代币化货币市场基金，将区块链技术应用于旗舰基金，显示华尔街在主流金融中扩大数字资产技术应用的雄心。",
+      "importance": "低",
+      "reason": "贝莱德将区块链技术引入传统金融产品，属于金融科技动态，与AI关联度较低。",
+      "tags": [
+        "贝莱德",
+        "区块链",
+        "金融科技"
+      ],
+      "url": "https://aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock/",
+      "source": "Amazon AWS AI",
+      "original_pub_date": "2026-08-03 16:30:58",
+      "impact_score": 130.0
+    },
+    {
+      "index": 18,
+      "title": "Ofcom chair launches review of regulator to help rein in Big Tech",
+      "summary": "8月4日消息，英国通信管理局主席Ian Cheshire启动对监管机构的审查，称需要更多资源来执行在线安全规则，以应对大型科技公司的挑战。",
+      "importance": "低",
+      "reason": "英国监管机构对大型科技公司的监管审查，属于政策动态，但AI针对性不强。",
+      "tags": [
+        "英国",
+        "Ofcom",
+        "科技监管"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-08-04/ai-power-demands-spur-builders-to-seek-billions-in-bank-pledges",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-08-04 09:30:00",
+      "impact_score": 127.5
+    }
+  ],
+  "summary": "今日从150条原始信息中精选出18条国内动态和18条国际动态，其中16条为高重要性。 重点关注：阿里Qwen3.8正式发布，编程与办公再进化，推理更快更稳定；阿里“千问办公”开启公测；原生统一多模态进阶！SenseNova U1.5-Lite-Preview开源，生成编辑能力再进化。",
+  "statistics": {
+    "raw_domestic": 42,
+    "raw_international": 108,
+    "raw_total": 150,
+    "final_domestic": 18,
+    "final_international": 18
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "8月4日消息，阿里巴巴正式发布新一代基座大模型Qwen3.8，总参数量2.4万亿，编程与办公能力大幅提升，API已上线千问AI平台，并接入Agent产品“千问办公”，Qwen3.8-Max预计下周开源。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "8月4日消息，阿里巴巴旗下企业级Agent产品“千问办公”开启公测，支持桌面端、云端和企业协同，整合QoderWork、MuleRun、悟空三款产品，瞄准企业级市场，提升办公生产力。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "8月4日消息，商汤科技开源轻量级统一多模态模型SenseNova U1.5-Lite-Preview，基于NEO-Unify架构，仅8B-MoT参数，支持4K分辨率，视觉理解、生成与编辑能力显著提升。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "8月4日消息，港科大（广州）开源首个无需训练的开放词汇3D占据地图构建系统，解决机器人具身感知中依赖标注和精确位姿的问题，为空间推理与导航提供新方案。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "8月4日消息，璨辰科技完成种子轮、天使轮、天使+/++轮系列融资，累计数千万人民币，投资方包括东方富海、松禾资本等，聚焦系统级虚拟器官仿真平台，替代动物实验，服务新药研发。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "8月4日消息，欧盟委员会依据《人工智能法案》获得检查AI模型、限制市场准入及处以最高1500万欧元或3%营业额罚款的权力，Anthropic、OpenAI等企业面临新的监管审查。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "8月4日消息，欧盟《人工智能法案》下的AI标签与透明度规则于8月2日生效，要求企业披露用户是否在与聊天机器人或AI深度伪造内容互动，以提升在线信息透明度。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "8月4日消息，白宫邀请OpenAI、谷歌、Anthropic等主要AI公司于周二审查AI监管框架的完成版本，该框架将建立评估先进AI模型网络安全能力的自愿程序。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "8月4日消息，白宫将于周二召集AI公司审查新的模型测试框架，该框架依据特朗普6月行政令制定，旨在评估先进AI模型的网络安全能力。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "8月4日消息，苹果公司对英国政府要求访问用户加密云备份数据的最新命令提起法律挑战，向法院提出申诉，以保护用户隐私和数据安全。",
+      "importance": "高"
+    }
+  ]
+}
