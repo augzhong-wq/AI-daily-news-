@@ -1,0 +1,188 @@
+======================================================================
+AI每日动态 - 2026-08-05
+生成时间: 2026-08-05 10:40:59
+数据来源: 从 147 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、8月5日消息，阿里巴巴正式发布新一代基座大模型Qwen3.8，编程与Agent能力大幅提升，整体性能位居全球大模型第一梯队，发布当日即获OpenRouter、OpenCode、Hermes Agent等多家海外主流平台接入，形成“接入潮”。
+2、8月5日消息，IDC发布全球基础模型软件厂商评估报告，阿里云凭借千问模型家族与千问AI平台入选“领导者”象限，是唯一进入该象限的中国厂商，与Google、Anthropic、OpenAI、Amazon同处第一梯队。
+3、8月5日消息，杭州联汇科技（Om AI联汇）宣布完成数亿元融资，由前海母基金领投，杭州政府产业基金参投，同时开源VLX-Seek 1.5端侧多模态模型，性能超越英伟达核心模型，资金将用于技术迭代和物理AI商业化。
+4、8月5日消息，字节跳动发布视频生成模型Seedance 2.5，旗下即梦AI首发接入并上线专业创作工具，携手上海电影集团、电影频道、艾菲奖等探索AI视频在影视、广告等场景的专业交付实践。
+5、8月5日消息，越疆科技发布全球首款具身全栖人形机器人越疆鹿萌，具备流畅步态和复杂地形适应能力，可切换户外陪练、居家助手等角色，是国内长距离行走应用中拟人化程度最高的人形机器人。
+
+国际动态：
+1、8月5日消息，欧盟委员会依据《人工智能法案》加强对Anthropic、OpenAI等AI公司的监管，可要求检查AI模型、限制市场准入，并处以最高1500万欧元或营业额3%的罚款。
+2、8月5日消息，Anthropic与AI云初创公司Volta签署100亿美元合作协议，这是其近期一系列云合作中的最新动作，旨在扩展AI算力基础设施。
+3、8月5日消息，OpenAI公开回应苹果上月提起的商业秘密窃取诉讼，称其“草率、激进且奇怪地针对个人”，并详细列举对苹果指控的反驳。
+4、8月5日消息，苹果在最新法庭文件中称，更多前员工可能保留或访问了机密信息并带往OpenAI，其商业秘密调查范围进一步扩大。
+5、8月5日消息，OpenAI发布博客文章《苹果搞错了》公开反驳苹果的诉讼指控，将法律纠纷引入舆论战，称苹果的指控“草率且针对个人”。
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 8月5日消息，阿里巴巴正式发布新一代基座大模型Qwen3.8，编程与Agent能力大幅提升，整体性能位居全球大模型第一梯队，发布当日即获OpenRouter、OpenCode、Hermes Agent等多家海外主流平台接入，形成“接入潮”。
+   📋 入选理由: 中国科技巨头阿里巴巴发布旗舰AI模型，性能领先，且获得国际主流平台广泛接入，体现中国AI技术影响力，属于重大产品发布。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/yanxishe/VQZgsYN4EWGlF44Z.html
+   🏷️ 标签: 阿里巴巴, Qwen3.8, 大模型, 发布
+
+2、🔥 8月5日消息，IDC发布全球基础模型软件厂商评估报告，阿里云凭借千问模型家族与千问AI平台入选“领导者”象限，是唯一进入该象限的中国厂商，与Google、Anthropic、OpenAI、Amazon同处第一梯队。
+   📋 入选理由: 阿里云在权威国际评估中获最高评级，彰显中国AI厂商综合竞争力，属于重大商业动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/tAlZoYMQpcDwWWi2.html
+   🏷️ 标签: 阿里云, IDC, 评估, 领导者
+
+3、🔥 8月5日消息，杭州联汇科技（Om AI联汇）宣布完成数亿元融资，由前海母基金领投，杭州政府产业基金参投，同时开源VLX-Seek 1.5端侧多模态模型，性能超越英伟达核心模型，资金将用于技术迭代和物理AI商业化。
+   📋 入选理由: 中国AI公司获得数亿元融资，且开源模型性能领先，属于重大商业动态和技术突破。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/Ufuyq9sSvBlkp2Ix.html
+   🏷️ 标签: Om AI联汇, 融资, 端侧AI, 物理AI
+
+4、🔥 8月5日消息，字节跳动发布视频生成模型Seedance 2.5，旗下即梦AI首发接入并上线专业创作工具，携手上海电影集团、电影频道、艾菲奖等探索AI视频在影视、广告等场景的专业交付实践。
+   📋 入选理由: 字节跳动发布重要视频生成模型，并推动AI视频在专业场景落地，属于重大产品发布和商业合作。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/dyX3xfFAHdLseQIF.html
+   🏷️ 标签: 字节跳动, Seedance 2.5, AI视频, 即梦AI
+
+5、🔥 8月5日消息，越疆科技发布全球首款具身全栖人形机器人越疆鹿萌，具备流畅步态和复杂地形适应能力，可切换户外陪练、居家助手等角色，是国内长距离行走应用中拟人化程度最高的人形机器人。
+   📋 入选理由: 中国公司发布全球首款具身全栖人形机器人，属于重大产品发布，展示中国在具身智能领域的领先地位。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/private/IebUaqTjHqgEYxQs.html
+   🏷️ 标签: 越疆科技, 人形机器人, 具身智能, 发布
+
+6、📌 8月5日消息，字节跳动正式启动2027届校园招聘，开放八大类岗位，其中技术与产品岗位占比超七成，增设AI全栈工程师、AI Agent开发等新兴岗位，产品类岗位中超半数聚焦AI产品方向，全面加大AI人才储备。
+   📋 入选理由: 中国互联网巨头加大AI人才招聘，反映国内AI产业人才需求旺盛，属于重大商业动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/ME02O5J26zzAWXeo.html
+   🏷️ 标签: 字节跳动, 校园招聘, AI人才
+
+7、📌 8月5日消息，灵光App宣布其平台“闪应用”创作者已超400万人，其中多为无编程背景的普通用户，应用类型覆盖游戏模拟器、情感测试、生活决策等，一个由普通用户驱动的AI原生应用生态正在加速形成。
+   📋 入选理由: 中国AI应用平台用户规模快速增长，体现国内AI应用生态繁荣，属于重大商业动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/weiwu/uuLwEc9qyRqTr2Ol.html
+   🏷️ 标签: 灵光App, AI应用, 创作者生态
+
+8、📌 8月5日消息，2026世界机器人大会将于8月19日至23日在北京举办，主题“人机共生，产需共融”，参展企业300余家，展品超2000件，首发新品超150件，来自20多个国家的1万多名赛手将参加机器人大赛总决赛。
+   📋 入选理由: 中国举办世界机器人大会，展示国内机器人产业最新成果，属于重大行业动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/ai/HeZOqCaleEb5REh4.html
+   🏷️ 标签: 世界机器人大会, 机器人, 北京
+
+9、📌 8月5日消息，亿能智光（深圳）科技有限公司完成种子轮和天使轮融资，种子轮投资方为拓竹，天使轮为中科创星，这是拓竹成立以来首次对外投资，旨在寻求激光器国产替代方案，若第三代激光器技术突破，将推动桌面级激光器换代。
+   📋 入选理由: 中国公司拓竹首次对外投资，布局激光器技术，属于重大商业动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/V9v6jersRxEmcZcZ.html
+   🏷️ 标签: 拓竹, 亿能智光, 投资, 激光器
+
+10、📌 8月5日消息，无人配送车行业2025年交付量同比增长七八倍，2026年再增两三倍，奇瑞、长安、东风等车企集体入局，成本下降使经济账算通，行业进入爆发期，但泡沫风险仍存。
+   📋 入选理由: 中国车企集体入局无人配送，反映国内自动驾驶商业化加速，属于重大商业动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/transportation/p0Xe4IQIySizkKC0.html
+   🏷️ 标签: 无人配送, 奇瑞, 长安, 东风
+
+11、📌 8月5日消息，Sand.ai开源全球首个千亿MoE视频生成模型，参数达114B，激活仅6B，可生成10秒1080P视频，成本仅5毛钱，大幅降低视频生成门槛。
+   📋 入选理由: 中国AI公司开源全球首个千亿MoE视频生成模型，属于重大技术突破。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/1gS0E0CcUDxEgbQR.html
+   🏷️ 标签: Sand.ai, MoE, 视频生成, 开源
+
+12、📌 8月5日消息，北京大学与元空AI Agent联合实验室发布开源版Claude Science，零依赖、MIT协议，内置30余项科研技能，为科研人员提供AI辅助工具。
+   📋 入选理由: 中国高校与AI公司联合发布开源科研工具，属于学术突破和开源生态建设。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/zaobao/5hrzL5QHORl8yoVf.html
+   🏷️ 标签: 北京大学, 元空AI, 开源, 科研
+
+13、📄 8月5日消息，上海仪电旗下企业为全国青少年人工智能大赛决赛提供高性能算力服务与智算云平台支撑，大赛由中国福利会等主办，吸引全国近4万名中小学生参与初赛，数百名选手角逐桂冠。
+   📋 入选理由: 中国企业在青少年AI大赛中提供算力支持，体现国内AI教育普及，属于行业动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/private/fNLpOtD2S0XnmuGP.html
+   🏷️ 标签: 上海仪电, 青少年AI大赛, 算力
+
+14、📄 8月5日消息，阿里巴巴淘天集团开启2027届应届生招聘，AI技术类岗位占比超九成，显示其对AI人才的重视。
+   📋 入选理由: 中国电商巨头淘天集团加大AI人才招聘，反映国内AI人才需求，属于商业动态。
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/08/466847.html
+   🏷️ 标签: 淘天集团, 招聘, AI
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 8月5日消息，欧盟委员会依据《人工智能法案》加强对Anthropic、OpenAI等AI公司的监管，可要求检查AI模型、限制市场准入，并处以最高1500万欧元或营业额3%的罚款。
+   📋 入选理由: 欧盟AI法案执法权扩大，直接影响主要AI公司运营，属于重大政策法规。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/articles/spacex-tesla-merger-benefit-shareholders-companies
+   🏷️ 标签: 欧盟, AI法案, 监管
+
+2、🔥 8月5日消息，Anthropic与AI云初创公司Volta签署100亿美元合作协议，这是其近期一系列云合作中的最新动作，旨在扩展AI算力基础设施。
+   📋 入选理由: 百亿美元级战略合作，对AI云市场格局有重大影响。
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-08-05/moove-hits-2-1-billion-valuation-in-mubadala-led-fundraising
+   🏷️ 标签: Anthropic, 合作, 云计算
+
+3、🔥 8月5日消息，OpenAI公开回应苹果上月提起的商业秘密窃取诉讼，称其“草率、激进且奇怪地针对个人”，并详细列举对苹果指控的反驳。
+   📋 入选理由: 两大科技巨头法律纠纷升级，涉及商业秘密和AI人才流动，影响行业生态。
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-08-05/temasek-morgan-stanley-are-said-to-eye-adtek-pre-ipo-investment
+   🏷️ 标签: OpenAI, 苹果, 诉讼
+
+4、🔥 8月5日消息，苹果在最新法庭文件中称，更多前员工可能保留或访问了机密信息并带往OpenAI，其商业秘密调查范围进一步扩大。
+   📋 入选理由: 苹果与OpenAI法律战升级，涉及AI人才竞争和知识产权保护。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/articles/spacex-reports-lots-red-ink-makes-big-promises
+   🏷️ 标签: 苹果, OpenAI, 商业秘密
+
+5、🔥 8月5日消息，OpenAI发布博客文章《苹果搞错了》公开反驳苹果的诉讼指控，将法律纠纷引入舆论战，称苹果的指控“草率且针对个人”。
+   📋 入选理由: OpenAI公开反击苹果诉讼，舆论战升级，影响两家公司公众形象。
+   📰 来源: CNBC Tech | 🔗 https://www.cnbc.com/2026/08/03/eu-ai-act-enforcement-powers.html
+   🏷️ 标签: OpenAI, 苹果, 舆论战
+
+6、🔥 8月5日消息，美国可能对中国数据中心组件实施禁令，分析认为此举可能影响两国脆弱的贸易休战，但不太可能削弱中国的出口引擎。
+   📋 入选理由: 美国对华AI组件出口管制潜在政策，影响全球AI供应链。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/briefings/spacex-first-earnings-report-since-ipo-shows-heavy-ai-spending
+   🏷️ 标签: 美国, 出口管制, 中国
+
+7、🔥 8月5日消息，AMD数据中心业务因AI需求强劲，季度营收达67亿美元，同比增长107%，而游戏业务表现疲软，公司战略重心明显转向AI。
+   📋 入选理由: AMD数据中心业务翻倍增长，反映AI芯片市场强劲需求。
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/
+   🏷️ 标签: AMD, 数据中心, AI芯片
+
+8、🔥 8月5日消息，SpaceX因AI支出激增导致股价下跌10%，CEO马斯克称2030年营收将达1万亿美元，但投资者对高投入表示担忧。
+   📋 入选理由: SpaceX上市后首份财报显示AI投入巨大，引发市场波动。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/briefings/polymarket-seeks-raise-20-billion-valuation
+   🏷️ 标签: SpaceX, AI支出, 股价
+
+9、🔥 8月5日消息，Palantir因二季度业绩超预期，股价飙升29%，CEO卡普称客户不愿成为“语言实验室的附庸”，AI需求强劲。
+   📋 入选理由: Palantir业绩超预期，股价大涨，反映AI商业化成功。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/articles/customer-feedback-startup-talks-125-million-financing-led-anthropic-investor
+   🏷️ 标签: Palantir, 财报, AI
+
+10、📌 8月5日消息，Meta前首席AI科学家杨立昆加入新创投公司224 Ventures，将投资人工智能初创企业，其“AI教父”身份为该公司带来巨大关注。
+   📋 入选理由: AI领域权威人物加入投资界，可能影响AI创业投资方向。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/briefings/bending-spoons-acquire-airtable-around-1-3-billion-steep-drop-pandemic-peak
+   🏷️ 标签: 杨立昆, 投资, AI
+
+11、📌 8月5日消息，英飞凌尽管发布强劲营收预测，但股价仍下跌，投资者对芯片行业高估值和AI热潮持续性表示担忧。
+   📋 入选理由: 芯片行业估值担忧蔓延，影响市场对AI硬件前景判断。
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-08-05/yann-lecun-joins-new-ai-investing-firm-224-ventures
+   🏷️ 标签: 英飞凌, 芯片, 估值
+
+12、📌 8月5日消息，OpenAI对苹果的商业秘密诉讼进行反击，双方法律冲突加深，此前设备AI合作已让位于对抗。
+   📋 入选理由: OpenAI与苹果法律战持续，影响AI行业合作关系。
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-08-05/infineon-revenue-forecast-beats-as-ai-power-chip-demand-rises
+   🏷️ 标签: OpenAI, 苹果, 法律纠纷
+
+13、📌 8月5日消息，车辆融资和车队管理初创公司Moove完成由阿布扎比主权基金穆巴达拉领投的2.5亿美元融资，估值达21亿美元，将用于自动驾驶服务扩展。
+   📋 入选理由: 大额融资，估值超20亿美元，显示自动驾驶领域投资热度。
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2608.00102
+   🏷️ 标签: Moove, 融资, 自动驾驶
+
+14、📌 8月5日消息，意大利公司Bending Spoons同意以12.85亿美元收购生产力软件公司Airtable，较其2021年110亿美元估值大幅缩水。
+   📋 入选理由: 大型并购案，反映科技公司估值回调趋势。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/briefings/openai-calls-apple-lawsuit-careless-oddly-personal
+   🏷️ 标签: Bending Spoons, Airtable, 并购
+
+15、📌 8月5日消息，AI对内存和存储需求激增，英伟达指出需要高效、安全的存储架构来支持AI工厂的数据处理，存储技术面临升级。
+   📋 入选理由: AI基础设施需求推动存储技术发展，影响硬件市场。
+   📰 来源: NVIDIA AI | 🔗 https://blogs.nvidia.com/blog/ai-storage-fms/
+   🏷️ 标签: 英伟达, 存储, AI基础设施
+
+16、📌 8月5日消息，Reddit面临AI生成的SEO垃圾信息新浪潮，用户发现AI生成的回复伪装成真实用户，平台内容真实性受到挑战。
+   📋 入选理由: AI垃圾信息泛滥问题，影响社交媒体平台内容生态。
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/
+   🏷️ 标签: Reddit, AI垃圾信息, SEO
+
+
+======================================================================
+📊 今日总结: 今日从147条原始信息中精选出14条国内动态和16条国际动态，其中14条为高重要性。 重点关注：发布当日，海外主流AI平台纷纷接入阿里Qwen3.8；IDC发布全球基础模型评估报告，阿里云是唯一入选“领导者”象限的中国厂商；资本重仓端侧物理AI:前海母基金数亿元押注,Om AI联汇加速端侧AI商业化落地。
+======================================================================
