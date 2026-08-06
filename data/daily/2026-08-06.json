@@ -1,0 +1,618 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06 10:43:32",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "长鑫拒绝苹果压价：坚持要求不低于三星电子和SK海力士；马斯克个人财富亏掉2个「黄仁勋」；宇树上市在即，王兴兴身价即将突破百亿",
+      "summary": "8月6日消息，长鑫存储拒绝苹果压价，坚持定价不低于三星电子和SK海力士，同时宇树科技IPO询价开启，王兴兴身价将破百亿，DeepSeek重启融资拟募资500亿元。",
+      "importance": "高",
+      "reason": "涉及中国存储芯片企业长鑫与苹果的商业博弈，以及宇树科技上市、DeepSeek融资等国内重大商业动态。",
+      "tags": [
+        "融资",
+        "上市",
+        "芯片",
+        "商业"
+      ],
+      "url": "https://www.leiphone.com/category/chips/ljl2DOaEEwaMbzBk.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-06 01:00:00",
+      "impact_score": 390.0
+    },
+    {
+      "index": 2,
+      "title": "即梦上线多款Seedance2.5专业工具，携手上海电影、艾菲奖等探索AI视频应用场景",
+      "summary": "8月6日消息，字节跳动发布视频生成模型Seedance 2.5并接入即梦AI，上线专业创作工具，携手上海电影集团等探索AI视频在影视、广告等场景的专业交付。",
+      "importance": "高",
+      "reason": "字节跳动作为中国头部科技公司，发布重要AI视频模型及工具，属于国内重大产品发布。",
+      "tags": [
+        "发布",
+        "AI视频",
+        "字节跳动"
+      ],
+      "url": "https://www.leiphone.com/category/weiwu/U6LJntXfchEVAZRy.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-06 05:58:00",
+      "impact_score": 350.0
+    },
+    {
+      "index": 3,
+      "title": "越疆具身全栖机器人让陪伴从“听见”升级为“看见”和“做到”",
+      "summary": "8月6日消息，越疆科技发布全球首款具身全栖人形机器人越疆鹿萌，具备流畅步态和复杂地形适应能力，可无缝切换户外、居家等场景，实现拟人化陪伴。",
+      "importance": "高",
+      "reason": "中国机器人公司越疆科技发布全球首款具身全栖人形机器人，属于国内重大产品发布。",
+      "tags": [
+        "发布",
+        "机器人",
+        "具身智能"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/aMdQoqYpcE7D7eWa.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-06 00:34:00",
+      "impact_score": 345.0
+    },
+    {
+      "index": 4,
+      "title": "MiniMax H3 视频模型登顶开源社区第一，定义视频模型领域“斩杀线”",
+      "summary": "8月6日消息，MiniMax开源新一代多模态生成模型H3，在多个评测榜位列全球第一，Hugging Face热度超DeepSeek V4 Flash，获业内知名人士点赞。",
+      "importance": "高",
+      "reason": "中国AI公司MiniMax发布开源视频模型并登顶社区，属于国内重大产品发布和生态竞争。",
+      "tags": [
+        "发布",
+        "开源",
+        "视频模型"
+      ],
+      "url": "https://www.leiphone.com/category/academic/wQny8Cer4EJz0RAU.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-06 06:22:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 5,
+      "title": "金刚GC3芯片重新定义视频AI算力规则，国产RISC-V高端算力商业化提速",
+      "summary": "8月6日消息，金刚GC3芯片发布，为全球首款RISC-V数据流架构视频智能AIGC芯片，旨在解决视频算力瓶颈，推动国产RISC-V高端算力商业化。",
+      "importance": "高",
+      "reason": "中国芯片公司发布全球首款RISC-V视频AI芯片，属于国内重大产品发布和芯片突破。",
+      "tags": [
+        "发布",
+        "芯片",
+        "RISC-V"
+      ],
+      "url": "https://www.leiphone.com/category/private/IebUaqTjHqgEYxQs.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-05 08:18:00",
+      "impact_score": 220.0
+    },
+    {
+      "index": 6,
+      "title": "国内首个，千问办公通过中国信通院办公智能体能力评估",
+      "summary": "8月6日消息，中国信通院公布办公智能体能力评估结果，千问办公成为国内首个通过评估的产品，在办公任务执行、数据安全等关键能力上达标。",
+      "importance": "高",
+      "reason": "中国信通院作为政府机构，发布国内首个办公智能体评估结果，属于国内政策与标准动态。",
+      "tags": [
+        "政策",
+        "智能体",
+        "评估"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/ME02O5J26zzAWXeo.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-05 07:25:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 7,
+      "title": "超级算力枢纽远景乌兰察布星河基地投产，全球最大AI算力超级单体落地",
+      "summary": "8月6日消息，远景乌兰察布星河基地投产，成为全球最大AI算力超级单体，标志着中国在AI算力基础设施领域取得重大进展。",
+      "importance": "中",
+      "reason": "中国算力基础设施投产，属于国内重大商业动态。",
+      "tags": [
+        "算力",
+        "基础设施",
+        "投产"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/QFyXW6c55NAYahi7.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-05 11:02:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 8,
+      "title": "淘天开启2027届应届生招聘：AI技术类岗位占比超9成",
+      "summary": "8月6日消息，阿里巴巴淘天集团开启2027届应届生招聘，AI技术类岗位占比超9成，显示国内企业对AI人才的重视。",
+      "importance": "中",
+      "reason": "中国电商巨头淘天集团招聘动态，反映国内AI人才需求趋势。",
+      "tags": [
+        "招聘",
+        "AI",
+        "人才"
+      ],
+      "url": "https://www.leiphone.com/category/ai/HeZOqCaleEb5REh4.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-05 08:20:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 9,
+      "title": "对话 IDEA 张磊：「不以动作为输入条件，就不叫世界模型」",
+      "summary": "8月6日消息，IDEA研究院张磊接受专访，指出世界模型应以动作为输入条件，国内世界模型赛道融资超300亿元，行业热度高涨。",
+      "importance": "中",
+      "reason": "中国研究机构IDEA研究院的专家观点，涉及国内世界模型赛道发展。",
+      "tags": [
+        "世界模型",
+        "专访",
+        "融资"
+      ],
+      "url": "https://www.leiphone.com/category/academic/DZgTbdNa1dTMDgie.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-06 06:19:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 10,
+      "title": "机器人大舞台有料你就来！WRC前瞻首发：整机厂秀肌肉，零部件闷声发财｜WRC 2026",
+      "summary": "8月6日消息，2026世界机器人大会将于8月19日在北京举办，参展企业300余家，首发新品超150件，聚焦人机共生与产需共融。",
+      "importance": "中",
+      "reason": "中国举办的国际机器人大会，属于国内产业动态。",
+      "tags": [
+        "机器人",
+        "展会",
+        "WRC"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/aiUMBoeUYbi8fX4x.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-05 11:20:00",
+      "impact_score": 180.0
+    },
+    {
+      "index": 11,
+      "title": "尊界时代旗舰MPV正式上市，全国展车现已到店，售价64.8万元起",
+      "summary": "8月6日消息，尊界时代旗舰MPV尊界V800与V680正式上市，售价64.8万元起，搭载华为全场景技术，重新定义超豪华MPV标杆。",
+      "importance": "中",
+      "reason": "华为与车企合作发布旗舰车型，属于国内重大产品发布。",
+      "tags": [
+        "发布",
+        "汽车",
+        "华为"
+      ],
+      "url": "https://www.leiphone.com/category/private/fNLpOtD2S0XnmuGP.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-05 08:18:00",
+      "impact_score": 170.0
+    },
+    {
+      "index": 12,
+      "title": "华为 IJCAI 2026 论文盘点：从「规模密度」转向「设计密度」",
+      "summary": "8月6日消息，华为在IJCAI 2026发表多篇论文，展示从规模扩张转向设计密度的技术趋势，强调系统化工程能力。",
+      "importance": "中",
+      "reason": "中国科技公司华为的学术研究成果，属于国内学术动态。",
+      "tags": [
+        "学术",
+        "华为",
+        "IJCAI"
+      ],
+      "url": "https://www.qbitai.com/2026/08/467034.html",
+      "source": "量子位",
+      "original_pub_date": "2026-08-05 14:09:18",
+      "impact_score": 150.0
+    },
+    {
+      "index": 13,
+      "title": "别再吹AI生图了，不能图层编辑的AI都是“画饼”",
+      "summary": "8月6日消息，兔展智能发布RabbitVis，支持图层编辑，让AI真正走完设计全流程，提升AI生图的实用性。",
+      "importance": "中",
+      "reason": "中国公司兔展智能发布AI设计工具，属于国内产品发布。",
+      "tags": [
+        "发布",
+        "AI设计",
+        "工具"
+      ],
+      "url": "https://www.qbitai.com/2026/08/467001.html",
+      "source": "量子位",
+      "original_pub_date": "2026-08-05 12:43:18",
+      "impact_score": 150.0
+    },
+    {
+      "index": 14,
+      "title": "滴滴旗下99携手巴西领先租车企业Movida，共建绿色出行生态",
+      "summary": "8月6日消息，滴滴旗下99与巴西Movida合作，推出新能源汽车租赁计划，预计惠及5万名司机，推动中国新能源产业链出海。",
+      "importance": "中",
+      "reason": "中国公司滴滴的海外合作，属于国内企业国际化动态。",
+      "tags": [
+        "合作",
+        "出行",
+        "出海"
+      ],
+      "url": "https://www.qbitai.com/2026/08/467270.html",
+      "source": "量子位",
+      "original_pub_date": "2026-08-06 05:36:37",
+      "impact_score": 135.0
+    },
+    {
+      "index": 15,
+      "title": "独家丨从飞书火山整合，看阿里「云钉一体」踩过的坑",
+      "summary": "8月6日消息，阿里云钉一体战略复盘，钉钉曾因硬件投资受挫，整合飞书火山，揭示国内企业服务整合的挑战。",
+      "importance": "中",
+      "reason": "中国科技巨头阿里的战略调整，属于国内商业动态。",
+      "tags": [
+        "阿里",
+        "战略",
+        "整合"
+      ],
+      "url": "https://www.qbitai.com/2026/08/467036.html",
+      "source": "量子位",
+      "original_pub_date": "2026-08-05 13:47:51",
+      "impact_score": 135.0
+    },
+    {
+      "index": 16,
+      "title": "华为WATCH GT 7系列正式发布，延续颜值天花板基因，运动健康体验再进阶",
+      "summary": "8月6日消息，华为发布WATCH GT 7系列智能手表，延续高颜值设计，升级运动健康功能，搭载HUAWEI Eas...",
+      "importance": "中",
+      "reason": "中国科技公司华为发布新品，属于国内产品发布。",
+      "tags": [
+        "发布",
+        "智能手表",
+        "华为"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/swL2cpKuZv1djRJS.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-06 06:29:00",
+      "impact_score": 120.0
+    },
+    {
+      "index": 17,
+      "title": "蚂蚁集团 IJCAI 2026 论文盘点：让 AI 学会「随机应变」",
+      "summary": "8月6日消息，蚂蚁集团在IJCAI 2026发表四篇论文，聚焦动态环境适应能力，探索算法在真实世界中的性能衰减问题。",
+      "importance": "中",
+      "reason": "中国科技公司蚂蚁集团的学术研究，属于国内学术动态。",
+      "tags": [
+        "学术",
+        "蚂蚁集团",
+        "IJCAI"
+      ],
+      "url": "https://www.leiphone.com/category/chips/P0IOl7W4ZU6ERUnt.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-06 05:55:00",
+      "impact_score": 120.0
+    },
+    {
+      "index": 18,
+      "title": "独家丨联手千问AI大牛 ，觅光联创郦轲杀入女性AI健康硬件江湖",
+      "summary": "8月6日消息，觅光联合创始人郦轲创业成立丛容地健康科技，入局AI+女性健康，团队含阿里千问AI大牛和法国珠宝设计团队。",
+      "importance": "低",
+      "reason": "中国创业者创业动态，涉及AI健康硬件，属于国内商业动态。",
+      "tags": [
+        "创业",
+        "AI健康",
+        "硬件"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/f2V1P6CeMXNjyvSG.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-06 03:06:00",
+      "impact_score": 115.0
+    },
+    {
+      "index": 19,
+      "title": "比亚迪助力香港足球文化节 与足球少年一起见证曼城国米巅峰对决",
+      "summary": "8月6日消息，比亚迪赞助香港足球文化节，为曼城与国米提供出行保障，推动中国品牌与足球IP合作。",
+      "importance": "低",
+      "reason": "中国公司比亚迪的体育营销活动，属于国内商业动态。",
+      "tags": [
+        "合作",
+        "体育",
+        "比亚迪"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/Wc2FcqxKjcr18DUn.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-06 05:58:00",
+      "impact_score": 110.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Jeff Dean Leaves Google as Demis Hassabis Steps Aside as Google DeepMind CEO",
+      "summary": "8月6日消息，谷歌宣布重大AI领导层调整，DeepMind CEO Demis Hassabis转任董事长兼Alphabet首席科学家，长期AI科学家Jeff Dean离职创业，CEO Sundar Pichai确认变动。",
+      "importance": "高",
+      "reason": "谷歌AI领导层重大变动，影响全球AI研发方向，属于重大商业动态。",
+      "tags": [
+        "谷歌",
+        "AI领导层",
+        "Demis Hassabis",
+        "Jeff Dean"
+      ],
+      "url": "https://www.theinformation.com/briefings/jeff-dean-leaves-google-demis-hassabis-steps-aside-google-deepmind-ceo",
+      "source": "The Information",
+      "original_pub_date": "2026-08-05 18:05:04",
+      "impact_score": 372.5
+    },
+    {
+      "index": 2,
+      "title": "Google DeepMind CEO Demis Hassabis steps aside in shake-up of AI lab",
+      "summary": "8月6日消息，谷歌DeepMind CEO Demis Hassabis在AI实验室重组中卸任，首席科学家Jeff Dean离职创业，谷歌AI战略面临调整。",
+      "importance": "高",
+      "reason": "谷歌AI实验室重组，核心人物变动，影响深远。",
+      "tags": [
+        "谷歌",
+        "DeepMind",
+        "AI重组"
+      ],
+      "url": "https://www.ft.com/content/61d41764-f2f7-4906-a112-ff3073972c51?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-08-05 18:24:23",
+      "impact_score": 345.0
+    },
+    {
+      "index": 3,
+      "title": "Google just announced a major shakeup of its top AI leadership",
+      "summary": "8月6日消息，谷歌宣布重大AI领导层调整，Hassabis转任DeepMind董事长及Alphabet首席科学家，继续领导Isomorphic Labs，CEO Pichai宣布变动。",
+      "importance": "高",
+      "reason": "谷歌AI领导层变动，涉及核心人物角色转换，影响AI战略。",
+      "tags": [
+        "谷歌",
+        "AI领导层",
+        "Demis Hassabis"
+      ],
+      "url": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-08-05 16:47:23",
+      "impact_score": 301.0
+    },
+    {
+      "index": 4,
+      "title": "What Google’s AI Shake-Up Means for Pichai Succession",
+      "summary": "8月6日消息，谷歌AI领导层调整引发对CEO继任计划的猜测，Hassabis升任Alphabet首席科学家，或影响未来CEO人选。",
+      "importance": "高",
+      "reason": "谷歌AI调整可能影响CEO继任，属于重大商业动态。",
+      "tags": [
+        "谷歌",
+        "CEO继任",
+        "AI调整"
+      ],
+      "url": "https://arxiv.org/abs/2608.04012",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-08-06 04:00:00",
+      "impact_score": 230.0
+    },
+    {
+      "index": 5,
+      "title": "Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO",
+      "summary": "8月6日消息，谷歌AI部门重组，首席科学家Jeff Dean离职，Demis Hassabis卸任DeepMind CEO，转任董事长。",
+      "importance": "高",
+      "reason": "谷歌AI部门重大人事变动，影响全球AI研发格局。",
+      "tags": [
+        "谷歌",
+        "AI重组",
+        "Jeff Dean",
+        "Demis Hassabis"
+      ],
+      "url": "https://www.theinformation.com/articles/googles-ai-shake-means-pichai-succession",
+      "source": "The Information",
+      "original_pub_date": "2026-08-06 00:01:12",
+      "impact_score": 229.5
+    },
+    {
+      "index": 6,
+      "title": "OpenAI says Apple’s trade secrets lawsuit aims to stop employees leaving",
+      "summary": "8月6日消息，OpenAI回应苹果商业秘密诉讼，称其旨在阻止员工离职，并准备推出自家AI设备，案件引发关注。",
+      "importance": "高",
+      "reason": "OpenAI与苹果的法律纠纷，涉及商业秘密和人才流动，属于重大法律事件。",
+      "tags": [
+        "OpenAI",
+        "苹果",
+        "诉讼",
+        "商业秘密"
+      ],
+      "url": "https://www.theinformation.com/articles/spacex-reports-lots-red-ink-makes-big-promises",
+      "source": "The Information",
+      "original_pub_date": "2026-08-05 00:00:58",
+      "impact_score": 225.0
+    },
+    {
+      "index": 7,
+      "title": "OpenAI Asks Judge to Toss Apple’s Trade Secrets Lawsuit",
+      "summary": "8月6日消息，OpenAI请求联邦法官驳回苹果的商业秘密诉讼，称指控毫无根据，案件可能影响AI行业人才竞争。",
+      "importance": "高",
+      "reason": "OpenAI与苹果的法律纠纷，涉及商业秘密和人才流动，属于重大法律事件。",
+      "tags": [
+        "OpenAI",
+        "苹果",
+        "诉讼"
+      ],
+      "url": "https://arxiv.org/abs/2608.04519",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-08-06 04:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 8,
+      "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
+      "summary": "8月6日消息，OpenAI称苹果的诉讼“烂到骨子里”，请求法官驳回，认为苹果歪曲事实，案件引发行业关注。",
+      "importance": "高",
+      "reason": "OpenAI与苹果的法律纠纷，涉及商业秘密和人才流动，属于重大法律事件。",
+      "tags": [
+        "OpenAI",
+        "苹果",
+        "诉讼"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-08-06/cybersecurity-firm-aura-ceo-on-2q26-results-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-08-06 05:01:28",
+      "impact_score": 195.0
+    },
+    {
+      "index": 9,
+      "title": "White House Briefs Companies on Voluntary AI Framework",
+      "summary": "8月6日消息，白宫召集OpenAI、Anthropic和谷歌等公司，简报自愿性AI框架，该框架基于6月行政令，旨在规范AI模型共享。",
+      "importance": "高",
+      "reason": "美国政府推动AI监管框架，涉及主要AI公司，属于重大政策法规。",
+      "tags": [
+        "白宫",
+        "AI监管",
+        "自愿框架"
+      ],
+      "url": "https://arxiv.org/abs/2608.04726",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-08-06 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 10,
+      "title": "AI Influencers Are Heading Into Uncharted Territory",
+      "summary": "8月6日消息，欧盟AI法案引发监管混乱，AI网红担忧业务受影响，部分创作者将AI透明度融入创作过程以应对。",
+      "importance": "中",
+      "reason": "欧盟AI法案对AI内容创作者的影响，属于政策法规相关动态。",
+      "tags": [
+        "欧盟AI法案",
+        "AI网红",
+        "监管"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-08-06/siemens-is-winning-customers-in-china-ceo-says-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-08-06 05:55:50",
+      "impact_score": 180.0
+    },
+    {
+      "index": 11,
+      "title": "SoftBank Profit Beats Expectations",
+      "summary": "8月6日消息，软银季度净利润降幅小于预期，受芯片股上涨提振，OpenAI日本投资方受关注，同时担忧AI服务商债务攀升。",
+      "importance": "中",
+      "reason": "软银业绩超预期，涉及AI投资和芯片股，属于商业动态。",
+      "tags": [
+        "软银",
+        "财报",
+        "AI投资"
+      ],
+      "url": "https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-08-05 18:51:53",
+      "impact_score": 180.0
+    },
+    {
+      "index": 12,
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "summary": "8月6日消息，Meta推出AI编码代理Muse Code，可处理复杂软件任务，扩展AI编码产品线。",
+      "importance": "中",
+      "reason": "Meta发布新AI产品，属于产品发布动态。",
+      "tags": [
+        "Meta",
+        "AI编码",
+        "产品发布"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-08-06/huntington-s-braddock-assesses-bank-s-outlook-in-texas-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-08-06 10:00:16",
+      "impact_score": 165.0
+    },
+    {
+      "index": 13,
+      "title": "Uber Plans to Invest $10 Billion Over Time in Autonomous Vehicle Fleet Expansion",
+      "summary": "8月6日消息，Uber CEO表示计划未来数年投资100亿美元扩展自动驾驶车队，包括投资自动驾驶公司和扩建基础设施。",
+      "importance": "中",
+      "reason": "Uber大规模投资自动驾驶，属于重大商业动态。",
+      "tags": [
+        "Uber",
+        "自动驾驶",
+        "投资"
+      ],
+      "url": "https://www.ft.com/content/d9e9cbbe-8443-4c10-821a-1834e4965236?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-08-06 06:09:06",
+      "impact_score": 165.0
+    },
+    {
+      "index": 14,
+      "title": "Figma Stock Falls As Revenue Guidance Disappoints, Executives Depart",
+      "summary": "8月6日消息，Figma股价盘后下跌15%，因营收指引不及预期，且高管离职，CMO Sheila Vashee将离开。",
+      "importance": "中",
+      "reason": "Figma业绩和人事变动，属于商业动态。",
+      "tags": [
+        "Figma",
+        "财报",
+        "高管离职"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/openai-asks-judge-to-toss-apple-suit-alleging-trade-secret-theft",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-08-06 06:07:50",
+      "impact_score": 165.0
+    },
+    {
+      "index": 15,
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+      "summary": "8月6日消息，Klaviyo收购Elias Torres的Agency，Torres加入任CPO，领导AI代理业务，实现创始人重聚。",
+      "importance": "低",
+      "reason": "Klaviyo收购和人事任命，属于商业动态。",
+      "tags": [
+        "Klaviyo",
+        "收购",
+        "AI代理"
+      ],
+      "url": "https://arxiv.org/abs/2608.04205",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-08-06 04:00:00",
+      "impact_score": 165.0
+    }
+  ],
+  "summary": "今日从169条原始信息中精选出19条国内动态和15条国际动态，其中15条为高重要性。 重点关注：长鑫拒绝苹果压价：坚持要求不低于三星电子和SK海力士；马斯克个人财富亏掉2个「黄仁勋」；宇树上市在即，王兴兴身价即将突破百亿；即梦上线多款Seedance2.5专业工具，携手上海电影、艾菲奖等探索AI视频应用场景；越疆具身全栖机器人让陪伴从“听见”升级为“看见”和“做到”。",
+  "statistics": {
+    "raw_domestic": 26,
+    "raw_international": 143,
+    "raw_total": 169,
+    "final_domestic": 19,
+    "final_international": 15
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "8月6日消息，长鑫存储拒绝苹果压价，坚持定价不低于三星电子和SK海力士，同时宇树科技IPO询价开启，王兴兴身价将破百亿，DeepSeek重启融资拟募资500亿元。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "8月6日消息，字节跳动发布视频生成模型Seedance 2.5并接入即梦AI，上线专业创作工具，携手上海电影集团等探索AI视频在影视、广告等场景的专业交付。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "8月6日消息，越疆科技发布全球首款具身全栖人形机器人越疆鹿萌，具备流畅步态和复杂地形适应能力，可无缝切换户外、居家等场景，实现拟人化陪伴。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "8月6日消息，MiniMax开源新一代多模态生成模型H3，在多个评测榜位列全球第一，Hugging Face热度超DeepSeek V4 Flash，获业内知名人士点赞。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "8月6日消息，金刚GC3芯片发布，为全球首款RISC-V数据流架构视频智能AIGC芯片，旨在解决视频算力瓶颈，推动国产RISC-V高端算力商业化。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "8月6日消息，谷歌宣布重大AI领导层调整，DeepMind CEO Demis Hassabis转任董事长兼Alphabet首席科学家，长期AI科学家Jeff Dean离职创业，CEO Sundar Pichai确认变动。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "8月6日消息，谷歌DeepMind CEO Demis Hassabis在AI实验室重组中卸任，首席科学家Jeff Dean离职创业，谷歌AI战略面临调整。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "8月6日消息，谷歌宣布重大AI领导层调整，Hassabis转任DeepMind董事长及Alphabet首席科学家，继续领导Isomorphic Labs，CEO Pichai宣布变动。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "8月6日消息，谷歌AI领导层调整引发对CEO继任计划的猜测，Hassabis升任Alphabet首席科学家，或影响未来CEO人选。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "8月6日消息，谷歌AI部门重组，首席科学家Jeff Dean离职，Demis Hassabis卸任DeepMind CEO，转任董事长。",
+      "importance": "高"
+    }
+  ]
+}

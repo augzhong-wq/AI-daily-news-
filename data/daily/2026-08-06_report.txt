@@ -1,0 +1,208 @@
+======================================================================
+AI每日动态 - 2026-08-06
+生成时间: 2026-08-06 10:43:32
+数据来源: 从 169 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、8月6日消息，长鑫存储拒绝苹果压价，坚持定价不低于三星电子和SK海力士，同时宇树科技IPO询价开启，王兴兴身价将破百亿，DeepSeek重启融资拟募资500亿元。
+2、8月6日消息，字节跳动发布视频生成模型Seedance 2.5并接入即梦AI，上线专业创作工具，携手上海电影集团等探索AI视频在影视、广告等场景的专业交付。
+3、8月6日消息，越疆科技发布全球首款具身全栖人形机器人越疆鹿萌，具备流畅步态和复杂地形适应能力，可无缝切换户外、居家等场景，实现拟人化陪伴。
+4、8月6日消息，MiniMax开源新一代多模态生成模型H3，在多个评测榜位列全球第一，Hugging Face热度超DeepSeek V4 Flash，获业内知名人士点赞。
+5、8月6日消息，金刚GC3芯片发布，为全球首款RISC-V数据流架构视频智能AIGC芯片，旨在解决视频算力瓶颈，推动国产RISC-V高端算力商业化。
+
+国际动态：
+1、8月6日消息，谷歌宣布重大AI领导层调整，DeepMind CEO Demis Hassabis转任董事长兼Alphabet首席科学家，长期AI科学家Jeff Dean离职创业，CEO Sundar Pichai确认变动。
+2、8月6日消息，谷歌DeepMind CEO Demis Hassabis在AI实验室重组中卸任，首席科学家Jeff Dean离职创业，谷歌AI战略面临调整。
+3、8月6日消息，谷歌宣布重大AI领导层调整，Hassabis转任DeepMind董事长及Alphabet首席科学家，继续领导Isomorphic Labs，CEO Pichai宣布变动。
+4、8月6日消息，谷歌AI领导层调整引发对CEO继任计划的猜测，Hassabis升任Alphabet首席科学家，或影响未来CEO人选。
+5、8月6日消息，谷歌AI部门重组，首席科学家Jeff Dean离职，Demis Hassabis卸任DeepMind CEO，转任董事长。
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 8月6日消息，长鑫存储拒绝苹果压价，坚持定价不低于三星电子和SK海力士，同时宇树科技IPO询价开启，王兴兴身价将破百亿，DeepSeek重启融资拟募资500亿元。
+   📋 入选理由: 涉及中国存储芯片企业长鑫与苹果的商业博弈，以及宇树科技上市、DeepSeek融资等国内重大商业动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/chips/ljl2DOaEEwaMbzBk.html
+   🏷️ 标签: 融资, 上市, 芯片, 商业
+
+2、🔥 8月6日消息，字节跳动发布视频生成模型Seedance 2.5并接入即梦AI，上线专业创作工具，携手上海电影集团等探索AI视频在影视、广告等场景的专业交付。
+   📋 入选理由: 字节跳动作为中国头部科技公司，发布重要AI视频模型及工具，属于国内重大产品发布。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/weiwu/U6LJntXfchEVAZRy.html
+   🏷️ 标签: 发布, AI视频, 字节跳动
+
+3、🔥 8月6日消息，越疆科技发布全球首款具身全栖人形机器人越疆鹿萌，具备流畅步态和复杂地形适应能力，可无缝切换户外、居家等场景，实现拟人化陪伴。
+   📋 入选理由: 中国机器人公司越疆科技发布全球首款具身全栖人形机器人，属于国内重大产品发布。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/zaobao/aMdQoqYpcE7D7eWa.html
+   🏷️ 标签: 发布, 机器人, 具身智能
+
+4、🔥 8月6日消息，MiniMax开源新一代多模态生成模型H3，在多个评测榜位列全球第一，Hugging Face热度超DeepSeek V4 Flash，获业内知名人士点赞。
+   📋 入选理由: 中国AI公司MiniMax发布开源视频模型并登顶社区，属于国内重大产品发布和生态竞争。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/academic/wQny8Cer4EJz0RAU.html
+   🏷️ 标签: 发布, 开源, 视频模型
+
+5、🔥 8月6日消息，金刚GC3芯片发布，为全球首款RISC-V数据流架构视频智能AIGC芯片，旨在解决视频算力瓶颈，推动国产RISC-V高端算力商业化。
+   📋 入选理由: 中国芯片公司发布全球首款RISC-V视频AI芯片，属于国内重大产品发布和芯片突破。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/private/IebUaqTjHqgEYxQs.html
+   🏷️ 标签: 发布, 芯片, RISC-V
+
+6、🔥 8月6日消息，中国信通院公布办公智能体能力评估结果，千问办公成为国内首个通过评估的产品，在办公任务执行、数据安全等关键能力上达标。
+   📋 入选理由: 中国信通院作为政府机构，发布国内首个办公智能体评估结果，属于国内政策与标准动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/ME02O5J26zzAWXeo.html
+   🏷️ 标签: 政策, 智能体, 评估
+
+7、📌 8月6日消息，远景乌兰察布星河基地投产，成为全球最大AI算力超级单体，标志着中国在AI算力基础设施领域取得重大进展。
+   📋 入选理由: 中国算力基础设施投产，属于国内重大商业动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/QFyXW6c55NAYahi7.html
+   🏷️ 标签: 算力, 基础设施, 投产
+
+8、📌 8月6日消息，阿里巴巴淘天集团开启2027届应届生招聘，AI技术类岗位占比超9成，显示国内企业对AI人才的重视。
+   📋 入选理由: 中国电商巨头淘天集团招聘动态，反映国内AI人才需求趋势。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/ai/HeZOqCaleEb5REh4.html
+   🏷️ 标签: 招聘, AI, 人才
+
+9、📌 8月6日消息，IDEA研究院张磊接受专访，指出世界模型应以动作为输入条件，国内世界模型赛道融资超300亿元，行业热度高涨。
+   📋 入选理由: 中国研究机构IDEA研究院的专家观点，涉及国内世界模型赛道发展。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/academic/DZgTbdNa1dTMDgie.html
+   🏷️ 标签: 世界模型, 专访, 融资
+
+10、📌 8月6日消息，2026世界机器人大会将于8月19日在北京举办，参展企业300余家，首发新品超150件，聚焦人机共生与产需共融。
+   📋 入选理由: 中国举办的国际机器人大会，属于国内产业动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/aiUMBoeUYbi8fX4x.html
+   🏷️ 标签: 机器人, 展会, WRC
+
+11、📌 8月6日消息，尊界时代旗舰MPV尊界V800与V680正式上市，售价64.8万元起，搭载华为全场景技术，重新定义超豪华MPV标杆。
+   📋 入选理由: 华为与车企合作发布旗舰车型，属于国内重大产品发布。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/private/fNLpOtD2S0XnmuGP.html
+   🏷️ 标签: 发布, 汽车, 华为
+
+12、📌 8月6日消息，华为在IJCAI 2026发表多篇论文，展示从规模扩张转向设计密度的技术趋势，强调系统化工程能力。
+   📋 入选理由: 中国科技公司华为的学术研究成果，属于国内学术动态。
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/08/467034.html
+   🏷️ 标签: 学术, 华为, IJCAI
+
+13、📌 8月6日消息，兔展智能发布RabbitVis，支持图层编辑，让AI真正走完设计全流程，提升AI生图的实用性。
+   📋 入选理由: 中国公司兔展智能发布AI设计工具，属于国内产品发布。
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/08/467001.html
+   🏷️ 标签: 发布, AI设计, 工具
+
+14、📌 8月6日消息，滴滴旗下99与巴西Movida合作，推出新能源汽车租赁计划，预计惠及5万名司机，推动中国新能源产业链出海。
+   📋 入选理由: 中国公司滴滴的海外合作，属于国内企业国际化动态。
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/08/467270.html
+   🏷️ 标签: 合作, 出行, 出海
+
+15、📌 8月6日消息，阿里云钉一体战略复盘，钉钉曾因硬件投资受挫，整合飞书火山，揭示国内企业服务整合的挑战。
+   📋 入选理由: 中国科技巨头阿里的战略调整，属于国内商业动态。
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/08/467036.html
+   🏷️ 标签: 阿里, 战略, 整合
+
+16、📌 8月6日消息，华为发布WATCH GT 7系列智能手表，延续高颜值设计，升级运动健康功能，搭载HUAWEI Eas...
+   📋 入选理由: 中国科技公司华为发布新品，属于国内产品发布。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/swL2cpKuZv1djRJS.html
+   🏷️ 标签: 发布, 智能手表, 华为
+
+17、📌 8月6日消息，蚂蚁集团在IJCAI 2026发表四篇论文，聚焦动态环境适应能力，探索算法在真实世界中的性能衰减问题。
+   📋 入选理由: 中国科技公司蚂蚁集团的学术研究，属于国内学术动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/chips/P0IOl7W4ZU6ERUnt.html
+   🏷️ 标签: 学术, 蚂蚁集团, IJCAI
+
+18、📄 8月6日消息，觅光联合创始人郦轲创业成立丛容地健康科技，入局AI+女性健康，团队含阿里千问AI大牛和法国珠宝设计团队。
+   📋 入选理由: 中国创业者创业动态，涉及AI健康硬件，属于国内商业动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/f2V1P6CeMXNjyvSG.html
+   🏷️ 标签: 创业, AI健康, 硬件
+
+19、📄 8月6日消息，比亚迪赞助香港足球文化节，为曼城与国米提供出行保障，推动中国品牌与足球IP合作。
+   📋 入选理由: 中国公司比亚迪的体育营销活动，属于国内商业动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/Wc2FcqxKjcr18DUn.html
+   🏷️ 标签: 合作, 体育, 比亚迪
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 8月6日消息，谷歌宣布重大AI领导层调整，DeepMind CEO Demis Hassabis转任董事长兼Alphabet首席科学家，长期AI科学家Jeff Dean离职创业，CEO Sundar Pichai确认变动。
+   📋 入选理由: 谷歌AI领导层重大变动，影响全球AI研发方向，属于重大商业动态。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/briefings/jeff-dean-leaves-google-demis-hassabis-steps-aside-google-deepmind-ceo
+   🏷️ 标签: 谷歌, AI领导层, Demis Hassabis, Jeff Dean
+
+2、🔥 8月6日消息，谷歌DeepMind CEO Demis Hassabis在AI实验室重组中卸任，首席科学家Jeff Dean离职创业，谷歌AI战略面临调整。
+   📋 入选理由: 谷歌AI实验室重组，核心人物变动，影响深远。
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/61d41764-f2f7-4906-a112-ff3073972c51?syn-25a6b1a6=1
+   🏷️ 标签: 谷歌, DeepMind, AI重组
+
+3、🔥 8月6日消息，谷歌宣布重大AI领导层调整，Hassabis转任DeepMind董事长及Alphabet首席科学家，继续领导Isomorphic Labs，CEO Pichai宣布变动。
+   📋 入选理由: 谷歌AI领导层变动，涉及核心人物角色转换，影响AI战略。
+   📰 来源: The Verge AI | 🔗 https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup
+   🏷️ 标签: 谷歌, AI领导层, Demis Hassabis
+
+4、🔥 8月6日消息，谷歌AI领导层调整引发对CEO继任计划的猜测，Hassabis升任Alphabet首席科学家，或影响未来CEO人选。
+   📋 入选理由: 谷歌AI调整可能影响CEO继任，属于重大商业动态。
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2608.04012
+   🏷️ 标签: 谷歌, CEO继任, AI调整
+
+5、🔥 8月6日消息，谷歌AI部门重组，首席科学家Jeff Dean离职，Demis Hassabis卸任DeepMind CEO，转任董事长。
+   📋 入选理由: 谷歌AI部门重大人事变动，影响全球AI研发格局。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/articles/googles-ai-shake-means-pichai-succession
+   🏷️ 标签: 谷歌, AI重组, Jeff Dean, Demis Hassabis
+
+6、🔥 8月6日消息，OpenAI回应苹果商业秘密诉讼，称其旨在阻止员工离职，并准备推出自家AI设备，案件引发关注。
+   📋 入选理由: OpenAI与苹果的法律纠纷，涉及商业秘密和人才流动，属于重大法律事件。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/articles/spacex-reports-lots-red-ink-makes-big-promises
+   🏷️ 标签: OpenAI, 苹果, 诉讼, 商业秘密
+
+7、🔥 8月6日消息，OpenAI请求联邦法官驳回苹果的商业秘密诉讼，称指控毫无根据，案件可能影响AI行业人才竞争。
+   📋 入选理由: OpenAI与苹果的法律纠纷，涉及商业秘密和人才流动，属于重大法律事件。
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2608.04519
+   🏷️ 标签: OpenAI, 苹果, 诉讼
+
+8、🔥 8月6日消息，OpenAI称苹果的诉讼“烂到骨子里”，请求法官驳回，认为苹果歪曲事实，案件引发行业关注。
+   📋 入选理由: OpenAI与苹果的法律纠纷，涉及商业秘密和人才流动，属于重大法律事件。
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-08-06/cybersecurity-firm-aura-ceo-on-2q26-results-video
+   🏷️ 标签: OpenAI, 苹果, 诉讼
+
+9、🔥 8月6日消息，白宫召集OpenAI、Anthropic和谷歌等公司，简报自愿性AI框架，该框架基于6月行政令，旨在规范AI模型共享。
+   📋 入选理由: 美国政府推动AI监管框架，涉及主要AI公司，属于重大政策法规。
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2608.04726
+   🏷️ 标签: 白宫, AI监管, 自愿框架
+
+10、📌 8月6日消息，欧盟AI法案引发监管混乱，AI网红担忧业务受影响，部分创作者将AI透明度融入创作过程以应对。
+   📋 入选理由: 欧盟AI法案对AI内容创作者的影响，属于政策法规相关动态。
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-08-06/siemens-is-winning-customers-in-china-ceo-says-video
+   🏷️ 标签: 欧盟AI法案, AI网红, 监管
+
+11、📌 8月6日消息，软银季度净利润降幅小于预期，受芯片股上涨提振，OpenAI日本投资方受关注，同时担忧AI服务商债务攀升。
+   📋 入选理由: 软银业绩超预期，涉及AI投资和芯片股，属于商业动态。
+   📰 来源: CNBC Tech | 🔗 https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html
+   🏷️ 标签: 软银, 财报, AI投资
+
+12、📌 8月6日消息，Meta推出AI编码代理Muse Code，可处理复杂软件任务，扩展AI编码产品线。
+   📋 入选理由: Meta发布新AI产品，属于产品发布动态。
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-08-06/huntington-s-braddock-assesses-bank-s-outlook-in-texas-video
+   🏷️ 标签: Meta, AI编码, 产品发布
+
+13、📌 8月6日消息，Uber CEO表示计划未来数年投资100亿美元扩展自动驾驶车队，包括投资自动驾驶公司和扩建基础设施。
+   📋 入选理由: Uber大规模投资自动驾驶，属于重大商业动态。
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/d9e9cbbe-8443-4c10-821a-1834e4965236?syn-25a6b1a6=1
+   🏷️ 标签: Uber, 自动驾驶, 投资
+
+14、📌 8月6日消息，Figma股价盘后下跌15%，因营收指引不及预期，且高管离职，CMO Sheila Vashee将离开。
+   📋 入选理由: Figma业绩和人事变动，属于商业动态。
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-08-06/openai-asks-judge-to-toss-apple-suit-alleging-trade-secret-theft
+   🏷️ 标签: Figma, 财报, 高管离职
+
+15、📄 8月6日消息，Klaviyo收购Elias Torres的Agency，Torres加入任CPO，领导AI代理业务，实现创始人重聚。
+   📋 入选理由: Klaviyo收购和人事任命，属于商业动态。
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2608.04205
+   🏷️ 标签: Klaviyo, 收购, AI代理
+
+
+======================================================================
+📊 今日总结: 今日从169条原始信息中精选出19条国内动态和15条国际动态，其中15条为高重要性。 重点关注：长鑫拒绝苹果压价：坚持要求不低于三星电子和SK海力士；马斯克个人财富亏掉2个「黄仁勋」；宇树上市在即，王兴兴身价即将突破百亿；即梦上线多款Seedance2.5专业工具，携手上海电影、艾菲奖等探索AI视频应用场景；越疆具身全栖机器人让陪伴从“听见”升级为“看见”和“做到”。
+======================================================================
