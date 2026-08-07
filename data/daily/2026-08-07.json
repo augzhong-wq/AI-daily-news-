@@ -1,0 +1,615 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07 09:04:07",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "独家丨联手千问AI大牛 ，觅光联创郦轲杀入女性AI健康硬件江湖",
+      "summary": "8月7日消息，觅光联合创始人郦轲成立深圳市丛容地健康科技有限公司，入局AI+女性健康赛道，首款产品为女性AI健康项链，团队包括阿里千问模型训练专家和法国LB珠宝设计团队。",
+      "importance": "高",
+      "reason": "国内创业公司成立，涉及AI健康硬件，团队阵容豪华，具有商业动态价值。",
+      "tags": [
+        "AI健康",
+        "创业",
+        "智能硬件"
+      ],
+      "url": "https://www.leiphone.com/category/weiwu/U6LJntXfchEVAZRy.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-06 05:58:00",
+      "impact_score": 350.0
+    },
+    {
+      "index": 2,
+      "title": "延长20年！上汽集团与通用汽车签署合资续约协议",
+      "summary": "8月7日消息，上汽集团与通用汽车在上海签署合资续约协议，将上汽通用汽车合资期限延长20年至2047年，双方将协同技术研发与供应链资源，支持智电转型和全球化布局。",
+      "importance": "高",
+      "reason": "国内车企与海外车企的重大合作，涉及汽车产业转型，属于国内动态。",
+      "tags": [
+        "汽车",
+        "合资",
+        "智电转型"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/n8L9ojfqMPqsvH2u.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-07 06:48:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 3,
+      "title": "蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作",
+      "summary": "8月7日消息，蚂蚁集团正式开源多智能体协作基础设施Avernet，社区版本已上线，旨在提升人与智能体的协作效率，推动多智能体系统应用。",
+      "importance": "高",
+      "reason": "国内科技巨头开源重要AI基础设施，具有技术影响力。",
+      "tags": [
+        "开源",
+        "多智能体",
+        "蚂蚁集团"
+      ],
+      "url": "https://www.qbitai.com/2026/08/467871.html",
+      "source": "量子位",
+      "original_pub_date": "2026-08-07 03:08:51",
+      "impact_score": 270.0
+    },
+    {
+      "index": 4,
+      "title": "当无人驾驶进入城市竞赛时代：深圳与洛杉矶的隔空对弈",
+      "summary": "8月7日消息，萝卜快跑第一季度完成320万单，同比增长超120%，与Waymo在深圳和洛杉矶展开Robotaxi城市竞赛，竞争焦点从技术升级为城市系统实力。",
+      "importance": "高",
+      "reason": "国内无人驾驶企业萝卜快跑的业务进展，涉及城市级竞争，属于国内动态。",
+      "tags": [
+        "无人驾驶",
+        "Robotaxi",
+        "萝卜快跑"
+      ],
+      "url": "https://www.leiphone.com/category/transportation/zfSvuuvk1hns4lQ9.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-06 11:55:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 5,
+      "title": "对话 IDEA 张磊：「不以动作为输入条件，就不叫世界模型」",
+      "summary": "8月7日消息，IDEA研究院张磊接受专访，指出世界模型应以动作为输入条件，国内世界模型赛道上半年融资约300亿元，具身智能融合赛道融资超900亿元，增速超5倍。",
+      "importance": "高",
+      "reason": "国内AI专家观点和行业融资动态，反映国内世界模型赛道热度。",
+      "tags": [
+        "世界模型",
+        "融资",
+        "IDEA"
+      ],
+      "url": "https://www.leiphone.com/category/ai/CmG0TpbUIhu1EHkl.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-06 10:42:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 6,
+      "title": "华为 IJCAI 2026 论文盘点：从「规模密度」转向「设计密度」",
+      "summary": "8月7日消息，华为在IJCAI 2026发表多篇论文，展示AI技术从规模扩张转向设计优化，强调系统化工程能力，应对算力成本压力。",
+      "importance": "高",
+      "reason": "国内科技巨头在顶级学术会议上的研究成果，体现技术趋势。",
+      "tags": [
+        "华为",
+        "IJCAI",
+        "AI研究"
+      ],
+      "url": "https://www.leiphone.com/category/academic/wQny8Cer4EJz0RAU.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-06 06:22:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 7,
+      "title": "150.8元/股！宇树科技超百名员工参与IPO「盛宴」，一批90后千万富豪或将诞生；DeepSeek拟上调API服务定价；字节拟训练超5万亿参数大模型",
+      "summary": "8月7日消息，宇树科技IPO定价150.8元/股，超百名员工参与，DeepSeek拟上调API服务定价，字节跳动拟训练超5万亿参数大模型，小红书高薪招募AI人才。",
+      "importance": "高",
+      "reason": "国内多家AI公司重大动态，包括IPO、定价调整和大模型训练计划。",
+      "tags": [
+        "宇树科技",
+        "DeepSeek",
+        "字节跳动",
+        "IPO"
+      ],
+      "url": "https://www.leiphone.com/category/academic/DZgTbdNa1dTMDgie.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-06 06:19:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 8,
+      "title": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商",
+      "summary": "8月7日消息，PPIO正式发布Fusion融合模型，以十分之一的价格实现超越顶级模型的性能，降低AI应用成本。",
+      "importance": "高",
+      "reason": "国内公司发布新模型，具有成本优势，属于国内动态。",
+      "tags": [
+        "PPIO",
+        "模型发布",
+        "成本优化"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/jTnxUYfadwnDJtNd.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-07 00:32:00",
+      "impact_score": 180.0
+    },
+    {
+      "index": 9,
+      "title": "openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境",
+      "summary": "8月7日消息，openJiuwen发布业界首个企业级分布式蜂群架构，并联合邮储银行在金融生产环境成功落地，实现规模化应用。",
+      "importance": "高",
+      "reason": "国内企业发布新技术架构并落地金融场景，具有行业示范意义。",
+      "tags": [
+        "分布式架构",
+        "金融科技",
+        "openJiuwen"
+      ],
+      "url": "https://www.qbitai.com/2026/08/467834.html",
+      "source": "量子位",
+      "original_pub_date": "2026-08-07 01:39:16",
+      "impact_score": 150.0
+    },
+    {
+      "index": 10,
+      "title": "频发高温故障！特斯拉FSD升级事故，看清中美智驾监管根本差异",
+      "summary": "8月7日消息，特斯拉FSD升级引发高温故障，而中国今年6月、7月发布智驾监管政策，中美监管差异凸显，国内监管更注重安全。",
+      "importance": "高",
+      "reason": "涉及中国智驾监管政策，属于国内动态。",
+      "tags": [
+        "智能驾驶",
+        "监管",
+        "特斯拉"
+      ],
+      "url": "https://www.qbitai.com/2026/08/468305.html",
+      "source": "量子位",
+      "original_pub_date": "2026-08-07 06:18:51",
+      "impact_score": 135.0
+    },
+    {
+      "index": 11,
+      "title": "金刚GC3芯片重新定义视频AI算力规则，国产RISC-V高端算力商业化提速",
+      "summary": "8月7日消息，金刚GC3芯片在CCF Chip 2026发布，为全球首款RISC-V数据流架构视频智能AIGC芯片，推动国产高端算力商业化。",
+      "importance": "高",
+      "reason": "国内芯片创新，涉及RISC-V架构，属于国内动态。",
+      "tags": [
+        "芯片",
+        "RISC-V",
+        "AIGC"
+      ],
+      "url": "https://www.leiphone.com/category/yanxishe/Ga2vGDMkzS2dp4Ew.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-07 03:28:00",
+      "impact_score": 135.0
+    },
+    {
+      "index": 12,
+      "title": "独家丨从飞书火山整合，看阿里「云钉一体」踩过的坑",
+      "summary": "8月7日消息，文章复盘阿里云钉一体战略的教训，涉及钉钉硬件投资被叫停等事件，反映国内企业整合的挑战。",
+      "importance": "中",
+      "reason": "国内企业战略复盘，涉及阿里和钉钉，属于国内动态。",
+      "tags": [
+        "阿里",
+        "钉钉",
+        "企业战略"
+      ],
+      "url": "https://www.qbitai.com/2026/08/467879.html",
+      "source": "量子位",
+      "original_pub_date": "2026-08-07 03:23:01",
+      "impact_score": 135.0
+    },
+    {
+      "index": 13,
+      "title": "苏神复盘 Kimi K3：896 个专家背后，藏着哪些关键技术取舍？",
+      "summary": "8月7日消息，Kimi研究员苏剑林发文复盘K3模型，介绍其2.8万亿参数、896个路由专家和KDA与Gated MLA交替的注意力设计，分享超大模型训练经验。",
+      "importance": "高",
+      "reason": "国内大模型技术分享，涉及Kimi K3，属于国内动态。",
+      "tags": [
+        "Kimi",
+        "大模型",
+        "MoE"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/ZpRxn4ogBqvkrTiE.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-06 12:29:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 14,
+      "title": "黎曼动力携手光轮智能与诺亦腾机器人，剑指2026年百万小时具身智能数据建设",
+      "summary": "8月7日消息，黎曼动力与光轮智能、诺亦腾机器人达成战略合作，围绕Riemann-1.0模型推进百万小时具身智能数据建设，构建数据生产、模型训练、真实验证闭环。",
+      "importance": "高",
+      "reason": "国内具身智能领域合作，涉及数据建设，属于国内动态。",
+      "tags": [
+        "具身智能",
+        "数据",
+        "合作"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/swL2cpKuZv1djRJS.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-06 06:29:00",
+      "impact_score": 120.0
+    },
+    {
+      "index": 15,
+      "title": "蚂蚁集团 IJCAI 2026 论文盘点：让 AI 学会「随机应变」",
+      "summary": "8月7日消息，蚂蚁集团在IJCAI 2026入选四篇论文，聚焦动态环境适应能力，探索AI在真实世界中的性能衰减问题。",
+      "importance": "中",
+      "reason": "国内科技巨头学术研究，属于国内动态。",
+      "tags": [
+        "蚂蚁集团",
+        "IJCAI",
+        "AI研究"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/Wc2FcqxKjcr18DUn.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-06 05:58:00",
+      "impact_score": 110.0
+    },
+    {
+      "index": 16,
+      "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
+      "summary": "8月7日消息，阿里巴巴推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力，提供一站式语音服务。",
+      "importance": "中",
+      "reason": "国内公司发布AI语音平台，属于国内动态。",
+      "tags": [
+        "阿里",
+        "语音平台",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/ai/zYdlF2GT2z5SbNLT.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-06 13:47:00",
+      "impact_score": 105.0
+    },
+    {
+      "index": 17,
+      "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
+      "summary": "8月7日消息，Keep尝试在AI运动赛道探索新路径，面对功能竞争激烈但付费意愿低的现状，寻求差异化发展。",
+      "importance": "中",
+      "reason": "国内公司Keep的AI业务动态，属于国内动态。",
+      "tags": [
+        "Keep",
+        "AI运动",
+        "商业模式"
+      ],
+      "url": "https://www.leiphone.com/category/ai/1krGNVOmEZUQgc9w.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-06 13:45:00",
+      "impact_score": 105.0
+    },
+    {
+      "index": 18,
+      "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
+      "summary": "8月7日消息，阿里巴巴视频生成大模型Wan 3.0开启公测，支持将文档、PPT等转换为视频，拓展视频生成应用场景。",
+      "importance": "中",
+      "reason": "国内公司发布大模型公测，属于国内动态。",
+      "tags": [
+        "阿里",
+        "视频生成",
+        "大模型"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/8FCGhggf0AxRU8Pa.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-08-06 12:16:00",
+      "impact_score": 100.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Meta told to pay nearly $1bn penalty over social media harm to children",
+      "summary": "8月7日消息，美国新墨西哥州法官裁定Meta因社交媒体对儿童造成伤害而支付近10亿美元罚款，该诉讼由州总检察长于2023年提起。",
+      "importance": "高",
+      "reason": "重大法律裁决，涉及大型科技公司对未成年人的责任，具有政策影响力。",
+      "tags": [
+        "Meta",
+        "法律诉讼",
+        "儿童安全"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-08-06/cais-ceo-talks-new-funding-round-ai-s-fintech-impact-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-08-06 21:26:28",
+      "impact_score": 480.0
+    },
+    {
+      "index": 2,
+      "title": "OpenAI Acquired Patents from Altman-Backed AI Chip Startup Following Failed Acquisition",
+      "summary": "8月7日消息，OpenAI在收购Altman支持的AI芯片初创公司失败后，收购了其专利组合，此举可能影响AI芯片领域的竞争格局。",
+      "importance": "高",
+      "reason": "涉及OpenAI的战略动向和知识产权布局，对AI芯片行业有潜在影响。",
+      "tags": [
+        "OpenAI",
+        "专利收购",
+        "AI芯片"
+      ],
+      "url": "https://www.ft.com/content/fa86a2be-bef5-413e-83de-a925330a0fb0?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-08-07 02:57:08",
+      "impact_score": 450.0
+    },
+    {
+      "index": 3,
+      "title": "OpenAI says Apple’s trade secrets lawsuit aims to stop employees leaving",
+      "summary": "8月7日消息，OpenAI回应苹果的商业秘密诉讼，称其目的是阻止员工离职，并寻求驳回该案件，同时准备推出自己的AI设备。",
+      "importance": "高",
+      "reason": "重大法律纠纷，涉及顶尖AI公司与科技巨头的人才竞争和商业秘密保护。",
+      "tags": [
+        "OpenAI",
+        "苹果",
+        "法律诉讼"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-08-06/the-close-8-6-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-08-06 22:07:08",
+      "impact_score": 262.5
+    },
+    {
+      "index": 4,
+      "title": "OpenAI Asks Judge to Dismiss Apple Lawsuit",
+      "summary": "8月7日消息，OpenAI向法院申请驳回苹果的商业秘密诉讼，称该案“烂到根上”，并指出苹果未指明具体商业秘密。",
+      "importance": "高",
+      "reason": "OpenAI与苹果的法律对抗升级，对AI行业人才流动和知识产权界定有重要影响。",
+      "tags": [
+        "OpenAI",
+        "苹果",
+        "法律诉讼"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/china-s-unitree-seeks-904-million-in-first-mainland-robotic-ipo",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-08-06 11:23:07",
+      "impact_score": 240.0
+    },
+    {
+      "index": 5,
+      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+      "summary": "8月7日消息，OpenAI在法庭文件中指出苹果自身的安全和离职流程存在漏洞，包括允许经理访问前工程师的iCloud账户，从而削弱其商业秘密指控。",
+      "importance": "高",
+      "reason": "法律策略细节曝光，可能影响案件结果，并引发对科技公司安全实践的讨论。",
+      "tags": [
+        "OpenAI",
+        "苹果",
+        "商业秘密"
+      ],
+      "url": "https://www.theinformation.com/briefings/lyft-reports-strong-demand-expects-growth-slowdown",
+      "source": "The Information",
+      "original_pub_date": "2026-08-06 23:31:14",
+      "impact_score": 210.0
+    },
+    {
+      "index": 6,
+      "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
+      "summary": "8月7日消息，OpenAI请求联邦法官驳回苹果的诉讼，称其指控“毫无根据”，并指责苹果歪曲事实。",
+      "importance": "高",
+      "reason": "OpenAI对苹果诉讼的强硬回应，凸显两大科技巨头间的紧张关系。",
+      "tags": [
+        "OpenAI",
+        "苹果",
+        "法律诉讼"
+      ],
+      "url": "https://www.theinformation.com/articles/ocean-powered-data-center-startup-set-double-valuation-2-billion",
+      "source": "The Information",
+      "original_pub_date": "2026-08-06 18:06:26",
+      "impact_score": 210.0
+    },
+    {
+      "index": 7,
+      "title": "Jane Street Joins $2 Billion Group With Bet on Australia AI",
+      "summary": "8月7日消息，Jane Street等投资者向澳大利亚数据中心公司Firmus Technologies投资20亿美元，押注该国快速增长的AI行业。",
+      "importance": "高",
+      "reason": "大额投资显示国际资本对AI基础设施的持续关注，具有商业风向标意义。",
+      "tags": [
+        "Jane Street",
+        "投资",
+        "数据中心"
+      ],
+      "url": "https://arxiv.org/abs/2608.05381",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-08-07 04:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 8,
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "summary": "8月7日消息，DeepMind发布WeatherNext AI模型，在气旋预报方面取得突破，可能提升极端天气预测的准确性。",
+      "importance": "高",
+      "reason": "AI在气象领域的重大突破，具有科学和社会价值。",
+      "tags": [
+        "DeepMind",
+        "AI模型",
+        "气象预测"
+      ],
+      "url": "https://arxiv.org/abs/2608.05212",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-08-07 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 9,
+      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+      "summary": "8月7日消息，Mirendil与Google Cloud签署超1亿美元合作协议，以扩展计算基础设施，支持自我改进AI系统的研究。",
+      "importance": "高",
+      "reason": "大额合作显示AI初创公司与云巨头的深度绑定，推动前沿AI研究。",
+      "tags": [
+        "Mirendil",
+        "Google Cloud",
+        "合作"
+      ],
+      "url": "https://www.theinformation.com/articles/openai-acquired-patents-altman-backed-ai-chip-startup-following-failed-acquisition",
+      "source": "The Information",
+      "original_pub_date": "2026-08-06 14:06:15",
+      "impact_score": 173.0
+    },
+    {
+      "index": 10,
+      "title": "SK Hynix Directs Chip Windfall Into Korean Corporate Bond Market",
+      "summary": "8月7日消息，SK海力士将AI芯片业务带来的丰厚利润投入韩国公司债券市场，显示其资本配置策略。",
+      "importance": "中",
+      "reason": "主要芯片制造商利用AI红利进行财务操作，反映行业盈利状况。",
+      "tags": [
+        "SK海力士",
+        "债券市场",
+        "AI芯片"
+      ],
+      "url": "https://arxiv.org/abs/2608.05246",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-08-07 04:00:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 11,
+      "title": "SoftBank’s OpenAI-Backed Loan Highlights Risks in Financing Strategy",
+      "summary": "8月7日消息，软银获得由OpenAI支持的贷款，引发对其融资策略风险的讨论，可能影响AI投资格局。",
+      "importance": "中",
+      "reason": "软银的融资动向与AI投资紧密相关，具有行业参考价值。",
+      "tags": [
+        "软银",
+        "OpenAI",
+        "融资"
+      ],
+      "url": "https://www.ft.com/content/d9e9cbbe-8443-4c10-821a-1834e4965236?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-08-06 06:09:06",
+      "impact_score": 165.0
+    },
+    {
+      "index": 12,
+      "title": "The messy politics behind Google’s big AI shakeup",
+      "summary": "8月7日消息，谷歌宣布其最大规模的AI组织重组，但内部政治复杂，领导层试图保持统一形象。",
+      "importance": "中",
+      "reason": "谷歌AI战略调整，影响其未来技术方向和市场竞争力。",
+      "tags": [
+        "谷歌",
+        "组织重组",
+        "AI战略"
+      ],
+      "url": "https://www.theinformation.com/briefings/atlassian-stock-soars-strong-cloud-revenue-growth",
+      "source": "The Information",
+      "original_pub_date": "2026-08-06 21:14:03",
+      "impact_score": 158.0
+    },
+    {
+      "index": 13,
+      "title": "Suno shares plans to combat spammy AI music",
+      "summary": "8月7日消息，AI音乐公司Suno宣布实施新的水印技术和下载政策，以限制垃圾AI音乐的传播并提高透明度。",
+      "importance": "中",
+      "reason": "AI音乐领域的内容治理措施，对创意产业有潜在影响。",
+      "tags": [
+        "Suno",
+        "AI音乐",
+        "水印技术"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-08-06 17:39:43",
+      "impact_score": 158.0
+    },
+    {
+      "index": 14,
+      "title": "How Dario Amodei Spread Anthropic’s Religion and Stirred Up Silicon Valley",
+      "summary": "8月7日消息，Anthropic CEO Dario Amodei在投资者会议上推动公司理念，引发硅谷关注，尽管公众对AI看法不佳。",
+      "importance": "中",
+      "reason": "Anthropic的战略沟通和领导力动态，反映AI公司公关策略。",
+      "tags": [
+        "Anthropic",
+        "Dario Amodei",
+        "硅谷"
+      ],
+      "url": "https://www.theinformation.com/articles/dario-amodei-spread-anthropics-religion-stirred-silicon-valley",
+      "source": "The Information",
+      "original_pub_date": "2026-08-06 13:00:54",
+      "impact_score": 158.0
+    },
+    {
+      "index": 15,
+      "title": "Ocean-Powered Data Center Startup Set to Double Valuation to $2 Billion",
+      "summary": "8月7日消息，利用海洋能源的数据中心初创公司Panthalassa正筹集资金，估值有望翻倍至20亿美元。",
+      "importance": "中",
+      "reason": "AI数据中心能源创新，吸引投资，反映可持续AI基础设施趋势。",
+      "tags": [
+        "Panthalassa",
+        "数据中心",
+        "海洋能源"
+      ],
+      "url": "https://www.theinformation.com/briefings/openai-asks-judge-dismiss-apple-lawsuit",
+      "source": "The Information",
+      "original_pub_date": "2026-08-06 21:19:27",
+      "impact_score": 145.0
+    },
+    {
+      "index": 16,
+      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+      "summary": "8月7日消息，前Spotify员工创立的初创公司筹集1000万美元，将Spotify推荐AI应用于电商，预测消费者需求。",
+      "importance": "低",
+      "reason": "AI技术跨行业应用，融资规模较小但具有创新性。",
+      "tags": [
+        "AI推荐",
+        "电商",
+        "融资"
+      ],
+      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-08-06 15:10:32",
+      "impact_score": 145.0
+    }
+  ],
+  "summary": "今日从166条原始信息中精选出18条国内动态和16条国际动态，其中22条为高重要性。 重点关注：独家丨联手千问AI大牛 ，觅光联创郦轲杀入女性AI健康硬件江湖；延长20年！上汽集团与通用汽车签署合资续约协议；蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作。",
+  "statistics": {
+    "raw_domestic": 25,
+    "raw_international": 141,
+    "raw_total": 166,
+    "final_domestic": 18,
+    "final_international": 16
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "8月7日消息，觅光联合创始人郦轲成立深圳市丛容地健康科技有限公司，入局AI+女性健康赛道，首款产品为女性AI健康项链，团队包括阿里千问模型训练专家和法国LB珠宝设计团队。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "8月7日消息，上汽集团与通用汽车在上海签署合资续约协议，将上汽通用汽车合资期限延长20年至2047年，双方将协同技术研发与供应链资源，支持智电转型和全球化布局。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "8月7日消息，蚂蚁集团正式开源多智能体协作基础设施Avernet，社区版本已上线，旨在提升人与智能体的协作效率，推动多智能体系统应用。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "8月7日消息，萝卜快跑第一季度完成320万单，同比增长超120%，与Waymo在深圳和洛杉矶展开Robotaxi城市竞赛，竞争焦点从技术升级为城市系统实力。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "8月7日消息，IDEA研究院张磊接受专访，指出世界模型应以动作为输入条件，国内世界模型赛道上半年融资约300亿元，具身智能融合赛道融资超900亿元，增速超5倍。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "8月7日消息，美国新墨西哥州法官裁定Meta因社交媒体对儿童造成伤害而支付近10亿美元罚款，该诉讼由州总检察长于2023年提起。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "8月7日消息，OpenAI在收购Altman支持的AI芯片初创公司失败后，收购了其专利组合，此举可能影响AI芯片领域的竞争格局。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "8月7日消息，OpenAI回应苹果的商业秘密诉讼，称其目的是阻止员工离职，并寻求驳回该案件，同时准备推出自己的AI设备。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "8月7日消息，OpenAI向法院申请驳回苹果的商业秘密诉讼，称该案“烂到根上”，并指出苹果未指明具体商业秘密。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "8月7日消息，OpenAI在法庭文件中指出苹果自身的安全和离职流程存在漏洞，包括允许经理访问前工程师的iCloud账户，从而削弱其商业秘密指控。",
+      "importance": "高"
+    }
+  ]
+}
