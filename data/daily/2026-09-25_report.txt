@@ -1,0 +1,208 @@
+======================================================================
+AI每日动态 - 2026-09-25
+生成时间: 2026-09-25 13:27:47
+数据来源: 从 160 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、9月25日消息，阿里巴巴旗下平头哥在发布号称中国最强AI芯片后，进一步宣布开源相关技术，推动大厂造芯从单纯交付芯片走向开放共建阶段。
+2、9月25日消息，百度搭子与英特尔合作推进端云协同，正式上线本地Skill专区，用户可在本地与云端之间自动选择处理方式，语音识别、文生图等任务可直接在本地完成。
+3、9月25日消息，DeepSeek创始人梁文锋署名的新论文《DSec：面向大规模智能体训练的高效沙箱基础设施》在arXiv更新，首次展示其自动化沙箱系统，每日可自动运行大规模智能体训练任务。
+4、9月25日消息，字节跳动旗下豆包在一个月内第二次向所有用户免费发放30天订阅权益，用户下载或升级豆包工作电脑版即可领取，付费用户权益自动延期。
+5、9月25日消息，海信召开秋季新品发布会，推出全新一代RGB-Mini LED影像旗舰U7T Pro和性能旗舰E7S Pro+，一次性落地六大行业首发技术，从背光硬件到智能系统全方位革新。
+
+国际动态：
+1、9月25日消息，Anthropic正请求股东批准一项新的公司架构，该架构将授予CEO达里奥·阿莫代伊及其六位联合创始人一类特殊股份，使其在大多数公司事务中拥有集体投票控制权。
+2、9月25日消息，据两位知情人士透露，DeepSeek的年化营收运行率已突破10亿美元，较几个月前翻了一倍多，这得益于近期提价以及其模型的持续受欢迎。
+3、9月25日消息，由特斯拉Dojo超级计算机项目前负责人创立仅一年的人工智能芯片初创公司DensityAI，正在进行高级谈判，拟融资数亿美元，此轮融资将使其估值达到
+4、9月25日消息，硅谷又出现了一家备受关注、吸金能力强劲的新AI初创公司。据悉，正在开发名为Jev的新型模型的初创公司TypeSafe AI，已开始与投资者洽谈融资事宜。
+5、9月25日消息，我们似乎正在进入AI代理的复兴时期。Meta新推出的面向消费者的AI代理Muse在发布后不久便登顶App Store排行榜，在美国拥有60万日活跃用户。
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 9月25日消息，阿里巴巴旗下平头哥在发布号称中国最强AI芯片后，进一步宣布开源相关技术，推动大厂造芯从单纯交付芯片走向开放共建阶段。
+   📋 入选理由: 平头哥为阿里巴巴旗下中国芯片公司，发布中国最强AI芯片并开源，属于重大产品发布与开源生态建设，对中国AI芯片产业具有标志性意义。
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/09/497108.html
+   🏷️ 标签: AI芯片, 开源, 阿里巴巴
+
+2、🔥 9月25日消息，百度搭子与英特尔合作推进端云协同，正式上线本地Skill专区，用户可在本地与云端之间自动选择处理方式，语音识别、文生图等任务可直接在本地完成。
+   📋 入选理由: 百度为中国公司，与英特尔合作推出端云协同产品，属于重大产品发布与战略合作，对AI智能体端侧落地具有重要推动作用。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/BKGiXySS7fLi7SaE.html
+   🏷️ 标签: 百度, 端云协同, 智能体
+
+3、🔥 9月25日消息，DeepSeek创始人梁文锋署名的新论文《DSec：面向大规模智能体训练的高效沙箱基础设施》在arXiv更新，首次展示其自动化沙箱系统，每日可自动运行大规模智能体训练任务。
+   📋 入选理由: DeepSeek为中国AI公司，梁文锋署名论文展示自动化沙箱系统，属于重大学术突破，对智能体训练基础设施具有重要影响。
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/09/496816.html
+   🏷️ 标签: DeepSeek, 学术论文, 智能体
+
+4、📌 9月25日消息，字节跳动旗下豆包在一个月内第二次向所有用户免费发放30天订阅权益，用户下载或升级豆包工作电脑版即可领取，付费用户权益自动延期。
+   📋 入选理由: 豆包为字节跳动旗下中国AI产品，连续免费发放订阅权益属于重大商业动态，反映国内AI应用市场竞争加剧。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/smarthome/Htdf6ElXF7ZKzces.html
+   🏷️ 标签: 字节跳动, 豆包, 商业动态
+
+5、📌 9月25日消息，海信召开秋季新品发布会，推出全新一代RGB-Mini LED影像旗舰U7T Pro和性能旗舰E7S Pro+，一次性落地六大行业首发技术，从背光硬件到智能系统全方位革新。
+   📋 入选理由: 海信为中国公司，发布RGB-Mini LED旗舰电视新品，属于重大产品发布，在显示技术与AI画质领域具有行业领先意义。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/transportation/htudSUNPncuLmMfb.html
+   🏷️ 标签: 海信, 产品发布, 显示技术
+
+6、📌 9月25日消息，比亚迪旗下腾势Z9S正式上市，搭载第二代刀片电池及闪充技术，CLTC纯电续航最高1100km，并集中上车AI超级智能体迪迪虾、天神之眼5.0及云辇-A智能空气车身控制系统等技术。
+   📋 入选理由: 腾势为比亚迪旗下中国品牌，Z9S上市搭载多项AI技术，属于重大产品发布，对智能电动汽车市场具有重要影响。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/LRRckuCGRzyeiCtP.html
+   🏷️ 标签: 比亚迪, 腾势, 智能汽车
+
+7、📌 9月25日消息，Accio与数贸会联合推出专属智能体“数贸会agent”上线，可帮助用户规划路线、匹配展商、拍照找厂，服务超2000家参展企业。
+   📋 入选理由: Accio与数贸会均为中国主体，联合推出智能体服务，属于重大商业动态与AI应用落地，对会展行业智能化具有示范意义。
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/09/496779.html
+   🏷️ 标签: 智能体, 数贸会, AI应用
+
+8、📌 9月25日消息，斑马智能在云栖大会展示从汽车到具身智能的主动智能落地能力，AI系统可主动推荐行程、标记餐厅，无需用户完整指令即可完成任务。
+   📋 入选理由: 斑马智能为中国AI公司，在云栖大会展示主动智能与具身智能进展，属于重大产品发布与商业动态，对智能汽车与具身智能融合具有探索意义。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/transportation/nBAYRoWBOZSuBT5D.html
+   🏷️ 标签: 斑马智能, 具身智能, 云栖大会
+
+9、📌 9月25日消息，讯飞医疗参与启动胸痛中心智慧全程管理行动项目，以医疗AI赋能院外管理创新，推动心血管院外管理向标准化、智能化、全周期阶段迈进。
+   📋 入选理由: 讯飞医疗为中国AI医疗公司，参与启动智慧全程管理项目，属于重大商业动态与AI医疗应用，对医疗AI落地具有示范意义。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/VPJv7JgYFoAP8NJ3.html
+   🏷️ 标签: 讯飞医疗, AI医疗, 智慧管理
+
+10、📌 9月25日消息，华为大模型两位核心成员联手创业，致力于探索物理世界的Scaling Law，开展物理世界基模实验。
+   📋 入选理由: 华为为中国公司，其大模型核心成员创业探索物理世界基模，属于重大商业动态与学术突破，对具身智能与物理AI发展具有潜在影响。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/yanxishe/8IlKEXMO2Pxju8ke.html
+   🏷️ 标签: 华为, 创业, 物理AI
+
+11、📌 9月25日消息，出海Agent“小元AI”入驻腾讯WorkBuddy，具备懂出海、能记忆、自进化能力，可帮助用户找买家、写开发信、谈生意。
+   📋 入选理由: 腾讯为中国公司，小元AI入驻其WorkBuddy平台，属于重大商业动态与AI应用落地，对出海企业智能化具有实用价值。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/ai/c5xfhIwWHqSfnGrS.html
+   🏷️ 标签: 腾讯, 小元AI, 出海
+
+12、📌 9月25日消息，百度、阿里、腾讯等国内AI模型厂商密集启动预训练返工，因脏数据导致模型性能倒挂，重建数据团队并加强数据治理。
+   📋 入选理由: BAT均为中国公司，集体重做AI预训练以解决数据问题，属于重大商业动态与行业趋势，对国内大模型发展具有深远影响。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/0imdK8Mce43TQgK9.html
+   🏷️ 标签: BAT, 预训练, 数据治理
+
+13、📄 9月25日消息，SeeAct AI穆尧主导的RoboTwin成为中国具身智能圈事实标准之一，GitHub斩获超2900颗星，推动具身智能从被训练走向自我进化。
+   📋 入选理由: 穆尧为中国具身智能领域研究者，RoboTwin成为行业事实标准，属于重大学术突破与开源贡献，对具身智能发展具有推动作用。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/5c353eBnBL6ShdzV.html
+   🏷️ 标签: 具身智能, RoboTwin, 学术突破
+
+14、📄 9月25日消息，杭州启动“点亮杭州 碰见好运”服务消费季活动，依托支付宝“碰一下”数字支付技术，结合政府消费券发放和AI互动装置抽奖，打造本地特色假日消费体验。
+   📋 入选理由: 活动发生在杭州，依托支付宝技术，属于中国地方政府与平台合作的AI消费应用，对AI赋能城市消费具有示范意义。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/ai/k1XGdu6w3n7xGgKB.html
+   🏷️ 标签: 支付宝, AI互动, 消费季
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 9月25日消息，Anthropic正请求股东批准一项新的公司架构，该架构将授予CEO达里奥·阿莫代伊及其六位联合创始人一类特殊股份，使其在大多数公司事务中拥有集体投票控制权。
+   📋 入选理由: 影响力评分: 244.5
+   📰 来源: The Information | 🔗 https://www.theinformation.com/articles/anthropic-seeks-palantir-style-voting-control-seven-co-founders-ahead-ipo
+   🏷️ 标签: AI, founder, CEO, IPO, Dario Amodei
+
+2、🔥 9月25日消息，据两位知情人士透露，DeepSeek的年化营收运行率已突破10亿美元，较几个月前翻了一倍多，这得益于近期提价以及其模型的持续受欢迎。
+   📋 入选理由: 影响力评分: 225.0
+   📰 来源: The Information | 🔗 https://www.theinformation.com/articles/deepseeks-annualized-revenue-hits-1-billion-startup-finalizes-7-5-billion-fundraising
+   🏷️ 标签: AI, valuation, CEO, billion
+
+3、🔥 9月25日消息，由特斯拉Dojo超级计算机项目前负责人创立仅一年的人工智能芯片初创公司DensityAI，正在进行高级谈判，拟融资数亿美元，此轮融资将使其估值达到
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: The Information | 🔗 https://www.theinformation.com/articles/startup-founded-ex-tesla-dojo-leaders-nears-10-billion-valuation
+   🏷️ 标签: AI, valuation, billion
+
+4、🔥 9月25日消息，硅谷又出现了一家备受关注、吸金能力强劲的新AI初创公司。据悉，正在开发名为Jev的新型模型的初创公司TypeSafe AI，已开始与投资者洽谈融资事宜。
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: The Information | 🔗 https://www.theinformation.com/articles/jev-fervor-leads-talk-big-valuation-boost
+   🏷️ 标签: AI, valuation, billion
+
+5、🔥 9月25日消息，我们似乎正在进入AI代理的复兴时期。Meta新推出的面向消费者的AI代理Muse在发布后不久便登顶App Store排行榜，在美国拥有60万日活跃用户。
+   📋 入选理由: 影响力评分: 210.0
+   📰 来源: The Verge AI | 🔗 https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike
+   🏷️ 标签: AI, valuation, billion
+
+6、🔥 9月25日消息，arXiv:2609.28570v1 公告类型：新论文 摘要：强化学习（RL）被广泛用于提升多模态大语言模型（MLLMs）的推理能力，但其对幻觉的影响并不均衡。
+   📋 入选理由: 影响力评分: 185.0
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2609.28570
+   🏷️ 标签: AI, multimodal, reasoning, LLM, large language model
+
+7、🔥 9月25日消息，唐纳德·特朗普抨击欧洲罚款为“海外勒索”。
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/2b863510-9d56-4bf2-a270-52a0ab25a2b7?syn-25a6b1a6=1
+   🏷️ 标签: fine, AI, Elon Musk
+
+8、🔥 9月25日消息，这是今日版的《下载》，我们的工作日简报，每日为您提供科技界动态。一位国会议员刚刚提议取消美国的……
+   📋 入选理由: 影响力评分: 180.0
+   📰 来源: MIT Technology Review | 🔗 https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/
+   🏷️ 标签: AI, surveillance, legislation
+
+9、🔥 9月25日消息，工作负载根据最大潜在效果进行优化。此外：十大最具创新性的内部法律团队；以及九组案例研究。
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/7bf86647-32f0-4f0c-b46b-2f4d690fa51e?syn-25a6b1a6=1
+   🏷️ 标签: fine, AI
+
+10、🔥 9月25日消息，受代理式AI防御需求推动，Island面临日益激烈的网络安全市场竞争。
+   📋 入选理由: 影响力评分: 165.0
+   📰 来源: CNBC Tech | 🔗 https://www.cnbc.com/2026/09/24/island-ai-cybersecurity-funding.html
+   🏷️ 标签: AI, valuation, billion
+
+11、🔥 9月25日消息，正如黄仁勋所言，AI可以帮助应对气候变化——但前提是它必须先带来“巨大的痛苦和磨难”。这位英伟达CEO讨论了能源的未来以及AI对……的影响。
+   📋 入选理由: 影响力评分: 158.0
+   📰 来源: The Verge AI | 🔗 https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain
+   🏷️ 标签: AI, CEO, Jensen Huang
+
+12、🔥 9月25日消息，据The Information大会上的发言人称，开源模型以及Anthropic和OpenAI推出的更廉价模型正帮助商业客户在控制成本的同时，从AI中获得同等甚至更多的收益。
+   📋 入选理由: 影响力评分: 147.0
+   📰 来源: The Information | 🔗 https://www.theinformation.com/articles/open-source-model-price-cuts-keep-ai-costs-control
+   🏷️ 标签: AI, CEO, releases
+
+13、🔥 9月25日消息，China Beige Book首席运营官兼执行主编Shehzad Qazi分析了美国总统特朗普与中国国家主席习近平会晤的要点，重点关注双方关系背后的紧张局势。
+   📋 入选理由: 影响力评分: 142.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-09-25/trump-xi-realize-they-need-each-other-china-beige-book-video
+   🏷️ 标签: AGI, surveillance
+
+14、🔥 9月25日消息，大约在去年的这个时候，我正在曼彻斯特参加一个关于衰老的会议，聆听一个关于苍蝇衰老的演讲，这时我的手机开始响个不停。新闻媒体纷纷报道，一个未关闭的麦克风捕捉到了……
+   📋 入选理由: 影响力评分: 142.5
+   📰 来源: MIT Technology Review | 🔗 https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/
+   🏷️ 标签: AGI, AI
+
+15、🔥 9月25日消息，Anthropic PBC宣布其Claude AI模型发现了一种与早期突破性基因编辑技术相似的酶系统，但该领域的部分专家对此持谨慎态度，他们
+   📋 入选理由: 影响力评分: 142.5
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-09-24/anthropic-biology-discovery-draws-cautious-notes-from-scientists
+   🏷️ 标签: AI, breakthrough
+
+16、🔥 9月25日消息，根据美国国防部的预算申请，美国政府计划在未来五年内投入3030万美元，用于研发一种改进型的测谎仪。该项目名为“测谎仪升级版”或简称Poly。
+   📋 入选理由: 影响力评分: 135.0
+   📰 来源: MIT Technology Review | 🔗 https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/
+   🏷️ 标签: AI, machine learning, artificial intelligence
+
+17、🔥 9月25日消息，
+   📋 入选理由: 影响力评分: 135.0
+   📰 来源: DeepMind Blog | 🔗 https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/
+   🏷️ 标签: Gemini 3
+
+18、🔥 9月25日消息，微软周五推出了新版Copilot应用，将此前单独销售的功能整合在一起，包括AI编程工具以及Office 365任务自动化功能。
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: The Information | 🔗 https://www.theinformation.com/briefings/microsoft-launches-revamped-copilot-super-app-muse-competitor
+   🏷️ 标签: AI, launches
+
+19、🔥 9月25日消息，谷歌新版Gemini 3.8 Live更新允许用户与模型对话，同时观看动画AI角色实时回应。“Live Avatar”将进行唇形同步并展示不同的面部表情。
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: The Verge AI | 🔗 https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face
+   🏷️ 标签: AI, Gemini 3
+
+20、🔥 9月25日消息，本周云端将迎来一个扭曲的曼哈顿。Remedy Entertainment 的《CONTROL Resonant》在发售当日登陆 GeForce NOW，带来迪伦·法登的超凡能力与一场超自然危机。
+   📋 入选理由: 影响力评分: 132.0
+   📰 来源: NVIDIA AI | 🔗 https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/
+   🏷️ 标签: AI, launches
+
+
+======================================================================
+📊 今日总结: 今日从160条原始信息中精选出14条国内动态和20条国际动态，其中23条为高重要性。 重点关注：亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源；百度搭子与英特尔推进端云协同，本地Skill专区正式上线；梁文锋狙击战：深扒那些梁文锋署名的论文有多牛。
+======================================================================
