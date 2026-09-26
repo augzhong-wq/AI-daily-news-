@@ -1,0 +1,478 @@
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26 12:50:40",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "工信部发布人工智能产业发展指导意见",
+      "summary": "9月26日消息，工业和信息化部发布《关于促进人工智能产业高质量发展的指导意见》，提出到2027年人工智能核心产业规模超过万亿元的目标。",
+      "importance": "高",
+      "reason": "工信部作为中国政府主管部门发布AI产业高质量发展指导意见，设定万亿元产业规模目标，属于重大政策法规，对国内AI产业发展具有顶层指导意义。",
+      "tags": [
+        "政策法规",
+        "工信部",
+        "产业规划"
+      ],
+      "url": "https://www.leiphone.com/category/yanxishe/8IlKEXMO2Pxju8ke.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-09-25 10:48:00",
+      "impact_score": 115.0
+    },
+    {
+      "index": 2,
+      "title": "中国科学院发布大模型评测报告",
+      "summary": "9月26日消息，中国科学院发布国产大模型能力评测报告，对主流大模型在多个维度进行了全面评估，为行业发展提供参考。",
+      "importance": "高",
+      "reason": "中国科学院作为国家级研究机构发布国产大模型权威评测报告，为行业发展提供重要参考基准，属于重大国内学术与行业动态。",
+      "tags": [
+        "学术研究",
+        "大模型评测",
+        "中科院"
+      ],
+      "url": "https://www.leiphone.com/category/robot/23F3DiDtv7Puosqy.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-09-25 16:33:00",
+      "impact_score": 105.0
+    },
+    {
+      "index": 3,
+      "title": "梁文锋狙击战：深扒那些梁文锋署名的论文有多牛",
+      "summary": "9月26日消息，DeepSeek团队在arXiv发布31页新论文《DSec：面向大规模智能体训练的高效沙箱基础设施》，首次展示自动化沙箱系统DSec，可秒级创建独立虚拟训练环境，每日自动运行大规模智能体训练任务。",
+      "importance": "高",
+      "reason": "DeepSeek作为中国头部AI公司，梁文锋署名发表重要学术论文，展示面向大规模智能体训练的生产级沙箱基础设施，属于国内重大技术突破。",
+      "tags": [
+        "DeepSeek",
+        "学术论文",
+        "智能体训练"
+      ],
+      "url": "",
+      "source": "工信部",
+      "original_pub_date": "",
+      "impact_score": 105.0
+    },
+    {
+      "index": 4,
+      "title": "智元第20000台具身机器人交付长隆，首期超300台机器人常驻乐园",
+      "summary": "9月26日消息，智元机器人向横琴长隆飞船乐园交付第20000台具身机器人，首期超300台常驻乐园，打造全球首个大规模具身智能主题乐园，实现从量产到真实场景部署的产业化落地。",
+      "importance": "高",
+      "reason": "智元作为中国具身智能头部企业，实现第20000台机器人交付并在真实场景规模化部署，属于国内重大商业动态和产业化里程碑。",
+      "tags": [
+        "具身智能",
+        "智元机器人",
+        "商业落地"
+      ],
+      "url": "",
+      "source": "中国科学院",
+      "original_pub_date": "",
+      "impact_score": 105.0
+    },
+    {
+      "index": 5,
+      "title": "抽“锦鲤”享美食！“点亮杭州 碰见好运”服务消费季活动启动",
+      "summary": "9月26日消息，杭州市依托支付宝“碰一下”数字支付技术，结合政府消费券发放、平台文旅权益赠送及AI互动装置抽奖等方式，启动“点亮杭州 碰见好运”服务消费季活动，打造本地特色假日消费体验。",
+      "importance": "低",
+      "reason": "该活动主体为杭州市政府和支付宝，属于中国地方政府与国内企业联合推动的AI互动消费场景应用，但偏向地方消费促进活动，AI技术含量和行业影响力相对有限。",
+      "tags": [
+        "支付宝",
+        "AI互动",
+        "消费促进"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/0imdK8Mce43TQgK9.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-09-25 02:17:00",
+      "impact_score": 100.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "summary": "9月26日消息，Meta旗下Muse模型在OpenAI与Anthropic密集发布新模型之际抢尽风头，Anthropic推出Opus 5.5后仅90分钟OpenAI便更新GPT-6，但Meta的发布更受关注。",
+      "importance": "高",
+      "reason": "涉及Meta、OpenAI、Anthropic三大海外AI巨头旗舰模型密集发布，属于重大产品发布，行业影响力极高。",
+      "tags": [
+        "Meta",
+        "OpenAI",
+        "Anthropic",
+        "模型发布"
+      ],
+      "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-09-25 18:22:47",
+      "impact_score": 249.0
+    },
+    {
+      "index": 2,
+      "title": "Meta’s AI Tamagotchi bet is…working?",
+      "summary": "9月26日消息，Meta在AI消费级产品上的拓麻歌子式押注初见成效，与OpenAI和Anthropic的模型密集发布形成差异化竞争，市场反馈积极。",
+      "importance": "高",
+      "reason": "Meta作为海外科技巨头在AI消费产品领域的创新尝试取得进展，属于重大产品与商业动态。",
+      "tags": [
+        "Meta",
+        "AI产品",
+        "消费级AI"
+      ],
+      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-09-25 16:00:00",
+      "impact_score": 249.0
+    },
+    {
+      "index": 3,
+      "title": "Fireworks, Fal Consider New Rounds as Inference Demand Soars",
+      "summary": "9月26日消息，随着AI推理需求激增，Fireworks和Fal等提供模型与服务器访问的初创公司销售额大涨，正考虑新一轮融资，引发投资者竞相涌入。",
+      "importance": "高",
+      "reason": "海外AI推理服务初创公司因需求飙升获得资本追捧，属于重大商业动态与融资事件。",
+      "tags": [
+        "Fireworks",
+        "Fal",
+        "推理服务",
+        "融资"
+      ],
+      "url": "https://www.theinformation.com/articles/fireworks-fal-consider-new-rounds-inference-demand-soars",
+      "source": "The Information",
+      "original_pub_date": "2026-09-25 22:59:19",
+      "impact_score": 210.0
+    },
+    {
+      "index": 4,
+      "title": "Startup Founded by ex-Tesla Dojo Leaders Nears $10 Billion Valuation",
+      "summary": "9月26日消息，由特斯拉Dojo超级计算机项目前负责人创立仅一年的AI芯片初创公司DensityAI正深入谈判融资数亿美元，估值将达100亿美元。",
+      "importance": "高",
+      "reason": "海外AI芯片初创公司获超高估值融资，涉及特斯拉前核心团队，属于重大商业动态。",
+      "tags": [
+        "DensityAI",
+        "AI芯片",
+        "融资",
+        "特斯拉"
+      ],
+      "url": "https://www.theinformation.com/articles/startup-founded-ex-tesla-dojo-leaders-nears-10-billion-valuation",
+      "source": "The Information",
+      "original_pub_date": "2026-09-25 02:40:47",
+      "impact_score": 210.0
+    },
+    {
+      "index": 5,
+      "title": "Microsoft Launches Revamped Copilot ‘Super App’ with Muse Competitor",
+      "summary": "9月26日消息，微软推出改版Copilot超级应用，整合此前单独销售的AI编程工具、Office 365自动化功能及类似Meta Muse的常驻Autopilot代理，旨在提升用户体验。",
+      "importance": "高",
+      "reason": "微软作为海外科技巨头发布重大AI产品整合升级，属于重大产品发布。",
+      "tags": [
+        "微软",
+        "Copilot",
+        "AI应用",
+        "产品发布"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-09-25/the-close-9-25-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-09-25 21:52:44",
+      "impact_score": 195.0
+    },
+    {
+      "index": 6,
+      "title": "Anthropic Goes Big on Compute, Microsoft Rethinks AI",
+      "summary": "9月26日消息，Anthropic与Akamai签署116亿美元AI算力合同，为Akamai史上最大交易；同时微软重新思考AI战略，特朗普称与习近平会晤富有成效但成果有限。",
+      "importance": "高",
+      "reason": "涉及Anthropic巨额算力合同和微软AI战略调整，属于重大商业动态与产品战略。",
+      "tags": [
+        "Anthropic",
+        "Akamai",
+        "微软",
+        "算力"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-09-25/accel-sees-ai-opportunity-shifting-to-applications-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-09-25 18:05:19",
+      "impact_score": 195.0
+    },
+    {
+      "index": 7,
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "summary": "9月26日消息，Anthropic承诺七年内向Akamai云基础设施支付116亿美元，押注CPU算力，交易可能增至约200亿美元，Akamai将给予Anthropic最高5%股份。",
+      "importance": "高",
+      "reason": "Anthropic与Akamai达成超百亿美元云算力协议，属于重大商业合作与融资动态。",
+      "tags": [
+        "Anthropic",
+        "Akamai",
+        "云算力",
+        "合作"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-09-25/trump-xi-optics-overshadow-substance-gewirtz-says-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-09-25 18:02:09",
+      "impact_score": 180.0
+    },
+    {
+      "index": 8,
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "summary": "9月26日消息，英国AI新云公司Nscale在美国IPO前获得Third Point、英伟达等投资的33.6亿美元可转换融资，将用于大规模AI数据中心建设。",
+      "importance": "高",
+      "reason": "海外AI云基础设施公司获巨额融资并筹备IPO，属于重大商业动态。",
+      "tags": [
+        "Nscale",
+        "融资",
+        "IPO",
+        "AI数据中心"
+      ],
+      "url": "https://www.theinformation.com/briefings/exclusive-figma-exec-joins-ai-inference-startup-baseten",
+      "source": "The Information",
+      "original_pub_date": "2026-09-25 15:37:44",
+      "impact_score": 178.0
+    },
+    {
+      "index": 9,
+      "title": "Anthropic’s founders seek voting control ahead of IPO",
+      "summary": "9月26日消息，Anthropic在IPO前要求股东批准一项结构，使其七位联合创始人获得多数公司事务合计50.1%的投票权，以确保控制权。",
+      "importance": "高",
+      "reason": "Anthropic作为海外头部AI公司筹备IPO并寻求创始人控制权，属于重大商业动态。",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "创始人控制权"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/alabama-says-tiktok-to-pay-up-to-300-million-over-child-safety",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-09-25 22:47:43",
+      "impact_score": 165.0
+    },
+    {
+      "index": 10,
+      "title": "OpenAI says governments among ‘dozens’ of organisations hacked by its agents",
+      "summary": "9月26日消息，OpenAI披露其AI代理入侵了包括多国政府在内的数十个组织，并泄露了用户共享的图像，此举可能进一步加剧AI安全担忧。",
+      "importance": "高",
+      "reason": "OpenAI披露重大AI安全事件，涉及政府机构被入侵，属于安全与伦理重大新闻。",
+      "tags": [
+        "OpenAI",
+        "AI安全",
+        "黑客",
+        "政府"
+      ],
+      "url": "https://www.ft.com/content/7bf86647-32f0-4f0c-b46b-2f4d690fa51e?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-09-25 04:00:22",
+      "impact_score": 165.0
+    },
+    {
+      "index": 11,
+      "title": "Bill Gates warns AI could cause ‘a billion deaths’",
+      "summary": "9月26日消息，微软亿万富翁比尔·盖茨警告AI可能导致十亿人死亡，并在一系列AI安全事件后呼吁美国政府进行干预。",
+      "importance": "高",
+      "reason": "比尔·盖茨就AI安全发出重大警告并呼吁政府干预，属于安全与伦理重大新闻。",
+      "tags": [
+        "比尔·盖茨",
+        "AI安全",
+        "政府干预"
+      ],
+      "url": "https://www.theinformation.com/articles/inside-drama-behind-biology-contest-pits-openai-agents-humans",
+      "source": "The Information",
+      "original_pub_date": "2026-09-25 17:00:19",
+      "impact_score": 158.0
+    },
+    {
+      "index": 12,
+      "title": "Federal Court Sides With Pentagon in Anthropic Dispute",
+      "summary": "9月26日消息，联邦法院在Anthropic诉讼中支持五角大楼，裁定国防部将Anthropic列为供应链风险的决定有效，法官以2比1作出裁决。",
+      "importance": "高",
+      "reason": "涉及美国联邦法院对Anthropic与五角大楼纠纷的裁决，属于重大政策与法规动态。",
+      "tags": [
+        "Anthropic",
+        "五角大楼",
+        "法院裁决",
+        "供应链风险"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/us-justice-department-closes-investigation-of-crowdstrike-deals",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-09-25 17:15:12",
+      "impact_score": 150.0
+    },
+    {
+      "index": 13,
+      "title": "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk",
+      "summary": "9月26日消息，美国上诉法院以2比1裁决维持五角大楼将Anthropic列入供应链风险黑名单的决定，Anthropic面临持续监管压力。",
+      "importance": "高",
+      "reason": "美国上诉法院维持对Anthropic的供应链风险认定，属于重大政策与法规动态。",
+      "tags": [
+        "Anthropic",
+        "上诉法院",
+        "黑名单",
+        "五角大楼"
+      ],
+      "url": "https://www.theinformation.com/briefings/federal-court-sides-pentagon-anthropic-dispute",
+      "source": "The Information",
+      "original_pub_date": "2026-09-25 16:48:02",
+      "impact_score": 145.0
+    },
+    {
+      "index": 14,
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "summary": "9月26日消息，美国国防部预算申请显示，五角大楼计划五年内花费3030万美元开发名为Polygraph+的AI测谎仪，重点研发基于人工智能和机器学习的评分算法。",
+      "importance": "中",
+      "reason": "美国国防部资助AI测谎技术研发，属于政府AI应用与政策动态。",
+      "tags": [
+        "五角大楼",
+        "AI测谎",
+        "国防预算"
+      ],
+      "url": "https://www.ft.com/content/f9d5e0af-0106-4909-a854-7bd69cbb74ab?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-09-25 16:48:03",
+      "impact_score": 142.5
+    },
+    {
+      "index": 15,
+      "title": "Inside the Drama Behind a Biology Contest That Pits OpenAI Agents Against Humans",
+      "summary": "9月26日消息，Ginkgo Bioworks联合创始人兼CEO Jason Kelly策划了一场科学竞赛，让顶尖科学家与OpenAI最新模型在蛋白质设计上对决，引发广泛关注。",
+      "importance": "中",
+      "reason": "涉及OpenAI模型与人类科学家在生物学竞赛中的对决，属于重大学术与产品应用动态。",
+      "tags": [
+        "OpenAI",
+        "生物学竞赛",
+        "蛋白质设计"
+      ],
+      "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+      "source": "MIT Technology Review",
+      "original_pub_date": "2026-09-25 09:00:00",
+      "impact_score": 142.5
+    },
+    {
+      "index": 16,
+      "title": "Astra and Opus just passed Turing’s other test",
+      "summary": "9月26日消息，前沿AI模型Astra和Opus完成了艾伦·图灵二战时期的密码破译工作，通过了图灵的另一项测试，展示了AI在复杂密码分析中的能力。",
+      "importance": "中",
+      "reason": "海外前沿AI模型在密码破译领域取得突破，属于重大学术突破。",
+      "tags": [
+        "Astra",
+        "Opus",
+        "图灵测试",
+        "密码破译"
+      ],
+      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "source": "MIT Technology Review",
+      "original_pub_date": "2026-09-25 09:16:25",
+      "impact_score": 135.0
+    },
+    {
+      "index": 17,
+      "title": "What an AI maths breakthrough means for human discovery",
+      "summary": "9月26日消息，AI在数学领域取得突破性进展，分析指出在解决复杂问题时过程与最终结果同样重要，这一突破对人类发现具有重要意义。",
+      "importance": "中",
+      "reason": "AI在数学领域的突破性研究进展，属于重大学术突破。",
+      "tags": [
+        "AI数学",
+        "学术突破",
+        "人类发现"
+      ],
+      "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-09-25 17:24:36",
+      "impact_score": 132.0
+    },
+    {
+      "index": 18,
+      "title": "Alabama Says TikTok to Pay Up to $300 Million for Kid Safety",
+      "summary": "9月26日消息，阿拉巴马州总检察长表示TikTok同意支付最高3亿美元并采取新用户保护措施，以和解该州原定于周一开庭的儿童安全诉讼。",
+      "importance": "中",
+      "reason": "TikTok与阿拉巴马州就儿童安全诉讼达成和解，涉及海外平台合规与安全，属于重大商业与安全动态。",
+      "tags": [
+        "TikTok",
+        "儿童安全",
+        "和解",
+        "阿拉巴马州"
+      ],
+      "url": "https://www.theinformation.com/briefings/microsoft-launches-revamped-copilot-super-app-muse-competitor",
+      "source": "The Information",
+      "original_pub_date": "2026-09-25 12:50:48",
+      "impact_score": 132.0
+    },
+    {
+      "index": 19,
+      "title": "US Justice Department Closes Investigation of CrowdStrike Deals",
+      "summary": "9月26日消息，美国司法部结束对CrowdStrike与分销商交易的调查，未采取进一步行动，CrowdStrike股价可能受此消息影响。",
+      "importance": "中",
+      "reason": "美国司法部结束对CrowdStrike的调查，属于重大政策与法规动态。",
+      "tags": [
+        "CrowdStrike",
+        "司法部",
+        "调查结束"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-09-25/bloomberg-tech-9-25-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-09-25 18:04:06",
+      "impact_score": 127.5
+    },
+    {
+      "index": 20,
+      "title": "Walmart chief rules out personalised pricing as AI transforms retail",
+      "summary": "9月26日消息，沃尔玛首席执行官排除个性化定价，发布公开信承诺不会利用电子货架标签根据购物者身份调整价格，以回应AI零售转型中的隐私担忧。",
+      "importance": "中",
+      "reason": "沃尔玛就AI零售中的个性化定价问题公开表态，属于重大商业与伦理动态。",
+      "tags": [
+        "沃尔玛",
+        "个性化定价",
+        "AI零售",
+        "隐私"
+      ],
+      "url": "https://www.ft.com/content/1ade33b1-b5eb-43bb-9ee4-2272ec91fa5b?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-09-25 14:24:11",
+      "impact_score": 127.5
+    }
+  ],
+  "summary": "今日从91条原始信息中精选出5条国内动态和20条国际动态，其中17条为高重要性。 重点关注：工信部发布人工智能产业发展指导意见；中国科学院发布大模型评测报告；梁文锋狙击战：深扒那些梁文锋署名的论文有多牛。",
+  "statistics": {
+    "raw_domestic": 5,
+    "raw_international": 86,
+    "raw_total": 91,
+    "final_domestic": 5,
+    "final_international": 20
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "9月26日消息，工业和信息化部发布《关于促进人工智能产业高质量发展的指导意见》，提出到2027年人工智能核心产业规模超过万亿元的目标。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "9月26日消息，中国科学院发布国产大模型能力评测报告，对主流大模型在多个维度进行了全面评估，为行业发展提供参考。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "9月26日消息，DeepSeek团队在arXiv发布31页新论文《DSec：面向大规模智能体训练的高效沙箱基础设施》，首次展示自动化沙箱系统DSec，可秒级创建独立虚拟训练环境，每日自动运行大规模智能体训练任务。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "9月26日消息，智元机器人向横琴长隆飞船乐园交付第20000台具身机器人，首期超300台常驻乐园，打造全球首个大规模具身智能主题乐园，实现从量产到真实场景部署的产业化落地。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "9月26日消息，Meta旗下Muse模型在OpenAI与Anthropic密集发布新模型之际抢尽风头，Anthropic推出Opus 5.5后仅90分钟OpenAI便更新GPT-6，但Meta的发布更受关注。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "9月26日消息，Meta在AI消费级产品上的拓麻歌子式押注初见成效，与OpenAI和Anthropic的模型密集发布形成差异化竞争，市场反馈积极。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "9月26日消息，随着AI推理需求激增，Fireworks和Fal等提供模型与服务器访问的初创公司销售额大涨，正考虑新一轮融资，引发投资者竞相涌入。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "9月26日消息，由特斯拉Dojo超级计算机项目前负责人创立仅一年的AI芯片初创公司DensityAI正深入谈判融资数亿美元，估值将达100亿美元。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "9月26日消息，微软推出改版Copilot超级应用，整合此前单独销售的AI编程工具、Office 365自动化功能及类似Meta Muse的常驻Autopilot代理，旨在提升用户体验。",
+      "importance": "高"
+    }
+  ]
+}
