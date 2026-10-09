@@ -1,0 +1,502 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09 15:07:35",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "腾讯拟发行50亿美元离岸债券，或筹钱加码AI",
+      "summary": "10月9日消息，腾讯拟发行50亿美元离岸债券，或筹钱加码AI，此举显示中国科技巨头持续加大AI领域投入。",
+      "importance": "高",
+      "reason": "腾讯作为中国科技巨头，大额融资加码AI，属于重大商业动态。",
+      "tags": [
+        "腾讯",
+        "融资",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/GGmq1RiBgXY2GSVL.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-09 05:45:00",
+      "impact_score": 390.0
+    },
+    {
+      "index": 2,
+      "title": "超33亿元！Manus拿下国内Agent创企最大单笔融资，腾讯投了",
+      "summary": "10月9日消息，Manus拿下国内Agent创企最大单笔融资超33亿元，腾讯参与投资，创下国内Agent领域融资纪录。",
+      "importance": "高",
+      "reason": "国内AI创企大额融资，腾讯参投，属于重大商业动态。",
+      "tags": [
+        "Manus",
+        "融资",
+        "Agent"
+      ],
+      "url": "https://www.qbitai.com/2026/10/502106.html",
+      "source": "量子位",
+      "original_pub_date": "2026-10-09 02:37:22",
+      "impact_score": 270.0
+    },
+    {
+      "index": 3,
+      "title": "阿里巴巴蔡崇信：开源是欧洲发展AI的最佳选择",
+      "summary": "10月9日消息，阿里巴巴蔡崇信表示开源是欧洲发展AI的最佳选择，体现中国企业在全球AI治理中的话语权。",
+      "importance": "中",
+      "reason": "阿里巴巴高管就全球AI发展发表观点，属于国内企业国际影响力动态。",
+      "tags": [
+        "阿里巴巴",
+        "开源",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/ai/rMAfd0hlFnaS8F3t.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-08 07:26:00",
+      "impact_score": 260.0
+    },
+    {
+      "index": 4,
+      "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+      "summary": "10月9日消息，openJiuwen发布并开源企业级AgentOS，支持多Agent协同与自我进化，加速智能体在企业规模落地。",
+      "importance": "高",
+      "reason": "国内团队发布开源企业级AgentOS，属于重大产品发布。",
+      "tags": [
+        "openJiuwen",
+        "开源",
+        "AgentOS"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/O3pNuPCwkHAjAiUM.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-09 03:47:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 5,
+      "title": "独家丨前腾讯混元技术骨干胡瀚创业新进展：目标估值数亿美金",
+      "summary": "10月9日消息，前腾讯混元技术骨干胡瀚创业项目聚焦多模态，计划融资数千万美元，目标估值达数亿美金。",
+      "importance": "中",
+      "reason": "国内AI技术骨干创业融资，属于重要商业动态。",
+      "tags": [
+        "胡瀚",
+        "创业",
+        "融资"
+      ],
+      "url": "https://www.leiphone.com/category/ai/n2GjuJRnM4utgaun.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-08 15:37:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 6,
+      "title": "当年「字节投毒实习生」田柯宇，估值2亿美元，要挑战李飞飞做世界模型",
+      "summary": "10月9日消息，前字节实习生田柯宇创立的神秘实验室获五源资本和IDG3000万美元投资，估值达2亿美元，瞄准世界模型。",
+      "importance": "中",
+      "reason": "国内AI创企大额融资，涉及争议人物，属于重要商业动态。",
+      "tags": [
+        "田柯宇",
+        "融资",
+        "世界模型"
+      ],
+      "url": "https://www.leiphone.com/category/yanxishe/BfzpShx7bKSPT4Ul.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-09 10:34:00",
+      "impact_score": 180.0
+    },
+    {
+      "index": 7,
+      "title": "云栖大会观察：阿里怎么打下一阶段模型战?",
+      "summary": "10月9日消息，云栖大会显示阿里大模型战略调整，千问大语言模型负责人刘大一恒等登台，市场关注阿里模型走向。",
+      "importance": "中",
+      "reason": "阿里云栖大会展示大模型战略，属于国内AI产业重要动态。",
+      "tags": [
+        "阿里",
+        "云栖大会",
+        "大模型"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/zWaIaM9e09Kmh5Rm.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-09 04:28:00",
+      "impact_score": 180.0
+    },
+    {
+      "index": 8,
+      "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
+      "summary": "10月9日消息，清华具身模型登顶全球第一，突围GPT-6和英伟达，采用视频预测与动作学习分阶段训练方法。",
+      "importance": "高",
+      "reason": "清华大学研究成果登顶全球第一，属于重大学术突破。",
+      "tags": [
+        "清华",
+        "具身模型",
+        "学术突破"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/JYrJOwTptVzwomFq.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-08 07:56:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 9,
+      "title": "豆包工作新增画布功能，并接入豆包2.1 Lite模型",
+      "summary": "10月9日消息，豆包工作新增画布功能并接入豆包2.1 Lite模型，支持复杂创作任务，提升交互体验。",
+      "importance": "中",
+      "reason": "字节跳动旗下豆包产品更新，属于重要产品发布。",
+      "tags": [
+        "豆包",
+        "产品发布",
+        "AI"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/aemAabCklwZCGjIm.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-09 04:27:00",
+      "impact_score": 160.0
+    },
+    {
+      "index": 10,
+      "title": "北醒李远：给机器造眼睛，与「自讨苦吃」的十一年|物理AI 50人",
+      "summary": "10月9日消息，北醒李远创业十一年专注激光雷达，今年上半年交付25万台机器人用激光雷达，机器人业务收入占比超一半。",
+      "importance": "中",
+      "reason": "国内AI硬件企业北醒的创业历程和业务进展，属于重要商业动态。",
+      "tags": [
+        "北醒",
+        "激光雷达",
+        "机器人"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/yXoEADuBlQVbLjXU.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-08 08:02:00",
+      "impact_score": 145.0
+    },
+    {
+      "index": 11,
+      "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
+      "summary": "10月9日消息，联想天禧自研代码智能体TianxiCode以71%问题解决率登顶SWE-bench-Live全球第一。",
+      "importance": "中",
+      "reason": "联想自研代码智能体获全球第一，属于重要学术/技术突破。",
+      "tags": [
+        "联想",
+        "代码智能体",
+        "全球第一"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/maJeT3wG8PATohRQ.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-08 08:00:00",
+      "impact_score": 145.0
+    },
+    {
+      "index": 12,
+      "title": "TRAE全面升级：双端融合，打造全链路开发平台",
+      "summary": "10月9日消息，TRAE宣布全面升级，TraeWork与TraeCode双端融合，统一连接Agent与IDE模式，覆盖全链路开发流程。",
+      "importance": "低",
+      "reason": "国内开发平台TRAE升级，属于产品动态。",
+      "tags": [
+        "TRAE",
+        "升级",
+        "开发平台"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/ZiR18N0bk5jxaFJO.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-08 07:58:00",
+      "impact_score": 145.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Commission holds special meeting of Scientific panel on frontier AI safety and risks",
+      "summary": "10月9日消息，欧盟委员会召开人工智能科学小组特别会议，调查近期发生的AI失控事件，聚焦前沿AI安全与风险议题。",
+      "importance": "高",
+      "reason": "欧盟官方就前沿AI安全风险召开特别会议，属于重大政策与法规动态，且涉及AI安全事件调查。",
+      "tags": [
+        "欧盟",
+        "AI安全",
+        "政策法规"
+      ],
+      "url": "https://www.theinformation.com/briefings/nvidia-backed-firmus-scraps-5-billion-australia-ipo-markets-wobble",
+      "source": "The Information",
+      "original_pub_date": "2026-10-09 04:45:22",
+      "impact_score": 307.5
+    },
+    {
+      "index": 2,
+      "title": "White House Suspends Visa Program for Microsoft, Other Tech Firms",
+      "summary": "10月9日消息，美国白宫暂停微软等科技公司的签证担保项目，副总统万斯称正调查微软在裁员同时继续雇佣移民的指控。",
+      "importance": "高",
+      "reason": "美国政府针对科技巨头签证项目的行政限制，属于重大政策动态，且涉及AI产业人才流动。",
+      "tags": [
+        "美国",
+        "签证政策",
+        "科技公司"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-10-09/bending-spoons-ceo-sees-opportunity-in-saaspocalypse-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-09 10:38:40",
+      "impact_score": 255.0
+    },
+    {
+      "index": 3,
+      "title": "Nvidia-Backed Firmus Scraps $5 Billion Australia IPO as Markets Wobble",
+      "summary": "10月9日消息，英伟达支持的AI云公司Firmus Grid因市场波动取消近50亿澳元的澳大利亚IPO计划，原估值超300亿美元。",
+      "importance": "高",
+      "reason": "英伟达支持的AI云公司取消澳大利亚近30年来最大IPO，属于重大商业动态，反映AI资本市场波动。",
+      "tags": [
+        "英伟达",
+        "IPO",
+        "AI云"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-10-09/andreessen-horowitz-backs-jev-maker-at-7-5-billion-value",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-09 13:00:09",
+      "impact_score": 240.0
+    },
+    {
+      "index": 4,
+      "title": "SoftBank seeks $100bn from Gulf investors to expand AI bet",
+      "summary": "10月9日消息，软银创始人孙正义与阿联酋高层会谈，寻求从海湾投资者筹集高达1000亿美元以扩大AI投资布局。",
+      "importance": "高",
+      "reason": "软银寻求千亿美元级AI融资，属于重大商业动态，金额巨大且涉及全球AI投资格局。",
+      "tags": [
+        "软银",
+        "融资",
+        "AI投资"
+      ],
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks",
+      "source": "EU AI Policy",
+      "original_pub_date": "2026-10-09 07:16:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 5,
+      "title": "Andreessen Horowitz Backs Jev Maker at $7.5 Billion Value",
+      "summary": "10月9日消息，a16z领投AI模型Jev开发商TypeSafe AI约8.7亿美元融资，估值达75亿美元，该模型发布数周即走红。",
+      "importance": "高",
+      "reason": "a16z领投近9亿美元AI融资，估值75亿美元，属于重大商业动态，反映AI模型赛道热度。",
+      "tags": [
+        "a16z",
+        "融资",
+        "AI模型"
+      ],
+      "url": "https://www.theinformation.com/articles/networking-startup-eliyan-draws-takeover-interest-held-early-talks-arm",
+      "source": "The Information",
+      "original_pub_date": "2026-10-09 00:15:46",
+      "impact_score": 210.0
+    },
+    {
+      "index": 6,
+      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "summary": "10月9日消息，OpenAI坚持解雇三名AI安全研究员的决定，称调查发现其严重违反信任，涉及敏感信息处理政策。",
+      "importance": "高",
+      "reason": "OpenAI解雇AI安全研究员并坚持立场，属于重大安全与伦理争议，涉及AI安全治理。",
+      "tags": [
+        "OpenAI",
+        "AI安全",
+        "伦理争议"
+      ],
+      "url": "https://arxiv.org/abs/2610.11129",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-10-09 04:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 7,
+      "title": "OpenAI Targets $70 Billion in Annualized Revenue by Year-End",
+      "summary": "10月9日消息，OpenAI预计到年底年化收入将达到或超过700亿美元，主要受企业业务增长驱动。",
+      "importance": "高",
+      "reason": "OpenAI预计年化收入达700亿美元，属于重大商业动态，反映头部AI公司商业化进展。",
+      "tags": [
+        "OpenAI",
+        "营收",
+        "企业业务"
+      ],
+      "url": "https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-10-09 04:30:01",
+      "impact_score": 180.0
+    },
+    {
+      "index": 8,
+      "title": "Anthropic Announces Broader Cyber Defense Program",
+      "summary": "10月9日消息，Anthropic宣布推出网络安全防御计划，为关键基础设施和开源软件提供威胁研究、驻场工程师及Claude模型访问。",
+      "importance": "中",
+      "reason": "Anthropic推出网络安全防御计划，属于重要商业与安全动态，涉及AI在关键基础设施的应用。",
+      "tags": [
+        "Anthropic",
+        "网络安全",
+        "AI安全"
+      ],
+      "url": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-10-08 06:59:59",
+      "impact_score": 165.0
+    },
+    {
+      "index": 9,
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "summary": "10月9日消息，Anthropic推出OSS Scanner服务，为开源项目免费提供定期安全扫描，利用其最强模型检测漏洞。",
+      "importance": "中",
+      "reason": "Anthropic为开源项目提供免费AI安全扫描，属于重要产品发布与安全动态。",
+      "tags": [
+        "Anthropic",
+        "开源安全",
+        "AI扫描"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-10-09 09:48:26",
+      "impact_score": 160.0
+    },
+    {
+      "index": 10,
+      "title": "Google releases a new local-first Granola competitor",
+      "summary": "10月9日消息，谷歌发布AI Edge Foresight应用，以离线会议笔记功能对标Granola，支持本地AI转录、生成笔记和问答。",
+      "importance": "中",
+      "reason": "谷歌发布本地优先的AI会议笔记应用，属于重要产品发布，体现端侧AI应用趋势。",
+      "tags": [
+        "谷歌",
+        "产品发布",
+        "端侧AI"
+      ],
+      "url": "https://www.ft.com/content/8c3f95ec-2428-4102-9f67-b707f1264c69?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-10-09 14:37:34",
+      "impact_score": 150.0
+    },
+    {
+      "index": 11,
+      "title": "OpenAI and Anthropic poach Trump officials as industry fights for Washington’s trust",
+      "summary": "10月9日消息，OpenAI和Anthropic招募特朗普政府官员，因前沿技术日益被视为国家安全问题，AI实验室寻求华盛顿信任。",
+      "importance": "中",
+      "reason": "OpenAI和Anthropic招募政界人士，属于重要商业与政策动态，反映AI行业与政府关系。",
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "政策关系"
+      ],
+      "url": "https://www.ft.com/content/9884d785-8ddc-43a6-ac8d-b9c7f9a99df3?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-10-08 16:44:08",
+      "impact_score": 150.0
+    },
+    {
+      "index": 12,
+      "title": "Networking Startup Eliyan Draws Takeover Interest, Held Early Talks With Arm",
+      "summary": "10月9日消息，AI芯片互联初创公司Eliyan吸引收购兴趣，已与Arm进行早期谈判，估值达10亿美元。",
+      "importance": "中",
+      "reason": "AI芯片互联初创公司Eliyan与Arm洽谈收购，属于重要商业动态，涉及半导体并购。",
+      "tags": [
+        "Arm",
+        "并购",
+        "AI芯片"
+      ],
+      "url": "https://www.theinformation.com/briefings/white-house-suspends-visa-program-microsoft-tech-firms",
+      "source": "The Information",
+      "original_pub_date": "2026-10-08 17:33:00",
+      "impact_score": 145.0
+    },
+    {
+      "index": 13,
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "summary": "10月9日消息，AI排行榜LMArena母公司获Lightspeed和Khosla领投2亿美元融资，估值10个月内近翻倍至31亿美元。",
+      "importance": "中",
+      "reason": "AI排行榜LMArena估值翻倍至31亿美元，属于重要商业动态，反映AI评估赛道热度。",
+      "tags": [
+        "LMArena",
+        "融资",
+        "AI评估"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-10-09/panmure-warns-ai-bubble-could-burst-by-2028-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-09 14:36:03",
+      "impact_score": 142.5
+    },
+    {
+      "index": 14,
+      "title": "Panmure Warns AI Bubble Could Burst Within Next Two Years",
+      "summary": "10月9日消息，Panmure Liberum分析师警告AI泡沫可能在未来两年内破裂，并讨论AI引发严重市场崩盘的风险。",
+      "importance": "中",
+      "reason": "金融机构警告AI泡沫可能破裂，属于重要商业与市场风险动态。",
+      "tags": [
+        "AI泡沫",
+        "市场风险",
+        "金融"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-10-09/-i-had-nightmares-says-airtel-money-ceo-before-ipo-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-09 09:07:23",
+      "impact_score": 142.5
+    },
+    {
+      "index": 15,
+      "title": "US telcos shed $45bn in value after SpaceX announces spectrum purchase",
+      "summary": "10月9日消息，SpaceX宣布收购频谱后，美国电信运营商市值蒸发450亿美元，马斯克向推出星链移动服务迈出重要一步。",
+      "importance": "中",
+      "reason": "SpaceX收购频谱冲击美国电信业，属于重大商业动态，涉及卫星通信与AI基础设施。",
+      "tags": [
+        "SpaceX",
+        "频谱收购",
+        "电信"
+      ],
+      "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
+      "source": "MIT Technology Review",
+      "original_pub_date": "2026-10-08 12:10:00",
+      "impact_score": 142.5
+    }
+  ],
+  "summary": "今日从183条原始信息中精选出12条国内动态和15条国际动态，其中11条为高重要性。 重点关注：腾讯拟发行50亿美元离岸债券，或筹钱加码AI；超33亿元！Manus拿下国内Agent创企最大单笔融资，腾讯投了；openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业。",
+  "statistics": {
+    "raw_domestic": 25,
+    "raw_international": 158,
+    "raw_total": 183,
+    "final_domestic": 12,
+    "final_international": 15
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "10月9日消息，腾讯拟发行50亿美元离岸债券，或筹钱加码AI，此举显示中国科技巨头持续加大AI领域投入。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "10月9日消息，Manus拿下国内Agent创企最大单笔融资超33亿元，腾讯参与投资，创下国内Agent领域融资纪录。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "10月9日消息，openJiuwen发布并开源企业级AgentOS，支持多Agent协同与自我进化，加速智能体在企业规模落地。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "10月9日消息，清华具身模型登顶全球第一，突围GPT-6和英伟达，采用视频预测与动作学习分阶段训练方法。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "10月9日消息，阿里巴巴蔡崇信表示开源是欧洲发展AI的最佳选择，体现中国企业在全球AI治理中的话语权。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "10月9日消息，欧盟委员会召开人工智能科学小组特别会议，调查近期发生的AI失控事件，聚焦前沿AI安全与风险议题。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "10月9日消息，美国白宫暂停微软等科技公司的签证担保项目，副总统万斯称正调查微软在裁员同时继续雇佣移民的指控。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "10月9日消息，英伟达支持的AI云公司Firmus Grid因市场波动取消近50亿澳元的澳大利亚IPO计划，原估值超300亿美元。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "10月9日消息，软银创始人孙正义与阿联酋高层会谈，寻求从海湾投资者筹集高达1000亿美元以扩大AI投资布局。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "10月9日消息，a16z领投AI模型Jev开发商TypeSafe AI约8.7亿美元融资，估值达75亿美元，该模型发布数周即走红。",
+      "importance": "高"
+    }
+  ]
+}
