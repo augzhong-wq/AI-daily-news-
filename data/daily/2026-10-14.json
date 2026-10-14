@@ -1,0 +1,582 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14 13:28:20",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "字节跳动 Seed 单独设立大模型安全与对齐部门",
+      "summary": "10月14日消息，字节跳动Seed宣布成立大模型安全与对齐部门，由严林负责并汇报给吴永辉，原Responsible AI团队及部分Chat团队转入，旨在加强智能体模型安全能力并防范前沿能力风险。",
+      "importance": "高",
+      "reason": "字节跳动作为中国头部AI公司，单独设立大模型安全与对齐部门，反映国内AI安全治理进入组织化阶段，具有行业示范意义。",
+      "tags": [
+        "字节跳动",
+        "大模型安全",
+        "组织调整"
+      ],
+      "url": "https://www.leiphone.com/category/weiwu/i0pZU5QKhkvoVvig.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-13 09:20:00",
+      "impact_score": 335.0
+    },
+    {
+      "index": 2,
+      "title": "千问确认将推出「千问Go!」，已开放体验申请",
+      "summary": "10月14日消息，阿里千问确认推出Personal Agent「千问Go!」并开放体验申请，内嵌于千问APP，可处理航班理赔、场馆预约、餐厅预订、比价下单及求职投递等个人事务。",
+      "importance": "高",
+      "reason": "阿里千问推出个人AI助理，依托阿里生态实现跨领域办事能力，是国内AI Agent商业化落地的重要进展。",
+      "tags": [
+        "阿里巴巴",
+        "千问",
+        "AI Agent"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/m6AoNUKEDKkoctjC.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-13 05:33:00",
+      "impact_score": 305.0
+    },
+    {
+      "index": 3,
+      "title": "腾讯AI办公再进一步，企业微信与WorkBuddy深度联合",
+      "summary": "10月14日消息，腾讯企业微信与WorkBuddy联合发布新版本实现双向深度联合，WorkBuddy进入企微通讯录并共用账号体系，覆盖超1400万企业与组织，让AI进入办公现场成为真实生产力。",
+      "importance": "高",
+      "reason": "腾讯两大办公产品深度整合，将AI智能体嵌入企业微信生态，覆盖千万级企业用户，是国内AI办公领域重大商业动态。",
+      "tags": [
+        "腾讯",
+        "企业微信",
+        "AI办公"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/GalDeSPl8orEfNoI.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-13 04:11:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 4,
+      "title": "独家丨字节最早天使投资人，投了一家 AI 音乐硬件公司",
+      "summary": "10月14日消息，AI音乐生成创作硬件公司SUAVE完成千万级种子轮融资，投资方为海纳无限，资金将用于量产机型软硬件研发，产品计划2027年初上市。",
+      "importance": "高",
+      "reason": "字节跳动最早天使投资方海纳亚洲在中国市场首笔投资投向AI音乐硬件公司，体现国内AI硬件赛道融资活跃。",
+      "tags": [
+        "融资",
+        "AI音乐",
+        "硬件"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/F5qbcy2P4jf6f81T.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-13 02:19:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 5,
+      "title": "千问办公发布电商版，开启邀测",
+      "summary": "10月14日消息，千问办公发布针对电商行业的AI生产力工具千问办公电商版并开启邀测，推出跨平台经营看板、趋势洞察、爆款素材批量生成及跨平台ROI智能优化等功能。",
+      "importance": "高",
+      "reason": "阿里千问办公切入电商垂直场景，接入生意参谋、有赞、千牛等主流工具，是国内AI生产力工具商业化的重要落地。",
+      "tags": [
+        "阿里巴巴",
+        "千问办公",
+        "电商AI"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/jX1ndNxDJ94n6bUu.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-13 05:43:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 6,
+      "title": "豆包工作上线新功能，支持跨AI产品一键导入已有配置",
+      "summary": "10月14日消息，字节跳动豆包工作上线数据导入与同步功能，支持从ChatGPT、Claude Code等产品一键导入任务偏好、技能、连接器、工作记忆及历史会话，并推出对话摘要侧栏等能力。",
+      "importance": "中",
+      "reason": "字节豆包工作推出跨AI产品数据迁移功能，降低用户切换成本，是国内AI办公工具竞争加剧的体现。",
+      "tags": [
+        "字节跳动",
+        "豆包",
+        "AI办公"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/7m8YMd1LU7x6aDvM.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-14 05:57:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 7,
+      "title": "蚂蚁灵波连续签约隆盛唯睿、德马科技等企业，具身大脑加速进产线",
+      "summary": "10月14日消息，蚂蚁集团旗下蚂蚁灵波接连与隆盛唯睿、德马科技、德迩象网等企业达成战略合作，基于自研具身原生模型共建工业上下料等场景解决方案，加速具身智能产业落地。",
+      "importance": "中",
+      "reason": "蚂蚁集团具身智能公司连续签约多家制造业与物流企业，推动具身大脑进入工业产线，是国内具身智能商业化的重要进展。",
+      "tags": [
+        "蚂蚁集团",
+        "具身智能",
+        "战略合作"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/5nqkkreKm8OhUkCP.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-13 05:38:00",
+      "impact_score": 205.0
+    },
+    {
+      "index": 8,
+      "title": "腾讯WorkBuddy企业版上线「可观测中心」破解规模化用Agent四大痛点",
+      "summary": "10月14日消息，腾讯WorkBuddy企业版管理后台上线可观测中心并开启公测，支持对企业内Agent智能体使用情况进行全链路数据采集、存储与分析，解决成本管控、安全合规等核心问题。",
+      "importance": "中",
+      "reason": "腾讯WorkBuddy推出企业级Agent运行管理仪表盘，解决规模化部署Agent的可观测性痛点，是国内企业级AI Agent基础设施的重要完善。",
+      "tags": [
+        "腾讯",
+        "WorkBuddy",
+        "企业级Agent"
+      ],
+      "url": "https://www.leiphone.com/category/ai/K1JlUdh4evr88zDa.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-14 07:18:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 9,
+      "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
+      "summary": "10月14日消息，大模型原生AI终端品牌STEPX阶跃终端旗下首款大模型原生智能体手机STEPX Neo正式发布，定位为物理版Agent终端。",
+      "importance": "中",
+      "reason": "国内厂商推出首款大模型原生智能体手机，探索AI终端新形态，是国内AI硬件创新的重要尝试。",
+      "tags": [
+        "STEPX",
+        "智能体手机",
+        "AI终端"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/eg8S5cDorgtGnzPy.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-14 06:31:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 10,
+      "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
+      "summary": "10月14日消息，APUS AI麒麟合盛宣布开源Personal Agent产品Reflex Agent，响应速度比Claude Code快3倍并实现真正无限上下文能力。",
+      "importance": "中",
+      "reason": "国内公司APUS AI开源个人Agent产品，在响应速度和上下文能力上实现突破，是国内AI开源生态的重要贡献。",
+      "tags": [
+        "APUS AI",
+        "开源",
+        "Agent"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/fhYapSsp1iE9H2OM.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-13 07:40:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 11,
+      "title": "1688全面接入AI电商工作台Accio",
+      "summary": "10月14日消息，阿里旗下1688宣布全面接入全球电商AI工作台Accio，逾1亿年度活跃买家和超100万源头厂商可直接开通，买家可用电商管家运营全网生意，卖家可一站式管理店铺。",
+      "importance": "中",
+      "reason": "阿里1688全面接入AI电商工作台，覆盖亿级买家和百万级厂商，是国内AI赋能B类电商交易的重要商业动态。",
+      "tags": [
+        "阿里巴巴",
+        "1688",
+        "电商AI"
+      ],
+      "url": "https://www.qbitai.com/2026/10/503201.html",
+      "source": "量子位",
+      "original_pub_date": "2026-10-14 06:45:38",
+      "impact_score": 150.0
+    },
+    {
+      "index": 12,
+      "title": "爱诗科技香港办公室正式开幕，落地数码港共建香港AI枢纽",
+      "summary": "10月14日消息，AI视频大模型公司爱诗科技香港办公室在数码港正式开幕，定位为辐射本地企业、政府机构、高校及创作者的AI枢纽，将招募本地员工并持续举办产业专场活动。",
+      "importance": "中",
+      "reason": "国内AI视频大模型公司爱诗科技落地香港数码港，获香港投资推广署和数码港高层出席支持，体现国内AI企业区域布局与香港AI枢纽建设。",
+      "tags": [
+        "爱诗科技",
+        "香港",
+        "AI视频大模型"
+      ],
+      "url": "https://www.qbitai.com/2026/10/503165.html",
+      "source": "量子位",
+      "original_pub_date": "2026-10-14 03:32:48",
+      "impact_score": 150.0
+    },
+    {
+      "index": 13,
+      "title": "拓竹官宣首款3D扫描仪，进军个人制造全品类",
+      "summary": "10月14日消息，拓竹科技官宣旗下首款3D扫描仪S1将于11月开售，首次进军3D扫描品类，产品版图从3D打印、激光切割延伸至现实数字化入口，AI技术接管扫描后数据处理环节。",
+      "importance": "中",
+      "reason": "国内3D打印龙头拓竹科技进军3D扫描品类，结合AI技术实现现实数字化，是AI赋能个人制造硬件的重要产品动态。",
+      "tags": [
+        "拓竹科技",
+        "3D扫描",
+        "AI硬件"
+      ],
+      "url": "https://www.qbitai.com/2026/10/503244.html",
+      "source": "量子位",
+      "original_pub_date": "2026-10-14 08:01:18",
+      "impact_score": 135.0
+    },
+    {
+      "index": 14,
+      "title": "其域创新以 62 亿个高斯、150 亿个点云，建成全球最大的空地一体 3D 高斯模型“闽宁镇”",
+      "summary": "10月14日消息，其域创新以62亿个高斯椭球和150亿个雷达点云建成覆盖23.5平方公里的全球最大空地一体3D高斯模型闽宁镇，应用于中央广播电视总台纪录片《闽宁大道》。",
+      "importance": "低",
+      "reason": "国内公司其域创新建成全球最大空地一体3D高斯模型，展示中国在3D重建与空间智能领域的技术实力。",
+      "tags": [
+        "其域创新",
+        "3D高斯",
+        "空间智能"
+      ],
+      "url": "https://www.leiphone.com/category/ai/M7t0xBzr6K3vaFwi.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-14 07:42:00",
+      "impact_score": 120.0
+    },
+    {
+      "index": 15,
+      "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
+      "summary": "10月14日消息，国内最年轻AI教授创业，致力于让世界模型走向全身全模态，为具身智能补上缺失的交互信息。",
+      "importance": "低",
+      "reason": "国内年轻AI教授创业探索世界模型全身全模态方向，代表国内具身智能前沿学术创业动态。",
+      "tags": [
+        "世界模型",
+        "具身智能",
+        "创业"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/x7Ukz8feAE9FBQsy.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-14 06:27:00",
+      "impact_score": 105.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Google finally releases Gemini 4 Argon",
+      "summary": "10月14日消息，谷歌正式发布备受期待的Gemini 4 Argon旗舰模型，宣称其具备前沿推理能力并能在复杂工作流中提供更优性能，标志着谷歌重返前沿AI竞赛核心舞台。",
+      "importance": "高",
+      "reason": "谷歌旗舰AI模型发布属于重大产品发布，是国际AI竞争格局的关键事件。",
+      "tags": [
+        "谷歌",
+        "Gemini 4",
+        "旗舰模型"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-10-14/anthropic-s-princen-on-ai-safety-concerns-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-14 09:16:25",
+      "impact_score": 285.0
+    },
+    {
+      "index": 2,
+      "title": "Apple, OpenAI Head to Court in High-Stakes AI Trade Secret Fight",
+      "summary": "10月14日消息，苹果与OpenAI就商业机密纠纷首次对簿公堂，苹果指控OpenAI密谋窃取即将推出产品的专有信息，此案可能对AI行业知识产权保护产生深远影响。",
+      "importance": "高",
+      "reason": "两大科技巨头之间的重大法律诉讼，涉及AI商业机密，属于重大商业动态与法律事件。",
+      "tags": [
+        "苹果",
+        "OpenAI",
+        "商业机密诉讼"
+      ],
+      "url": "https://www.theinformation.com/articles/applied-intuition-fields-offers-30-billion-valuation-2",
+      "source": "The Information",
+      "original_pub_date": "2026-10-13 13:30:51",
+      "impact_score": 210.0
+    },
+    {
+      "index": 3,
+      "title": "OpenAI Scrambles to Fix Safety Issues Before Shipping Its Next Flagship Model",
+      "summary": "10月14日消息，OpenAI正紧急修复其下一代旗舰模型的安全问题，因采用循环变压器等争议性设计导致模型行为难以监控，公司需确保安全后才敢发布。",
+      "importance": "高",
+      "reason": "OpenAI下一代旗舰模型的安全问题属于重大产品动态与AI安全伦理议题。",
+      "tags": [
+        "OpenAI",
+        "AI安全",
+        "旗舰模型"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-10-14/softbank-backed-bkash-ceo-on-digital-bank-license-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-14 10:52:25",
+      "impact_score": 180.0
+    },
+    {
+      "index": 4,
+      "title": "OpenAI May Hold Back Next Generation Model for Checks, CFO Says",
+      "summary": "10月14日消息，OpenAI首席财务官表示公司正加倍投入安全与对齐研究，并可能推迟下一代模型的发布以进行充分检查，凸显其对AI安全风险的审慎态度。",
+      "importance": "高",
+      "reason": "OpenAI高管关于推迟模型发布的表态，涉及重大产品节奏与AI安全政策。",
+      "tags": [
+        "OpenAI",
+        "AI安全",
+        "模型发布"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-10-14/tech-leaders-on-moving-ai-from-pilot-to-scale-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-14 09:49:22",
+      "impact_score": 180.0
+    },
+    {
+      "index": 5,
+      "title": "GlobalFoundries Gets $21 Billion for Plants in US-Japan Deal",
+      "summary": "10月14日消息，GlobalFoundries获日本政府高达210亿美元资金支持，计划新建两座芯片工厂，美国同时获得该公司4%股份，此举将强化美日半导体供应链合作。",
+      "importance": "高",
+      "reason": "涉及美日两国政府重大芯片产业投资与地缘政治合作，属于重大政策与商业动态。",
+      "tags": [
+        "GlobalFoundries",
+        "芯片法案",
+        "美日合作"
+      ],
+      "url": "https://www.theinformation.com/articles/neocloud-prime-intellect-acquires-startup-speed-inference",
+      "source": "The Information",
+      "original_pub_date": "2026-10-13 14:00:51",
+      "impact_score": 173.0
+    },
+    {
+      "index": 6,
+      "title": "OpenAI Eyes Acquisition That Could Boost Cybersecurity Business",
+      "summary": "10月14日消息，OpenAI正就收购漏洞修复公司Trail of Bits进行早期谈判，旨在拓展网络安全业务，此举可能增强其在AI安全领域的技术实力与商业布局。",
+      "importance": "高",
+      "reason": "OpenAI的重大并购动向，涉及网络安全与AI安全业务扩展，属于重大商业动态。",
+      "tags": [
+        "OpenAI",
+        "收购",
+        "网络安全"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-10-14/apple-openai-head-to-court-in-high-stakes-ai-trade-secret-fight",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-14 10:30:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 7,
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "summary": "10月14日消息，谷歌DeepMind与新加坡政府科技局合作，利用轻量级端侧Gemma模型拦截私人聊天中的诈骗对话，实现零云端数据外泄，保障用户隐私安全。",
+      "importance": "高",
+      "reason": "谷歌DeepMind与新加坡政府的国际合作，属于重大AI安全应用与政府合作动态。",
+      "tags": [
+        "DeepMind",
+        "新加坡",
+        "反诈骗AI"
+      ],
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "source": "DeepMind Blog",
+      "original_pub_date": "2026-10-14 02:00:14",
+      "impact_score": 165.0
+    },
+    {
+      "index": 8,
+      "title": "NVIDIA Announces New Investments in France’s Startups",
+      "summary": "10月14日消息，英伟达宣布对法国初创企业进行新投资，推动代理式计算在航天、金融、公共部门和科研等领域的应用，彰显法国AI生态从愿景迈向落地。",
+      "importance": "高",
+      "reason": "英伟达在法国的重大投资布局，属于国际AI商业动态与战略合作。",
+      "tags": [
+        "英伟达",
+        "法国",
+        "投资"
+      ],
+      "url": "https://www.ft.com/content/2caa52e1-637a-4934-802e-418b649b4c12?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-10-13 04:00:19",
+      "impact_score": 165.0
+    },
+    {
+      "index": 9,
+      "title": "Applied Intuition Fields Offers at $30 Billion Valuation",
+      "summary": "10月14日消息，AI应用公司Applied Intuition在融资中获得高达300亿美元估值报价，反映投资者对AI驱动软件与代理类初创企业的强烈兴趣与高估值预期。",
+      "importance": "高",
+      "reason": "300亿美元估值属于重大融资动态，体现AI应用层商业价值获资本市场高度认可。",
+      "tags": [
+        "Applied Intuition",
+        "融资",
+        "估值"
+      ],
+      "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
+      "source": "NVIDIA AI",
+      "original_pub_date": "2026-10-13 05:00:31",
+      "impact_score": 160.0
+    },
+    {
+      "index": 10,
+      "title": "Tycoons Amplify Calls for Stronger AI Rules as Risks Mount",
+      "summary": "10月14日消息，包括电信大亨苏尼尔·米塔尔和生物技术巨头诺巴·阿费扬在内的多位亿万富翁加入企业领袖行列，呼吁加强对人工智能的管控，以应对日益增长的AI失控风险。",
+      "importance": "高",
+      "reason": "多位国际商业领袖联合呼吁加强AI监管，属于重大政策倡导与AI安全伦理动态。",
+      "tags": [
+        "AI监管",
+        "亿万富翁",
+        "AI风险"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-10-13 16:00:00",
+      "impact_score": 147.0
+    },
+    {
+      "index": 11,
+      "title": "SpaceX agrees to testify to NYC Council about AI safety after receiving subpoena",
+      "summary": "10月14日消息，SpaceX同意就AI安全风险调查向纽约市议会作证，此前该公司收到传票，此举表明地方政府正加强对AI企业安全实践的监督与问责。",
+      "importance": "中",
+      "reason": "SpaceX接受政府AI安全调查，属于AI安全与政府监管动态。",
+      "tags": [
+        "SpaceX",
+        "AI安全",
+        "政府调查"
+      ],
+      "url": "https://www.ft.com/content/1e190204-ebe8-48d7-936e-72835fc49742?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-10-13 09:30:07",
+      "impact_score": 135.0
+    },
+    {
+      "index": 12,
+      "title": "Anthropic urges court in Washington, DC, to rehear appeal of Pentagon blacklisting",
+      "summary": "10月14日消息，Anthropic请求华盛顿特区联邦法院重新审理其就五角大楼将其AI模型列入黑名单一案的上诉，此案涉及AI公司与国防部门之间的重要法律争议。",
+      "importance": "中",
+      "reason": "Anthropic与五角大楼的法律纠纷，涉及AI模型被政府黑名单，属于重大政策与法律动态。",
+      "tags": [
+        "Anthropic",
+        "五角大楼",
+        "法律诉讼"
+      ],
+      "url": "https://www.theinformation.com/articles/openai-scrambles-fix-safety-issues-shipping-next-flagship-model",
+      "source": "The Information",
+      "original_pub_date": "2026-10-13 19:51:54",
+      "impact_score": 132.0
+    },
+    {
+      "index": 13,
+      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+      "summary": "10月14日消息，美国运通推出新框架，确保AI代理仅执行用户授权的购买行为，旨在防止AI购物带来的昂贵错误与纠纷，为代理式商务提供安全保障。",
+      "importance": "中",
+      "reason": "美国运通推出AI代理支付安全框架，属于AI商业应用与安全动态。",
+      "tags": [
+        "美国运通",
+        "AI代理",
+        "支付安全"
+      ],
+      "url": "https://www.theinformation.com/briefings/apple-launches-home-hub-product",
+      "source": "The Information",
+      "original_pub_date": "2026-10-13 16:42:55",
+      "impact_score": 132.0
+    },
+    {
+      "index": 14,
+      "title": "Shopify opens its catalog up to more AI agents",
+      "summary": "10月14日消息，Shopify宣布向更多AI代理开放其商品目录，允许购物者配置AI代理代为购买商品，覆盖超十亿商品，进一步推进代理式商务战略。",
+      "importance": "中",
+      "reason": "Shopify扩展AI代理购物功能，属于国际AI商业应用与代理式商务动态。",
+      "tags": [
+        "Shopify",
+        "AI代理",
+        "电商"
+      ],
+      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-10-13 13:00:00",
+      "impact_score": 132.0
+    },
+    {
+      "index": 15,
+      "title": "Neocloud Prime Intellect Acquires Startup To Speed Up Inference",
+      "summary": "10月14日消息，估值10亿美元的AI云服务商Prime Intellect收购一家初创公司以加速推理速度，旨在竞争激烈的推理市场中实现差异化，提升开源模型运行效率。",
+      "importance": "中",
+      "reason": "Prime Intellect的收购属于AI基础设施领域的重要商业动态。",
+      "tags": [
+        "Prime Intellect",
+        "收购",
+        "推理加速"
+      ],
+      "url": "https://arxiv.org/abs/2610.14381",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-10-14 04:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 16,
+      "title": "Build long-horizon agents with Grok 4.7 on Amazon Bedrock",
+      "summary": "10月14日消息，亚马逊云科技宣布Grok 4.7模型在Bedrock平台上线，支持构建长时程工具调用代理，并在多项推理任务中评估其正确性与令牌成本，助力企业优化AI代理部署。",
+      "importance": "中",
+      "reason": "亚马逊Bedrock上线Grok 4.7，属于国际AI平台与模型产品动态。",
+      "tags": [
+        "亚马逊",
+        "Grok 4.7",
+        "AI代理"
+      ],
+      "url": "https://arxiv.org/abs/2610.14382",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-10-14 04:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 17,
+      "title": "Criminals could walk free without controls on AI use, police watchdog warns",
+      "summary": "10月14日消息，英国警方监管机构警告称，若不对AI使用加以控制，犯罪分子可能逍遥法外，强调英格兰和威尔士警队需制定指导方针以规范AI加速调查的应用。",
+      "importance": "中",
+      "reason": "英国警方监管机构就AI使用发出警告，属于AI安全与伦理及政策监管动态。",
+      "tags": [
+        "英国警方",
+        "AI监管",
+        "AI安全"
+      ],
+      "url": "https://www.cnbc.com/2026/10/13/spacex-agrees-to-testify-to-nyc-council-about-ai-safety-.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-10-13 09:00:01",
+      "impact_score": 130.0
+    }
+  ],
+  "summary": "今日从171条原始信息中精选出15条国内动态和17条国际动态，其中15条为高重要性。 重点关注：字节跳动 Seed 单独设立大模型安全与对齐部门；千问确认将推出「千问Go!」，已开放体验申请；腾讯AI办公再进一步，企业微信与WorkBuddy深度联合。",
+  "statistics": {
+    "raw_domestic": 23,
+    "raw_international": 148,
+    "raw_total": 171,
+    "final_domestic": 15,
+    "final_international": 17
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "10月14日消息，字节跳动Seed宣布成立大模型安全与对齐部门，由严林负责并汇报给吴永辉，原Responsible AI团队及部分Chat团队转入，旨在加强智能体模型安全能力并防范前沿能力风险。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "10月14日消息，阿里千问确认推出Personal Agent「千问Go!」并开放体验申请，内嵌于千问APP，可处理航班理赔、场馆预约、餐厅预订、比价下单及求职投递等个人事务。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "10月14日消息，腾讯企业微信与WorkBuddy联合发布新版本实现双向深度联合，WorkBuddy进入企微通讯录并共用账号体系，覆盖超1400万企业与组织，让AI进入办公现场成为真实生产力。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "10月14日消息，AI音乐生成创作硬件公司SUAVE完成千万级种子轮融资，投资方为海纳无限，资金将用于量产机型软硬件研发，产品计划2027年初上市。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "10月14日消息，千问办公发布针对电商行业的AI生产力工具千问办公电商版并开启邀测，推出跨平台经营看板、趋势洞察、爆款素材批量生成及跨平台ROI智能优化等功能。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "10月14日消息，谷歌正式发布备受期待的Gemini 4 Argon旗舰模型，宣称其具备前沿推理能力并能在复杂工作流中提供更优性能，标志着谷歌重返前沿AI竞赛核心舞台。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "10月14日消息，苹果与OpenAI就商业机密纠纷首次对簿公堂，苹果指控OpenAI密谋窃取即将推出产品的专有信息，此案可能对AI行业知识产权保护产生深远影响。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "10月14日消息，OpenAI正紧急修复其下一代旗舰模型的安全问题，因采用循环变压器等争议性设计导致模型行为难以监控，公司需确保安全后才敢发布。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "10月14日消息，OpenAI首席财务官表示公司正加倍投入安全与对齐研究，并可能推迟下一代模型的发布以进行充分检查，凸显其对AI安全风险的审慎态度。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "10月14日消息，GlobalFoundries获日本政府高达210亿美元资金支持，计划新建两座芯片工厂，美国同时获得该公司4%股份，此举将强化美日半导体供应链合作。",
+      "importance": "高"
+    }
+  ]
+}
