@@ -1,0 +1,575 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17 12:03:11",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "长鑫科技市值两月内跌去1万亿；阿里加码AI硬件品牌，天猫、速卖通联动；国行版苹果AI有望12月上线，百度、阿里参与合作丨雷峰早报",
+      "summary": "10月17日消息，长鑫科技市值两月内跌去1万亿，同时阿里加码AI硬件品牌并联动天猫、速卖通，国行版苹果AI有望12月上线且百度、阿里参与合作。",
+      "importance": "高",
+      "reason": "涉及中国科技巨头长鑫科技、阿里巴巴、百度及苹果国行AI合作，属于重大商业动态和产品发布。",
+      "tags": [
+        "长鑫科技",
+        "阿里巴巴",
+        "百度",
+        "苹果AI"
+      ],
+      "url": "https://www.qbitai.com/2026/10/503829.html",
+      "source": "量子位",
+      "original_pub_date": "2026-10-16 07:16:11",
+      "impact_score": 285.0
+    },
+    {
+      "index": 2,
+      "title": "Kling 4.0正式上线：10-bit HDR、30秒原生直出 刷新视频模型新基准",
+      "summary": "10月17日消息，可灵AI新一代视频生成模型Kling 4.0正式上线，支持10-bit HDR和30秒原生直出，刷新视频模型新基准。",
+      "importance": "高",
+      "reason": "中国公司可灵AI发布旗舰视频生成模型，属于重大产品发布。",
+      "tags": [
+        "可灵AI",
+        "Kling 4.0",
+        "视频生成"
+      ],
+      "url": "https://www.leiphone.com/category/robot/OA7EpCSSkv3D6yMD.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-16 02:31:00",
+      "impact_score": 225.0
+    },
+    {
+      "index": 3,
+      "title": "阿里千问上车宝马iX3",
+      "summary": "10月17日消息，宝马宣布新世代BMW iX3将搭载与阿里巴巴联合开发的座舱AI能力，以阿里千问大模型为AI底座，由斑马负责车端集成。",
+      "importance": "高",
+      "reason": "阿里巴巴与宝马的战略合作，属于重大商业动态，且涉及中国AI技术出海。",
+      "tags": [
+        "阿里巴巴",
+        "千问大模型",
+        "宝马",
+        "智能座舱"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/EReMkZNn9w5H85Tf.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-16 10:39:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 4,
+      "title": "范式智能联合睿思智联推出开源一站式 生产级 AI 部署平台 “模域ModelSphere”",
+      "summary": "10月17日消息，范式智能联合睿思智联推出开源一站式生产级AI部署平台“模域ModelSphere”，正式上线。",
+      "importance": "高",
+      "reason": "中国公司发布开源AI部署平台，属于重大产品发布。",
+      "tags": [
+        "范式智能",
+        "睿思智联",
+        "模域ModelSphere",
+        "开源"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/csaOBaiXpZZLOOtp.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-16 02:24:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 5,
+      "title": "中控技术接入千问办公，打造流程工业领域AI Native标杆企业",
+      "summary": "10月17日消息，中控技术正式接入千问办公，将Agent落地营销全链路，并优化采购、供应链等场景工作流，共建流程工业AI Native标杆企业。",
+      "importance": "高",
+      "reason": "中国公司中控技术与阿里千问办公的战略合作，属于重大商业动态。",
+      "tags": [
+        "中控技术",
+        "千问办公",
+        "AI Native",
+        "流程工业"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/JjzV775vQhP9EgGN.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-17 04:16:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 6,
+      "title": "超1亿元融资砸向四川具身科技！要把「情绪价值」卖进千家万户",
+      "summary": "10月17日消息，四川具身科技获得超1亿元融资，产品9.8万元起售，冲刺万台量产，主打情绪价值。",
+      "importance": "高",
+      "reason": "中国具身智能公司获得大额融资，属于重大商业动态。",
+      "tags": [
+        "四川具身科技",
+        "融资",
+        "具身智能"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/qgqGTqVLQMmIkNdP.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-16 12:50:00",
+      "impact_score": 170.0
+    },
+    {
+      "index": 7,
+      "title": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历",
+      "summary": "10月17日消息，网易首个AI原生语音Agent“网易叭哥说”上线用户荣誉联创计划，投入10万元征集产品建议。",
+      "importance": "中",
+      "reason": "网易发布AI语音Agent并推出用户共创计划，属于产品发布和商业动态。",
+      "tags": [
+        "网易",
+        "AI语音Agent",
+        "用户联创"
+      ],
+      "url": "https://www.qbitai.com/2026/10/503861.html",
+      "source": "量子位",
+      "original_pub_date": "2026-10-16 08:07:33",
+      "impact_score": 150.0
+    },
+    {
+      "index": 8,
+      "title": "付费用户占比超 20%，电商商家「涌入」千问办公",
+      "summary": "10月17日消息，千问办公付费用户占比超20%，电商商家涌入使用AI工具进行市场调研和商品准备，将周期从一个月压缩至7天。",
+      "importance": "中",
+      "reason": "反映阿里千问办公在电商领域的商业化进展，属于商业动态。",
+      "tags": [
+        "千问办公",
+        "电商",
+        "付费用户"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/8IM46Vzpf7IFumo7.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-16 07:51:00",
+      "impact_score": 135.0
+    },
+    {
+      "index": 9,
+      "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
+      "summary": "10月17日消息，清华特奖得主、GeoPT一作入局物理世界模型创业，从搭载物理建模能力的世界模型切入。",
+      "importance": "中",
+      "reason": "中国AI学术人才创业，属于学术突破和商业动态。",
+      "tags": [
+        "清华",
+        "AI创业",
+        "物理世界模型"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/6nUC46T5N52m2W2V.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-16 04:10:00",
+      "impact_score": 120.0
+    },
+    {
+      "index": 10,
+      "title": "无人机表演十年后，大漠大想做「会干活」的机群",
+      "summary": "10月17日消息，大漠大披露设备销售占营收70%，海外设备销量五年上涨四十五倍，正开发具身智能第二产品线并推进融资。",
+      "importance": "中",
+      "reason": "中国无人机公司大漠大的业务进展和融资动态，属于商业动态。",
+      "tags": [
+        "大漠大",
+        "无人机",
+        "具身智能",
+        "融资"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/1GERVRJ72xJKmsus.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-16 02:37:00",
+      "impact_score": 120.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Apple’s Antitrust Settlement Talks Spur Worries Among Developers",
+      "summary": "10月17日消息，美国司法部正就针对苹果的反垄断诉讼协商和解方案，应用开发者担忧任何协议对苹果反竞争行为的约束力度不足，多名知情人士透露相关谈判进展。",
+      "importance": "高",
+      "reason": "涉及美国司法部对苹果的重大反垄断调查与和解谈判，属于重大政策法规动态，且主体为海外公司。",
+      "tags": [
+        "反垄断",
+        "苹果",
+        "美国司法部",
+        "政策法规"
+      ],
+      "url": "https://www.theinformation.com/articles/apples-antitrust-settlement-talks-spur-worries-among-developers",
+      "source": "The Information",
+      "original_pub_date": "2026-10-16 13:00:43",
+      "impact_score": 275.0
+    },
+    {
+      "index": 2,
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "summary": "10月17日消息，Elorian发布首个AI模型Glimpse，据其评估在科学图表推理和短视频描述任务上超越GPT-6 Astra，在其他视觉推理任务上也具备竞争力。",
+      "importance": "高",
+      "reason": "海外公司发布旗舰AI模型并宣称超越GPT-6，属于重大产品发布与学术突破。",
+      "tags": [
+        "AI模型",
+        "视觉推理",
+        "Elorian",
+        "产品发布"
+      ],
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-10-16 16:01:37",
+      "impact_score": 266.0
+    },
+    {
+      "index": 3,
+      "title": "Nvidia CEO on AI Market Turmoil: ‘All of This Is Going to Pass’",
+      "summary": "10月17日消息，英伟达首席执行官黄仁勋对近期AI股市动荡持乐观态度，表示技术带来的益处将很快超过投资者的担忧，安抚市场情绪。",
+      "importance": "高",
+      "reason": "英伟达CEO对AI市场动荡的公开表态，涉及全球AI产业信心与市场走向，主体为海外公司。",
+      "tags": [
+        "英伟达",
+        "黄仁勋",
+        "AI市场",
+        "股市"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-10-16/nvidia-ceo-on-ai-market-turmoil-all-of-this-is-going-to-pass",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-16 20:33:15",
+      "impact_score": 262.5
+    },
+    {
+      "index": 4,
+      "title": "Thoma Bravo’s Proofpoint Taps JPMorgan, UBS on Varonis Debt Deal",
+      "summary": "10月17日消息，Thoma Bravo支持的Proofpoint锁定12.5亿美元融资，用于收购网络安全公司Varonis Systems，摩根大通和瑞银参与安排该债务交易。",
+      "importance": "中",
+      "reason": "涉及超10亿美元的重大并购融资，主体为海外公司，属于重大商业动态。",
+      "tags": [
+        "并购",
+        "融资",
+        "网络安全",
+        "Proofpoint"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-10-16/thoma-bravo-s-proofpoint-taps-jpmorgan-ubs-on-varonis-debt-deal",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-16 20:53:51",
+      "impact_score": 225.0
+    },
+    {
+      "index": 5,
+      "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+      "summary": "10月17日消息，研究人员发布arXiv论文提出RealtimeBench基准，包含180项任务，用于评估和训练大语言模型智能体在实时变化环境下的推理与工具调用能力。",
+      "importance": "中",
+      "reason": "海外研究机构发布重要学术论文与基准，涉及LLM智能体实时推理，属于重大学术突破。",
+      "tags": [
+        "学术论文",
+        "LLM智能体",
+        "基准测试",
+        "实时推理"
+      ],
+      "url": "https://arxiv.org/abs/2610.20665",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-10-17 04:00:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 6,
+      "title": "Did Anthropic Miss Its Peak IPO Moment?",
+      "summary": "10月17日消息，Anthropic第三季度营收增速较第二季度放缓，可能限制其IPO估值上限，市场认为其上市时机或已错过最佳窗口。",
+      "importance": "中",
+      "reason": "涉及海外AI公司Anthropic的IPO估值与增长放缓，属于重大商业动态。",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "估值",
+        "营收"
+      ],
+      "url": "https://www.theinformation.com/articles/anthropic-miss-peak-ipo-moment",
+      "source": "The Information",
+      "original_pub_date": "2026-10-16 00:01:30",
+      "impact_score": 210.0
+    },
+    {
+      "index": 7,
+      "title": "Singapore’s DayOne Pushes Ahead With Data Center IPO Tied to TikTok",
+      "summary": "10月17日消息，新加坡数据中心运营商DayOne推进在纽约的数十亿美元IPO，其业务近70%收入来自字节跳动旗下TikTok，引发美国投资者关注。",
+      "importance": "中",
+      "reason": "主体为新加坡公司，涉及数十亿美元IPO，属于海外重大商业动态。",
+      "tags": [
+        "IPO",
+        "数据中心",
+        "DayOne",
+        "TikTok"
+      ],
+      "url": "https://www.theinformation.com/articles/singapores-dayone-pushes-ahead-data-center-ipo-tied-tiktok",
+      "source": "The Information",
+      "original_pub_date": "2026-10-16 16:00:41",
+      "impact_score": 195.0
+    },
+    {
+      "index": 8,
+      "title": "Apple Names Meta Veteran as Litigation Chief in Legal Team Shake-Up",
+      "summary": "10月17日消息，苹果任命Meta资深高管为新任诉讼主管，在面临日益增多诉讼之际加强其法律团队，完成法务团队重组。",
+      "importance": "中",
+      "reason": "苹果重大人事任命，涉及海外科技巨头法务团队调整，属于国际动态。",
+      "tags": [
+        "苹果",
+        "人事任命",
+        "诉讼",
+        "法务"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-10-16/apple-names-meta-veteran-as-litigation-chief-in-legal-team-shake-up",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-16 21:50:11",
+      "impact_score": 165.0
+    },
+    {
+      "index": 9,
+      "title": "China unveils draft export controls on AI technologies and chips",
+      "summary": "10月17日消息，中国公布AI技术和芯片出口管制草案，扩大限制范围以阻止最先进技术外流，凸显北京加强技术出口管控的决心。",
+      "importance": "高",
+      "reason": "虽然主体是中国政府，但涉及AI芯片出口管制这一重大政策法规，且影响全球AI产业格局，按标准应归为国际动态。",
+      "tags": [
+        "出口管制",
+        "AI芯片",
+        "政策法规",
+        "中国"
+      ],
+      "url": "https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-10-16 12:51:49",
+      "impact_score": 150.0
+    },
+    {
+      "index": 10,
+      "title": "Alexandr Wang, Meta’s AI wunderkind",
+      "summary": "10月17日消息，年仅29岁的Meta超级智能实验室负责人Alexandr Wang被外界视为马克·扎克伯格的潜在接班人，引发业界广泛关注。",
+      "importance": "中",
+      "reason": "涉及Meta AI核心人物与潜在接班人，属于海外公司重大人事与战略动态。",
+      "tags": [
+        "Meta",
+        "Alexandr Wang",
+        "超级智能",
+        "人事"
+      ],
+      "url": "https://www.ft.com/content/7477e462-c899-4841-a5cf-c01706e23982?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-10-16 16:31:25",
+      "impact_score": 142.5
+    },
+    {
+      "index": 11,
+      "title": "Reliance Pushes Back After Musk Questioned Starlink India Delay",
+      "summary": "10月17日消息，印度信实工业反驳其试图阻止马斯克旗下Starlink进入印度的说法，称自身卫星业务仍在等待监管批准，回应马斯克的质疑。",
+      "importance": "中",
+      "reason": "涉及海外公司信实与Starlink在印度的商业竞争，属于国际商业动态。",
+      "tags": [
+        "Starlink",
+        "信实工业",
+        "印度",
+        "卫星互联网"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-10-16/reliance-pushes-back-as-musk-questions-starlink-s-delay-in-india",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-16 04:38:53",
+      "impact_score": 142.5
+    },
+    {
+      "index": 12,
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "summary": "10月17日消息，Replit首席执行官Masad表示已终止与Anthropic的合作，原因包括成本等因素，此前该公司已于8月宣布与OpenAI建立合作伙伴关系。",
+      "importance": "中",
+      "reason": "涉及海外AI公司Replit与Anthropic、OpenAI的合作变动，属于重大商业动态。",
+      "tags": [
+        "Replit",
+        "Anthropic",
+        "OpenAI",
+        "合作"
+      ],
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-10-16 21:22:28",
+      "impact_score": 127.5
+    },
+    {
+      "index": 13,
+      "title": "Citi becomes latest US bank to restrict AI agents from accessing accounts",
+      "summary": "10月17日消息，花旗银行成为最新一家限制AI智能体访问账户的美国银行，因担忧聊天机器人可能将数十亿美元存款转移至收益更高的账户。",
+      "importance": "中",
+      "reason": "涉及美国银行对AI智能体的限制措施，属于海外金融与AI安全动态。",
+      "tags": [
+        "花旗银行",
+        "AI智能体",
+        "账户安全",
+        "金融"
+      ],
+      "url": "https://www.ft.com/content/f49c8e39-f07f-4177-9948-aabe55e5ed91?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-10-16 14:58:54",
+      "impact_score": 127.5
+    },
+    {
+      "index": 14,
+      "title": "The data centre IPO debacle that sparked a market meltdown",
+      "summary": "10月17日消息，澳大利亚Firmus和AirTrunk的数据中心IPO决策加剧了市场对AI借贷狂潮的担忧，引发相关市场动荡。",
+      "importance": "中",
+      "reason": "涉及海外数据中心IPO与AI借贷风险，属于重大商业与市场动态。",
+      "tags": [
+        "数据中心",
+        "IPO",
+        "AI借贷",
+        "市场动荡"
+      ],
+      "url": "https://www.ft.com/content/537c9a68-7b6f-41a7-80ff-acac5c52e80d?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-10-16 04:54:52",
+      "impact_score": 127.5
+    },
+    {
+      "index": 15,
+      "title": "Why law firms should resist the lure of the AI spin-off",
+      "summary": "10月17日消息，分析指出律师事务所应抵制分拆AI业务的诱惑，尽管分拆可筹集资金，但该领域竞争激烈且估值与缺乏盈利能力不符。",
+      "importance": "低",
+      "reason": "涉及海外法律行业AI分拆的商业分析，属于国际商业动态但重要性较低。",
+      "tags": [
+        "律师事务所",
+        "AI分拆",
+        "估值",
+        "商业分析"
+      ],
+      "url": "https://www.ft.com/content/0ce2a031-5c81-4b48-a4b1-d19585fd3a66?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-10-16 04:00:27",
+      "impact_score": 127.5
+    },
+    {
+      "index": 16,
+      "title": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI",
+      "summary": "10月17日消息，英伟达首席执行官黄仁勋呼吁美中就“潜在危险”的AI展开对话，并透露他与中国研究人员保持持续沟通。",
+      "importance": "高",
+      "reason": "英伟达CEO呼吁美中AI对话，涉及全球AI治理与地缘政治，主体为海外公司。",
+      "tags": [
+        "英伟达",
+        "黄仁勋",
+        "美中对话",
+        "AI治理"
+      ],
+      "url": "https://www.cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-10-16 07:28:06",
+      "impact_score": 125.0
+    },
+    {
+      "index": 17,
+      "title": "Evaluating Model Capabilities After Benchmark Saturation",
+      "summary": "10月17日消息，研究人员发布arXiv论文探讨基准饱和后的模型能力评估问题，指出多个模型接近满分时基准失去区分力，影响AI安全与前沿政策制定。",
+      "importance": "中",
+      "reason": "海外学术论文关注AI基准饱和与安全评估，属于重大学术突破。",
+      "tags": [
+        "学术论文",
+        "基准饱和",
+        "AI安全",
+        "模型评估"
+      ],
+      "url": "https://arxiv.org/abs/2610.20667",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-10-17 04:00:00",
+      "impact_score": 120.0
+    },
+    {
+      "index": 18,
+      "title": "MSP: Modality Self-Play for Training Multimodal LLMs Without Paired Cross-Modal Data",
+      "summary": "10月17日消息，研究人员发布arXiv论文提出模态自博弈方法MSP，可在无需配对跨模态数据的情况下训练多模态大语言模型，突破数据瓶颈。",
+      "importance": "中",
+      "reason": "海外学术论文提出多模态LLM训练新方法，属于重大学术突破。",
+      "tags": [
+        "学术论文",
+        "多模态",
+        "LLM",
+        "自博弈"
+      ],
+      "url": "https://arxiv.org/abs/2610.20965",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-10-17 04:00:00",
+      "impact_score": 120.0
+    },
+    {
+      "index": 19,
+      "title": "Tesla unveils long-delayed Roadster developed with SpaceX, fueling merger speculation",
+      "summary": "10月17日消息，特斯拉发布与SpaceX合作开发的延迟已久的Roadster跑车，引发市场对两家公司合并的猜测。",
+      "importance": "中",
+      "reason": "特斯拉重大产品发布并涉及与SpaceX合作，属于海外公司重大商业动态。",
+      "tags": [
+        "特斯拉",
+        "Roadster",
+        "SpaceX",
+        "产品发布"
+      ],
+      "url": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-10-16 15:52:41",
+      "impact_score": 120.0
+    },
+    {
+      "index": 20,
+      "title": "Tesla Unveils its Next Generation Roadster in Acrobatic Demo",
+      "summary": "10月17日消息，特斯拉在周四晚间通过一系列精心设计的演示展示全新一代Roadster跑车，该车型自2017年宣布以来首次以全新版本亮相。",
+      "importance": "中",
+      "reason": "特斯拉重大产品发布，属于海外公司重大商业动态。",
+      "tags": [
+        "特斯拉",
+        "Roadster",
+        "产品发布",
+        "演示"
+      ],
+      "url": "https://www.theinformation.com/briefings/tesla-unveils-next-generation-roadster-acrobatic-demo",
+      "source": "The Information",
+      "original_pub_date": "2026-10-16 02:06:26",
+      "impact_score": 117.0
+    }
+  ],
+  "summary": "今日从126条原始信息中精选出10条国内动态和20条国际动态，其中11条为高重要性。 重点关注：长鑫科技市值两月内跌去1万亿；阿里加码AI硬件品牌，天猫、速卖通联动；国行版苹果AI有望12月上线，百度、阿里参与合作丨雷峰早报；Kling 4.0正式上线：10-bit HDR、30秒原生直出 刷新视频模型新基准；阿里千问上车宝马iX3。",
+  "statistics": {
+    "raw_domestic": 17,
+    "raw_international": 109,
+    "raw_total": 126,
+    "final_domestic": 10,
+    "final_international": 20
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "10月17日消息，长鑫科技市值两月内跌去1万亿，同时阿里加码AI硬件品牌并联动天猫、速卖通，国行版苹果AI有望12月上线且百度、阿里参与合作。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "10月17日消息，可灵AI新一代视频生成模型Kling 4.0正式上线，支持10-bit HDR和30秒原生直出，刷新视频模型新基准。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "10月17日消息，宝马宣布新世代BMW iX3将搭载与阿里巴巴联合开发的座舱AI能力，以阿里千问大模型为AI底座，由斑马负责车端集成。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "10月17日消息，范式智能联合睿思智联推出开源一站式生产级AI部署平台“模域ModelSphere”，正式上线。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "10月17日消息，中控技术正式接入千问办公，将Agent落地营销全链路，并优化采购、供应链等场景工作流，共建流程工业AI Native标杆企业。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "10月17日消息，美国司法部正就针对苹果的反垄断诉讼协商和解方案，应用开发者担忧任何协议对苹果反竞争行为的约束力度不足，多名知情人士透露相关谈判进展。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "10月17日消息，Elorian发布首个AI模型Glimpse，据其评估在科学图表推理和短视频描述任务上超越GPT-6 Astra，在其他视觉推理任务上也具备竞争力。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "10月17日消息，英伟达首席执行官黄仁勋对近期AI股市动荡持乐观态度，表示技术带来的益处将很快超过投资者的担忧，安抚市场情绪。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "10月17日消息，中国公布AI技术和芯片出口管制草案，扩大限制范围以阻止最先进技术外流，凸显北京加强技术出口管控的决心。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "10月17日消息，英伟达首席执行官黄仁勋呼吁美中就“潜在危险”的AI展开对话，并透露他与中国研究人员保持持续沟通。",
+      "importance": "高"
+    }
+  ]
+}
