@@ -1,0 +1,422 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18 12:31:26",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "工信部发布人工智能产业发展指导意见",
+      "summary": "10月18日消息，工业和信息化部发布《关于促进人工智能产业高质量发展的指导意见》，提出到2027年人工智能核心产业规模超过万亿元的目标。",
+      "importance": "高",
+      "reason": "国家级产业政策，明确万亿级发展目标，对AI产业具有重大指导意义。",
+      "tags": [
+        "政策法规",
+        "工信部",
+        "产业规划"
+      ],
+      "url": "https://www.qbitai.com/2026/10/504067.html",
+      "source": "量子位",
+      "original_pub_date": "2026-10-17 12:21:09",
+      "impact_score": 290.0
+    },
+    {
+      "index": 2,
+      "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
+      "summary": "10月18日消息，DeepSeek发布新版本V4.1-Flash-1017模型，并开放自研搜索API，以超高性价比引发行业关注。",
+      "importance": "高",
+      "reason": "国内头部AI公司发布旗舰模型及API，可能重塑市场竞争格局。",
+      "tags": [
+        "产品发布",
+        "大模型",
+        "DeepSeek"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/JjzV775vQhP9EgGN.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-17 04:16:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 3,
+      "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+      "summary": "10月18日消息，清华大学开源智能体操作系统，原生支持MCP协议，任务成本降低83%，并实现AI记忆可查可改。",
+      "importance": "高",
+      "reason": "国内顶尖高校开源重要AI系统，在智能体领域取得显著降本突破。",
+      "tags": [
+        "学术突破",
+        "开源",
+        "智能体"
+      ],
+      "url": "https://www.qbitai.com/2026/10/503935.html",
+      "source": "量子位",
+      "original_pub_date": "2026-10-17 12:10:35",
+      "impact_score": 150.0
+    },
+    {
+      "index": 4,
+      "title": "中国科学院发布大模型评测报告",
+      "summary": "10月18日消息，中国科学院发布国产大模型能力评测报告，对主流大模型在多个维度进行全面评估，为行业发展提供参考。",
+      "importance": "中",
+      "reason": "权威机构发布评测报告，有助于引导国产大模型健康发展。",
+      "tags": [
+        "评测报告",
+        "中科院",
+        "大模型"
+      ],
+      "url": "https://www.leiphone.com/category/chips/DnZbjQYkyrBmdOAJ.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-18 04:47:00",
+      "impact_score": 120.0
+    },
+    {
+      "index": 5,
+      "title": "智谱新模型，懂法方面全球第一了",
+      "summary": "10月18日消息，智谱发布新模型，在法律领域能力达到全球第一，推动AI在法律圈的应用。",
+      "importance": "中",
+      "reason": "国内AI公司在垂直领域取得全球领先成果，展示技术实力。",
+      "tags": [
+        "产品发布",
+        "垂直模型",
+        "智谱"
+      ],
+      "url": "",
+      "source": "工信部",
+      "original_pub_date": "",
+      "impact_score": 105.0
+    },
+    {
+      "index": 6,
+      "title": "2026湾芯展圆满落幕：3天展期，近8万平方米展区迎来超15.67万人次专业观众",
+      "summary": "10月18日消息，2026湾区半导体产业生态博览会在深圳圆满落幕，3天展期吸引超15.67万人次专业观众，1000余家企业参展，超3000件首发新品亮相。",
+      "importance": "低",
+      "reason": "国内半导体产业重要展会，展示产业生态成果，但非直接AI突破。",
+      "tags": [
+        "产业展会",
+        "半导体",
+        "深圳"
+      ],
+      "url": "",
+      "source": "中国科学院",
+      "original_pub_date": "",
+      "impact_score": 105.0
+    },
+    {
+      "index": 7,
+      "title": "12.88万起、华为电驱+L4同源智驾，Ray7能成为埃安年轻化的答卷吗？",
+      "summary": "10月18日消息，埃安轿跑Ray7正式开启预售，预售价12.88万元起，搭载华为电驱和L4同源智驾技术，续航可达702公里。",
+      "importance": "低",
+      "reason": "国内车企发布智能新车，集成华为技术，属于AI在汽车领域的应用动态。",
+      "tags": [
+        "智能汽车",
+        "华为",
+        "埃安"
+      ],
+      "url": "https://www.leiphone.com/category/transportation/F3nQwjeqDO0BtrQ0.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-17 14:42:00",
+      "impact_score": 75.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+      "summary": "10月18日消息，英伟达联合华硕、戴尔、惠普、联想、微软和微星推出搭载RTX Spark的Windows笔记本，配备Blackwell RTX显卡和最高128GB统一内存，起售价2399美元，将强大本地AI能力带入轻薄高端PC。",
+      "importance": "高",
+      "reason": "英伟达重大产品发布，Blackwell架构RTX显卡进入消费级笔记本，推动本地AI普及，属于重大产品发布。",
+      "tags": [
+        "英伟达",
+        "Blackwell",
+        "AI PC"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-10-17/zelenskyy-says-starlink-restrictions-on-ukraine-look-deliberate",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-17 12:47:37",
+      "impact_score": 165.0
+    },
+    {
+      "index": 2,
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "summary": "10月18日消息，Replit首席执行官马萨德澄清，OpenAI将取代Anthropic成为其默认模型提供商，但Claude仍可供平台客户使用，反映AI编程平台模型供应商格局生变。",
+      "importance": "高",
+      "reason": "海外AI公司Replit重大商业合作调整，默认模型从Anthropic切换为OpenAI，属于重大商业动态。",
+      "tags": [
+        "Replit",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-10-17/ai-selloff-tests-investor-confidence-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-17 13:05:53",
+      "impact_score": 142.5
+    },
+    {
+      "index": 3,
+      "title": "OpenAI Arrest Raises AI Espionage Concerns",
+      "summary": "10月18日消息，OpenAI一名工程师因涉嫌在高管会议室安装隐蔽录音设备被捕，此案凸显外界对保护敏感AI技术的担忧日益加剧，引发AI商业间谍风险关注。",
+      "importance": "高",
+      "reason": "OpenAI发生重大安全事件，涉及AI技术间谍活动，属于安全与伦理类重大新闻。",
+      "tags": [
+        "OpenAI",
+        "安全事件",
+        "商业间谍"
+      ],
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+      "source": "NVIDIA AI",
+      "original_pub_date": "2026-10-17 21:00:13",
+      "impact_score": 132.0
+    },
+    {
+      "index": 4,
+      "title": "Anthropic turns to lawyers to help AI agents strike deals",
+      "summary": "10月18日消息，Anthropic寻求律师协助其AI代理进行交易谈判，科技公司正被迫面对机器代人类行事时的谈判规则问题，探索AI代理商业应用的法律边界。",
+      "importance": "中",
+      "reason": "Anthropic在AI代理商业应用上的重要探索，涉及法律与伦理规则，属于重大商业动态与安全伦理交叉。",
+      "tags": [
+        "Anthropic",
+        "AI代理",
+        "法律"
+      ],
+      "url": "https://www.ft.com/content/236f73b9-cd71-4ef4-a5dc-303a9d7be673?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-10-18 04:00:18",
+      "impact_score": 97.5
+    },
+    {
+      "index": 5,
+      "title": "SoftBank in talks to buy US security group Allied Universal",
+      "summary": "10月18日消息，软银集团正洽谈收购美国安保公司Allied Universal，孙正义寻求加快在机器人和AI领域的投资步伐，此举为软银在AI相关产业的大额并购布局。",
+      "importance": "中",
+      "reason": "软银重大并购谈判，涉及大额交易和AI机器人投资，属于重大商业动态。",
+      "tags": [
+        "软银",
+        "并购",
+        "AI投资"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-10-18/ai-trade-reversal-pierces-asia-s-star-picks-and-shovels-stocks",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-18 00:00:00",
+      "impact_score": 90.0
+    },
+    {
+      "index": 6,
+      "title": "Anthropic offers Blackstone double-digit yield in latest chip financing",
+      "summary": "10月18日消息，Anthropic在最新芯片融资中向黑石集团提供两位数收益率，高借贷成本使其实现投资级评级的目标复杂化，反映AI实验室融资成本压力。",
+      "importance": "中",
+      "reason": "Anthropic重大融资动态，涉及高收益债券和芯片融资，属于重大商业动态。",
+      "tags": [
+        "Anthropic",
+        "融资",
+        "芯片"
+      ],
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-10-17 18:48:08",
+      "impact_score": 86.5
+    },
+    {
+      "index": 7,
+      "title": "BoE’s Bailey tells G30 they ‘have got to address’ AI agent concerns",
+      "summary": "10月18日消息，英国央行行长贝利在三十人集团会议上警告，AI代理的快速发展已成为金融稳定的重大问题，必须加以应对，凸显监管机构对AI金融风险的警惕。",
+      "importance": "中",
+      "reason": "英国央行行长就AI代理金融稳定风险发表重要政策警告，属于重大政策与监管动态。",
+      "tags": [
+        "英国央行",
+        "AI代理",
+        "金融稳定"
+      ],
+      "url": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-10-18 12:00:01",
+      "impact_score": 75.0
+    },
+    {
+      "index": 8,
+      "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
+      "summary": "10月18日消息，苹果、亚马逊、Meta等公司推出的常听型AI可穿戴设备在隐私规则上打擦边球，引发对隐蔽录音的担忧，可能使用户面临法律风险。",
+      "importance": "中",
+      "reason": "海外科技巨头AI可穿戴设备引发重大隐私与伦理争议，属于安全与伦理类新闻。",
+      "tags": [
+        "AI可穿戴",
+        "隐私",
+        "伦理"
+      ],
+      "url": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-10-17 05:00:01",
+      "impact_score": 70.0
+    },
+    {
+      "index": 9,
+      "title": "America’s $10tn AI infrastructure boom is starting to fray",
+      "summary": "10月18日消息，美国规模达10万亿美元的AI基础设施投资热潮开始出现裂痕，对技术未来的巨额押注正遭遇现实世界无情经济规律的考验，引发市场担忧。",
+      "importance": "中",
+      "reason": "美国AI基础设施投资重大趋势变化，涉及万亿美元级市场风险，属于重大商业动态。",
+      "tags": [
+        "AI基础设施",
+        "投资",
+        "美国"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-10-18/openai-arrest-raises-ai-espionage-concerns-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-18 12:27:37",
+      "impact_score": 45.0
+    },
+    {
+      "index": 10,
+      "title": "Europe’s industrial giants take diverging paths as they ride AI boom",
+      "summary": "10月18日消息，欧洲工业巨头在AI热潮中走上不同道路，施耐德电气和西门子进一步深入软件领域，而竞争对手ABB则押注物理设备，反映欧洲产业AI转型分化。",
+      "importance": "中",
+      "reason": "欧洲工业巨头AI战略分化，涉及施耐德、西门子、ABB等海外公司重大商业布局。",
+      "tags": [
+        "欧洲",
+        "工业AI",
+        "施耐德"
+      ],
+      "url": "https://www.ft.com/content/7c2e889e-2eb5-4c62-821b-1a7f88c13d05?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-10-18 11:00:09",
+      "impact_score": 45.0
+    },
+    {
+      "index": 11,
+      "title": "Global economy set for AI-driven surge, FT survey suggests",
+      "summary": "10月18日消息，英国金融时报对94位经济学家的调查显示，全球经济将迎来AI驱动的增长浪潮，其益处将远超美国和中国，波及更广泛地区。",
+      "importance": "中",
+      "reason": "全球经济学家调查显示AI驱动经济增长，属于重要宏观经济与AI趋势动态。",
+      "tags": [
+        "全球经济",
+        "AI增长",
+        "调查"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-10-18/short-of-time-and-influence-macron-fights-to-remain-relevant",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-18 10:30:00",
+      "impact_score": 45.0
+    },
+    {
+      "index": 12,
+      "title": "AI Trade Reversal Pierces Asia’s Star Picks-and-Shovels Stocks",
+      "summary": "10月18日消息，美国科技股抛售加深，暴露亚洲AI交易新脆弱性：融资成本上升可能扼杀维持繁荣所需支出，威胁整个供应链盈利，冲击亚洲股市涨势。",
+      "importance": "中",
+      "reason": "美国科技股抛售波及亚洲AI供应链，涉及重大市场动态和商业影响。",
+      "tags": [
+        "AI交易",
+        "亚洲股市",
+        "供应链"
+      ],
+      "url": "https://www.ft.com/content/2dfdd513-26a6-4a10-9cae-5242eb4ee3ed?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-10-18 10:00:09",
+      "impact_score": 45.0
+    },
+    {
+      "index": 13,
+      "title": "AI Selloff Tests Investor Confidence",
+      "summary": "10月18日消息，Ritholtz财富管理董事长兼首席投资官巴里·里索尔茨表示，AI仍是变革性技术，但投资者面临艰难任务，需判断哪些公司最终成为赢家或输家。",
+      "importance": "中",
+      "reason": "美国投资界对AI抛售和投资信心的重大评论，属于重要市场动态。",
+      "tags": [
+        "AI抛售",
+        "投资者信心",
+        "美国"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-10-18/woodside-pauses-pre-commissioning-at-scarborough-due-to-protest",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-18 04:00:46",
+      "impact_score": 45.0
+    },
+    {
+      "index": 14,
+      "title": "Websites are closing their doors to AI agents",
+      "summary": "10月18日消息，随着OpenAI、Meta、谷歌等公司推出可代用户浏览互联网的AI代理，越来越多网站开始对AI代理关闭大门，引发互联网生态与AI抓取的新矛盾。",
+      "importance": "中",
+      "reason": "海外AI代理与网站生态冲突，涉及OpenAI、Meta、谷歌等海外公司，属于重要行业动态。",
+      "tags": [
+        "AI代理",
+        "网站",
+        "互联网生态"
+      ],
+      "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-10-18 04:00:18",
+      "impact_score": 45.0
+    },
+    {
+      "index": 15,
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "summary": "10月18日消息，Meta更新服务条款，删除可能允许其抓取新闻网站内容用于AI训练的相关表述，此前引发争议，Meta发言人坚称抓取方式未变。",
+      "importance": "低",
+      "reason": "Meta因AI训练数据抓取条款引发争议后修改，属于海外公司AI数据伦理动态。",
+      "tags": [
+        "Meta",
+        "数据抓取",
+        "AI训练"
+      ],
+      "url": "https://www.ft.com/content/5d45d66f-fd31-4263-b52f-54d9d88baa63?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-10-18 04:00:09",
+      "impact_score": 45.0
+    }
+  ],
+  "summary": "今日从40条原始信息中精选出7条国内动态和15条国际动态，其中6条为高重要性。 重点关注：工信部发布人工智能产业发展指导意见；突发！DeepSeek新模型发布，超级性价比斩杀一切；清华开源！智能体操作系统任务成本降83%，AI记忆可查可改。",
+  "statistics": {
+    "raw_domestic": 8,
+    "raw_international": 32,
+    "raw_total": 40,
+    "final_domestic": 7,
+    "final_international": 15
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "10月18日消息，工业和信息化部发布《关于促进人工智能产业高质量发展的指导意见》，提出到2027年人工智能核心产业规模超过万亿元的目标。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "10月18日消息，DeepSeek发布新版本V4.1-Flash-1017模型，并开放自研搜索API，以超高性价比引发行业关注。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "10月18日消息，清华大学开源智能体操作系统，原生支持MCP协议，任务成本降低83%，并实现AI记忆可查可改。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "10月18日消息，中国科学院发布国产大模型能力评测报告，对主流大模型在多个维度进行全面评估，为行业发展提供参考。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "10月18日消息，智谱发布新模型，在法律领域能力达到全球第一，推动AI在法律圈的应用。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "10月18日消息，英伟达联合华硕、戴尔、惠普、联想、微软和微星推出搭载RTX Spark的Windows笔记本，配备Blackwell RTX显卡和最高128GB统一内存，起售价2399美元，将强大本地AI能力带入轻薄高端PC。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "10月18日消息，Replit首席执行官马萨德澄清，OpenAI将取代Anthropic成为其默认模型提供商，但Claude仍可供平台客户使用，反映AI编程平台模型供应商格局生变。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "10月18日消息，OpenAI一名工程师因涉嫌在高管会议室安装隐蔽录音设备被捕，此案凸显外界对保护敏感AI技术的担忧日益加剧，引发AI商业间谍风险关注。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "10月18日消息，Anthropic寻求律师协助其AI代理进行交易谈判，科技公司正被迫面对机器代人类行事时的谈判规则问题，探索AI代理商业应用的法律边界。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "10月18日消息，软银集团正洽谈收购美国安保公司Allied Universal，孙正义寻求加快在机器人和AI领域的投资步伐，此举为软银在AI相关产业的大额并购布局。",
+      "importance": "中"
+    }
+  ]
+}
