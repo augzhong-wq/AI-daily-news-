@@ -1,0 +1,580 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21 13:36:16",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "大肥鱼遇劲敌：MiniMax M3.1 Flash 拿下 Agent 任务第一，我们实测了",
+      "summary": "10月21日消息，中国AI公司MiniMax正式发布M3.1 Flash模型，在Agent任务评测中拿下第一，并认领匿名模型Space Bunny，以低价策略加入国产Flash价格战。",
+      "importance": "高",
+      "reason": "中国公司重大产品发布，旗舰AI模型亮相并取得SOTA性能，属于重大产品发布和学术突破。",
+      "tags": [
+        "国内动态",
+        "产品发布",
+        "AI模型",
+        "MiniMax"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/wiMNbdfLr54ciVBE.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-21 06:14:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 2,
+      "title": "当Agent“有工号”：从一人一工具到一人一团队，组织如何做好AI时代的分工与协作？",
+      "summary": "10月21日消息，上海市人工智能行业协会与中国电子技术标准化研究院等单位在张江科学之门模力社区上线智能体身份码节点管理平台，30家单位参与节点发放，推动智能体数字身份管理。",
+      "importance": "高",
+      "reason": "中国研究机构和行业协会推动AI智能体身份管理平台上线，属于重大政策与法规及行业标准动态。",
+      "tags": [
+        "国内动态",
+        "政策法规",
+        "智能体",
+        "行业标准"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/mWw7HXg39Lb4DSa1.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-21 09:32:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 3,
+      "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+      "summary": "10月21日消息，中国AI公司生数科技世界模型团队开启Motubrain 2.0训练全流程公开直播，计划持续半个月，向公众展示具身模型训练过程及研究进展。",
+      "importance": "高",
+      "reason": "中国公司重大产品发布和学术突破，公开Physical AI训练全流程，具有行业影响力。",
+      "tags": [
+        "国内动态",
+        "产品发布",
+        "Physical AI",
+        "生数科技"
+      ],
+      "url": "https://www.leiphone.com/category/yanxishe/IMOE7FfuhC0qGxZk.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-21 04:09:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 4,
+      "title": "首Token延迟降低32.4%！是石科技集群调度大招，国产推理再提效",
+      "summary": "10月21日消息，中国公司是石科技发布TokenFleet调度框架，实现首Token延迟降低32.4%，提升国产推理效率。",
+      "importance": "高",
+      "reason": "中国公司重大产品发布，国产推理效率提升，属于重大产品发布。",
+      "tags": [
+        "国内动态",
+        "产品发布",
+        "推理优化",
+        "是石科技"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/O80fSJbgn1ciXTl3.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-21 10:20:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 5,
+      "title": "亚太唯一！阿里云连续4年获评 Gartner 容器管理领导者象限",
+      "summary": "10月21日消息，阿里云连续4年入选Gartner容器管理魔力象限领导者象限，是亚太地区唯一获此殊荣的科技公司，彰显AI时代技术领先优势。",
+      "importance": "高",
+      "reason": "中国公司重大商业动态，阿里云获国际权威认可，属于重大商业动态。",
+      "tags": [
+        "国内动态",
+        "商业动态",
+        "阿里云",
+        "Gartner"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/kgEaqVuNRRnvxpfp.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-21 10:00:00",
+      "impact_score": 135.0
+    },
+    {
+      "index": 6,
+      "title": "IDC最新报告：阿里云占中国汽车公共云市场份额超45%",
+      "summary": "10月21日消息，IDC报告显示阿里云以45.1%份额位居中国汽车公共云市场第一，收入同比增长111%，连续11期排名第一。",
+      "importance": "高",
+      "reason": "中国公司重大商业动态，阿里云市场份额领先，属于重大商业动态。",
+      "tags": [
+        "国内动态",
+        "商业动态",
+        "阿里云",
+        "市场份额"
+      ],
+      "url": "https://www.qbitai.com/2026/10/504421.html",
+      "source": "量子位",
+      "original_pub_date": "2026-10-20 08:01:25",
+      "impact_score": 135.0
+    },
+    {
+      "index": 7,
+      "title": "从安防到工业，海康威视底气从何而来",
+      "summary": "10月21日消息，海康威视在2026中国国际工业博览会上展示一百多款场景数字化产品，包括半导体封装检测设备和高温计等，展现AI在工业领域的深度应用。",
+      "importance": "中",
+      "reason": "中国公司重大产品展示，海康威视拓展工业AI应用，属于重大产品发布。",
+      "tags": [
+        "国内动态",
+        "产品发布",
+        "工业AI",
+        "海康威视"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/Y7039p8HsmmeQClm.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-20 10:39:00",
+      "impact_score": 125.0
+    },
+    {
+      "index": 8,
+      "title": "奥斯卡大师加持，「电影精神」怎么造就AI剧场？",
+      "summary": "10月21日消息，爱奇艺与奥斯卡摄影师鲍德熹合作推出“鲍德熹·爱奇艺AI剧场”，探索AI在影视创作中的应用，并举办创作营授课。",
+      "importance": "中",
+      "reason": "中国公司重大商业动态，爱奇艺与大师合作推动AI剧场，属于重大商业动态。",
+      "tags": [
+        "国内动态",
+        "商业动态",
+        "AI剧场",
+        "爱奇艺"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/me3CuOBHyOqL14Pd.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-21 06:29:00",
+      "impact_score": 120.0
+    },
+    {
+      "index": 9,
+      "title": "比亚迪成为2026年APEC会议官方合作伙伴",
+      "summary": "10月21日消息，比亚迪集团正式成为2026年亚太经合组织第三十三次领导人非正式会议官方合作伙伴。",
+      "importance": "中",
+      "reason": "中国公司重大商业动态，比亚迪成为APEC官方合作伙伴，属于重大商业动态。",
+      "tags": [
+        "国内动态",
+        "商业动态",
+        "比亚迪",
+        "APEC"
+      ],
+      "url": "https://www.leiphone.com/category/5G/4rvebFOnbOPic02a.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-21 02:57:00",
+      "impact_score": 120.0
+    },
+    {
+      "index": 10,
+      "title": "王友清教授团队论文被ACM MM 2026录用｜ACM MM 2026",
+      "summary": "10月21日消息，王友清教授团队论文被多媒体领域CCF-A类会议ACM MM 2026录用，研究涉及深度多模态学习。",
+      "importance": "中",
+      "reason": "中国研究机构重大学术突破，论文被顶级会议录用，属于重大学术突破。",
+      "tags": [
+        "国内动态",
+        "学术突破",
+        "ACM MM",
+        "论文"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/1kN394wi9h0iFG43.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-20 10:04:00",
+      "impact_score": 120.0
+    },
+    {
+      "index": 11,
+      "title": "580天暗战，爱奇艺的AI闯关路",
+      "summary": "10月21日消息，爱奇艺基础架构与智能分发事业群总裁刘文峰演示AI功能“跳看”，利用生成式AI实现长剧短看，提升用户体验。",
+      "importance": "中",
+      "reason": "中国公司重大产品发布，爱奇艺推出AI创新功能，属于重大产品发布。",
+      "tags": [
+        "国内动态",
+        "产品发布",
+        "生成式AI",
+        "爱奇艺"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/z75kiSSlXYqfCza6.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-20 09:54:00",
+      "impact_score": 120.0
+    },
+    {
+      "index": 12,
+      "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
+      "summary": "10月21日消息，飞书与豆包联合举办工作AI先锋未来人才大赛，聚焦企业真实问题解决力，争抢会用AI的人才。",
+      "importance": "中",
+      "reason": "中国公司重大商业动态，飞书和豆包举办AI人才大赛，属于重大商业动态。",
+      "tags": [
+        "国内动态",
+        "商业动态",
+        "AI人才",
+        "飞书"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/6Vycsmo3EhndKZSe.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-20 06:08:00",
+      "impact_score": 120.0
+    },
+    {
+      "index": 13,
+      "title": "赛豆首款AI汽车公告图公示，价格被按零件猜到了20万以上",
+      "summary": "10月21日消息，赛豆首款AI汽车公告图公示，搭载宁德时代电池，价格被猜测在20万元以上。",
+      "importance": "中",
+      "reason": "中国公司重大产品发布，赛豆AI汽车公示，属于重大产品发布。",
+      "tags": [
+        "国内动态",
+        "产品发布",
+        "AI汽车",
+        "赛豆"
+      ],
+      "url": "https://www.qbitai.com/2026/10/504452.html",
+      "source": "量子位",
+      "original_pub_date": "2026-10-20 09:57:35",
+      "impact_score": 112.5
+    },
+    {
+      "index": 14,
+      "title": "真机实干，产训一体：具身智能的下一座基础设施，为什么是“实景实训平台”？",
+      "summary": "10月21日消息，中国信息通信研究院报告指出具身智能训练需千万小时级真实交互数据，张江觅蜂科技实训实验室通过实景实训平台采集数据，推动具身智能发展。",
+      "importance": "低",
+      "reason": "中国研究机构和公司推动具身智能基础设施，属于行业动态。",
+      "tags": [
+        "国内动态",
+        "行业动态",
+        "具身智能",
+        "实训平台"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/L23qmcHSvNTiUNii.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-21 09:28:00",
+      "impact_score": 105.0
+    },
+    {
+      "index": 15,
+      "title": "不做提分工具，CapaLeap在AI教育焦虑中找「15度夹角」",
+      "summary": "10月21日消息，中国AI教育公司CapaLeap针对AI教育焦虑，探索不主打提分工具的产品方向，关注儿童独立思考能力培养。",
+      "importance": "低",
+      "reason": "中国公司产品动态，CapaLeap探索AI教育新方向，属于商业动态。",
+      "tags": [
+        "国内动态",
+        "商业动态",
+        "AI教育",
+        "CapaLeap"
+      ],
+      "url": "https://www.leiphone.com/category/chips/STx9ZzfDNh5W80Bm.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-20 10:27:00",
+      "impact_score": 105.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "summary": "10月21日消息，美国政府以国家安全为由下令联邦文职机构移除DeepSeek产品及基于其技术构建的第三方服务，进一步收紧对中国AI技术的使用限制。",
+      "importance": "高",
+      "reason": "美国政府针对中国AI企业的行政禁令，属于重大政策与法规，直接影响中美AI产业格局。",
+      "tags": [
+        "出口管制",
+        "国家安全",
+        "DeepSeek",
+        "美国政府"
+      ],
+      "url": "https://arxiv.org/abs/2610.26943",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-10-21 04:00:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 2,
+      "title": "U.S. Sanctions Five Chinese Entities Linked to Google AI Trade Secret Theft",
+      "summary": "10月21日消息，美国对与谷歌AI商业秘密窃取案相关的五家中国实体实施制裁，包括上海智算科技等初创企业和风投机构，涉案前谷歌工程师已被判刑。",
+      "importance": "高",
+      "reason": "美国制裁中国实体，涉及AI商业秘密与国家安全，属于重大政策与法规动态。",
+      "tags": [
+        "制裁",
+        "商业秘密",
+        "谷歌",
+        "中美关系"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-10-21/nvidia-ceo-huang-pitches-europe-on-all-industries-adopting-ai",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-21 10:54:07",
+      "impact_score": 262.5
+    },
+    {
+      "index": 3,
+      "title": "Nvidia CEO Huang Pushes Europe on All Industries Adopting AI",
+      "summary": "10月21日消息，英伟达CEO黄仁勋在柏林GTC大会上敦促欧洲各行业加速采用人工智能，警告若终端市场不积极拥抱AI，欧洲将难以建立真正的AI生态系统和经济。",
+      "importance": "高",
+      "reason": "英伟达CEO对欧洲AI政策的公开呼吁，涉及全球AI产业布局，属于重大商业与政策动态。",
+      "tags": [
+        "英伟达",
+        "黄仁勋",
+        "欧洲",
+        "AI采用"
+      ],
+      "url": "https://www.theinformation.com/articles/spacexs-musk-lauds-soaring-cloud-business-possible-tesla-merger",
+      "source": "The Information",
+      "original_pub_date": "2026-10-21 00:01:02",
+      "impact_score": 225.0
+    },
+    {
+      "index": 4,
+      "title": "Nvidia Moves to Back GPU Cloud Provider Firmus After Investors Balk at Its IPO",
+      "summary": "10月21日消息，英伟达正洽谈向澳大利亚AI云服务商Firmus投资数亿美元，后者本月早些时候因投资者冷遇而突然撤回IPO，此举显示英伟达持续支持未经验证的GPU云厂商。",
+      "importance": "高",
+      "reason": "英伟达数亿美元级投资，属于重大商业动态，且涉及GPU云生态布局。",
+      "tags": [
+        "英伟达",
+        "Firmus",
+        "投资",
+        "GPU云"
+      ],
+      "url": "https://www.theinformation.com/articles/nvidia-moves-back-gpu-cloud-provider-firmus-investors-balk-ipo",
+      "source": "The Information",
+      "original_pub_date": "2026-10-20 23:40:17",
+      "impact_score": 210.0
+    },
+    {
+      "index": 5,
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "summary": "10月21日消息，Anthropic在计划11月IPO前夕面临云合作伙伴关系紧张，云厂商日益将其视为竞争对手，导致其难以获得足够算力，基础设施支出却不断膨胀。",
+      "importance": "高",
+      "reason": "Anthropic作为头部AI公司，其IPO前夕的算力与合作伙伴危机属于重大商业动态。",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "云合作",
+        "算力"
+      ],
+      "url": "https://arxiv.org/abs/2610.27290",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-10-21 04:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 6,
+      "title": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 51%",
+      "summary": "10月21日消息，Salesforce宣布以56.6亿美元收购客户互动平台Braze，Braze股东每股将获47.50美元现金，交易预计于2028财年完成，消息推动BRZE股价暴涨51%。",
+      "importance": "高",
+      "reason": "56.6亿美元大额并购，属于重大商业动态，对AI营销与客户互动赛道影响显著。",
+      "tags": [
+        "Salesforce",
+        "Braze",
+        "并购",
+        "大额交易"
+      ],
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-10-20 21:25:22",
+      "impact_score": 195.0
+    },
+    {
+      "index": 7,
+      "title": "Hackers Used Claude and Grok to Fully Automate Attacks on Banks",
+      "summary": "10月21日消息，安全公司Straiker调查发现，黑客组织CyberCartel利用Anthropic、SpaceX及中国月之暗面等公司的AI模型驱动智能体，全自动攻击了400多个拉美金融目标。",
+      "importance": "高",
+      "reason": "AI模型被用于全自动网络攻击，涉及重大AI安全事件与伦理争议。",
+      "tags": [
+        "AI安全",
+        "网络攻击",
+        "Claude",
+        "Grok"
+      ],
+      "url": "https://aws.amazon.com/blogs/machine-learning/access-openai-gpt-models-on-amazon-bedrock-from-canada-with-cross-region-inference/",
+      "source": "Amazon AWS AI",
+      "original_pub_date": "2026-10-20 16:42:53",
+      "impact_score": 195.0
+    },
+    {
+      "index": 8,
+      "title": "Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act",
+      "summary": "10月21日消息，欧盟委员会依据《数字服务法》对Booking.com展开正式调查，评估其是否因未能有效打击诈骗和欺诈而违反DSA义务，这是欧盟对在线平台监管的又一行动。",
+      "importance": "中",
+      "reason": "欧盟依据DSA对大型平台展开正式调查，属于重大政策与法规动态。",
+      "tags": [
+        "欧盟",
+        "数字服务法",
+        "Booking.com",
+        "调查"
+      ],
+      "url": "https://arxiv.org/abs/2610.27120",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-10-21 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 9,
+      "title": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
+      "summary": "10月21日消息，谷歌云与英伟达宣布NVIDIA Vera Rubin基础设施正式可用，A5X实例集成Vera Rubin NVL72与ConnectX-9，下月上线并计划扩展至欧洲，提供训练、推理与大规模强化学习平台。",
+      "importance": "中",
+      "reason": "英伟达新一代旗舰AI基础设施正式商用，属于重大产品发布。",
+      "tags": [
+        "英伟达",
+        "谷歌云",
+        "Vera Rubin",
+        "AI基础设施"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-10-21/huang-says-all-industries-across-europe-need-to-adopt-ai-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-21 12:03:07",
+      "impact_score": 180.0
+    },
+    {
+      "index": 10,
+      "title": "Access OpenAI GPT models on Amazon Bedrock from Canada with cross-Region inference",
+      "summary": "10月21日消息，加拿大组织现可通过跨区域推理在亚马逊Bedrock上访问OpenAI的GPT-5.6、GPT-6和GPT-6.1模型，覆盖加拿大中部和卡尔加里区域，进一步扩展OpenAI模型的企业级可用性。",
+      "importance": "中",
+      "reason": "OpenAI旗舰模型通过亚马逊Bedrock在加拿大区域上线，属于重大产品发布与商业动态。",
+      "tags": [
+        "OpenAI",
+        "亚马逊Bedrock",
+        "GPT-6",
+        "加拿大"
+      ],
+      "url": "https://www.ft.com/content/850f15c9-5833-4acb-a65c-c17ca88a5fde?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-10-20 21:30:17",
+      "impact_score": 180.0
+    },
+    {
+      "index": 11,
+      "title": "OpenAI’s ‘Pacing 2.0’ Problem: How Smart Is Too Smart?",
+      "summary": "10月21日消息，OpenAI CEO Sam Altman上周向员工介绍行业讨论的三项AI发展节奏提案，公司正面临如何“配速”前沿AI技术的现实考验，以及推动所有前沿开发者达成共识的难度。",
+      "importance": "中",
+      "reason": "OpenAI在AI安全与发展节奏上的内部政策讨论，涉及重大AI治理议题。",
+      "tags": [
+        "OpenAI",
+        "Sam Altman",
+        "AI安全",
+        "发展节奏"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-10-20 23:04:19",
+      "impact_score": 173.0
+    },
+    {
+      "index": 12,
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "summary": "10月21日消息，Hugging Face联合创始人兼CEO Clem Delangue警告称，Netflix纪录片《AI Gone Rogue》充斥“末日论”色彩且内容不准确，他作为片中受访者公开质疑该片对AI安全事件的呈现。",
+      "importance": "中",
+      "reason": "头部AI公司CEO公开质疑主流媒体AI纪录片，涉及AI伦理与公众认知争议。",
+      "tags": [
+        "Hugging Face",
+        "Netflix",
+        "AI安全",
+        "纪录片"
+      ],
+      "url": "https://www.theinformation.com/articles/palo-alto-networks-ceo-advises-daughter-new-ai-focused-venture-capital-fund",
+      "source": "The Information",
+      "original_pub_date": "2026-10-20 00:16:27",
+      "impact_score": 173.0
+    },
+    {
+      "index": 13,
+      "title": "Joel Kaplan to step down as Meta global affairs chief",
+      "summary": "10月21日消息，Meta全球事务负责人Joel Kaplan将卸任，这位共和党政治操盘手是CEO马克·扎克伯格的关键顾问，其离职正值Meta面临AI监管与全球政策挑战之际。",
+      "importance": "中",
+      "reason": "Meta全球事务负责人变动，涉及AI政策与政府关系，属于重要人事与商业动态。",
+      "tags": [
+        "Meta",
+        "人事变动",
+        "全球事务",
+        "扎克伯格"
+      ],
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-investigate-how-bookingcom-combats-scams-and-fraud-under-digital-services-act",
+      "source": "EU AI Policy",
+      "original_pub_date": "2026-10-21 10:06:59",
+      "impact_score": 165.0
+    },
+    {
+      "index": 14,
+      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+      "summary": "10月21日消息，据报道前谷歌CEO埃里克·施密特持有的Anthropic股份约为CEO达里奥·阿莫代伊的一半，随着Anthropic估值攀升，施密特的财富将进一步增长。",
+      "importance": "低",
+      "reason": "涉及Anthropic股权结构与知名投资人持仓，属于值得关注的商业动态。",
+      "tags": [
+        "Anthropic",
+        "埃里克·施密特",
+        "股权",
+        "Dario Amodei"
+      ],
+      "url": "https://www.bloomberg.com/news/live-blog/2026-10-21/nvda-nvidia-ceo-jensen-huang-at-gtc-berlin",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-21 08:50:17",
+      "impact_score": 165.0
+    },
+    {
+      "index": 15,
+      "title": "SpaceX and Tesla boards explore potential merger",
+      "summary": "10月21日消息，SpaceX与特斯拉董事会正探讨潜在合并事宜，马斯克称在AI奇点临近之际将两家上市公司合并是个“好主意”，两家公司已成立独立董事特别委员会审议该提案。",
+      "importance": "低",
+      "reason": "马斯克旗下两大公司探讨合并，涉及AI与自动驾驶产业格局，属于重大商业动态。",
+      "tags": [
+        "SpaceX",
+        "特斯拉",
+        "合并",
+        "马斯克"
+      ],
+      "url": "https://www.cnbc.com/2026/10/20/salesforce-braze-acquisition-deal.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-10-20 20:10:30",
+      "impact_score": 165.0
+    }
+  ],
+  "summary": "今日从184条原始信息中精选出15条国内动态和15条国际动态，其中13条为高重要性。 重点关注：大肥鱼遇劲敌：MiniMax M3.1 Flash 拿下 Agent 任务第一，我们实测了；当Agent“有工号”：从一人一工具到一人一团队，组织如何做好AI时代的分工与协作？；生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月。",
+  "statistics": {
+    "raw_domestic": 25,
+    "raw_international": 159,
+    "raw_total": 184,
+    "final_domestic": 15,
+    "final_international": 15
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "10月21日消息，中国AI公司MiniMax正式发布M3.1 Flash模型，在Agent任务评测中拿下第一，并认领匿名模型Space Bunny，以低价策略加入国产Flash价格战。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "10月21日消息，上海市人工智能行业协会与中国电子技术标准化研究院等单位在张江科学之门模力社区上线智能体身份码节点管理平台，30家单位参与节点发放，推动智能体数字身份管理。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "10月21日消息，中国AI公司生数科技世界模型团队开启Motubrain 2.0训练全流程公开直播，计划持续半个月，向公众展示具身模型训练过程及研究进展。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "10月21日消息，中国公司是石科技发布TokenFleet调度框架，实现首Token延迟降低32.4%，提升国产推理效率。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "10月21日消息，阿里云连续4年入选Gartner容器管理魔力象限领导者象限，是亚太地区唯一获此殊荣的科技公司，彰显AI时代技术领先优势。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "10月21日消息，美国政府以国家安全为由下令联邦文职机构移除DeepSeek产品及基于其技术构建的第三方服务，进一步收紧对中国AI技术的使用限制。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "10月21日消息，美国对与谷歌AI商业秘密窃取案相关的五家中国实体实施制裁，包括上海智算科技等初创企业和风投机构，涉案前谷歌工程师已被判刑。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "10月21日消息，英伟达CEO黄仁勋在柏林GTC大会上敦促欧洲各行业加速采用人工智能，警告若终端市场不积极拥抱AI，欧洲将难以建立真正的AI生态系统和经济。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "10月21日消息，英伟达正洽谈向澳大利亚AI云服务商Firmus投资数亿美元，后者本月早些时候因投资者冷遇而突然撤回IPO，此举显示英伟达持续支持未经验证的GPU云厂商。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "10月21日消息，Anthropic在计划11月IPO前夕面临云合作伙伴关系紧张，云厂商日益将其视为竞争对手，导致其难以获得足够算力，基础设施支出却不断膨胀。",
+      "importance": "高"
+    }
+  ]
+}
