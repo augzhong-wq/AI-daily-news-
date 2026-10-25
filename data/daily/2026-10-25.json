@@ -1,0 +1,410 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25 13:04:44",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "工信部发布人工智能产业发展指导意见",
+      "summary": "10月25日消息，工业和信息化部发布《关于促进人工智能产业高质量发展的指导意见》，提出到2027年人工智能核心产业规模超过万亿元的目标。",
+      "importance": "高",
+      "reason": "重大政策法规，工信部发布国家级AI产业指导意见，设定万亿产业规模目标，对行业发展具有纲领性影响。",
+      "tags": [
+        "政策法规",
+        "工信部",
+        "产业规划"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/WOl6u17gkYoV3PVr.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-24 08:43:00",
+      "impact_score": 120.0
+    },
+    {
+      "index": 2,
+      "title": "中国科学院发布大模型评测报告",
+      "summary": "10月25日消息，中国科学院发布国产大模型能力评测报告，对主流大模型在多个维度进行了全面评估，为行业发展提供参考。",
+      "importance": "高",
+      "reason": "权威学术机构发布大模型评测报告，对国产大模型进行系统评估，具有行业基准和指导意义。",
+      "tags": [
+        "学术研究",
+        "大模型",
+        "评测报告"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/nwy00TZXQdwJcSka.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-24 02:44:00",
+      "impact_score": 115.0
+    },
+    {
+      "index": 3,
+      "title": "行业第一！百度健康AI服务MAU超5000万，发布好医矩阵和健康相机",
+      "summary": "10月25日消息，百度健康宣布升级文心健康管家，发布好医矩阵和健康相机，AI服务月活超5000万居行业第一，实现AI加真人全流程医疗服务闭环。",
+      "importance": "高",
+      "reason": "百度作为中国AI巨头，发布重大医疗AI产品，MAU超5000万显示规模化落地，具有重要商业和行业影响。",
+      "tags": [
+        "产品发布",
+        "百度健康",
+        "AI医疗"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/RRFr9U8GKWjNNxfH.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-24 08:37:00",
+      "impact_score": 105.0
+    },
+    {
+      "index": 4,
+      "title": "“更懂你、会办事”，支付宝携手科大讯飞升级智能座舱服务",
+      "summary": "10月25日消息，支付宝与科大讯飞宣布战略合作升级，启动讯宝计划，推动智能座舱从信息交互向生活服务延伸，落地高速无感通行等四大场景。",
+      "importance": "中",
+      "reason": "支付宝和科大讯飞均为中国重要科技公司，战略合作升级智能座舱服务，属于重要商业动态和产品合作。",
+      "tags": [
+        "商业合作",
+        "智能座舱",
+        "支付宝",
+        "科大讯飞"
+      ],
+      "url": "",
+      "source": "工信部",
+      "original_pub_date": "",
+      "impact_score": 105.0
+    },
+    {
+      "index": 5,
+      "title": "iRTE2026：对话 AI 如何迈向 AGI？声网CEO赵斌给出五级对话能力框架",
+      "summary": "10月25日消息，声网CEO赵斌在iRTE2026实时智能大会上提出五级对话能力框架，勾勒对话式AI从基础应答走向深度理解与关系沟通的演进路径。",
+      "importance": "中",
+      "reason": "声网作为中国实时互动云服务商，CEO提出对话AI五级框架，属于行业思想领导力和技术路线图发布。",
+      "tags": [
+        "行业会议",
+        "对话AI",
+        "AGI",
+        "声网"
+      ],
+      "url": "",
+      "source": "中国科学院",
+      "original_pub_date": "",
+      "impact_score": 105.0
+    },
+    {
+      "index": 6,
+      "title": "支付宝AI支付发起年度黑客松大赛，邀开发者把AI创意变成生意",
+      "summary": "10月25日消息，支付宝AI支付联合观猹发起PAYATHON 2026年度黑客松，邀请开发者接入支付争夺20万元奖池，推动AI产品商业化。",
+      "importance": "低",
+      "reason": "支付宝发起的开发者赛事，属于生态建设和商业动态，但影响力相对有限。",
+      "tags": [
+        "开发者活动",
+        "AI支付",
+        "黑客松"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/DsP3dhxSpXEHRNVD.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-24 02:53:00",
+      "impact_score": 90.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "SoftBank’s Son Plans $50 Billion Malaysia Tech Outlay, PM Says",
+      "summary": "10月25日消息，软银集团孙正义计划在马来西亚投资500亿美元用于科技领域，马来西亚总理表示该投资将加速其全球AI基础设施布局。",
+      "importance": "高",
+      "reason": "软银作为海外巨头，500亿美元AI基础设施投资属于重大商业动态，影响全球AI算力格局。",
+      "tags": [
+        "软银",
+        "AI基础设施",
+        "投资"
+      ],
+      "url": "https://www.ft.com/content/f9592534-1a3d-409d-9a57-f05919440032?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-10-24 04:00:23",
+      "impact_score": 180.0
+    },
+    {
+      "index": 2,
+      "title": "Musk’s bet of the century",
+      "summary": "10月25日消息，特斯拉与SpaceX拟议合并，全面押注人工智能，此举可能重塑马斯克旗下企业的AI战略布局。",
+      "importance": "高",
+      "reason": "特斯拉和SpaceX均为海外公司，合并押注AI属于重大商业与战略动态。",
+      "tags": [
+        "特斯拉",
+        "SpaceX",
+        "合并",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-10-24/netanyahu-says-israel-mulls-crypto-ahead-of-possible-sanctions",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-24 10:54:35",
+      "impact_score": 150.0
+    },
+    {
+      "index": 3,
+      "title": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+      "summary": "10月25日消息，AI基础设施建设遭遇动荡，新型云服务商面临压力、信贷风险上升，Solidigm撤回IPO，市场波动加剧。",
+      "importance": "高",
+      "reason": "涉及海外AI基础设施市场重大波动和IPO撤回，属于重大商业动态。",
+      "tags": [
+        "AI基础设施",
+        "IPO",
+        "信贷风险"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-10-24 21:29:12",
+      "impact_score": 145.0
+    },
+    {
+      "index": 4,
+      "title": "Anthropic’s Margin is OpenAI’s Opportunity",
+      "summary": "10月25日消息，OpenAI通过降价策略在编码任务中抢占Anthropic份额，企业客户使用比例从16%逆转为52%，竞争加剧。",
+      "importance": "高",
+      "reason": "OpenAI和Anthropic均为海外AI巨头，价格竞争属于重大商业动态。",
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "价格竞争"
+      ],
+      "url": "https://www.theinformation.com/articles/neoclouds-gathering-storm",
+      "source": "The Information",
+      "original_pub_date": "2026-10-24 15:00:45",
+      "impact_score": 140.5
+    },
+    {
+      "index": 5,
+      "title": "Pegasus spyware founder urges governments to trust his tech and ditch US AI",
+      "summary": "10月25日消息，飞马间谍软件创始人呼吁各国政府信任其技术并放弃美国AI，试图以主权AI和国家安全为旗号重塑形象。",
+      "importance": "高",
+      "reason": "涉及海外安全与伦理争议，以及主权AI政策动向。",
+      "tags": [
+        "间谍软件",
+        "主权AI",
+        "国家安全"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-10-25/chinese-manufacturer-dongshan-raises-1-3-billion-in-hk-listing",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-25 10:30:39",
+      "impact_score": 127.5
+    },
+    {
+      "index": 6,
+      "title": "Bank of Israel Slams Netanyahu’s Anti-Sanction Crypto Scheme",
+      "summary": "10月25日消息，以色列央行强烈批评总理内塔尼亚胡提出的利用加密货币规避潜在金融制裁的计划，引发政策争议。",
+      "importance": "高",
+      "reason": "涉及海外政府政策与金融监管动态，属于重大政策法规。",
+      "tags": [
+        "以色列",
+        "加密货币",
+        "制裁"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-10-25/softbank-s-son-plans-50-billion-malaysia-tech-outlay-pm-says",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-25 07:42:28",
+      "impact_score": 127.5
+    },
+    {
+      "index": 7,
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "summary": "10月25日消息，美国宾夕法尼亚州州长签署《人工智能欺骗性广告法案》，要求对AI生成的广告进行披露标注。",
+      "importance": "中",
+      "reason": "美国州级AI立法，属于重大政策法规。",
+      "tags": [
+        "美国",
+        "AI立法",
+        "广告标注"
+      ],
+      "url": "https://www.ft.com/content/f0f294c1-66b0-4612-9716-647344a0e4c6?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-10-25 04:00:00",
+      "impact_score": 127.5
+    },
+    {
+      "index": 8,
+      "title": "AI Provides ‘Zero Payoff’ to S&P 493 Outside Tech, Apollo Economist Says",
+      "summary": "10月25日消息，阿波罗全球管理首席经济学家表示，AI对科技行业以外的美国企业几乎零回报，引发对AI投资效益的质疑。",
+      "importance": "中",
+      "reason": "海外机构对AI经济影响的权威分析，属于重大商业动态。",
+      "tags": [
+        "AI投资",
+        "经济影响",
+        "阿波罗"
+      ],
+      "url": "https://www.ft.com/content/dfe64d5e-f5f3-444f-a233-a516483fa6f0?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-10-24 04:00:33",
+      "impact_score": 127.5
+    },
+    {
+      "index": 9,
+      "title": "Ray-Ban Meta Audio AI Glasses Cost More While Ditching a Key Feature: Review",
+      "summary": "10月25日消息，Meta推出349美元起的雷朋Meta音频AI眼镜，价格更高但舍弃关键功能，评测认为其定位尴尬。",
+      "importance": "中",
+      "reason": "Meta为海外公司，产品发布属于重大产品动态。",
+      "tags": [
+        "Meta",
+        "AI眼镜",
+        "产品发布"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-10-25/ai-provides-zero-payoff-to-s-p-493-outside-tech-apollo-economist-says",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-25 09:28:36",
+      "impact_score": 105.0
+    },
+    {
+      "index": 10,
+      "title": "JPMorgan’s Private Bank Using AI to Make Advisers More Efficient",
+      "summary": "10月25日消息，摩根大通私人银行利用AI进行客户 onboarding 和投资研究，提升财富顾问生产力。",
+      "importance": "中",
+      "reason": "海外金融巨头AI应用，属于重大商业动态。",
+      "tags": [
+        "摩根大通",
+        "AI应用",
+        "金融"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-10-25/markets-look-to-big-tech-for-ai-payoff-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-25 12:10:28",
+      "impact_score": 97.5
+    },
+    {
+      "index": 11,
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "summary": "10月25日消息，研究发现Grok AI模型在近500场选举中超90%推荐共和党候选人，而OpenAI的GPT倾向民主党，引发AI政治偏见争议。",
+      "importance": "中",
+      "reason": "涉及海外AI模型伦理与偏见争议，属于安全与伦理动态。",
+      "tags": [
+        "AI偏见",
+        "Grok",
+        "OpenAI",
+        "选举"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-10-25/australia-police-chief-says-angry-debate-adds-risks-to-lawmakers",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-25 03:14:56",
+      "impact_score": 97.5
+    },
+    {
+      "index": 12,
+      "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+      "summary": "10月25日消息，安全研究人员利用AI工具发现PHP多年漏洞并引发AI辅助攻击，凸显AI加剧安全风险。",
+      "importance": "中",
+      "reason": "海外安全事件，属于安全与伦理动态。",
+      "tags": [
+        "AI安全",
+        "漏洞",
+        "PHP"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-10-24/ai-boom-faces-a-growing-public-backlash-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-24 14:08:22",
+      "impact_score": 97.5
+    },
+    {
+      "index": 13,
+      "title": "Google’s AI search changes upended online publishing",
+      "summary": "10月25日消息，谷歌AI搜索变革颠覆在线出版业，对数字媒体流量和商业模式造成重大冲击。",
+      "importance": "低",
+      "reason": "谷歌为海外公司，AI搜索影响属于商业动态。",
+      "tags": [
+        "谷歌",
+        "AI搜索",
+        "出版业"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-10-25/ray-ban-meta-audio-ai-glasses-cost-more-while-ditching-a-key-feature-review",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-25 12:00:03",
+      "impact_score": 90.0
+    },
+    {
+      "index": 14,
+      "title": "Block’s new voice model sounds eerily human",
+      "summary": "10月25日消息，Block发布新型语音模型，可在MacBook M4 Max本地运行，声音逼真度极高。",
+      "importance": "低",
+      "reason": "海外公司产品发布，属于重大产品动态。",
+      "tags": [
+        "Block",
+        "语音模型",
+        "产品发布"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-10-25/jpmorgan-s-private-bank-using-ai-to-make-advisers-more-efficient",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-25 11:48:37",
+      "impact_score": 90.0
+    },
+    {
+      "index": 15,
+      "title": "AI Boom Faces a Growing Public Backlash",
+      "summary": "10月25日消息，大西洋月刊CEO表示AI虽为企业提供强大工具，但对媒体构成重大风险，公众对AI的反弹日益加剧。",
+      "importance": "低",
+      "reason": "海外行业领袖对AI社会影响的评论，属于安全与伦理动态。",
+      "tags": [
+        "AI反弹",
+        "媒体",
+        "伦理"
+      ],
+      "url": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-10-24 06:41:14",
+      "impact_score": 90.0
+    }
+  ],
+  "summary": "今日从39条原始信息中精选出6条国内动态和15条国际动态，其中9条为高重要性。 重点关注：工信部发布人工智能产业发展指导意见；中国科学院发布大模型评测报告；行业第一！百度健康AI服务MAU超5000万，发布好医矩阵和健康相机。",
+  "statistics": {
+    "raw_domestic": 7,
+    "raw_international": 32,
+    "raw_total": 39,
+    "final_domestic": 6,
+    "final_international": 15
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "10月25日消息，工业和信息化部发布《关于促进人工智能产业高质量发展的指导意见》，提出到2027年人工智能核心产业规模超过万亿元的目标。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "10月25日消息，中国科学院发布国产大模型能力评测报告，对主流大模型在多个维度进行了全面评估，为行业发展提供参考。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "10月25日消息，百度健康宣布升级文心健康管家，发布好医矩阵和健康相机，AI服务月活超5000万居行业第一，实现AI加真人全流程医疗服务闭环。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "10月25日消息，支付宝与科大讯飞宣布战略合作升级，启动讯宝计划，推动智能座舱从信息交互向生活服务延伸，落地高速无感通行等四大场景。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "10月25日消息，声网CEO赵斌在iRTE2026实时智能大会上提出五级对话能力框架，勾勒对话式AI从基础应答走向深度理解与关系沟通的演进路径。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "10月25日消息，软银集团孙正义计划在马来西亚投资500亿美元用于科技领域，马来西亚总理表示该投资将加速其全球AI基础设施布局。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "10月25日消息，特斯拉与SpaceX拟议合并，全面押注人工智能，此举可能重塑马斯克旗下企业的AI战略布局。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "10月25日消息，AI基础设施建设遭遇动荡，新型云服务商面临压力、信贷风险上升，Solidigm撤回IPO，市场波动加剧。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "10月25日消息，OpenAI通过降价策略在编码任务中抢占Anthropic份额，企业客户使用比例从16%逆转为52%，竞争加剧。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "10月25日消息，飞马间谍软件创始人呼吁各国政府信任其技术并放弃美国AI，试图以主权AI和国家安全为旗号重塑形象。",
+      "importance": "高"
+    }
+  ]
+}
