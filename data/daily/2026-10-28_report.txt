@@ -1,0 +1,203 @@
+======================================================================
+AI每日动态 - 2026-10-28
+生成时间: 2026-10-28 14:57:48
+数据来源: 从 167 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、10月28日消息，百度发布并开源文心Unlimited OCR 2，全球首次实现任意页数文档解析，将OCR处理上限从数十页推向无限，并在MPDocBench和MarathonDocBench基准测试中分别取得84.6分和77.1分，达到SOTA水平。
+2、10月28日消息，国产AI 3D大模型Hi3D正式开源并可商用，据称在性能上超越GPT-6，展示了中国在3D生成模型领域的技术实力。
+3、10月28日消息，华为在Decoding China 2026活动上发布面向新一代通信网的全系列创新成果，推出全球首款U6GHz商用设备VitaAAU、GigaGreen Plus系列和UBBPi系列等产品，并携手产业伙伴共建智能体开放生态。
+4、10月28日消息，蚂蚁集团发布灵光2.0，定位为“能管事的个人AI助理”，成为国内大厂首批落地的Personal Agent产品，能够主动发现需求并持续管理事务。
+5、10月28日消息，蚂蚁灵波科技主办的首届具身大模型挑战赛线上初赛落幕，共吸引海内外1855支队伍、3252位选手报名，覆盖13个国家648个高校及企业，线下总决赛将于11月14日至16日在上海举行。
+
+国际动态：
+1、10月28日消息，英伟达向Meta股权投资30亿美元，双方扩大技术合作以最大化Meta的Muse个人智能体应用和基础模型性能，Meta计划扩大部署英伟达先进的Vera Rubin AI硬件。
+2、10月28日消息，Meta宣布计划筹集总计950亿美元以支持其AI基础设施投资，英伟达和AMD将向Meta投资40亿美元，科技巨头进一步深化AI合作伙伴关系。
+3、10月28日消息，自主武器制造商Anduril Industries向投资者表示希望明年第一季度启动新一轮融资，考虑估值约1200亿美元，反映AI国防领域资本热度。
+4、10月28日消息，半导体组件制造商Onsemi正洽谈以近10亿美元收购成立16年的芯片初创公司Ferric，该交易反映市场对管理AI芯片高能耗技术的需求增长。
+5、10月28日消息，Anthropic七位创始人在重磅IPO前收紧控制权，这些新晋亿万富翁从OpenAI叛离后创立Claude制造商，正押注未来保持团结。
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 10月28日消息，百度发布并开源文心Unlimited OCR 2，全球首次实现任意页数文档解析，将OCR处理上限从数十页推向无限，并在MPDocBench和MarathonDocBench基准测试中分别取得84.6分和77.1分，达到SOTA水平。
+   📋 入选理由: 百度作为中国AI领军企业，发布开源OCR大模型并实现技术突破，属于重大产品发布和学术突破。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/2U4kLHAVeff62mJx.html
+   🏷️ 标签: 百度, OCR, 开源, SOTA
+
+2、🔥 10月28日消息，国产AI 3D大模型Hi3D正式开源并可商用，据称在性能上超越GPT-6，展示了中国在3D生成模型领域的技术实力。
+   📋 入选理由: 国产3D大模型开源可商用，属于重大产品发布，且主体为中国公司。
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/10/505694.html
+   🏷️ 标签: Hi3D, 3D大模型, 开源, 可商用
+
+3、🔥 10月28日消息，华为在Decoding China 2026活动上发布面向新一代通信网的全系列创新成果，推出全球首款U6GHz商用设备VitaAAU、GigaGreen Plus系列和UBBPi系列等产品，并携手产业伙伴共建智能体开放生态。
+   📋 入选理由: 华为作为中国科技巨头，发布重大通信创新产品，属于重大产品发布。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/zaobao/SXb4aJpFWlpTjfkN.html
+   🏷️ 标签: 华为, 无线网络, 创新成果, 通信网
+
+4、🔥 10月28日消息，蚂蚁集团发布灵光2.0，定位为“能管事的个人AI助理”，成为国内大厂首批落地的Personal Agent产品，能够主动发现需求并持续管理事务。
+   📋 入选理由: 蚂蚁集团作为中国金融科技巨头，发布Personal Agent产品，属于重大产品发布。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/ai/80I0hBKAVSTsKbtM.html
+   🏷️ 标签: 蚂蚁集团, 灵光2.0, Personal Agent, AI助理
+
+5、🔥 10月28日消息，蚂蚁灵波科技主办的首届具身大模型挑战赛线上初赛落幕，共吸引海内外1855支队伍、3252位选手报名，覆盖13个国家648个高校及企业，线下总决赛将于11月14日至16日在上海举行。
+   📋 入选理由: 蚂蚁灵波科技作为中国公司，举办大规模具身智能赛事，属于重大行业活动。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/AenD5N0wKBYyfCch.html
+   🏷️ 标签: 蚂蚁灵波, 具身智能, 挑战赛, 决赛
+
+6、🔥 10月28日消息，北京智源人工智能研究院“源创计划”首期路演在中关村举办，临界核科技、灵枢启智等五个AI硬科技项目集中亮相，聚焦芯片、神经形态计算、世界模型等方向，推动实验室成果产业化。
+   📋 入选理由: 智源研究院作为中国研究机构，举办路演推动AI硬科技项目落地，属于重大商业动态和学术突破。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/PubkEap5yOtdT59V.html
+   🏷️ 标签: 智源研究院, 源创计划, 路演, AI硬科技
+
+7、🔥 10月28日消息，长鑫存储拒绝苹果等海外订单，优先保障国内存储芯片需求；同时字节跳动Seedance核心研发负责人周畅被曝离职，接近字节人士否认。
+   📋 入选理由: 长鑫存储作为中国芯片企业，优先保障国内需求，涉及重大商业动态和供应链安全。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/g4nk653U5p12RMpR.html
+   🏷️ 标签: 长鑫存储, 存储芯片, 国内需求, 字节跳动
+
+8、🔥 10月28日消息，蚂蚁集团旗下百灵大模型正式开源Ling-3.1-flash-1019，推动Personal Agent走向真实任务应用。
+   📋 入选理由: 蚂蚁集团开源大模型，属于重大产品发布和开源动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/GABZR4IV17tSEHlt.html
+   🏷️ 标签: 蚂蚁集团, 百灵大模型, 开源, Personal Agent
+
+9、🔥 10月28日消息，乐奇Rokid与千问办公宣布合作，千问办公正式接入乐奇AI眼镜，用户可通过语音唤起千问办公、下发任务并在眼镜端查看结果，实现实时任务推送和现场内容结合。
+   📋 入选理由: 千问办公（阿里旗下）与乐奇合作，属于中国公司间的重大战略合作和产品发布。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/ai/Ep3M1c7RboyafpOS.html
+   🏷️ 标签: 千问办公, 乐奇AI眼镜, 合作, 语音任务
+
+10、🔥 10月28日消息，国家人工智能应用中试基地（家居家电方向）在青岛启动，由海尔智家承建，目标打造全球引领的“新一代智慧家电”中试基地，推动AI规模化、标准化应用。
+   📋 入选理由: 国家级AI中试基地启动，海尔智家承建，属于重大政策与法规及产业动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/zaobao/9LHYVcJC8iwgwnhk.html
+   🏷️ 标签: 国家人工智能应用中试基地, 海尔智家, 家居家电, 青岛
+
+11、🔥 10月28日消息，字节跳动豆包公关负责人刘星通过微博辟谣“横店与字节合作将15万名群演肖像和声音喂给大模型”的传言，称严重失实，并澄清火山引擎仅为技术支持方，数据资产归横店所有，个人肖像声音使用需授权。
+   📋 入选理由: 字节跳动作为中国公司，辟谣重大数据安全传言，涉及AI伦理与数据合规。
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/10/505928.html
+   🏷️ 标签: 字节跳动, 辟谣, 群演数据, 大模型
+
+12、📌 10月28日消息，天津大学张长青在CNCC 2026 Tutorial上提出给多模态融合加上“可信度量尺”，以解决模态缺失和噪声干扰问题，保留有效信息并识别可靠证据。
+   📋 入选理由: 天津大学作为中国研究机构，在学术会议上提出多模态融合新方法，属于重大学术突破。
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/10/505719.html
+   🏷️ 标签: 天津大学, 多模态融合, 可信度量尺, CNCC
+
+13、📌 10月28日消息，清华大学与智谱AI联合完成论文，唐杰担任通讯作者，曝光智谱内部GLM-Omni模型，在图像生成和视觉理解方面取得实验结果，引发对其与GLM-5.5关系的猜测。
+   📋 入选理由: 智谱AI作为中国大模型公司，联合清华大学发布论文，属于学术突破和产品预告。
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/10/505865.html
+   🏷️ 标签: 智谱AI, GLM-Omni, 唐杰, 论文
+
+14、📌 10月28日消息，北京智源人工智能研究院连续走进人大附中，围绕SoulAgent在真实课堂、教研和学习场景中的应用开展实践与交流，探索AI赋能创新人才培养。
+   📋 入选理由: 智源研究院作为中国研究机构，推动AI教育应用，属于重大商业动态和学术实践。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/NDbYUsVKbYZZxXil.html
+   🏷️ 标签: 智源研究院, SoulAgent, 教育应用, 人大附中
+
+15、📌 10月28日消息，豆包工作电脑操作能力升级，屏幕点击精度和速度提升，用户可录制电脑操作保存为可复用技能，任务可在Mac锁屏后继续执行，并支持手机下达任务和查看结果。
+   📋 入选理由: 字节跳动旗下豆包产品升级，属于中国公司的重要产品动态。
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/10/505773.html
+   🏷️ 标签: 豆包, 电脑操作, 技能录制, 升级
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 10月28日消息，英伟达向Meta股权投资30亿美元，双方扩大技术合作以最大化Meta的Muse个人智能体应用和基础模型性能，Meta计划扩大部署英伟达先进的Vera Rubin AI硬件。
+   📋 入选理由: 英伟达与Meta两大巨头深化AI合作，30亿美元投资属于重大商业动态，且涉及旗舰AI硬件部署。
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/24a35e41-2641-4cec-97f5-a974412f9952?syn-25a6b1a6=1
+   🏷️ 标签: 英伟达, Meta, 战略合作, AI硬件
+
+2、🔥 10月28日消息，Meta宣布计划筹集总计950亿美元以支持其AI基础设施投资，英伟达和AMD将向Meta投资40亿美元，科技巨头进一步深化AI合作伙伴关系。
+   📋 入选理由: Meta大规模融资及英伟达、AMD联合投资，属于重大商业动态和AI基础设施布局。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/articles/anduril-worth-120-billion
+   🏷️ 标签: Meta, 英伟达, AMD, 融资, AI基础设施
+
+3、🔥 10月28日消息，自主武器制造商Anduril Industries向投资者表示希望明年第一季度启动新一轮融资，考虑估值约1200亿美元，反映AI国防领域资本热度。
+   📋 入选理由: Anduril高达1200亿美元估值的融资计划，属于重大商业动态，且涉及AI自主武器领域。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/articles/chipmaker-onsemi-talks-buy-startup-1-billion
+   🏷️ 标签: Anduril, 融资, 估值, 自主武器
+
+4、🔥 10月28日消息，半导体组件制造商Onsemi正洽谈以近10亿美元收购成立16年的芯片初创公司Ferric，该交易反映市场对管理AI芯片高能耗技术的需求增长。
+   📋 入选理由: 近10亿美元的芯片领域并购，属于重大商业动态，且直接关联AI芯片能耗技术。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/briefings/nvidia-invests-3-billion-meta-deeper-ai-partnership
+   🏷️ 标签: Onsemi, Ferric, 并购, AI芯片
+
+5、🔥 10月28日消息，Anthropic七位创始人在重磅IPO前收紧控制权，这些新晋亿万富翁从OpenAI叛离后创立Claude制造商，正押注未来保持团结。
+   📋 入选理由: Anthropic IPO前的重大公司治理动态，涉及知名AI公司创始团队控制权，属于重大商业动态。
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/
+   🏷️ 标签: Anthropic, IPO, 创始人, 公司治理
+
+6、🔥 10月28日消息，Anthropic的IPO将使风险投资机构获利数十亿美元，但大规模票据转换揭示亚马逊对Anthropic的持股比例远超外界预期，成为最大赢家。
+   📋 入选理由: Anthropic IPO背后的股权结构重大披露，亚马逊持股规模影响AI产业格局，属于重大商业动态。
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-10-28/asm-i-s-ceo-to-hit-2030-target-3-years-early-video
+   🏷️ 标签: Anthropic, IPO, 亚马逊, 股权
+
+7、🔥 10月28日消息，Anthropic在里程碑式IPO前警告投资者，其对AI安全的直言倡导可能使公司成为政府报复目标，凸显与特朗普政府一年摩擦后的特殊政府相关风险。
+   📋 入选理由: Anthropic IPO文件中披露的政府关系风险，涉及AI安全倡导与政策博弈，属于重大政策与商业交叉动态。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/articles/bumble-founder-whitney-wolfe-herd-explains-decision-take-company-private
+   🏷️ 标签: Anthropic, IPO, 特朗普, AI安全, 政策风险
+
+8、🔥 10月28日消息，谷歌发布Genie 4世界模型用于生成AI交互体验，该模型实现更逼真世界、支持自然语言实时更新体验、可生成音频，并基于Gemini 3.8构建。
+   📋 入选理由: 谷歌旗舰级世界模型Genie 4发布，属于重大产品发布，且集成Gemini 3.8。
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2610.36444
+   🏷️ 标签: 谷歌, Genie 4, 世界模型, Gemini
+
+9、🔥 10月28日消息，OpenAI宣称其模型证伪了密码学基础理论，同日Anthropic也宣布突破，OpenAI还公布物理学和数学领域两项突破，此前已发布700多篇数学论文。
+   📋 入选理由: OpenAI与Anthropic同日宣称密码学突破，属于重大学术突破，涉及AI在基础科学领域的里程碑。
+   📰 来源: CNBC Tech | 🔗 https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html
+   🏷️ 标签: OpenAI, Anthropic, 密码学, 学术突破
+
+10、📌 10月28日消息，OpenAI宣布数学、计算机科学和物理学领域重大突破并称改进沟通方式，但研究人员对该公司持续封锁研究成果的做法日益不满。
+   📋 入选理由: OpenAI学术突破的透明度争议，涉及AI研究开放性与安全伦理，属于重要行业动态。
+   📰 来源: Wired AI | 🔗 https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/
+   🏷️ 标签: OpenAI, 学术突破, 透明度, AI伦理
+
+11、📌 10月28日消息，总部位于旧金山的AI网络安全初创公司Upwind Security获得4亿美元新融资，估值达38亿美元，为AI和云应用提供网络安全服务。
+   📋 入选理由: 4亿美元融资、38亿美元估值的AI安全领域大额融资，属于重大商业动态。
+   📰 来源: The Verge AI | 🔗 https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit
+   🏷️ 标签: Upwind, 融资, AI安全, 网络安全
+
+12、📌 10月28日消息，韩国SK海力士在AI芯片需求旺盛推动下公布超预期季度营业利润，并宣布今年将向投资者返还750亿美元。
+   📋 入选理由: SK海力士作为AI存储芯片关键供应商业绩暴增，反映AI芯片需求景气度，属于重要商业动态。
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-10-28/samsung-unveils-galaxy-buds-on-clip-on-earbuds-for-229
+   🏷️ 标签: SK海力士, AI芯片, 财报, 韩国
+
+13、📌 10月28日消息，英国政府监管机构正考虑调查内政部使用ChatGPT技术处理庇护申请一事，担忧工具准确性及使用保密性问题。
+   📋 入选理由: 英国政府机构使用OpenAI技术面临调查，涉及AI在政府场景的合规与伦理，属于政策监管动态。
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/44c35ed7-aa46-4d45-91f5-2773f00ae6be
+   🏷️ 标签: 英国, 内政部, OpenAI, 监管调查
+
+14、📌 10月28日消息，马斯克旗下xAI子公司提出收购密西西比州社区住宅，条件是居民不加入针对其附近数据中心和发电厂的诉讼，引发AI基础设施邻避争议。
+   📋 入选理由: xAI数据中心噪音诉讼与收购封口行为，涉及AI基础设施的社区伦理与法律争议。
+   📰 来源: Wired AI | 🔗 https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/
+   🏷️ 标签: xAI, 数据中心, 诉讼, 伦理争议
+
+15、📌 10月28日消息，随着AI公司不断产出数学突破，研究人员质疑Lean软件作为证明检查器的可靠性，AI数学证明的可信度成为学术争议焦点。
+   📋 入选理由: AI数学证明可信度的学术讨论，涉及AI在基础科学中的方法论问题，属于重大学术动态。
+   📰 来源: Science Magazine | 🔗 https://www.science.org/content/article/ai-shaking-math-can-its-proofs-be-trusted
+   🏷️ 标签: AI数学, Lean, 证明检查, 学术争议
+
+16、📌 10月28日消息，Opera推出名为WebAI的新网络标准，旨在让用户能在浏览器本地部署多种AI模型，推动AI能力向终端侧下沉。
+   📋 入选理由: Opera推出浏览器本地AI部署新标准，属于重要产品与技术标准动态。
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-10-28/amazon-unveils-new-echo-show-16-alexa-speakers-smart-clock-and-photo-frame
+   🏷️ 标签: Opera, WebAI, 浏览器, 本地AI
+
+17、📌 10月28日消息，前默西塞德郡警官Steven Richardson为其警用工具AI公司融资，获得红杉等投资者支持，公司估值达4亿美元。
+   📋 入选理由: 4亿美元估值的AI警务创业公司融资，属于重要商业动态。
+   📰 来源: The Verge AI | 🔗 https://www.theverge.com/tech/1019076/google-genie-4-ai-model
+   🏷️ 标签: AI警务, 融资, 估值, 红杉
+
+18、📄 10月28日消息，Meta AI总监Rohit Patel在效力八年后离职，其创立的Ndoc初创公司旨在挑战微软Office套件和谷歌Workspace。
+   📋 入选理由: Meta AI高管离职创业，属于一般性人事与商业动态，影响力相对有限。
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/
+   🏷️ 标签: Meta, 人事变动, 创业, 办公软件
+
+
+======================================================================
+📊 今日总结: 今日从167条原始信息中精选出15条国内动态和18条国际动态，其中20条为高重要性。 重点关注：OCR 3.0 时代来了！文心 Unlimited OCR 2 开源发布，超长文档解析迎来“页数自由”；国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6；华为无线发布全系列创新成果，领启新一代通信网。
+======================================================================
