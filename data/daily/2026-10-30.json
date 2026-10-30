@@ -1,0 +1,502 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30 14:56:24",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "天数智芯天垓300实测对标H200，国产GPU接下来拼什么？",
+      "summary": "10月30日消息，天数智芯在媒体开放日上公布天垓300与H200的实机对比测试结果，在典型PD分离部署下单卡端到端吞吐达到H200的1.05倍，表明国产通用GPU在高端推理负载中已具备直接竞争的性能基础。",
+      "importance": "高",
+      "reason": "国产GPU重大突破，性能对标国际旗舰产品，对AI算力自主可控具有战略意义。",
+      "tags": [
+        "国产GPU",
+        "天数智芯",
+        "性能突破"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/eJ3swacisd2iTByo.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-30 07:06:00",
+      "impact_score": 360.0
+    },
+    {
+      "index": 2,
+      "title": "百度APP发布四大AI升级，搜索已实现递归自我进化",
+      "summary": "10月30日消息，百度APP在北京举办产品升级沟通会，宣布搜索实现递归自我进化并升级搜索AI API，活动期间最低价4.9元/千次，同时围绕搜索框、AI镜头、GUI可视化、AI互动应用等方向推出重大升级，文心助手已覆盖170余种场景。",
+      "importance": "高",
+      "reason": "百度作为国内AI巨头，搜索产品全面AI化升级，递归自我进化技术属行业前沿。",
+      "tags": [
+        "百度",
+        "AI搜索",
+        "产品升级"
+      ],
+      "url": "https://www.qbitai.com/2026/10/506743.html",
+      "source": "量子位",
+      "original_pub_date": "2026-10-30 07:31:11",
+      "impact_score": 270.0
+    },
+    {
+      "index": 3,
+      "title": "豆包再送免费福利：累计签到30天可得8800额度，新用户免费领一个月订阅",
+      "summary": "10月30日消息，豆包面向用户推出免费福利活动，所有用户每日签到可得200额度、周一翻倍，累计签到30天可得8800额度，新用户首次登录电脑版可领取30天免费体验套餐，可用于除生视频、Pro模型外的所有能力。",
+      "importance": "中",
+      "reason": "字节跳动旗下豆包大模型通过免费策略加速用户增长，反映国内AI应用市场竞争加剧。",
+      "tags": [
+        "豆包",
+        "字节跳动",
+        "用户增长"
+      ],
+      "url": "https://www.leiphone.com/category/chips/748GRHfg9VPRbp7x.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-30 09:02:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 4,
+      "title": "STEPX Neo发布两周即迎首次升级，智能体能力持续释放",
+      "summary": "10月30日消息，阶跃终端旗下大模型原生智能体手机STEPX Neo在发布两周后迎来首次升级，智能体能力得到进一步释放和优化。",
+      "importance": "中",
+      "reason": "国内AI终端厂商快速迭代智能体手机，体现端侧AI应用加速落地。",
+      "tags": [
+        "阶跃终端",
+        "智能体手机",
+        "产品升级"
+      ],
+      "url": "https://www.leiphone.com/category/aihealth/BseLhlDzaWQ8XrWr.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-30 10:03:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 5,
+      "title": "科大讯飞董事长与总裁主动降薪，两人均少领超2000万；百度副总裁吴甜已离职",
+      "summary": "10月30日消息，科大讯飞回应高管薪资质疑，董事长与总裁主动降薪均少领超2000万元；百度确认副总裁吴甜已离职，文心模型下周将发布新进展；华为天才少年杨玉雯加盟南京大学。",
+      "importance": "中",
+      "reason": "涉及科大讯飞、百度等国内AI龙头企业高管变动与薪酬调整，反映行业人才流动与治理动态。",
+      "tags": [
+        "科大讯飞",
+        "百度",
+        "高管变动"
+      ],
+      "url": "https://www.leiphone.com/category/aihealth/zzOQHx9piL86TXHJ.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-30 09:51:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 6,
+      "title": "宇树最新财报：重金投入研发，上市后的考题变了",
+      "summary": "10月30日消息，宇树披露上市后首份三季报，2026年前三季度营收18.17亿元超2025全年，但毛利率回落、研发费用率大幅抬升、扣非利润下滑，公司主动用硬件红利补贴具身大模型和算力投入。",
+      "importance": "中",
+      "reason": "国内具身智能头部企业上市后首份财报，反映行业从硬件盈利向大模型投入的战略转型。",
+      "tags": [
+        "宇树",
+        "具身智能",
+        "财报"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/7pQrGMmdsjx5dOSR.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-30 07:30:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 7,
+      "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
+      "summary": "10月30日消息，国产开源OCR模型OXR以1.3B参数量登顶全球第一，通过RSI（AI造AI）技术实现性能突破，重塑OCR领域技术格局。",
+      "importance": "中",
+      "reason": "国产开源模型在全球评测中登顶，展示中国AI开源生态的技术实力。",
+      "tags": [
+        "开源模型",
+        "OCR",
+        "RSI"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/zUR47PS79V5yRTMq.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-30 06:58:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 8,
+      "title": "一天造300万个沙盒，10万张卡自己写系统：2026年国产RSI到底有多野？",
+      "summary": "10月30日消息，国产RSI（AI造AI）成为2026年模型厂商争相晒的内部成绩单和一级市场最热方向，上海交大、清华、字节、商汤等35位研究者发表论文《The Last AI Built by Humans》为RSI建立L1到L5五层分级标准。",
+      "importance": "中",
+      "reason": "国内RSI技术发展迅速，产学研联合发布分级标准，对AI自我进化方向具有指导意义。",
+      "tags": [
+        "RSI",
+        "AI造AI",
+        "学术论文"
+      ],
+      "url": "https://www.leiphone.com/category/weiwu/KlCbWSV85pD8wKbW.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-30 11:12:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 9,
+      "title": "沙钢接入千问办公，已将Agent落地核心业务场景",
+      "summary": "10月30日消息，江苏沙钢钢铁有限公司正式接入千问办公，将Agent落地到电炉冶炼复盘、变压器状态评估、财务经营分析等业务场景，部分核心业务场景提效可达数百倍。",
+      "importance": "中",
+      "reason": "阿里千问大模型在钢铁行业核心业务场景落地，体现国内AI+工业的深度融合。",
+      "tags": [
+        "千问",
+        "沙钢",
+        "工业AI"
+      ],
+      "url": "https://www.leiphone.com/category/weiwu/FrjosYobsoHysRCW.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-30 07:07:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 10,
+      "title": "中国MaaS市场TOP2，商汤大装置再度蝉联",
+      "summary": "10月30日消息，商汤大装置在中国MaaS市场以9.4%的份额再次稳居第二位，在大模型私有化市场保持领先地位。",
+      "importance": "低",
+      "reason": "商汤大装置市场份额数据发布，反映国内MaaS市场竞争格局。",
+      "tags": [
+        "商汤",
+        "MaaS",
+        "市场份额"
+      ],
+      "url": "https://www.qbitai.com/2026/10/506554.html",
+      "source": "量子位",
+      "original_pub_date": "2026-10-29 09:58:26",
+      "impact_score": 165.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Solving for AI’s power problem",
+      "summary": "10月30日消息，埃隆·马斯克等行业领袖警告称，电力短缺等物理瓶颈将拖慢竞争对手的AI发展，公用事业公司已发出多年等待新接入的预警。",
+      "importance": "高",
+      "reason": "涉及AI基础设施重大瓶颈，马斯克等海外领袖观点，影响全球AI竞争格局。",
+      "tags": [
+        "AI基础设施",
+        "电力短缺",
+        "埃隆·马斯克"
+      ],
+      "url": "https://www.theinformation.com/articles/solving-ais-power-problem",
+      "source": "The Information",
+      "original_pub_date": "2026-10-29 16:43:44",
+      "impact_score": 244.5
+    },
+    {
+      "index": 2,
+      "title": "Exclusive: Cybersecurity Startup Cyera Discusses $20 Billion Valuation",
+      "summary": "10月30日消息，网络安全初创公司Cyera正与投资者讨论以近200亿美元估值融资，专注于保护企业数据免受AI攻击。",
+      "importance": "高",
+      "reason": "大额融资（近200亿美元估值），AI安全领域重要商业动态。",
+      "tags": [
+        "网络安全",
+        "融资",
+        "AI安全"
+      ],
+      "url": "https://www.theinformation.com/briefings/exclusive-cybersecurity-mania-push-cyera-valuation-20-billion",
+      "source": "The Information",
+      "original_pub_date": "2026-10-30 02:43:17",
+      "impact_score": 230.0
+    },
+    {
+      "index": 3,
+      "title": "Kalshi Raises $1 Billion at $40 Billion Valuation",
+      "summary": "10月30日消息，Kalshi在由Wellington和Sequoia领投的轮次中融资10亿美元，估值达400亿美元，其他投资者包括Baillie Gifford、a16z等。",
+      "importance": "高",
+      "reason": "大额融资（10亿美元），估值400亿美元，重大商业动态。",
+      "tags": [
+        "融资",
+        "估值",
+        "Kalshi"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-10-30/softbank-backed-opay-prices-at-4-billion-value-for-new-york-ipo",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-30 10:13:45",
+      "impact_score": 225.0
+    },
+    {
+      "index": 4,
+      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+      "summary": "10月30日消息，AI应用Wabi（现自称“个人代理”）以12.5亿美元估值融资5500万美元，用于构建迷你应用。",
+      "importance": "中",
+      "reason": "AI代理领域融资，估值超10亿美元，重要商业动态。",
+      "tags": [
+        "AI代理",
+        "融资",
+        "Wabi"
+      ],
+      "url": "https://www.theinformation.com/briefings/kalshi-raises-1-billion-40-billion-valuation",
+      "source": "The Information",
+      "original_pub_date": "2026-10-29 17:53:32",
+      "impact_score": 210.0
+    },
+    {
+      "index": 5,
+      "title": "Foxconn Chairman: AI Demand is Real",
+      "summary": "10月30日消息，富士康董事长刘扬伟表示，AI需求真实，公司计划通过与OpenAI合作及美国扩张，在两年内占据AI服务器市场一半份额。",
+      "importance": "高",
+      "reason": "富士康与OpenAI合作，AI服务器市场重大战略，涉及海外公司。",
+      "tags": [
+        "富士康",
+        "OpenAI",
+        "AI服务器"
+      ],
+      "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-10-29 14:35:26",
+      "impact_score": 210.0
+    },
+    {
+      "index": 6,
+      "title": "Accelerate agentic AI with NVIDIA Nemotron models on Amazon EKS and SageMaker HyperPod EKS",
+      "summary": "10月30日消息，英伟达发布Nemotron 3.5 Super VL模型（1200亿参数混合专家模型），结合推理、工具使用和多模态理解，并展示在亚马逊EKS上的部署。",
+      "importance": "高",
+      "reason": "英伟达重大产品发布，旗舰AI模型，重要技术突破。",
+      "tags": [
+        "英伟达",
+        "Nemotron",
+        "多模态"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-10-30/foxconn-chairman-ai-demand-is-real-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-30 13:49:16",
+      "impact_score": 195.0
+    },
+    {
+      "index": 7,
+      "title": "DoorDash and Thrive Go Shopping",
+      "summary": "10月30日消息，DoorDash CEO徐迅宣布以约170亿美元收购Instacart，进军杂货配送业务。",
+      "importance": "高",
+      "reason": "重大并购（170亿美元），海外公司重要商业动态。",
+      "tags": [
+        "DoorDash",
+        "Instacart",
+        "并购"
+      ],
+      "url": "https://arxiv.org/abs/2610.37896",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-10-30 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 8,
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "summary": "10月30日消息，OpenAI CEO萨姆·奥特曼表示同情数学家，但称OpenAI的数学成果轰炸不会停止，并暗示未来将有更多成果。",
+      "importance": "中",
+      "reason": "OpenAI在数学领域的重大进展，海外公司动态。",
+      "tags": [
+        "OpenAI",
+        "数学",
+        "萨姆·奥特曼"
+      ],
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks/",
+      "source": "Amazon AWS AI",
+      "original_pub_date": "2026-10-29 16:11:08",
+      "impact_score": 185.0
+    },
+    {
+      "index": 9,
+      "title": "Sebastian Thrun Raises $130 Million for AI Engineering Startup Dulo",
+      "summary": "10月30日消息，计算机科学家塞巴斯蒂安·特伦联合创立AI工程初创公司Dulo，融资1.3亿美元，专注于为工程领域创建AI模型。",
+      "importance": "中",
+      "reason": "大额融资（1.3亿美元），AI工程领域重要商业动态。",
+      "tags": [
+        "融资",
+        "AI工程",
+        "Sebastian Thrun"
+      ],
+      "url": "https://www.theinformation.com/articles/doordash-thrive-go-shopping",
+      "source": "The Information",
+      "original_pub_date": "2026-10-30 00:01:23",
+      "impact_score": 173.0
+    },
+    {
+      "index": 10,
+      "title": "Microsoft’s AI future has fewer jobs",
+      "summary": "10月30日消息，微软CEO萨提亚·纳德拉表示AI将根本改变微软劳动力规模，公司正向约6万名员工提供自愿买断。",
+      "importance": "高",
+      "reason": "微软重大人事调整，AI对就业影响，海外巨头动态。",
+      "tags": [
+        "微软",
+        "AI",
+        "裁员"
+      ],
+      "url": "https://arxiv.org/abs/2610.37905",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-10-30 04:00:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 11,
+      "title": "Meta Investigated by UK Over Alleged Harm Caused in Commercial Small Print",
+      "summary": "10月30日消息，Meta因商业条款可能对出版商和广告商施加“剥削性”条件，面临英国调查。",
+      "importance": "高",
+      "reason": "重大政策与法规，英国对Meta反垄断调查。",
+      "tags": [
+        "Meta",
+        "英国调查",
+        "反垄断"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-10-30 13:01:14",
+      "impact_score": 158.0
+    },
+    {
+      "index": 12,
+      "title": "Nvidia CEO Reportedly Targeted By Suspected Chinese Informant",
+      "summary": "10月30日消息，美国官员发现英伟达CEO黄仁勋与一名涉嫌向北京分享情报的中国女商人关系密切，特朗普一年前听取简报但未采取行动。",
+      "importance": "高",
+      "reason": "涉及英伟达CEO安全事件，重大伦理与安全动态。",
+      "tags": [
+        "英伟达",
+        "黄仁勋",
+        "安全事件"
+      ],
+      "url": "https://www.theinformation.com/articles/sebastian-thrun-raises-130-million-ai-engineering-startup-dulo",
+      "source": "The Information",
+      "original_pub_date": "2026-10-29 16:00:48",
+      "impact_score": 158.0
+    },
+    {
+      "index": 13,
+      "title": "Anthropic is asking Wall Street to believe in AGI",
+      "summary": "10月30日消息，Anthropic提交S-1文件拟在纳斯达克上市，分析师解读其IPO文件，探讨公司业务状况和AGI前景。",
+      "importance": "高",
+      "reason": "Anthropic IPO重大商业动态，涉及AGI。",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "AGI"
+      ],
+      "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-10-29 16:00:00",
+      "impact_score": 158.0
+    },
+    {
+      "index": 14,
+      "title": "Meta quietly launches an AI fashion app called Style Sketch",
+      "summary": "10月30日消息，Meta悄然推出AI时尚应用Style Sketch，可连接Instagram构建虚拟衣橱，或通过拍照、视频等方式添加物品。",
+      "importance": "中",
+      "reason": "Meta新产品发布，AI应用动态。",
+      "tags": [
+        "Meta",
+        "AI时尚",
+        "产品发布"
+      ],
+      "url": "https://www.ft.com/content/f006c111-e683-4dbb-8104-40a8df131ee6?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-10-30 05:00:13",
+      "impact_score": 157.5
+    },
+    {
+      "index": 15,
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "summary": "10月30日消息，Mistral发布其万亿参数AI模型的权重，针对网络安全领域，称该模型能让组织获得闭源模型无法提供的控制权。",
+      "importance": "高",
+      "reason": "重大产品发布，万亿参数模型，海外公司Mistral。",
+      "tags": [
+        "Mistral",
+        "万亿参数",
+        "网络安全"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-10-30/meta-investigated-by-uk-over-alleged-harm-caused-in-commercial-small-print",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-30 12:15:17",
+      "impact_score": 150.0
+    },
+    {
+      "index": 16,
+      "title": "The story of Anthropic in three numbers",
+      "summary": "10月30日消息，Anthropic的IPO文件通过三个数字揭示公司业务状况和行业前景，但仍存疑问。",
+      "importance": "中",
+      "reason": "Anthropic IPO分析，重要商业动态。",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "分析"
+      ],
+      "url": "https://www.ft.com/content/46c03338-63d5-43fc-a946-ebcbe9e1c07a?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-10-30 11:20:19",
+      "impact_score": 150.0
+    },
+    {
+      "index": 17,
+      "title": "Inside the make-or-break AI mega-project behind Nscale’s $35bn IPO",
+      "summary": "10月30日消息，英伟达支持的Nscale计划以350亿美元IPO，但其西弗吉尼亚数据中心项目面临建设问题、当地反对和融资风险。",
+      "importance": "高",
+      "reason": "重大IPO（350亿美元），AI基础设施项目，海外公司动态。",
+      "tags": [
+        "Nscale",
+        "IPO",
+        "数据中心"
+      ],
+      "url": "https://arxiv.org/abs/2610.38024",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-10-30 04:00:00",
+      "impact_score": 145.0
+    }
+  ],
+  "summary": "今日从171条原始信息中精选出10条国内动态和17条国际动态，其中14条为高重要性。 重点关注：天数智芯天垓300实测对标H200，国产GPU接下来拼什么？；百度APP发布四大AI升级，搜索已实现递归自我进化；Solving for AI’s power problem。",
+  "statistics": {
+    "raw_domestic": 26,
+    "raw_international": 145,
+    "raw_total": 171,
+    "final_domestic": 10,
+    "final_international": 17
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "10月30日消息，天数智芯在媒体开放日上公布天垓300与H200的实机对比测试结果，在典型PD分离部署下单卡端到端吞吐达到H200的1.05倍，表明国产通用GPU在高端推理负载中已具备直接竞争的性能基础。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "10月30日消息，百度APP在北京举办产品升级沟通会，宣布搜索实现递归自我进化并升级搜索AI API，活动期间最低价4.9元/千次，同时围绕搜索框、AI镜头、GUI可视化、AI互动应用等方向推出重大升级，文心助手已覆盖170余种场景。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "10月30日消息，豆包面向用户推出免费福利活动，所有用户每日签到可得200额度、周一翻倍，累计签到30天可得8800额度，新用户首次登录电脑版可领取30天免费体验套餐，可用于除生视频、Pro模型外的所有能力。",
+      "importance": "中"
+    },
+    {
+      "index": 4,
+      "summary": "10月30日消息，阶跃终端旗下大模型原生智能体手机STEPX Neo在发布两周后迎来首次升级，智能体能力得到进一步释放和优化。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "10月30日消息，科大讯飞回应高管薪资质疑，董事长与总裁主动降薪均少领超2000万元；百度确认副总裁吴甜已离职，文心模型下周将发布新进展；华为天才少年杨玉雯加盟南京大学。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "10月30日消息，埃隆·马斯克等行业领袖警告称，电力短缺等物理瓶颈将拖慢竞争对手的AI发展，公用事业公司已发出多年等待新接入的预警。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "10月30日消息，网络安全初创公司Cyera正与投资者讨论以近200亿美元估值融资，专注于保护企业数据免受AI攻击。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "10月30日消息，Kalshi在由Wellington和Sequoia领投的轮次中融资10亿美元，估值达400亿美元，其他投资者包括Baillie Gifford、a16z等。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "10月30日消息，富士康董事长刘扬伟表示，AI需求真实，公司计划通过与OpenAI合作及美国扩张，在两年内占据AI服务器市场一半份额。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "10月30日消息，英伟达发布Nemotron 3.5 Super VL模型（1200亿参数混合专家模型），结合推理、工具使用和多模态理解，并展示在亚马逊EKS上的部署。",
+      "importance": "高"
+    }
+  ]
+}
