@@ -1,0 +1,568 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31 14:25:21",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "阿里巴巴与 Apple 达成合作，将千问集成至 Apple 智能",
+      "summary": "10月31日消息，阿里巴巴与Apple达成合作，将千问集成至Apple智能，中国用户可在Siri、写作工具及视觉智能中直接调用千问的文本与图像理解、内容生成等能力，相关功能将于11月4日起随iOS开发者Beta版开放测试，12月正式版面向中国用户推出。",
+      "importance": "高",
+      "reason": "中国科技巨头与海外巨头重大战略合作，涉及AI助手系统级集成，影响数亿用户。",
+      "tags": [
+        "阿里巴巴",
+        "Apple",
+        "千问",
+        "战略合作",
+        "AI集成"
+      ],
+      "url": "https://www.qbitai.com/2026/10/506743.html",
+      "source": "量子位",
+      "original_pub_date": "2026-10-30 07:31:11",
+      "impact_score": 270.0
+    },
+    {
+      "index": 2,
+      "title": "天数智芯天垓300实测对标H200，国产GPU接下来拼什么？",
+      "summary": "10月31日消息，天数智芯在媒体开放日上展示最新一代天垓300与H200的实机对比，第三方测试显示在典型PD分离部署下单卡端到端吞吐达到H200的1.05倍，表明国产通用GPU在高端推理负载中已具备直接竞争的性能基础，但系统效率、软件适配与稳定交付仍是后续竞争关键。",
+      "importance": "高",
+      "reason": "国产GPU重大性能突破，实测对标国际旗舰产品，对AI算力自主可控意义重大。",
+      "tags": [
+        "天数智芯",
+        "天垓300",
+        "国产GPU",
+        "H200",
+        "性能突破"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/es0ZV9LsDEsG7QLE.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-30 22:52:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 3,
+      "title": "百度 APP 发布四大 AI 升级，搜索已实现递归自我进化",
+      "summary": "10月31日消息，百度APP发布四大AI升级，搜索已实现递归自我进化，通过AI技术持续优化搜索结果与用户体验，进一步提升搜索智能化水平。",
+      "importance": "高",
+      "reason": "百度核心产品重大AI升级，搜索实现递归自我进化，代表国内AI搜索技术前沿。",
+      "tags": [
+        "百度",
+        "AI升级",
+        "搜索",
+        "递归自我进化"
+      ],
+      "url": "https://www.leiphone.com/category/chips/748GRHfg9VPRbp7x.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-30 09:02:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 4,
+      "title": "“超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”",
+      "summary": "10月31日消息，联想天禧AI 4.5在AIPC端正式发布，带来“超能模式”全端升级，围绕三大场景打造“职场超能搭档”，进一步提升AI PC的智能办公与协同能力。",
+      "importance": "高",
+      "reason": "联想重大AI产品发布，全端升级覆盖PC生态，推动AI PC落地。",
+      "tags": [
+        "联想",
+        "天禧AI",
+        "AIPC",
+        "产品发布"
+      ],
+      "url": "https://www.leiphone.com/category/aihealth/BseLhlDzaWQ8XrWr.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-30 10:03:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 5,
+      "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
+      "summary": "10月31日消息，国内团队研发的AI算子生成技术实现零帧起手写算子，性能反超DeepSeek人类手写巅峰，速度提升9.8%，此前已连登昇腾三榜第一，展示了AI在底层算子优化领域的突破。",
+      "importance": "高",
+      "reason": "AI自动生成算子性能超越人类专家，对AI芯片软件生态和算子开发效率有重大意义。",
+      "tags": [
+        "AI算子",
+        "昇腾",
+        "DeepSeek",
+        "性能突破"
+      ],
+      "url": "https://www.leiphone.com/category/aihealth/zzOQHx9piL86TXHJ.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-30 09:51:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 6,
+      "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+      "summary": "10月31日消息，国内团队首次利用世界模型指导芯片设计，推出超大核NPU算力达700TOPS，算力可用率高达99%，标志着AI在芯片设计领域的创新应用取得重要进展。",
+      "importance": "高",
+      "reason": "世界模型首次用于芯片设计，NPU算力指标突出，属AI+芯片交叉领域重大突破。",
+      "tags": [
+        "世界模型",
+        "芯片设计",
+        "NPU",
+        "算力"
+      ],
+      "url": "https://www.leiphone.com/category/weiwu/KlCbWSV85pD8wKbW.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-30 11:12:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 7,
+      "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
+      "summary": "10月31日消息，国产开源OCR模型OXR以1.3B参数规模登顶全球第一，借助RSI技术重塑OCR能力，实现解析一切的目标，展示了国产开源模型在垂直领域的领先实力。",
+      "importance": "高",
+      "reason": "国产开源模型登顶全球第一，RSI技术应用成效显著，OCR领域重要突破。",
+      "tags": [
+        "RSI",
+        "开源",
+        "OCR",
+        "全球第一"
+      ],
+      "url": "https://www.qbitai.com/2026/10/506779.html",
+      "source": "量子位",
+      "original_pub_date": "2026-10-30 10:44:01",
+      "impact_score": 170.0
+    },
+    {
+      "index": 8,
+      "title": "科大讯飞董事长与总裁主动降薪，两人均少领超2000万；百度副总裁吴甜已离职",
+      "summary": "10月31日消息，科大讯飞回应高管薪资质疑，董事长与总裁主动降薪，两人均少领超2000万元；百度确认副总裁吴甜已离职，文心模型下周将发布新进展；华为“天才少年”杨玉雯加盟南京大学。",
+      "importance": "中",
+      "reason": "涉及科大讯飞、百度等国内AI企业高管变动与薪酬调整，反映行业人事动态。",
+      "tags": [
+        "科大讯飞",
+        "降薪",
+        "百度",
+        "离职",
+        "人事变动"
+      ],
+      "url": "https://www.qbitai.com/2026/10/506785.html",
+      "source": "量子位",
+      "original_pub_date": "2026-10-30 11:05:06",
+      "impact_score": 150.0
+    },
+    {
+      "index": 9,
+      "title": "沙钢接入千问办公，已将Agent落地核心业务场景",
+      "summary": "10月31日消息，江苏沙钢钢铁有限公司正式接入千问办公，已将Agent落地到电炉冶炼复盘、变压器状态评估、财务经营分析等核心业务场景，部分场景提效可达数百倍，推动钢铁生产数据进入智能工作流。",
+      "importance": "中",
+      "reason": "传统钢铁企业接入国产大模型Agent，AI落地工业核心场景的典型案例。",
+      "tags": [
+        "沙钢",
+        "千问办公",
+        "Agent",
+        "工业AI"
+      ],
+      "url": "https://www.qbitai.com/2026/10/506771.html",
+      "source": "量子位",
+      "original_pub_date": "2026-10-30 08:50:44",
+      "impact_score": 150.0
+    },
+    {
+      "index": 10,
+      "title": "一天造300万个沙盒，10万张卡自己写系统：2026年国产 RSI 到底有多野？",
+      "summary": "10月31日消息，国产RSI（AI造AI）成为2026年模型厂商争相晒的内部成绩单和一级市场最热方向，上海交大、清华、字节、商汤等35位研究者发表论文提出RSI五层分级标准，行业在自训练与经验沉淀方面快速推进。",
+      "importance": "中",
+      "reason": "国产RSI技术发展综述，涉及多家国内机构，反映AI自我进化领域前沿动态。",
+      "tags": [
+        "RSI",
+        "AI造AI",
+        "自训练",
+        "国产大模型"
+      ],
+      "url": "https://www.qbitai.com/2026/10/506866.html",
+      "source": "量子位",
+      "original_pub_date": "2026-10-31 05:11:19",
+      "impact_score": 142.5
+    },
+    {
+      "index": 11,
+      "title": "伯牙智能刘欣：GPT-6 之后，轮到硬件拖机器人后腿了 | 物理AI 50人",
+      "summary": "10月31日消息，伯牙智能创始人刘欣指出国内灵巧手去年出货近2万只但大部分“吃灰”，行业需开辟以可接受成本将科研级操作能力带入实际应用的第三个市场，认为GPT-6之后硬件成为机器人发展瓶颈。",
+      "importance": "中",
+      "reason": "国内具身智能硬件行业深度观察，灵巧手市场现状与瓶颈分析，具参考价值。",
+      "tags": [
+        "伯牙智能",
+        "灵巧手",
+        "具身智能",
+        "物理AI"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/zRRabO7xif7QiyjK.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-30 08:42:00",
+      "impact_score": 135.0
+    },
+    {
+      "index": 12,
+      "title": "智能驾驶进入物理AI时代？7位行业嘉宾给出最新判断",
+      "summary": "10月31日消息，第八届智能驾驶大会暨2026环秀湖物理AI产业发展推介会在苏州相城举行，7位行业嘉宾围绕世界模型、强化学习、端侧智能、Robotaxi等议题给出最新判断，讨论边界从智能驾驶向物理AI延伸。",
+      "importance": "中",
+      "reason": "国内智能驾驶与物理AI产业会议，汇聚行业专家判断，反映产业趋势。",
+      "tags": [
+        "智能驾驶",
+        "物理AI",
+        "世界模型",
+        "Robotaxi"
+      ],
+      "url": "https://www.qbitai.com/2026/10/506686.html",
+      "source": "量子位",
+      "original_pub_date": "2026-10-30 05:52:47",
+      "impact_score": 135.0
+    },
+    {
+      "index": 13,
+      "title": "欣旺达前三季度营收634.62亿元，终止H股上市计划",
+      "summary": "10月31日消息，欣旺达发布2026年三季度业绩，前三季度营收634.62亿元同比增长45.78%，同时终止H股上市计划，并引入小米作为战略股东对欣旺达动力增资扩股，持股比例降至22.78%，预计净利润增加32-45亿元。",
+      "importance": "中",
+      "reason": "国内新能源企业重大资本动态，小米战略入股，涉及AI相关硬件供应链。",
+      "tags": [
+        "欣旺达",
+        "小米",
+        "战略投资",
+        "H股"
+      ],
+      "url": "https://www.qbitai.com/2026/10/506747.html",
+      "source": "量子位",
+      "original_pub_date": "2026-10-30 08:12:11",
+      "impact_score": 127.5
+    },
+    {
+      "index": 14,
+      "title": "从“懂回答”到“能执行”：Zoho如何让AI走进企业业务",
+      "summary": "10月31日消息，Zoho在北京媒体沟通会上展示企业级AI全景战略，全球副总裁Mathivanan指出企业AI应用症结在于数据孤岛，中国COO夏海峰强调AI需参与实际业务流程才能创造商业价值，推动AI从回答走向执行。",
+      "importance": "低",
+      "reason": "Zoho在华企业AI战略沟通会，涉及企业级AI落地痛点，重要性一般。",
+      "tags": [
+        "Zoho",
+        "企业AI",
+        "数据孤岛",
+        "业务流程"
+      ],
+      "url": "https://www.leiphone.com/category/robot/EnKFLg1RRmN9SaHJ.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-30 07:13:00",
+      "impact_score": 120.0
+    },
+    {
+      "index": 15,
+      "title": "具身的数据管线，到底应该怎么做？",
+      "summary": "10月31日消息，具身数据厂商向模型厂商交付几万小时数据后，对方仍不确定训练效果，反映具身智能行业数据规模扩大但有效性未跟上，模型厂商面临数据采集投入与能力提升不匹配的困境。",
+      "importance": "低",
+      "reason": "具身智能数据管线行业痛点讨论，反映国内具身智能发展现状，重要性较低。",
+      "tags": [
+        "具身智能",
+        "数据管线",
+        "模型训练",
+        "行业观察"
+      ],
+      "url": "https://www.leiphone.com/category/academic/oi5NEt93WcuWwFr8.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-10-30 11:12:00",
+      "impact_score": 115.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "OpenAI Lowers Fundraising Target–After Decreasing Possible Valuation",
+      "summary": "10月31日消息，OpenAI将其最新一轮融资目标下调100亿美元，此前已将估值从1.4万亿美元下调至约1.25万亿美元，反映AI投资热潮降温。",
+      "importance": "高",
+      "reason": "OpenAI作为全球AI领军企业，大幅下调融资目标和估值，反映AI资本市场重大转向，属于重大商业动态。",
+      "tags": [
+        "OpenAI",
+        "融资",
+        "估值下调"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-10-30/nyse-owner-plans-hyperliquid-perpetuals-market-in-us-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-30 22:49:08",
+      "impact_score": 262.5
+    },
+    {
+      "index": 2,
+      "title": "OpenAI Funding Target Cut by $10 Billion as AI Slumps, FT Says",
+      "summary": "10月31日消息，据英国金融时报报道，OpenAI因AI股票抛售和竞争对手Anthropic即将上市，将融资目标削减100亿美元，融资难度加大。",
+      "importance": "高",
+      "reason": "与第4条互为补充，进一步揭示OpenAI融资困境及行业连锁反应，属于重大商业动态。",
+      "tags": [
+        "OpenAI",
+        "融资削减",
+        "AI股票抛售"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-10-30/baseten-set-for-30-billion-valuation-with-new-funding",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-30 22:02:59",
+      "impact_score": 240.0
+    },
+    {
+      "index": 3,
+      "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
+      "summary": "10月31日消息，ChatGPT开发商OpenAI将融资目标削减约100亿美元，现计划以1.25万亿美元估值融资约200亿美元，科技焦虑加剧。",
+      "importance": "高",
+      "reason": "金融时报详细报道OpenAI融资目标下调的具体数字和背景，属于重大商业动态。",
+      "tags": [
+        "OpenAI",
+        "融资目标",
+        "科技焦虑"
+      ],
+      "url": "https://www.theinformation.com/briefings/exclusive-cybersecurity-mania-push-cyera-valuation-20-billion",
+      "source": "The Information",
+      "original_pub_date": "2026-10-30 02:43:17",
+      "impact_score": 230.0
+    },
+    {
+      "index": 4,
+      "title": "OpenAI’s Altman Meets Samsung Executives as Chip Crunch Deepens",
+      "summary": "10月31日消息，OpenAI首席执行官萨姆·奥尔特曼在韩国会见三星集团高管，深化内存芯片和AI基础设施合作，以应对全球芯片短缺加剧。",
+      "importance": "高",
+      "reason": "OpenAI与三星的战略合作涉及AI芯片供应链关键环节，属于重大商业动态和战略合作。",
+      "tags": [
+        "OpenAI",
+        "三星",
+        "芯片合作"
+      ],
+      "url": "https://www.theinformation.com/briefings/openai-lowers-fundraising-target-after-decreasing-possible-valuation",
+      "source": "The Information",
+      "original_pub_date": "2026-10-31 00:33:18",
+      "impact_score": 210.0
+    },
+    {
+      "index": 5,
+      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+      "summary": "10月31日消息，黑石集团表示，AI公司Anthropic在IPO后预计将获得“高”垃圾级评级，而非此前预期的投资级评级，引发行业担忧。",
+      "importance": "高",
+      "reason": "Anthropic作为头部AI公司，IPO后评级低于预期，反映AI行业融资环境恶化，属于重大商业动态。",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "信用评级"
+      ],
+      "url": "https://arxiv.org/abs/2610.37896",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-10-31 04:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 6,
+      "title": "US tech stocks tumble as concerns over AI spending intensify",
+      "summary": "10月31日消息，美国科技股大幅下跌，因市场对AI支出担忧加剧，Anthropic IPO后可能获垃圾评级的消息进一步引发行业借贷狂潮的忧虑。",
+      "importance": "高",
+      "reason": "美国科技股因AI支出担忧集体下挫，反映市场对AI投资回报的质疑，属于重大商业动态。",
+      "tags": [
+        "科技股",
+        "AI支出",
+        "市场担忧"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-10-31/openai-sam-altman-samsung-executives-memory-crunch-deepens",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-31 06:40:29",
+      "impact_score": 180.0
+    },
+    {
+      "index": 7,
+      "title": "AI Spending Fears Hammer Big Tech Stocks",
+      "summary": "10月31日消息，彭博社报道称，大型科技公司财报令人失望，加剧投资者对AI巨额支出能否产生足够回报的担忧，Alphabet和英特尔承压明显。",
+      "importance": "高",
+      "reason": "AI支出担忧冲击大型科技股，涉及Alphabet和英特尔等巨头，属于重大商业动态。",
+      "tags": [
+        "AI支出",
+        "科技股",
+        "财报"
+      ],
+      "url": "https://www.theinformation.com/articles/doordash-thrive-go-shopping",
+      "source": "The Information",
+      "original_pub_date": "2026-10-30 00:01:23",
+      "impact_score": 173.0
+    },
+    {
+      "index": 8,
+      "title": "Baseten to Raise Funding That Would Double Value to $30 Billion",
+      "summary": "10月31日消息，AI初创公司Baseten即将完成新一轮融资，估值将翻倍至约300亿美元，显示AI基础设施领域投资热度不减。",
+      "importance": "高",
+      "reason": "Baseten估值翻倍至300亿美元，属于重大融资动态，反映AI基础设施赛道受资本追捧。",
+      "tags": [
+        "Baseten",
+        "融资",
+        "估值"
+      ],
+      "url": "https://arxiv.org/abs/2610.37905",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-10-31 04:00:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 9,
+      "title": "Exclusive: Cybersecurity Startup Cyera Discusses $20 Billion Valuation",
+      "summary": "10月31日消息，专注于防御AI攻击的网络安全初创公司Cyera正与投资者洽谈融资，估值将接近翻倍至200亿美元。",
+      "importance": "高",
+      "reason": "Cyera估值达200亿美元，属于重大融资动态，且聚焦AI安全领域，具有行业代表性。",
+      "tags": [
+        "Cyera",
+        "网络安全",
+        "融资"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-10-30 20:48:43",
+      "impact_score": 158.0
+    },
+    {
+      "index": 10,
+      "title": "Inside the make-or-break AI mega-project behind Nscale’s $35bn IPO",
+      "summary": "10月31日消息，英伟达支持的AI云服务商Nscale推进350亿美元IPO，但其西弗吉尼亚数据中心项目面临建设问题、当地反对和融资风险。",
+      "importance": "高",
+      "reason": "Nscale获英伟达支持，350亿美元IPO为重大商业动态，且涉及AI基础设施建设的风险与挑战。",
+      "tags": [
+        "Nscale",
+        "IPO",
+        "数据中心"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-10-30 13:01:14",
+      "impact_score": 158.0
+    },
+    {
+      "index": 11,
+      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "summary": "10月31日消息，维基百科运营方维基媒体基金会在AI版权案中主张中间立场，警告法院若做出非黑即白的裁决，可能威胁开放网络生态。",
+      "importance": "中",
+      "reason": "涉及AI版权重大法律争议，维基媒体基金会立场可能影响LLM训练数据合法性，属于政策法规相关动态。",
+      "tags": [
+        "AI版权",
+        "维基百科",
+        "法律"
+      ],
+      "url": "https://www.ft.com/content/f006c111-e683-4dbb-8104-40a8df131ee6?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-10-30 05:00:13",
+      "impact_score": 157.5
+    },
+    {
+      "index": 12,
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "summary": "10月31日消息，OpenAI首席执行官萨姆·奥尔特曼表示，在内存短缺背景下，将内存用于数据中心比用于个人电脑更合理，称后者“很糟糕”。",
+      "importance": "中",
+      "reason": "奥尔特曼就内存供应链短缺发表争议性言论，反映AI算力需求对硬件资源的挤占，属于行业重要观点。",
+      "tags": [
+        "Sam Altman",
+        "内存短缺",
+        "数据中心"
+      ],
+      "url": "https://www.ft.com/content/46c03338-63d5-43fc-a946-ebcbe9e1c07a?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-10-30 11:20:19",
+      "impact_score": 150.0
+    },
+    {
+      "index": 13,
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "summary": "10月31日消息，OpenAI首席执行官萨姆·奥尔特曼对数学家面对AI生成成果的困扰表示同情，但明确表示OpenAI在数学领域的攻势不会停止。",
+      "importance": "中",
+      "reason": "奥尔特曼就AI对数学研究的影响表态，涉及AI学术生态，属于重要行业观点。",
+      "tags": [
+        "Sam Altman",
+        "数学",
+        "AI研究"
+      ],
+      "url": "https://arxiv.org/abs/2610.38024",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-10-31 04:00:00",
+      "impact_score": 145.0
+    },
+    {
+      "index": 14,
+      "title": "AstraZeneca CFO on AI, Earnings, Restructuring Plan",
+      "summary": "10月31日消息，阿斯利康首席财务官表示，该公司在几乎所有工作环节中应用AI，并谈及财报超预期、药物管线及交易策略。",
+      "importance": "中",
+      "reason": "大型药企阿斯利康全面应用AI，属于传统行业AI落地的代表性商业动态。",
+      "tags": [
+        "阿斯利康",
+        "AI应用",
+        "财报"
+      ],
+      "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+      "source": "MIT Technology Review",
+      "original_pub_date": "2026-10-30 11:30:00",
+      "impact_score": 142.5
+    },
+    {
+      "index": 15,
+      "title": "How North Korea became a hacking superpower",
+      "summary": "10月31日消息，英国金融时报报道称，受制裁的朝鲜大力投资网络战能力，已发展成为黑客超级大国，以网络攻击支撑国家收入。",
+      "importance": "中",
+      "reason": "涉及朝鲜网络攻击能力及制裁背景，属于海外网络安全与地缘政治动态。",
+      "tags": [
+        "朝鲜",
+        "网络攻击",
+        "制裁"
+      ],
+      "url": "https://arxiv.org/abs/2610.38006",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-10-31 04:00:00",
+      "impact_score": 135.0
+    }
+  ],
+  "summary": "今日从141条原始信息中精选出15条国内动态和15条国际动态，其中17条为高重要性。 重点关注：阿里巴巴与 Apple 达成合作，将千问集成至 Apple 智能；天数智芯天垓300实测对标H200，国产GPU接下来拼什么？；百度 APP 发布四大 AI 升级，搜索已实现递归自我进化。",
+  "statistics": {
+    "raw_domestic": 23,
+    "raw_international": 118,
+    "raw_total": 141,
+    "final_domestic": 15,
+    "final_international": 15
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "10月31日消息，阿里巴巴与Apple达成合作，将千问集成至Apple智能，中国用户可在Siri、写作工具及视觉智能中直接调用千问的文本与图像理解、内容生成等能力，相关功能将于11月4日起随iOS开发者Beta版开放测试，12月正式版面向中国用户推出。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "10月31日消息，天数智芯在媒体开放日上展示最新一代天垓300与H200的实机对比，第三方测试显示在典型PD分离部署下单卡端到端吞吐达到H200的1.05倍，表明国产通用GPU在高端推理负载中已具备直接竞争的性能基础，但系统效率、软件适配与稳定交付仍是后续竞争关键。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "10月31日消息，百度APP发布四大AI升级，搜索已实现递归自我进化，通过AI技术持续优化搜索结果与用户体验，进一步提升搜索智能化水平。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "10月31日消息，联想天禧AI 4.5在AIPC端正式发布，带来“超能模式”全端升级，围绕三大场景打造“职场超能搭档”，进一步提升AI PC的智能办公与协同能力。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "10月31日消息，国内团队研发的AI算子生成技术实现零帧起手写算子，性能反超DeepSeek人类手写巅峰，速度提升9.8%，此前已连登昇腾三榜第一，展示了AI在底层算子优化领域的突破。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "10月31日消息，OpenAI将其最新一轮融资目标下调100亿美元，此前已将估值从1.4万亿美元下调至约1.25万亿美元，反映AI投资热潮降温。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "10月31日消息，据英国金融时报报道，OpenAI因AI股票抛售和竞争对手Anthropic即将上市，将融资目标削减100亿美元，融资难度加大。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "10月31日消息，ChatGPT开发商OpenAI将融资目标削减约100亿美元，现计划以1.25万亿美元估值融资约200亿美元，科技焦虑加剧。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "10月31日消息，OpenAI首席执行官萨姆·奥尔特曼在韩国会见三星集团高管，深化内存芯片和AI基础设施合作，以应对全球芯片短缺加剧。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "10月31日消息，黑石集团表示，AI公司Anthropic在IPO后预计将获得“高”垃圾级评级，而非此前预期的投资级评级，引发行业担忧。",
+      "importance": "高"
+    }
+  ]
+}
