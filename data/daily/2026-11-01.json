@@ -1,0 +1,428 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01 14:51:55",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "工信部发布人工智能产业发展指导意见",
+      "summary": "11月1日消息，工业和信息化部发布《关于促进人工智能产业高质量发展的指导意见》，提出到2027年人工智能核心产业规模超过万亿元的目标。",
+      "importance": "高",
+      "reason": "重大政策法规，工信部发布国家级AI产业指导意见，设定万亿产业规模目标，对行业发展具有顶层设计意义。",
+      "tags": [
+        "政策法规",
+        "工信部",
+        "人工智能",
+        "产业规划"
+      ],
+      "url": "https://www.qbitai.com/2026/10/506904.html",
+      "source": "量子位",
+      "original_pub_date": "2026-10-31 13:49:44",
+      "impact_score": 170.0
+    },
+    {
+      "index": 2,
+      "title": "中国科学院发布大模型评测报告",
+      "summary": "11月1日消息，中国科学院发布国产大模型能力评测报告，对主流大模型在多个维度进行了全面评估，为行业发展提供参考。",
+      "importance": "高",
+      "reason": "国家级研究机构发布权威评测报告，对国产大模型进行系统评估，为行业提供重要参考标准。",
+      "tags": [
+        "学术机构",
+        "大模型",
+        "评测报告",
+        "中国科学院"
+      ],
+      "url": "https://www.qbitai.com/2026/10/506866.html",
+      "source": "量子位",
+      "original_pub_date": "2026-10-31 05:11:19",
+      "impact_score": 142.5
+    },
+    {
+      "index": 3,
+      "title": "DeepSeek重磅开源：Agent底座架构！",
+      "summary": "11月1日消息，DeepSeek重磅开源Agent底座架构，AI已能自主发现Bug并提交PR，显著提升自动化开发能力。",
+      "importance": "高",
+      "reason": "国内AI公司DeepSeek发布重大开源成果，Agent底座架构实现AI自主发现Bug并提交PR，具有重要技术影响力。",
+      "tags": [
+        "开源",
+        "DeepSeek",
+        "Agent",
+        "自动化开发"
+      ],
+      "url": "https://www.qbitai.com/2026/11/506922.html",
+      "source": "量子位",
+      "original_pub_date": "2026-11-01 04:18:37",
+      "impact_score": 135.0
+    },
+    {
+      "index": 4,
+      "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+      "summary": "11月1日消息，国内团队首次利用世界模型指导芯片设计，推出超大核NPU实现700TOPS算力，99%算力可用。",
+      "importance": "中",
+      "reason": "国内AI芯片设计取得突破，世界模型首次用于芯片设计，NPU算力达700TOPS且利用率极高，属重大产品/技术进展。",
+      "tags": [
+        "芯片",
+        "NPU",
+        "世界模型",
+        "算力"
+      ],
+      "url": "",
+      "source": "工信部",
+      "original_pub_date": "",
+      "impact_score": 105.0
+    },
+    {
+      "index": 5,
+      "title": "Jev新成果，再次引爆开源",
+      "summary": "11月1日消息，国内开发者Jev发布新开源成果，以极致性价比再次引爆开源社区，受到广泛关注。",
+      "importance": "中",
+      "reason": "国内开发者开源成果引发社区关注，体现国内开源生态活跃度，但具体细节有限，重要性中等。",
+      "tags": [
+        "开源",
+        "Jev",
+        "性价比"
+      ],
+      "url": "",
+      "source": "中国科学院",
+      "original_pub_date": "",
+      "impact_score": 105.0
+    },
+    {
+      "index": 6,
+      "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+      "summary": "11月1日消息，清华姚期智团队提出代数世界模型，让AI像牛顿一样进行物理推理，在AI基础理论方面取得新突破。",
+      "importance": "中",
+      "reason": "清华大学姚期智团队在AI基础理论方面取得学术突破，提出代数世界模型，具有重大学术价值。",
+      "tags": [
+        "学术突破",
+        "清华大学",
+        "世界模型",
+        "物理推理"
+      ],
+      "url": "https://www.qbitai.com/2026/11/507031.html",
+      "source": "量子位",
+      "original_pub_date": "2026-11-01 08:02:37",
+      "impact_score": 45.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "OpenAI Lowers Fundraising Target–After Decreasing Possible Valuation",
+      "summary": "11月1日消息，OpenAI将其最新一轮融资目标从300亿美元下调至约200亿美元，估值从1.4万亿美元降至1.25万亿美元，反映出市场对AI投资热情的降温。",
+      "importance": "高",
+      "reason": "OpenAI作为全球AI领军企业，大幅下调融资目标和估值是重大商业动态，影响行业信心。",
+      "tags": [
+        "OpenAI",
+        "融资",
+        "估值下调"
+      ],
+      "url": "https://www.theinformation.com/briefings/openai-lowers-fundraising-target-after-decreasing-possible-valuation",
+      "source": "The Information",
+      "original_pub_date": "2026-10-31 00:33:18",
+      "impact_score": 210.0
+    },
+    {
+      "index": 2,
+      "title": "FBI Says North Korea Behind $6.3 Billion Binance Hack",
+      "summary": "11月1日消息，美国联邦调查局表示朝鲜应对币安交易所63亿美元加密货币被盗事件负责，这是史上最大规模的加密货币黑客攻击。",
+      "importance": "高",
+      "reason": "涉及国家级黑客攻击和巨额资产安全，属于重大安全事件，且发生在美国监管范围内。",
+      "tags": [
+        "FBI",
+        "朝鲜",
+        "币安",
+        "黑客攻击"
+      ],
+      "url": "https://www.theinformation.com/briefings/fbi-says-north-korea-behind-6-3-billion-binance-hack",
+      "source": "The Information",
+      "original_pub_date": "2026-10-31 23:17:05",
+      "impact_score": 160.0
+    },
+    {
+      "index": 3,
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "summary": "11月1日消息，美国法官允许全国有色人种协进会对xAI数据中心污染提起的诉讼继续进行，该诉讼指控其违反《清洁空气法》。",
+      "importance": "高",
+      "reason": "涉及海外AI公司xAI的环境污染法律诉讼，属于重大伦理与法律动态。",
+      "tags": [
+        "xAI",
+        "诉讼",
+        "环境污染"
+      ],
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-10-31 21:17:03",
+      "impact_score": 145.0
+    },
+    {
+      "index": 4,
+      "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
+      "summary": "11月1日消息，OpenAI将融资目标削减100亿美元至约200亿美元，估值降至1.25万亿美元，因科技行业焦虑情绪加剧。",
+      "importance": "高",
+      "reason": "与第1条类似，但来源为金融时报，进一步确认OpenAI融资下调的重大影响。",
+      "tags": [
+        "OpenAI",
+        "融资",
+        "科技焦虑"
+      ],
+      "url": "https://www.theinformation.com/articles/billionaire-tax-might-fail-for-now",
+      "source": "The Information",
+      "original_pub_date": "2026-10-31 15:01:29",
+      "impact_score": 140.5
+    },
+    {
+      "index": 5,
+      "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+      "summary": "11月1日消息，SpaceX未能驳回全国有色人种协进会就其孟菲斯数据中心空气污染提起的诉讼，该数据中心及配套电厂多年来面临社区反对。",
+      "importance": "高",
+      "reason": "涉及海外公司SpaceX的AI数据中心环境诉讼，属于重大法律与伦理动态。",
+      "tags": [
+        "SpaceX",
+        "诉讼",
+        "空气污染"
+      ],
+      "url": "https://www.ft.com/content/937308d7-aa2e-4dac-b19b-423d83bc1253?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-11-01 05:00:17",
+      "impact_score": 135.0
+    },
+    {
+      "index": 6,
+      "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
+      "summary": "11月1日消息，OpenAI将其最新一轮融资目标下调至最多200亿美元，该轮融资仍在进行中，具体数字可能变化。",
+      "importance": "高",
+      "reason": "再次确认OpenAI融资目标下调，属于重大商业动态。",
+      "tags": [
+        "OpenAI",
+        "融资",
+        "目标下调"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-10-31/fbi-blames-north-korea-for-6-billion-binance-crypto-hack",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-10-31 21:59:09",
+      "impact_score": 127.5
+    },
+    {
+      "index": 7,
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "summary": "11月1日消息，苹果公司首席执行官表示，公司不打算为了AI而AI，强调了其在AI领域的审慎立场。",
+      "importance": "高",
+      "reason": "苹果CEO对AI战略的公开表态，涉及全球科技巨头的AI方向，属于重大商业动态。",
+      "tags": [
+        "苹果",
+        "CEO",
+        "AI战略"
+      ],
+      "url": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-10-31 00:05:08",
+      "impact_score": 127.5
+    },
+    {
+      "index": 8,
+      "title": "DeepSeek Drops Enhanced Coding Agent With Aim to Rival Anthropic",
+      "summary": "11月1日消息，DeepSeek发布了一款更自主的编码智能体原型，旨在挑战Anthropic的Claude Code。",
+      "importance": "中",
+      "reason": "虽然主体是中国公司DeepSeek，但新闻涉及与海外公司Anthropic的竞争，且发生在全球AI市场，按标准应归类为国际动态。",
+      "tags": [
+        "DeepSeek",
+        "编码智能体",
+        "Anthropic"
+      ],
+      "url": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-10-31 20:12:37",
+      "impact_score": 115.0
+    },
+    {
+      "index": 9,
+      "title": "Investors trim growth bets over fears of US economy’s AI exposure",
+      "summary": "11月1日消息，投资者因担心美国经济对AI的过度依赖而削减增长押注，在长期抛售后重返债券市场。",
+      "importance": "中",
+      "reason": "反映美国市场对AI投资风险的担忧，属于重大商业动态。",
+      "tags": [
+        "投资者",
+        "AI暴露",
+        "债券"
+      ],
+      "url": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-10-31 19:56:23",
+      "impact_score": 90.0
+    },
+    {
+      "index": 10,
+      "title": "Is this the first clear evidence of AI’s impact on the labour market?",
+      "summary": "11月1日消息，有迹象显示AI对劳动力市场产生初步影响，科技行业生产率上升而就业下降，但其他领域情况尚不明朗。",
+      "importance": "中",
+      "reason": "涉及AI对全球劳动力市场的影响，属于重要学术与商业动态。",
+      "tags": [
+        "AI",
+        "劳动力市场",
+        "就业"
+      ],
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-10-31 21:41:00",
+      "impact_score": 86.5
+    },
+    {
+      "index": 11,
+      "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+      "summary": "11月1日消息，聊天机器人正将徒步者引向歧途，导致危险后果，过度依赖AI规划可能让人放弃批判性思维。",
+      "importance": "低",
+      "reason": "涉及AI安全与伦理问题，发生在海外，属于国际动态。",
+      "tags": [
+        "聊天机器人",
+        "安全",
+        "伦理"
+      ],
+      "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-11-01 12:19:33",
+      "impact_score": 75.0
+    },
+    {
+      "index": 12,
+      "title": "Meta Built Humanoid Prototype With Chinese Startup To Ramp Up Robotics Push",
+      "summary": "11月1日消息，Meta与中国机器人公司傅利叶合作建造了一款人形机器人原型，并已着手开发第二版，以加速家用机器人布局。",
+      "importance": "低",
+      "reason": "主体是海外公司Meta，涉及与中国初创企业的合作，属于国际动态。",
+      "tags": [
+        "Meta",
+        "人形机器人",
+        "傅利叶"
+      ],
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-10-31 21:36:07",
+      "impact_score": 71.5
+    },
+    {
+      "index": 13,
+      "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+      "summary": "11月1日消息，一种名为Volta-Autodoxer的新型信息窃取恶意软件利用AI工具收集受害者大量数据，包括登录凭证和信用卡号等。",
+      "importance": "低",
+      "reason": "涉及AI安全事件，发生在海外，属于国际动态。",
+      "tags": [
+        "恶意软件",
+        "AI",
+        "安全"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-01 03:48:18",
+      "impact_score": 45.0
+    },
+    {
+      "index": 14,
+      "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+      "summary": "11月1日消息，一家生物技术初创公司让AI智能体选择基因疗法并成功向活体小鼠大脑注射治疗药物，展示了研究实验室的未来图景。",
+      "importance": "低",
+      "reason": "涉及海外AI在生物医学领域的突破性应用，属于国际动态。",
+      "tags": [
+        "AI智能体",
+        "基因疗法",
+        "生物技术"
+      ],
+      "url": "https://www.ft.com/content/56b0d5fa-829c-47b1-b07b-b4be18f60151?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-10-31 14:00:02",
+      "impact_score": 45.0
+    },
+    {
+      "index": 15,
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "summary": "11月1日消息，英伟达正考虑为Nscale在西弗吉尼亚州的AI数据中心贷款提供共同签署担保，以缓解投资者对AI支出的担忧。",
+      "importance": "低",
+      "reason": "涉及海外公司英伟达的重大商业动态，属于国际动态。",
+      "tags": [
+        "英伟达",
+        "AI数据中心",
+        "贷款担保"
+      ],
+      "url": "https://www.ft.com/content/6c099dc6-1fb3-44fc-b011-70229e3755cb?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-10-31 05:00:39",
+      "impact_score": 45.0
+    },
+    {
+      "index": 16,
+      "title": "S&P Lowers Meta’s Credit Outlook Amid Soaring AI Spending",
+      "summary": "11月1日消息，标普全球将Meta的信用评级展望从稳定下调至负面，称其快速增长的AI投资变现能力比同行更有限。",
+      "importance": "低",
+      "reason": "涉及海外公司Meta的信用评级下调，属于重大商业动态。",
+      "tags": [
+        "Meta",
+        "标普",
+        "信用评级"
+      ],
+      "url": "https://www.ft.com/content/7f27aa5f-5994-4f82-aed8-1cade18fb487?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-10-31 05:00:31",
+      "impact_score": 45.0
+    }
+  ],
+  "summary": "今日从36条原始信息中精选出6条国内动态和16条国际动态，其中10条为高重要性。 重点关注：工信部发布人工智能产业发展指导意见；中国科学院发布大模型评测报告；DeepSeek重磅开源：Agent底座架构！。",
+  "statistics": {
+    "raw_domestic": 6,
+    "raw_international": 30,
+    "raw_total": 36,
+    "final_domestic": 6,
+    "final_international": 16
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "11月1日消息，工业和信息化部发布《关于促进人工智能产业高质量发展的指导意见》，提出到2027年人工智能核心产业规模超过万亿元的目标。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "11月1日消息，中国科学院发布国产大模型能力评测报告，对主流大模型在多个维度进行了全面评估，为行业发展提供参考。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "11月1日消息，DeepSeek重磅开源Agent底座架构，AI已能自主发现Bug并提交PR，显著提升自动化开发能力。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "11月1日消息，国内团队首次利用世界模型指导芯片设计，推出超大核NPU实现700TOPS算力，99%算力可用。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "11月1日消息，国内开发者Jev发布新开源成果，以极致性价比再次引爆开源社区，受到广泛关注。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "11月1日消息，OpenAI将其最新一轮融资目标从300亿美元下调至约200亿美元，估值从1.4万亿美元降至1.25万亿美元，反映出市场对AI投资热情的降温。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "11月1日消息，美国联邦调查局表示朝鲜应对币安交易所63亿美元加密货币被盗事件负责，这是史上最大规模的加密货币黑客攻击。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "11月1日消息，美国法官允许全国有色人种协进会对xAI数据中心污染提起的诉讼继续进行，该诉讼指控其违反《清洁空气法》。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "11月1日消息，OpenAI将融资目标削减100亿美元至约200亿美元，估值降至1.25万亿美元，因科技行业焦虑情绪加剧。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "11月1日消息，SpaceX未能驳回全国有色人种协进会就其孟菲斯数据中心空气污染提起的诉讼，该数据中心及配套电厂多年来面临社区反对。",
+      "importance": "高"
+    }
+  ]
+}
