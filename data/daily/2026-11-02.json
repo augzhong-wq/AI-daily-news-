@@ -1,0 +1,502 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02 18:01:44",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "美团发布LongCat-2.5大模型，“国芯国模”实现新突破",
+      "summary": "11月2日消息，美团发布新一代大模型LongCat-2.5，总参数1.6万亿，全程在国产算力上训练，是目前国产算力上完成的最大训练任务。",
+      "importance": "高",
+      "reason": "中国公司发布旗舰大模型，且全程国产算力训练，属重大产品发布与技术突破。",
+      "tags": [
+        "大模型",
+        "国产算力",
+        "美团"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/oPrDWg9bNg1Dgy4a.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-02 09:41:00",
+      "impact_score": 315.0
+    },
+    {
+      "index": 2,
+      "title": "破解智能体跨端协同办事难题，支付宝AHA方案获世界互联网大会“新耀”场景奖",
+      "summary": "11月2日消息，支付宝AHA智能体多端互联方案获世界互联网大会“新耀”场景奖，该方案支持跨品牌、跨终端智能体协同办事，破解智能体生态孤岛难题。",
+      "importance": "高",
+      "reason": "中国公司支付宝获国际性奖项，方案具产业应用价值，属重大产品与生态突破。",
+      "tags": [
+        "智能体",
+        "支付宝",
+        "世界互联网大会"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/hsSSzyalKJd6vnkf.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-02 08:30:00",
+      "impact_score": 315.0
+    },
+    {
+      "index": 3,
+      "title": "阿里Qoder获世界互联网大会领先科技奖，已服务超800万用户、10万家企业",
+      "summary": "11月2日消息，阿里智能体平台Qoder获世界互联网大会领先科技奖，是国内唯一获该奖的通用Agent产品，已服务超800万用户、10万家企业。",
+      "importance": "高",
+      "reason": "中国公司阿里获国际性科技奖项，产品用户规模大，属重大产品与商业动态。",
+      "tags": [
+        "智能体",
+        "阿里",
+        "世界互联网大会"
+      ],
+      "url": "https://www.leiphone.com/category/aihealth/Ls0rEvCHmgKUScmR.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-02 06:15:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 4,
+      "title": "阿里云发布AI投研工作台Qovest，给专业投资者配一个“AI研究员”",
+      "summary": "11月2日消息，阿里云发布面向专业机构投资者的AI投研工作台Qovest，用户一句话提出需求即可自动查数据、分析并生成报告，近期将推出企业版。",
+      "importance": "高",
+      "reason": "中国公司阿里云发布重要AI产品，面向金融场景，属重大产品发布。",
+      "tags": [
+        "AI投研",
+        "阿里云",
+        "金融"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/MK1z0js4sqcp1xca.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-01 09:46:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 5,
+      "title": "半小时卖出2万亿Token，李佳琦直播卖千问办公爆火",
+      "summary": "11月2日消息，李佳琦直播间半小时售出10万份千问办公个人会员月卡，累计约2万亿Token，千问办公CEO做客直播间分享AI办公场景。",
+      "importance": "中",
+      "reason": "中国公司千问办公产品通过直播带货爆火，属重大商业动态与产品推广。",
+      "tags": [
+        "千问办公",
+        "直播带货",
+        "Token"
+      ],
+      "url": "https://www.leiphone.com/category/ai/GqrJT2vlPFBxElDY.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-02 10:23:00",
+      "impact_score": 255.0
+    },
+    {
+      "index": 6,
+      "title": "产业资本继续押注具身：斯坦福双子星创办的黑马公司 RoboScience 机器科学，宣布完成 A2 轮融资",
+      "summary": "11月2日消息，RoboScience机器科学完成数亿元A2轮融资，由琥珀资本、鸿瑞达投资、上海半导体产投联合领投，360战投等跟投，公司2025年3月运营至今已完成五轮融资。",
+      "importance": "中",
+      "reason": "中国具身智能公司完成大额融资，属重大商业动态。",
+      "tags": [
+        "具身智能",
+        "融资",
+        "RoboScience"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/MFtJXmU8YNMGMig6.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-02 07:09:00",
+      "impact_score": 225.0
+    },
+    {
+      "index": 7,
+      "title": "具身下半场怎么打？智元用一场发布会，给出了自己的答案",
+      "summary": "11月2日消息，智元机器人召开具身智能发布会，以2万台出货量背后的“Worken”算力账本回应行业焦虑，展示具身智能落地路径。",
+      "importance": "中",
+      "reason": "中国具身智能公司智元发布重要战略与产品，属重大产品与商业动态。",
+      "tags": [
+        "具身智能",
+        "智元",
+        "发布会"
+      ],
+      "url": "https://www.leiphone.com/category/ai/d2myOaWdKKFW23lm.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-02 10:21:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 8,
+      "title": "小米开源了个150元的AI小玩意，火到配件都涨价了",
+      "summary": "11月2日消息，小米开源一款售价150元的AI小设备，可指挥Agent干活并控制智能家居，产品火爆导致配件涨价。",
+      "importance": "中",
+      "reason": "中国公司小米开源AI硬件产品，属重大产品发布与开源动态。",
+      "tags": [
+        "小米",
+        "开源",
+        "AI硬件"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/JrXpr0xuLSNA9sOY.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-02 09:26:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 9,
+      "title": "QuestMobile报告：OPPO小布建议9月活跃用户同比增长139.9%",
+      "summary": "11月2日消息，QuestMobile报告显示OPPO小布建议9月活跃用户同比增长139.9%，增速位列终端系统级AI应用之首，月人均使用次数同比增长214.3%。",
+      "importance": "中",
+      "reason": "中国公司OPPO系统级AI应用用户高速增长，属重要商业数据与产品动态。",
+      "tags": [
+        "OPPO",
+        "系统级AI",
+        "用户增长"
+      ],
+      "url": "https://www.leiphone.com/category/fintech/y2eDRanVtlSZl8w6.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-02 05:59:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 10,
+      "title": "顶级AI翻车的活儿，被这个新出的免费国产AI接住了！",
+      "summary": "11月2日消息，商汤发布SenseNova 6.8 Flash免费国产AI模型，在顶级AI翻车场景中表现突出，展现国产模型能力。",
+      "importance": "中",
+      "reason": "中国公司商汤发布新模型，属产品发布与性能突破。",
+      "tags": [
+        "商汤",
+        "SenseNova",
+        "国产模型"
+      ],
+      "url": "https://www.leiphone.com/category/transportation/oDbG4KXJpt7KOOqy.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-01 07:13:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 11,
+      "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+      "summary": "11月2日消息，清华姚期智团队提出代数世界模型，让AI像牛顿一样思考，属世界模型方向的重要学术突破。",
+      "importance": "中",
+      "reason": "中国研究机构清华大学团队发表重要学术成果，属重大学术突破。",
+      "tags": [
+        "清华大学",
+        "世界模型",
+        "学术突破"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/uZRzXBZy6pdl88Uf.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-02 01:54:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 12,
+      "title": "央视严选「中国AI创业十骏」：唯一AI制药公司是清华系",
+      "summary": "11月2日消息，央视严选“中国AI创业十骏”名单公布，唯一AI制药公司为清华系企业，采用模型管线双驱动模式。",
+      "importance": "低",
+      "reason": "中国AI制药公司获央视认可，属行业荣誉与商业动态。",
+      "tags": [
+        "AI制药",
+        "清华系",
+        "央视"
+      ],
+      "url": "https://www.qbitai.com/2026/11/507107.html",
+      "source": "量子位",
+      "original_pub_date": "2026-11-02 06:08:04",
+      "impact_score": 150.0
+    },
+    {
+      "index": 13,
+      "title": "从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信",
+      "summary": "11月2日消息，上海仪电与上海创智学院联合发布“飞轮转·万象生”仪电智算数链生态，推出Token工厂三重可信体系。",
+      "importance": "低",
+      "reason": "中国机构联合发布智算生态，属产品与生态合作动态。",
+      "tags": [
+        "仪电智算",
+        "Token工厂",
+        "生态"
+      ],
+      "url": "https://www.leiphone.com/category/weiwu/AfQerzZ1HwVzZ2yZ.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-02 10:14:00",
+      "impact_score": 135.0
+    },
+    {
+      "index": 14,
+      "title": "我国吨级商用无人运输机转入批量生产：华鹰航空HE-1A首架量产机在渭南总装下线",
+      "summary": "11月2日消息，华鹰航空HE-1A吨级商用无人运输机首架量产机在渭南总装下线，最大起飞重量4吨、有效载重2吨，标志我国吨级商用无人运输机转入批量生产。",
+      "importance": "低",
+      "reason": "中国公司华鹰航空无人运输机量产，属重大商业与产业进展。",
+      "tags": [
+        "无人运输机",
+        "华鹰航空",
+        "量产"
+      ],
+      "url": "https://www.qbitai.com/2026/11/507260.html",
+      "source": "量子位",
+      "original_pub_date": "2026-11-02 07:47:38",
+      "impact_score": 135.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Anthropic Revenue Hits Nearly $17 Billion Before Mega-IPO",
+      "summary": "11月2日消息，美国AI公司Anthropic第三季度营收近170亿美元，同比增长12倍，为其可能创纪录的IPO造势。",
+      "importance": "高",
+      "reason": "海外AI巨头重大商业动态，营收数据与IPO进展对行业影响巨大。",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "营收"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-11-02/anthropic-revenue-hits-nearly-17b-before-mega-ipo-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-02 15:56:11",
+      "impact_score": 240.0
+    },
+    {
+      "index": 2,
+      "title": "Anthropic Commits to $895 Billion in Spending as Mega-IPO Nears",
+      "summary": "11月2日消息，Anthropic披露未来数年计划支出超8950亿美元，同时季度营收增长12倍，正为创纪录IPO吸引投资者。",
+      "importance": "高",
+      "reason": "海外AI巨头巨额支出计划与IPO进程，反映行业资本密集趋势。",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "支出"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-11-02/anthropic-revenue-nears-17-billion-ahead-of-ipo-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-02 15:15:06",
+      "impact_score": 240.0
+    },
+    {
+      "index": 3,
+      "title": "Anthropic’s Revenue Surged to $17 Billion in Q3, Swung Back to Operating Loss",
+      "summary": "11月2日消息，Anthropic第三季度营收近170亿美元，环比增47%，但净亏损233亿美元，IPO前增长放缓迹象显现。",
+      "importance": "高",
+      "reason": "海外AI公司财务细节披露，营收增速放缓与亏损扩大引发市场关注。",
+      "tags": [
+        "Anthropic",
+        "财报",
+        "IPO"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-revenue-hits-nearly-17-billion-before-blockbuster-ipo",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-02 14:38:35",
+      "impact_score": 240.0
+    },
+    {
+      "index": 4,
+      "title": "Marvell to Buy Lumentum in $115 Billion All-Stock Deal",
+      "summary": "11月2日消息，美国芯片制造商Marvell同意以1150亿美元全股票交易收购激光器公司Lumentum，成为史上最大半导体并购之一。",
+      "importance": "高",
+      "reason": "海外半导体行业重大并购，涉及AI数据中心芯片生态，交易规模巨大。",
+      "tags": [
+        "Marvell",
+        "Lumentum",
+        "并购"
+      ],
+      "url": "https://arxiv.org/abs/2610.40992",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-11-02 05:00:00",
+      "impact_score": 230.0
+    },
+    {
+      "index": 5,
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "summary": "11月2日消息，纽约时报等多家媒体起诉Brave浏览器开发商，指控其非法抓取内容训练AI并允许用户绕过付费墙。",
+      "importance": "高",
+      "reason": "海外AI版权与数据抓取重大法律诉讼，涉及媒体与AI公司利益冲突。",
+      "tags": [
+        "纽约时报",
+        "Brave",
+        "诉讼"
+      ],
+      "url": "https://www.theinformation.com/briefings/anthropics-revenue-surged-17-billion-q3-swung-back-operating-loss",
+      "source": "The Information",
+      "original_pub_date": "2026-11-02 15:12:33",
+      "impact_score": 210.0
+    },
+    {
+      "index": 6,
+      "title": "Trump Administration Refuses to Release Information on AI Testing Framework",
+      "summary": "11月2日消息，特朗普政府拒绝公开其自愿性AI测试框架的关键文件，尽管此前已与监督组织达成信息自由诉讼和解。",
+      "importance": "高",
+      "reason": "美国AI政策透明度争议，涉及政府监管框架与公众知情权。",
+      "tags": [
+        "特朗普政府",
+        "AI测试",
+        "政策"
+      ],
+      "url": "https://www.theinformation.com/briefings/marvell-buy-lumentum-115-billion-all-stock-deal",
+      "source": "The Information",
+      "original_pub_date": "2026-11-02 13:08:44",
+      "impact_score": 195.0
+    },
+    {
+      "index": 7,
+      "title": "Sam Altman makes surprise South Korea visit as OpenAI builds on chip partnerships",
+      "summary": "11月2日消息，OpenAI CEO Sam Altman突访韩国，会见三星高管并据报与SK集团会面，以深化芯片合作伙伴关系。",
+      "importance": "高",
+      "reason": "海外AI巨头高管重要出访，涉及芯片供应链战略合作。",
+      "tags": [
+        "OpenAI",
+        "Sam Altman",
+        "韩国"
+      ],
+      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-11-02 17:51:19",
+      "impact_score": 145.0
+    },
+    {
+      "index": 8,
+      "title": "Meta Eyes at Least $20 Billion From Potential Bond Offerings",
+      "summary": "11月2日消息，Meta Platforms计划通过潜在跨境投资级债券发行筹集至少200亿美元，以应对AI支出质疑。",
+      "importance": "高",
+      "reason": "海外科技巨头大规模债券融资，反映AI资本开支压力与市场情绪。",
+      "tags": [
+        "Meta",
+        "债券",
+        "融资"
+      ],
+      "url": "https://www.theinformation.com/briefings/trump-administration-refuses-release-information-ai-testing-framework",
+      "source": "The Information",
+      "original_pub_date": "2026-11-01 23:09:23",
+      "impact_score": 145.0
+    },
+    {
+      "index": 9,
+      "title": "NYC Comptroller Steps Up Criticism of Anthropic After IPO Filing",
+      "summary": "11月2日消息，纽约市审计长批评Anthropic的IPO计划可能削弱股东权利，使普通人难以约束潜在危险技术。",
+      "importance": "中",
+      "reason": "海外AI公司IPO治理争议，涉及股东权利与技术风险监管。",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "治理"
+      ],
+      "url": "https://www.cnbc.com/2026/11/02/openai-sam-altman-samsung-sk-south-korea.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-11-02 02:58:53",
+      "impact_score": 140.0
+    },
+    {
+      "index": 10,
+      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "summary": "11月2日消息，美国初创公司Omen AI以1600万美元收购Aquatic Labs，整合数据中心液体冷却技术以应对水耗问题。",
+      "importance": "中",
+      "reason": "海外AI基础设施领域并购，涉及数据中心可持续技术。",
+      "tags": [
+        "Omen AI",
+        "Aquatic Labs",
+        "收购"
+      ],
+      "url": "https://www.ft.com/content/937308d7-aa2e-4dac-b19b-423d83bc1253?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-11-01 05:00:17",
+      "impact_score": 135.0
+    },
+    {
+      "index": 11,
+      "title": "Salesforce to Buy Defense Tech Startup, Extending Acquisition Streak",
+      "summary": "11月2日消息，Salesforce以3.75亿美元现金加股票收购国防科技初创公司Rune Technologies，扩展军事软件工具套件。",
+      "importance": "中",
+      "reason": "海外企业软件巨头收购国防AI初创，涉及军事AI应用拓展。",
+      "tags": [
+        "Salesforce",
+        "Rune Technologies",
+        "收购"
+      ],
+      "url": "https://www.theinformation.com/articles/contract-renewal-season-customers-biting",
+      "source": "The Information",
+      "original_pub_date": "2026-11-02 15:01:23",
+      "impact_score": 132.0
+    },
+    {
+      "index": 12,
+      "title": "Apple’s Valuation Premium Confronts AI Jitters",
+      "summary": "11月2日消息，苹果股价近期大涨后估值达2008年以来最高，市场担忧其财报若不及预期将面临AI情绪冲击。",
+      "importance": "中",
+      "reason": "海外科技巨头估值与AI市场情绪关联，反映投资者对AI叙事的敏感度。",
+      "tags": [
+        "苹果",
+        "估值",
+        "AI"
+      ],
+      "url": "https://www.theinformation.com/briefings/deepseek-unveils-autonomous-coding-agent-prototype",
+      "source": "The Information",
+      "original_pub_date": "2026-11-02 05:55:08",
+      "impact_score": 132.0
+    },
+    {
+      "index": 13,
+      "title": "Apple Earnings On Deck After $1 Trillion Rally: Preview",
+      "summary": "11月2日消息，苹果即将发布第四季度财报，此前股价自6月低点上涨25%增加约1万亿美元市值，市场关注其AI避险属性。",
+      "importance": "中",
+      "reason": "海外科技巨头财报前瞻，涉及AI交易中的资金流向与市场定位。",
+      "tags": [
+        "苹果",
+        "财报",
+        "AI"
+      ],
+      "url": "https://arxiv.org/abs/2610.40940",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-11-02 05:00:00",
+      "impact_score": 130.0
+    }
+  ],
+  "summary": "今日从125条原始信息中精选出14条国内动态和13条国际动态，其中12条为高重要性。 重点关注：美团发布LongCat-2.5大模型，“国芯国模”实现新突破；破解智能体跨端协同办事难题，支付宝AHA方案获世界互联网大会“新耀”场景奖；阿里Qoder获世界互联网大会领先科技奖，已服务超800万用户、10万家企业。",
+  "statistics": {
+    "raw_domestic": 26,
+    "raw_international": 99,
+    "raw_total": 125,
+    "final_domestic": 14,
+    "final_international": 13
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "11月2日消息，美团发布新一代大模型LongCat-2.5，总参数1.6万亿，全程在国产算力上训练，是目前国产算力上完成的最大训练任务。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "11月2日消息，支付宝AHA智能体多端互联方案获世界互联网大会“新耀”场景奖，该方案支持跨品牌、跨终端智能体协同办事，破解智能体生态孤岛难题。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "11月2日消息，阿里智能体平台Qoder获世界互联网大会领先科技奖，是国内唯一获该奖的通用Agent产品，已服务超800万用户、10万家企业。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "11月2日消息，阿里云发布面向专业机构投资者的AI投研工作台Qovest，用户一句话提出需求即可自动查数据、分析并生成报告，近期将推出企业版。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "11月2日消息，李佳琦直播间半小时售出10万份千问办公个人会员月卡，累计约2万亿Token，千问办公CEO做客直播间分享AI办公场景。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "11月2日消息，美国AI公司Anthropic第三季度营收近170亿美元，同比增长12倍，为其可能创纪录的IPO造势。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "11月2日消息，Anthropic披露未来数年计划支出超8950亿美元，同时季度营收增长12倍，正为创纪录IPO吸引投资者。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "11月2日消息，Anthropic第三季度营收近170亿美元，环比增47%，但净亏损233亿美元，IPO前增长放缓迹象显现。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "11月2日消息，美国芯片制造商Marvell同意以1150亿美元全股票交易收购激光器公司Lumentum，成为史上最大半导体并购之一。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "11月2日消息，纽约时报等多家媒体起诉Brave浏览器开发商，指控其非法抓取内容训练AI并允许用户绕过付费墙。",
+      "importance": "高"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+======================================================================
+AI每日动态 - 2026-11-02
+生成时间: 2026-11-02 18:01:44
+数据来源: 从 125 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、11月2日消息，美团发布新一代大模型LongCat-2.5，总参数1.6万亿，全程在国产算力上训练，是目前国产算力上完成的最大训练任务。
+2、11月2日消息，支付宝AHA智能体多端互联方案获世界互联网大会“新耀”场景奖，该方案支持跨品牌、跨终端智能体协同办事，破解智能体生态孤岛难题。
+3、11月2日消息，阿里智能体平台Qoder获世界互联网大会领先科技奖，是国内唯一获该奖的通用Agent产品，已服务超800万用户、10万家企业。
+4、11月2日消息，阿里云发布面向专业机构投资者的AI投研工作台Qovest，用户一句话提出需求即可自动查数据、分析并生成报告，近期将推出企业版。
+5、11月2日消息，李佳琦直播间半小时售出10万份千问办公个人会员月卡，累计约2万亿Token，千问办公CEO做客直播间分享AI办公场景。
+
+国际动态：
+1、11月2日消息，美国AI公司Anthropic第三季度营收近170亿美元，同比增长12倍，为其可能创纪录的IPO造势。
+2、11月2日消息，Anthropic披露未来数年计划支出超8950亿美元，同时季度营收增长12倍，正为创纪录IPO吸引投资者。
+3、11月2日消息，Anthropic第三季度营收近170亿美元，环比增47%，但净亏损233亿美元，IPO前增长放缓迹象显现。
+4、11月2日消息，美国芯片制造商Marvell同意以1150亿美元全股票交易收购激光器公司Lumentum，成为史上最大半导体并购之一。
+5、11月2日消息，纽约时报等多家媒体起诉Brave浏览器开发商，指控其非法抓取内容训练AI并允许用户绕过付费墙。
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 11月2日消息，美团发布新一代大模型LongCat-2.5，总参数1.6万亿，全程在国产算力上训练，是目前国产算力上完成的最大训练任务。
+   📋 入选理由: 中国公司发布旗舰大模型，且全程国产算力训练，属重大产品发布与技术突破。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/oPrDWg9bNg1Dgy4a.html
+   🏷️ 标签: 大模型, 国产算力, 美团
+
+2、🔥 11月2日消息，支付宝AHA智能体多端互联方案获世界互联网大会“新耀”场景奖，该方案支持跨品牌、跨终端智能体协同办事，破解智能体生态孤岛难题。
+   📋 入选理由: 中国公司支付宝获国际性奖项，方案具产业应用价值，属重大产品与生态突破。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/zaobao/hsSSzyalKJd6vnkf.html
+   🏷️ 标签: 智能体, 支付宝, 世界互联网大会
+
+3、🔥 11月2日消息，阿里智能体平台Qoder获世界互联网大会领先科技奖，是国内唯一获该奖的通用Agent产品，已服务超800万用户、10万家企业。
+   📋 入选理由: 中国公司阿里获国际性科技奖项，产品用户规模大，属重大产品与商业动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/aihealth/Ls0rEvCHmgKUScmR.html
+   🏷️ 标签: 智能体, 阿里, 世界互联网大会
+
+4、🔥 11月2日消息，阿里云发布面向专业机构投资者的AI投研工作台Qovest，用户一句话提出需求即可自动查数据、分析并生成报告，近期将推出企业版。
+   📋 入选理由: 中国公司阿里云发布重要AI产品，面向金融场景，属重大产品发布。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/MK1z0js4sqcp1xca.html
+   🏷️ 标签: AI投研, 阿里云, 金融
+
+5、📌 11月2日消息，李佳琦直播间半小时售出10万份千问办公个人会员月卡，累计约2万亿Token，千问办公CEO做客直播间分享AI办公场景。
+   📋 入选理由: 中国公司千问办公产品通过直播带货爆火，属重大商业动态与产品推广。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/ai/GqrJT2vlPFBxElDY.html
+   🏷️ 标签: 千问办公, 直播带货, Token
+
+6、📌 11月2日消息，RoboScience机器科学完成数亿元A2轮融资，由琥珀资本、鸿瑞达投资、上海半导体产投联合领投，360战投等跟投，公司2025年3月运营至今已完成五轮融资。
+   📋 入选理由: 中国具身智能公司完成大额融资，属重大商业动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/MFtJXmU8YNMGMig6.html
+   🏷️ 标签: 具身智能, 融资, RoboScience
+
+7、📌 11月2日消息，智元机器人召开具身智能发布会，以2万台出货量背后的“Worken”算力账本回应行业焦虑，展示具身智能落地路径。
+   📋 入选理由: 中国具身智能公司智元发布重要战略与产品，属重大产品与商业动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/ai/d2myOaWdKKFW23lm.html
+   🏷️ 标签: 具身智能, 智元, 发布会
+
+8、📌 11月2日消息，小米开源一款售价150元的AI小设备，可指挥Agent干活并控制智能家居，产品火爆导致配件涨价。
+   📋 入选理由: 中国公司小米开源AI硬件产品，属重大产品发布与开源动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/JrXpr0xuLSNA9sOY.html
+   🏷️ 标签: 小米, 开源, AI硬件
+
+9、📌 11月2日消息，QuestMobile报告显示OPPO小布建议9月活跃用户同比增长139.9%，增速位列终端系统级AI应用之首，月人均使用次数同比增长214.3%。
+   📋 入选理由: 中国公司OPPO系统级AI应用用户高速增长，属重要商业数据与产品动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/fintech/y2eDRanVtlSZl8w6.html
+   🏷️ 标签: OPPO, 系统级AI, 用户增长
+
+10、📌 11月2日消息，商汤发布SenseNova 6.8 Flash免费国产AI模型，在顶级AI翻车场景中表现突出，展现国产模型能力。
+   📋 入选理由: 中国公司商汤发布新模型，属产品发布与性能突破。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/transportation/oDbG4KXJpt7KOOqy.html
+   🏷️ 标签: 商汤, SenseNova, 国产模型
+
+11、📌 11月2日消息，清华姚期智团队提出代数世界模型，让AI像牛顿一样思考，属世界模型方向的重要学术突破。
+   📋 入选理由: 中国研究机构清华大学团队发表重要学术成果，属重大学术突破。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/uZRzXBZy6pdl88Uf.html
+   🏷️ 标签: 清华大学, 世界模型, 学术突破
+
+12、📄 11月2日消息，央视严选“中国AI创业十骏”名单公布，唯一AI制药公司为清华系企业，采用模型管线双驱动模式。
+   📋 入选理由: 中国AI制药公司获央视认可，属行业荣誉与商业动态。
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/11/507107.html
+   🏷️ 标签: AI制药, 清华系, 央视
+
+13、📄 11月2日消息，上海仪电与上海创智学院联合发布“飞轮转·万象生”仪电智算数链生态，推出Token工厂三重可信体系。
+   📋 入选理由: 中国机构联合发布智算生态，属产品与生态合作动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/weiwu/AfQerzZ1HwVzZ2yZ.html
+   🏷️ 标签: 仪电智算, Token工厂, 生态
+
+14、📄 11月2日消息，华鹰航空HE-1A吨级商用无人运输机首架量产机在渭南总装下线，最大起飞重量4吨、有效载重2吨，标志我国吨级商用无人运输机转入批量生产。
+   📋 入选理由: 中国公司华鹰航空无人运输机量产，属重大商业与产业进展。
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/11/507260.html
+   🏷️ 标签: 无人运输机, 华鹰航空, 量产
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 11月2日消息，美国AI公司Anthropic第三季度营收近170亿美元，同比增长12倍，为其可能创纪录的IPO造势。
+   📋 入选理由: 海外AI巨头重大商业动态，营收数据与IPO进展对行业影响巨大。
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-11-02/anthropic-revenue-hits-nearly-17b-before-mega-ipo-video
+   🏷️ 标签: Anthropic, IPO, 营收
+
+2、🔥 11月2日消息，Anthropic披露未来数年计划支出超8950亿美元，同时季度营收增长12倍，正为创纪录IPO吸引投资者。
+   📋 入选理由: 海外AI巨头巨额支出计划与IPO进程，反映行业资本密集趋势。
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-11-02/anthropic-revenue-nears-17-billion-ahead-of-ipo-video
+   🏷️ 标签: Anthropic, IPO, 支出
+
+3、🔥 11月2日消息，Anthropic第三季度营收近170亿美元，环比增47%，但净亏损233亿美元，IPO前增长放缓迹象显现。
+   📋 入选理由: 海外AI公司财务细节披露，营收增速放缓与亏损扩大引发市场关注。
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-11-02/anthropic-revenue-hits-nearly-17-billion-before-blockbuster-ipo
+   🏷️ 标签: Anthropic, 财报, IPO
+
+4、🔥 11月2日消息，美国芯片制造商Marvell同意以1150亿美元全股票交易收购激光器公司Lumentum，成为史上最大半导体并购之一。
+   📋 入选理由: 海外半导体行业重大并购，涉及AI数据中心芯片生态，交易规模巨大。
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2610.40992
+   🏷️ 标签: Marvell, Lumentum, 并购
+
+5、🔥 11月2日消息，纽约时报等多家媒体起诉Brave浏览器开发商，指控其非法抓取内容训练AI并允许用户绕过付费墙。
+   📋 入选理由: 海外AI版权与数据抓取重大法律诉讼，涉及媒体与AI公司利益冲突。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/briefings/anthropics-revenue-surged-17-billion-q3-swung-back-operating-loss
+   🏷️ 标签: 纽约时报, Brave, 诉讼
+
+6、🔥 11月2日消息，特朗普政府拒绝公开其自愿性AI测试框架的关键文件，尽管此前已与监督组织达成信息自由诉讼和解。
+   📋 入选理由: 美国AI政策透明度争议，涉及政府监管框架与公众知情权。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/briefings/marvell-buy-lumentum-115-billion-all-stock-deal
+   🏷️ 标签: 特朗普政府, AI测试, 政策
+
+7、🔥 11月2日消息，OpenAI CEO Sam Altman突访韩国，会见三星高管并据报与SK集团会面，以深化芯片合作伙伴关系。
+   📋 入选理由: 海外AI巨头高管重要出访，涉及芯片供应链战略合作。
+   📰 来源: The Verge AI | 🔗 https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times
+   🏷️ 标签: OpenAI, Sam Altman, 韩国
+
+8、🔥 11月2日消息，Meta Platforms计划通过潜在跨境投资级债券发行筹集至少200亿美元，以应对AI支出质疑。
+   📋 入选理由: 海外科技巨头大规模债券融资，反映AI资本开支压力与市场情绪。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/briefings/trump-administration-refuses-release-information-ai-testing-framework
+   🏷️ 标签: Meta, 债券, 融资
+
+9、📌 11月2日消息，纽约市审计长批评Anthropic的IPO计划可能削弱股东权利，使普通人难以约束潜在危险技术。
+   📋 入选理由: 海外AI公司IPO治理争议，涉及股东权利与技术风险监管。
+   📰 来源: CNBC Tech | 🔗 https://www.cnbc.com/2026/11/02/openai-sam-altman-samsung-sk-south-korea.html
+   🏷️ 标签: Anthropic, IPO, 治理
+
+10、📌 11月2日消息，美国初创公司Omen AI以1600万美元收购Aquatic Labs，整合数据中心液体冷却技术以应对水耗问题。
+   📋 入选理由: 海外AI基础设施领域并购，涉及数据中心可持续技术。
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/937308d7-aa2e-4dac-b19b-423d83bc1253?syn-25a6b1a6=1
+   🏷️ 标签: Omen AI, Aquatic Labs, 收购
+
+11、📌 11月2日消息，Salesforce以3.75亿美元现金加股票收购国防科技初创公司Rune Technologies，扩展军事软件工具套件。
+   📋 入选理由: 海外企业软件巨头收购国防AI初创，涉及军事AI应用拓展。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/articles/contract-renewal-season-customers-biting
+   🏷️ 标签: Salesforce, Rune Technologies, 收购
+
+12、📌 11月2日消息，苹果股价近期大涨后估值达2008年以来最高，市场担忧其财报若不及预期将面临AI情绪冲击。
+   📋 入选理由: 海外科技巨头估值与AI市场情绪关联，反映投资者对AI叙事的敏感度。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/briefings/deepseek-unveils-autonomous-coding-agent-prototype
+   🏷️ 标签: 苹果, 估值, AI
+
+13、📌 11月2日消息，苹果即将发布第四季度财报，此前股价自6月低点上涨25%增加约1万亿美元市值，市场关注其AI避险属性。
+   📋 入选理由: 海外科技巨头财报前瞻，涉及AI交易中的资金流向与市场定位。
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2610.40940
+   🏷️ 标签: 苹果, 财报, AI
+
+
+======================================================================
+📊 今日总结: 今日从125条原始信息中精选出14条国内动态和13条国际动态，其中12条为高重要性。 重点关注：美团发布LongCat-2.5大模型，“国芯国模”实现新突破；破解智能体跨端协同办事难题，支付宝AHA方案获世界互联网大会“新耀”场景奖；阿里Qoder获世界互联网大会领先科技奖，已服务超800万用户、10万家企业。
+======================================================================
