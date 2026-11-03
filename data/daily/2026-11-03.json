@@ -1,0 +1,486 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03 15:59:59",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "工信部发布人工智能产业发展指导意见",
+      "summary": "11月3日消息，工业和信息化部发布《关于促进人工智能产业高质量发展的指导意见》，提出到2027年人工智能核心产业规模超过万亿元的目标。",
+      "importance": "高",
+      "reason": "重大政策法规，工信部发布国家级AI产业指导意见，设定万亿产业规模目标，对行业发展具有纲领性影响。",
+      "tags": [
+        "政策法规",
+        "工信部",
+        "产业规划"
+      ],
+      "url": "https://www.qbitai.com/2026/11/507396.html",
+      "source": "量子位",
+      "original_pub_date": "2026-11-03 05:16:35",
+      "impact_score": 382.5
+    },
+    {
+      "index": 2,
+      "title": "小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”",
+      "summary": "11月3日消息，小米集团在2026世界互联网大会获“杰出贡献奖”创新突破类奖项，其具身基座模型同时获“领先科技奖”，成为双料大奖得主。",
+      "importance": "高",
+      "reason": "中国头部科技公司获国际性大会双料大奖，具身基座模型获奖体现AI技术突破，具有行业标杆意义。",
+      "tags": [
+        "小米",
+        "世界互联网大会",
+        "具身智能"
+      ],
+      "url": "",
+      "source": "工信部",
+      "original_pub_date": "",
+      "impact_score": 105.0
+    },
+    {
+      "index": 3,
+      "title": "中国科学院发布大模型评测报告",
+      "summary": "11月3日消息，中国科学院发布国产大模型能力评测报告，对主流大模型在多个维度进行全面评估，为行业技术选型和政策制定提供权威参考。",
+      "importance": "高",
+      "reason": "国家级研究机构发布权威评测报告，对国产大模型发展具有指导意义，属于重大学术与行业基础设施动态。",
+      "tags": [
+        "中国科学院",
+        "大模型评测",
+        "学术权威"
+      ],
+      "url": "",
+      "source": "中国科学院",
+      "original_pub_date": "",
+      "impact_score": 105.0
+    },
+    {
+      "index": 4,
+      "title": "AI数据平台OceanBase获世界互联网大会杰出贡献奖",
+      "summary": "11月3日消息，AI数据平台OceanBase在2026世界互联网大会乌镇峰会开幕式上荣获“杰出贡献奖”，彰显中国AI数据基础设施的国际影响力。",
+      "importance": "中",
+      "reason": "中国AI数据平台获国际大会奖项，体现国内AI基础设施领域成果，属于重要商业与行业认可动态。",
+      "tags": [
+        "OceanBase",
+        "世界互联网大会",
+        "数据平台"
+      ],
+      "url": "https://www.qbitai.com/2026/11/507507.html",
+      "source": "量子位",
+      "original_pub_date": "2026-11-03 13:57:11",
+      "impact_score": 45.0
+    },
+    {
+      "index": 5,
+      "title": "苹果被曝的新产品，中国央企8个月前已装进公共卫生间",
+      "summary": "11月3日消息，中国央企TeleAI研发的智慧看护助手已落地公共卫生间场景，比苹果曝光的同类新产品早8个月部署，展现中国AI应用落地速度。",
+      "importance": "中",
+      "reason": "中国央企AI产品实现场景化落地并领先海外巨头，属于国内AI应用创新与商业动态。",
+      "tags": [
+        "TeleAI",
+        "智慧看护",
+        "央企AI"
+      ],
+      "url": "https://www.qbitai.com/2026/11/507448.html",
+      "source": "量子位",
+      "original_pub_date": "2026-11-03 11:13:49",
+      "impact_score": 45.0
+    },
+    {
+      "index": 6,
+      "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
+      "summary": "11月3日消息，国内某巨头企业宣布打造下一代自主智能仓，由AI接管调度运营，实现仓库越干越聪明的智能化升级。",
+      "importance": "中",
+      "reason": "国内企业推动AI在仓储物流场景的深度应用，属于AI生产力系统的重要商业落地动态。",
+      "tags": [
+        "智能仓储",
+        "AI调度",
+        "产业应用"
+      ],
+      "url": "https://www.qbitai.com/2026/11/507410.html",
+      "source": "量子位",
+      "original_pub_date": "2026-11-03 06:29:11",
+      "impact_score": 45.0
+    },
+    {
+      "index": 7,
+      "title": "模型谁都买得到，拉开差距的是AI生产力系统",
+      "summary": "11月3日消息，行业分析指出AI竞争下一程是生产力系统之争，模型获取门槛降低后，系统化AI生产力成为企业拉开差距的关键。",
+      "importance": "低",
+      "reason": "行业观点分析，反映国内AI产业从模型竞争转向生产力系统竞争的趋势，属于关注类动态。",
+      "tags": [
+        "AI生产力",
+        "行业趋势",
+        "系统竞争"
+      ],
+      "url": "https://www.qbitai.com/2026/11/507405.html",
+      "source": "量子位",
+      "original_pub_date": "2026-11-03 05:59:05",
+      "impact_score": 45.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "summary": "11月3日消息，美国总统特朗普签署行政令，要求政府机构对“超级智能”相关项目进行忠诚度审查，多家科技公司被迫表态配合。",
+      "importance": "高",
+      "reason": "涉及美国政府重大AI政策与行政令，属于重大政策与法规，影响力高。",
+      "tags": [
+        "行政令",
+        "AI政策",
+        "美国政府"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-11-03/dan-ives-sees-anthropic-ipo-facing-valuation-pressure-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-03 12:34:53",
+      "impact_score": 270.0
+    },
+    {
+      "index": 2,
+      "title": "OpenAI hires former US Army secretary as military seeks to expand AI use",
+      "summary": "11月3日消息，OpenAI聘请前美国陆军部长丹·德里斯科尔担任国家安全高级顾问，以推动AI在军事领域的应用扩展。",
+      "importance": "高",
+      "reason": "OpenAI作为海外头部AI公司，聘请前军方高官涉及国家安全与军事AI应用，属于重大政策与商业动态。",
+      "tags": [
+        "OpenAI",
+        "国家安全",
+        "军事AI"
+      ],
+      "url": "https://www.theinformation.com/briefings/anthropics-revenue-surged-17-billion-q3-swung-back-operating-loss",
+      "source": "The Information",
+      "original_pub_date": "2026-11-02 15:12:33",
+      "impact_score": 210.0
+    },
+    {
+      "index": 3,
+      "title": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
+      "summary": "11月3日消息，OpenAI宣布聘请前美国陆军部长丹·德里斯科尔出任新设立的国家安全现代化职位，强化AI在国防领域的布局。",
+      "importance": "高",
+      "reason": "与第6条为同一事件的不同来源报道，主体为OpenAI，属于国际动态中的重大人事与政策动向。",
+      "tags": [
+        "OpenAI",
+        "国家安全",
+        "人事任命"
+      ],
+      "url": "https://arxiv.org/abs/2611.00171",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-11-03 05:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 4,
+      "title": "Anthropic’s Revenue Surged to $17 Billion in Q3, Swung Back to Operating Loss",
+      "summary": "11月3日消息，Anthropic第三季度营收达170亿美元，环比增长47%，但净亏损233亿美元，IPO前增长放缓引发关注。",
+      "importance": "高",
+      "reason": "Anthropic为海外头部AI公司，营收与亏损数据反映AI商业动态，且涉及IPO，属于重大商业动态。",
+      "tags": [
+        "Anthropic",
+        "营收",
+        "IPO"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-11-03/lovable-on-ai-built-software-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-03 12:51:34",
+      "impact_score": 180.0
+    },
+    {
+      "index": 5,
+      "title": "Anthropic reveals $900bn AI spending commitments ahead of IPO",
+      "summary": "11月3日消息，Anthropic在IPO前披露9000亿美元AI支出承诺，基础设施成本增速超过营收，投资者审视AI繁荣的经济性。",
+      "importance": "高",
+      "reason": "Anthropic为海外AI巨头，巨额支出承诺与IPO相关，属于重大商业动态与财务披露。",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "AI支出"
+      ],
+      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "source": "MIT Technology Review",
+      "original_pub_date": "2026-11-03 04:18:47",
+      "impact_score": 165.0
+    },
+    {
+      "index": 6,
+      "title": "Dan Ives Sees Anthropic IPO Facing Valuation Pressure",
+      "summary": "11月3日消息，分析师丹·艾夫斯表示Anthropic即将进行的IPO面临估值压力，并称芯片股可能还有10%至12%的下跌空间。",
+      "importance": "高",
+      "reason": "涉及海外AI公司Anthropic的IPO估值与芯片股走势，属于重大商业动态与市场分析。",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "估值"
+      ],
+      "url": "https://www.ft.com/content/e6b8fd40-ef92-46e8-aeaf-f98dade55a67?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-11-02 22:58:27",
+      "impact_score": 165.0
+    },
+    {
+      "index": 7,
+      "title": "Anthropic Touts Claude’s Chip Design Skills to IPO Investors",
+      "summary": "11月3日消息，Anthropic向IPO投资者展示其Claude模型在芯片设计方面的能力，称AI模型可帮助发现网络安全漏洞并设计自研AI芯片。",
+      "importance": "中",
+      "reason": "Anthropic为海外AI公司，展示模型能力并涉及自研芯片，属于产品与商业动态。",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "芯片设计"
+      ],
+      "url": "https://www.theinformation.com/articles/apples-slowdown",
+      "source": "The Information",
+      "original_pub_date": "2026-11-03 01:01:27",
+      "impact_score": 158.0
+    },
+    {
+      "index": 8,
+      "title": "Sam Altman makes surprise South Korea visit as OpenAI builds on chip partnerships",
+      "summary": "11月3日消息，OpenAI首席执行官萨姆·奥尔特曼突访韩国，会见三星高管并据报与SK集团高管会面，以推进芯片合作伙伴关系。",
+      "importance": "高",
+      "reason": "OpenAI为海外公司，奥尔特曼访问韩国并推进芯片合作，属于重大商业动态与战略合作。",
+      "tags": [
+        "OpenAI",
+        "三星",
+        "芯片合作"
+      ],
+      "url": "https://www.theinformation.com/briefings/oracle-launches-20-billion-stock-bond-sales",
+      "source": "The Information",
+      "original_pub_date": "2026-11-02 20:55:30",
+      "impact_score": 147.0
+    },
+    {
+      "index": 9,
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "summary": "11月3日消息，纽约时报等多家媒体起诉Brave浏览器，指控其非法抓取内容用于训练AI并允许用户绕过付费墙。",
+      "importance": "高",
+      "reason": "涉及美国媒体与浏览器公司的AI版权诉讼，属于重大政策法规与伦理争议。",
+      "tags": [
+        "纽约时报",
+        "Brave",
+        "AI版权"
+      ],
+      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-11-02 17:51:19",
+      "impact_score": 145.0
+    },
+    {
+      "index": 10,
+      "title": "Exclusive: Salesforce Acquires Startup Cresta for $2.7 Billion",
+      "summary": "11月3日消息，Salesforce宣布以27亿美元收购AI客服自动化初创公司Cresta，扩展其AI联络中心业务。",
+      "importance": "高",
+      "reason": "Salesforce为美国公司，27亿美元收购属于重大并购与商业动态。",
+      "tags": [
+        "Salesforce",
+        "Cresta",
+        "并购"
+      ],
+      "url": "https://www.cnbc.com/2026/11/02/openai-sam-altman-samsung-sk-south-korea.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-11-02 02:58:53",
+      "impact_score": 140.0
+    },
+    {
+      "index": 11,
+      "title": "Meta Seeks $15 Billion From US Dollar Portion of Bond Offering",
+      "summary": "11月3日消息，Meta平台寻求通过跨境债券发行的美元部分筹集约150亿美元，以资助其人工智能基础设施扩建。",
+      "importance": "高",
+      "reason": "Meta为海外科技巨头，150亿美元债券融资用于AI基础设施，属于重大商业动态。",
+      "tags": [
+        "Meta",
+        "债券融资",
+        "AI基础设施"
+      ],
+      "url": "https://arxiv.org/abs/2611.00496",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-11-03 05:00:00",
+      "impact_score": 135.0
+    },
+    {
+      "index": 12,
+      "title": "Oracle Launches $20 Billion in Stock and Bond Sales",
+      "summary": "11月3日消息，甲骨文申请通过发行新股和债券筹集200亿美元，以支持其在AI基础设施上的巨额支出。",
+      "importance": "高",
+      "reason": "甲骨文为美国公司，200亿美元融资用于AI基础设施，属于重大商业动态。",
+      "tags": [
+        "甲骨文",
+        "融资",
+        "AI基础设施"
+      ],
+      "url": "https://www.theinformation.com/briefings/exclusive-salesforce-acquires-startup-cresta-2-7-billion",
+      "source": "The Information",
+      "original_pub_date": "2026-11-03 00:12:26",
+      "impact_score": 132.5
+    },
+    {
+      "index": 13,
+      "title": "Palantir Growth Slows From Breakneck Pace",
+      "summary": "11月3日消息，Palantir预计第四季度营收约26.5亿美元，环比增长约15%，较上一季度的20%增速明显放缓。",
+      "importance": "中",
+      "reason": "Palantir为美国AI软件公司，营收增速放缓属于重要商业动态。",
+      "tags": [
+        "Palantir",
+        "营收",
+        "增速放缓"
+      ],
+      "url": "https://www.theinformation.com/articles/contract-renewal-season-customers-biting",
+      "source": "The Information",
+      "original_pub_date": "2026-11-02 15:01:23",
+      "impact_score": 132.0
+    },
+    {
+      "index": 14,
+      "title": "Apple’s Slowdown",
+      "summary": "11月3日消息，苹果新任CEO约翰·特努斯首次财报电话会缺乏实质信息，公司销售增长放缓，引发投资者关注。",
+      "importance": "中",
+      "reason": "苹果为美国科技巨头，新任CEO与销售放缓属于重要商业动态。",
+      "tags": [
+        "苹果",
+        "CEO",
+        "销售放缓"
+      ],
+      "url": "https://www.theinformation.com/briefings/deepseek-unveils-autonomous-coding-agent-prototype",
+      "source": "The Information",
+      "original_pub_date": "2026-11-02 05:55:08",
+      "impact_score": 132.0
+    },
+    {
+      "index": 15,
+      "title": "Apple Sales Cool",
+      "summary": "11月3日消息，苹果在新任CEO约翰·特努斯领导下发布首份财报，第四财季营收1145亿美元同比增长12%，为全年最慢增速。",
+      "importance": "中",
+      "reason": "与第7条为同一事件的不同报道，苹果为美国公司，属于重要商业动态。",
+      "tags": [
+        "苹果",
+        "财报",
+        "营收"
+      ],
+      "url": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-11-03 15:58:39",
+      "impact_score": 130.0
+    },
+    {
+      "index": 16,
+      "title": "Energy Transfer Approves $1.6 Billion Gas Pipe as AI Use Soars",
+      "summary": "11月3日消息，Energy Transfer批准建设16亿美元天然气管道，以满足AI数据中心和出口终端日益增长的能源需求。",
+      "importance": "中",
+      "reason": "美国能源公司因AI需求批准管道建设，属于AI基础设施相关的商业动态。",
+      "tags": [
+        "Energy Transfer",
+        "天然气管道",
+        "AI数据中心"
+      ],
+      "url": "https://arxiv.org/abs/2611.00242",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-11-03 05:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 17,
+      "title": "Reimagining Text-to-SQL: A Survey of Large Language Model Architectures and Strategies",
+      "summary": "11月3日消息，arXiv发布关于文本到SQL转换的综述论文，系统梳理大语言模型架构与策略，推动关系数据访问民主化。",
+      "importance": "中",
+      "reason": "海外学术论文，属于重大学术突破中的综述研究，对Text-to-SQL领域有参考价值。",
+      "tags": [
+        "arXiv",
+        "Text-to-SQL",
+        "大语言模型"
+      ],
+      "url": "https://arxiv.org/abs/2611.00464",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-11-03 05:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 18,
+      "title": "CalVLA: Shaping Native Confidence in Vision-Language-Action Policies with Outcome Supervision",
+      "summary": "11月3日消息，arXiv发布CalVLA研究，通过结果监督塑造视觉-语言-动作策略的原生置信度，以提前信号任务失败风险。",
+      "importance": "中",
+      "reason": "海外学术论文，涉及视觉-语言-动作模型与置信度校准，属于重大学术突破。",
+      "tags": [
+        "arXiv",
+        "VLA",
+        "置信度校准"
+      ],
+      "url": "https://arxiv.org/abs/2611.00474",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-11-03 05:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 19,
+      "title": "Swap, Replicate, Read the Mass: A Protocol for Auditing Demographic Bias in System One Decision Models",
+      "summary": "11月3日消息，arXiv发布论文提出审计System One决策模型人口统计偏差的协议，填补多模型偏差审计空白。",
+      "importance": "中",
+      "reason": "海外学术论文，涉及AI偏差审计与伦理，属于安全与伦理及学术突破。",
+      "tags": [
+        "arXiv",
+        "AI偏差",
+        "审计协议"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-11-03/palantir-growth-slows-from-breakneck-pace-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-03 14:57:24",
+      "impact_score": 127.5
+    }
+  ],
+  "summary": "今日从142条原始信息中精选出7条国内动态和19条国际动态，其中14条为高重要性。 重点关注：工信部发布人工智能产业发展指导意见；小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”；中国科学院发布大模型评测报告。",
+  "statistics": {
+    "raw_domestic": 7,
+    "raw_international": 135,
+    "raw_total": 142,
+    "final_domestic": 7,
+    "final_international": 19
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "11月3日消息，工业和信息化部发布《关于促进人工智能产业高质量发展的指导意见》，提出到2027年人工智能核心产业规模超过万亿元的目标。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "11月3日消息，小米集团在2026世界互联网大会获“杰出贡献奖”创新突破类奖项，其具身基座模型同时获“领先科技奖”，成为双料大奖得主。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "11月3日消息，中国科学院发布国产大模型能力评测报告，对主流大模型在多个维度进行全面评估，为行业技术选型和政策制定提供权威参考。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "11月3日消息，AI数据平台OceanBase在2026世界互联网大会乌镇峰会开幕式上荣获“杰出贡献奖”，彰显中国AI数据基础设施的国际影响力。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "11月3日消息，中国央企TeleAI研发的智慧看护助手已落地公共卫生间场景，比苹果曝光的同类新产品早8个月部署，展现中国AI应用落地速度。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "11月3日消息，美国总统特朗普签署行政令，要求政府机构对“超级智能”相关项目进行忠诚度审查，多家科技公司被迫表态配合。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "11月3日消息，OpenAI聘请前美国陆军部长丹·德里斯科尔担任国家安全高级顾问，以推动AI在军事领域的应用扩展。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "11月3日消息，OpenAI宣布聘请前美国陆军部长丹·德里斯科尔出任新设立的国家安全现代化职位，强化AI在国防领域的布局。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "11月3日消息，Anthropic第三季度营收达170亿美元，环比增长47%，但净亏损233亿美元，IPO前增长放缓引发关注。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "11月3日消息，Anthropic在IPO前披露9000亿美元AI支出承诺，基础设施成本增速超过营收，投资者审视AI繁荣的经济性。",
+      "importance": "高"
+    }
+  ]
+}
