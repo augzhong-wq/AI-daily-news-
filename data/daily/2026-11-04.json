@@ -1,0 +1,582 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04 16:21:35",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "后摩智能低调完成数十亿元B轮融资，端侧大模型AI芯片进入规模化兑现期",
+      "summary": "11月4日消息，后摩智能完成数十亿元B轮融资，由产业资本和国有资本联合押注，公司端侧AI芯片进入规模化商业落地阶段。",
+      "importance": "高",
+      "reason": "国内AI芯片企业获得大额融资，体现资本对端侧AI芯片的看好，属于重大商业动态。",
+      "tags": [
+        "融资",
+        "AI芯片",
+        "端侧AI"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/cyDQKpjtzDEPhrr8.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-04 02:21:00",
+      "impact_score": 330.0
+    },
+    {
+      "index": 2,
+      "title": "360参与发起《智能体发展自律公约》，助力构建可信智能体生态",
+      "summary": "11月4日消息，360与中国信通院、华为等共同发布《智能体发展自律公约》，提出八条自律措施，聚焦智能体信任体系与安全防护。",
+      "importance": "高",
+      "reason": "国内多家机构联合发布智能体自律公约，属于行业规范与治理的重要动态。",
+      "tags": [
+        "智能体",
+        "自律公约",
+        "安全治理"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/hRlEqJpWm8oawq9h.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-04 03:06:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 3,
+      "title": "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上",
+      "summary": "11月4日消息，虎鲸文娱集团正式上线行业首个AI影视制作与管理平台“鲸锐AI”，可使AI视频单分钟成本节省30%以上。",
+      "importance": "高",
+      "reason": "国内企业推出AI影视制作平台，显著降低成本，属于重要产品发布。",
+      "tags": [
+        "AI视频",
+        "影视制作",
+        "平台上线"
+      ],
+      "url": "https://www.leiphone.com/category/yanxishe/7uvYEZBsCWcPvhw3.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-04 06:39:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 4,
+      "title": "智能体身份注册与解析平台在乌镇发布，蚂蚁参与首批运行平台建设",
+      "summary": "11月4日消息，蚂蚁集团参与建设的智能体身份注册与解析平台在乌镇发布，旨在解决智能体跨域协作中的身份确认与权限管理问题。",
+      "importance": "高",
+      "reason": "国内智能体基础设施重要发布，蚂蚁集团参与，属于重大产品与生态动态。",
+      "tags": [
+        "智能体",
+        "身份注册",
+        "蚂蚁集团"
+      ],
+      "url": "https://www.leiphone.com/category/ai/tT9FskgaSMm7y4Ao.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-04 03:22:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 5,
+      "title": "灵光开放生态持续扩容，新增微信读书、夸克、哈啰打车、麦当劳等多项服务连接",
+      "summary": "11月4日消息，蚂蚁灵光AI助手新增微信读书、夸克网盘、哈啰打车等连接器服务，开放生态已打通40项外部连接器。",
+      "importance": "中",
+      "reason": "国内AI助手生态扩展，提升跨场景任务管理能力，属于重要产品升级。",
+      "tags": [
+        "AI助手",
+        "开放生态",
+        "连接器"
+      ],
+      "url": "https://www.leiphone.com/category/weiwu/T4WJvLOQ6YSbXg9h.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-04 03:58:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 6,
+      "title": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
+      "summary": "11月4日消息，招商局狮子山实验室发布具身推理模型“驭物™ Lion-ER-35B-A3B”，仅激活3B参数即在十项基准上全线提升。",
+      "importance": "中",
+      "reason": "国内研究机构发布具身推理模型，在多项基准上表现提升，属于学术突破。",
+      "tags": [
+        "具身推理",
+        "模型发布",
+        "招商局"
+      ],
+      "url": "https://www.leiphone.com/category/weiwu/rT16tdf1VgHOCwpV.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-04 02:54:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 7,
+      "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
+      "summary": "11月4日消息，openJiuwen推出Agent-Memory技术，首次实现智能体视听双流记忆，长视频问答时延最高降低97%。",
+      "importance": "中",
+      "reason": "国内团队在智能体记忆技术上的突破，显著提升长视频处理效率，属于学术突破。",
+      "tags": [
+        "智能体",
+        "记忆技术",
+        "长视频"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/UB25ocDFu1ntNMtz.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-04 09:42:00",
+      "impact_score": 150.0
+    },
+    {
+      "index": 8,
+      "title": "Transformer 架构还能咋改？严骏驰团队提供两条思路 | CNCC 2026",
+      "summary": "11月4日消息，上海交通大学严骏驰团队提出JTok和xHC两种Transformer架构改进思路，可节省三分之一训练算力。",
+      "importance": "中",
+      "reason": "国内高校团队在Transformer架构上的创新研究，具有学术价值。",
+      "tags": [
+        "Transformer",
+        "架构改进",
+        "学术研究"
+      ],
+      "url": "https://www.qbitai.com/2026/11/507567.html",
+      "source": "量子位",
+      "original_pub_date": "2026-11-04 08:49:12",
+      "impact_score": 150.0
+    },
+    {
+      "index": 9,
+      "title": "青奥会结束后，阿里云想在非洲留下一朵「云」",
+      "summary": "11月4日消息，阿里云为达喀尔青奥会提供云计算和AI技术支持，并打造塞内加尔首个奥运专有云底座，赛后该云将转为国家云。",
+      "importance": "中",
+      "reason": "阿里云在海外重大赛事中提供AI与云服务，属于国内企业的重大商业动态。",
+      "tags": [
+        "阿里云",
+        "青奥会",
+        "云计算"
+      ],
+      "url": "https://www.qbitai.com/2026/11/507586.html",
+      "source": "量子位",
+      "original_pub_date": "2026-11-04 10:08:38",
+      "impact_score": 135.0
+    },
+    {
+      "index": 10,
+      "title": "实测苹果智能Beta，千问 APP 成为Siri外援，可接力处理任务",
+      "summary": "11月4日消息，苹果智能Beta版开放测试，用户可在Siri中调用千问的文本与图像理解能力，实现任务接力处理。",
+      "importance": "中",
+      "reason": "国内AI模型千问被苹果智能集成，属于重要商业合作动态。",
+      "tags": [
+        "千问",
+        "苹果智能",
+        "合作"
+      ],
+      "url": "https://www.qbitai.com/2026/11/507533.html",
+      "source": "量子位",
+      "original_pub_date": "2026-11-04 02:49:02",
+      "impact_score": 127.5
+    },
+    {
+      "index": 11,
+      "title": "追觅科技亮相2026世界互联网大会人工智能嘉年华，以AI技术创新赋能智慧生活",
+      "summary": "11月4日消息，追觅科技在2026世界互联网大会人工智能嘉年华展出多款旗舰洗地机，展示AI智能感知与清洁技术的融合创新。",
+      "importance": "低",
+      "reason": "国内企业展示AI技术应用，属于一般产品展示动态。",
+      "tags": [
+        "追觅科技",
+        "世界互联网大会",
+        "智能清洁"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/KStlwPyruE6hJ107.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-04 09:44:00",
+      "impact_score": 120.0
+    },
+    {
+      "index": 12,
+      "title": "拓竹年度机皇 H3C 发布：9 头闪切、6 秒换头，开启多色多材料新时代",
+      "summary": "11月4日消息，拓竹发布第三代旗舰3D打印机H3C，搭载多头闪切系统，实现多色多材料打印，标准套装起售价16499元。",
+      "importance": "低",
+      "reason": "国内企业发布3D打印新产品，属于产品发布动态。",
+      "tags": [
+        "拓竹",
+        "3D打印",
+        "产品发布"
+      ],
+      "url": "https://www.leiphone.com/category/ai/0F072La1etrUN0Tr.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-04 08:32:00",
+      "impact_score": 105.0
+    },
+    {
+      "index": 13,
+      "title": "双十一购机观察：从参数回到场景，华为Mate 90系列重新定义旗舰体验",
+      "summary": "11月4日消息，华为Mate 90系列开售18天累计激活约52.8万台，在同期国产旗舰中销量第一，强调场景化体验创新。",
+      "importance": "低",
+      "reason": "华为手机销售表现报道，属于商业动态但AI相关性较弱。",
+      "tags": [
+        "华为",
+        "Mate 90",
+        "销售"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/KAD74l2DdSMcKPgY.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-04 07:57:00",
+      "impact_score": 105.0
+    },
+    {
+      "index": 14,
+      "title": "海外双11，速卖通欧盟本地成交占比突破60%",
+      "summary": "11月4日消息，速卖通海外双11首日欧盟市场本地成交占比达63%，波兰、西班牙本地规模突破70%，本地仓单量环比暴涨9倍。",
+      "importance": "低",
+      "reason": "阿里旗下跨境电商业务数据，属于商业动态但AI相关性较低。",
+      "tags": [
+        "速卖通",
+        "双11",
+        "跨境电商"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/xBbVCZ6pFQNa7XzR.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-03 15:13:00",
+      "impact_score": 105.0
+    },
+    {
+      "index": 15,
+      "title": "抖音商城「双11现货日」：以“现货”确定性，撬动大促生意增量",
+      "summary": "11月4日消息，抖音商城双11期间升级“现货日”活动，通过流量加码和履约保障，跑出15场千万级现货大场。",
+      "importance": "低",
+      "reason": "抖音电商促销活动，属于商业动态但AI相关性较弱。",
+      "tags": [
+        "抖音商城",
+        "双11",
+        "电商"
+      ],
+      "url": "https://www.leiphone.com/category/private/qWW7SeepMBzAQAfb.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-04 07:48:00",
+      "impact_score": 100.0
+    },
+    {
+      "index": 16,
+      "title": "AI数据平台OceanBase获世界互联网大会杰出贡献奖",
+      "summary": "11月4日消息，AI数据平台OceanBase在2026世界互联网大会上获得杰出贡献奖，表彰其在数据技术领域的创新。",
+      "importance": "低",
+      "reason": "国内AI数据平台获奖，属于行业认可动态。",
+      "tags": [
+        "OceanBase",
+        "世界互联网大会",
+        "获奖"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/dhQud8FAggk62CZ2.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-03 15:20:00",
+      "impact_score": 100.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "summary": "11月4日消息，美国总统特朗普签署行政令，要求政府机构对“超级智能”相关项目进行忠诚度审查，多家科技公司被迫表态配合。",
+      "importance": "高",
+      "reason": "涉及美国政府AI行政令与忠诚度审查，属于重大政策与法规动态。",
+      "tags": [
+        "美国政策",
+        "行政令",
+        "AI监管"
+      ],
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-11-03 19:34:43",
+      "impact_score": 210.0
+    },
+    {
+      "index": 2,
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "summary": "11月4日消息，美国AI推理初创公司Fal完成13亿美元融资，估值翻倍至160亿美元，由Bessemer领投，反映市场对AI推理需求激增。",
+      "importance": "高",
+      "reason": "美国AI公司大额融资（超10亿美元），属于重大商业动态。",
+      "tags": [
+        "美国公司",
+        "融资",
+        "AI推理"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-11-04/waymo-co-ceo-says-uber-app-deal-was-crapshoot-for-riders",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-04 13:04:55",
+      "impact_score": 195.0
+    },
+    {
+      "index": 3,
+      "title": "Google to Spend $15 Billion in Malaysia Data Center Expansion",
+      "summary": "11月4日消息，谷歌宣布计划在马来西亚投资150亿美元扩建数据中心和云业务，以满足人工智能热潮带来的数字基础设施需求。",
+      "importance": "高",
+      "reason": "美国科技巨头重大海外投资，属于重大商业动态。",
+      "tags": [
+        "谷歌",
+        "数据中心",
+        "海外投资"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-11-04/hp-names-emma-walmsley-as-new-ceo-ending-monthlong-search",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-04 12:29:39",
+      "impact_score": 165.0
+    },
+    {
+      "index": 4,
+      "title": "Meta Gets Record €53 Billion of Orders for Debut Euro Bonds",
+      "summary": "11月4日消息，Meta首次发行欧元债券获得创纪录的530亿欧元认购，用于支持人工智能领域的巨额投资。",
+      "importance": "高",
+      "reason": "美国科技巨头大规模融资，属于重大商业动态。",
+      "tags": [
+        "Meta",
+        "债券融资",
+        "AI投资"
+      ],
+      "url": "https://www.ft.com/content/e8d40d03-4d86-46ca-aab5-68f7ea69f364?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-11-04 05:00:09",
+      "impact_score": 165.0
+    },
+    {
+      "index": 5,
+      "title": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
+      "summary": "11月4日消息，OpenAI聘请美国前陆军部长丹·德里斯科尔担任新设立的国家安全职务，负责国家安全现代化相关工作。",
+      "importance": "高",
+      "reason": "美国AI公司重要人事任命，涉及国家安全，属于重大商业与政策交叉动态。",
+      "tags": [
+        "OpenAI",
+        "人事任命",
+        "国家安全"
+      ],
+      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "source": "MIT Technology Review",
+      "original_pub_date": "2026-11-03 04:18:47",
+      "impact_score": 165.0
+    },
+    {
+      "index": 6,
+      "title": "Uber’s Jill Hazelbaker to Join OpenAI as Chief Corporate Affairs Officer",
+      "summary": "11月4日消息，优步总裁吉尔·黑泽尔巴克将加入OpenAI担任首席企业事务官，负责全球传播和品牌战略。",
+      "importance": "中",
+      "reason": "美国AI公司重要高管任命，属于重大商业动态。",
+      "tags": [
+        "OpenAI",
+        "高管任命",
+        "企业事务"
+      ],
+      "url": "https://www.theinformation.com/articles/salesforces-m-a-blitz-reflects-broader-deal-rush",
+      "source": "The Information",
+      "original_pub_date": "2026-11-04 01:01:25",
+      "impact_score": 160.0
+    },
+    {
+      "index": 7,
+      "title": "Apollo Is Vastly Outspending the Neoclouds on AI Chips",
+      "summary": "11月4日消息，阿波罗全球管理公司在AI芯片上的支出远超新兴云服务商，此前SpaceX宣布租赁价值400亿美元的英伟达Vera Rubin芯片。",
+      "importance": "中",
+      "reason": "美国公司大规模AI芯片投资，属于重大商业动态。",
+      "tags": [
+        "阿波罗",
+        "AI芯片",
+        "投资"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-11-04 14:46:01",
+      "impact_score": 158.0
+    },
+    {
+      "index": 8,
+      "title": "Waymo Co-CEO Says Uber App Deal Was ‘Crapshoot’ for Riders",
+      "summary": "11月4日消息，Waymo联合首席执行官表示，结束与优步的独家自动驾驶出租车合作是回应客户对服务一致性的反馈。",
+      "importance": "中",
+      "reason": "美国自动驾驶公司重大合作变动，属于重大商业动态。",
+      "tags": [
+        "Waymo",
+        "自动驾驶",
+        "合作变动"
+      ],
+      "url": "https://www.theinformation.com/articles/openai-afraid-jensen-huang",
+      "source": "The Information",
+      "original_pub_date": "2026-11-03 16:16:31",
+      "impact_score": 158.0
+    },
+    {
+      "index": 9,
+      "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
+      "summary": "11月4日消息，英国官员承认此前宣称AI将为经济增加4000亿英镑的估算主要来自谷歌，实际数字不到三分之一，研究人员归因于采用速度缓慢。",
+      "importance": "中",
+      "reason": "英国政府AI经济预测争议，属于政策与法规动态。",
+      "tags": [
+        "英国",
+        "AI经济",
+        "政策争议"
+      ],
+      "url": "https://www.ft.com/content/1ed838c0-a525-49bb-b494-15e4d1296791?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-11-03 17:00:20",
+      "impact_score": 150.0
+    },
+    {
+      "index": 10,
+      "title": "Anthropic is an opportunity to rethink IPO rules",
+      "summary": "11月4日消息，金融时报评论指出，Anthropic的IPO案例为重新思考IPO规则提供机会，应停止允许递延股票薪酬成本以保护散户投资者。",
+      "importance": "中",
+      "reason": "涉及美国AI公司IPO规则讨论，属于重大商业与政策动态。",
+      "tags": [
+        "Anthropic",
+        "IPO规则",
+        "监管"
+      ],
+      "url": "https://www.science.org/content/article/walrus-tusks-carved-bali-are-being-illegally-sold-native-american-art-investigation",
+      "source": "Science Magazine",
+      "original_pub_date": "2026-11-03 03:05:00",
+      "impact_score": 150.0
+    },
+    {
+      "index": 11,
+      "title": "Oaktree Data Center Firm Pure Secures Up to $1.9 Billion in Debt",
+      "summary": "11月4日消息，橡树资本支持的数据中心开发商Pure Data Centres Group获得7.8亿美元融资，并附有11亿美元扩展选项，用于欧洲和中东建设。",
+      "importance": "中",
+      "reason": "美国资本支持的数据中心重大融资，属于重大商业动态。",
+      "tags": [
+        "数据中心",
+        "融资",
+        "橡树资本"
+      ],
+      "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
+      "source": "Wired AI",
+      "original_pub_date": "2026-11-04 13:49:51",
+      "impact_score": 132.5
+    },
+    {
+      "index": 12,
+      "title": "Shopify Stock Falls 7.6% After Company Discloses Profit Margin Drop Due to AI",
+      "summary": "11月4日消息，Shopify披露因AI支出增加导致订阅业务毛利率下降，股价下跌7.6%，尽管季度营收增长32%至37亿美元。",
+      "importance": "中",
+      "reason": "加拿大公司AI支出影响财务，属于重大商业动态。",
+      "tags": [
+        "Shopify",
+        "AI支出",
+        "股价波动"
+      ],
+      "url": "https://arxiv.org/abs/2611.03721",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-11-04 05:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 13,
+      "title": "Binance Says Hackers Used Bogus Job Interview and AI Tool",
+      "summary": "11月4日消息，币安表示黑客利用虚假面试和AI工具诱导工程师下载恶意代码，最终导致63亿美元黑客攻击。",
+      "importance": "中",
+      "reason": "海外重大AI安全事件，涉及AI工具被用于网络攻击。",
+      "tags": [
+        "币安",
+        "AI安全",
+        "黑客攻击"
+      ],
+      "url": "https://arxiv.org/abs/2611.03739",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-11-04 05:00:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 14,
+      "title": "Counterexample-driven autonomous research with application to excess radiated energy in a Z-pinch",
+      "summary": "11月4日消息，研究人员提出Simjecture方法，将反例驱动的自主研究应用于Z箍缩过剩辐射能量问题，推动AI辅助物理学发现。",
+      "importance": "中",
+      "reason": "国际学术论文，属于AI辅助科学研究的重大学术突破。",
+      "tags": [
+        "学术突破",
+        "AI科研",
+        "物理学"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-11-04/africa-focused-opay-is-said-to-halt-us-ipo-after-china-inquiry",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-04 14:07:27",
+      "impact_score": 127.5
+    },
+    {
+      "index": 15,
+      "title": "Reasoning is topologically simple",
+      "summary": "11月4日消息，一项研究提出并验证推理文本的共现拓扑比非推理文本更简单，高质量推理的拓扑复杂度更低。",
+      "importance": "低",
+      "reason": "国际学术论文，属于AI推理理论的重大学术突破。",
+      "tags": [
+        "学术突破",
+        "推理",
+        "拓扑"
+      ],
+      "url": "https://www.theinformation.com/articles/apollo-vastly-outspending-neoclouds-ai-chips",
+      "source": "The Information",
+      "original_pub_date": "2026-11-04 14:00:50",
+      "impact_score": 127.5
+    },
+    {
+      "index": 16,
+      "title": "Recursa: Toward Recursively Self-Improving Foundation Model Systems",
+      "summary": "11月4日消息，研究人员提出Recursa系统，旨在使基础模型能够在陌生领域实现递归自我改进，减少对专家数据的依赖。",
+      "importance": "低",
+      "reason": "国际学术论文，属于AI基础模型自我改进的学术突破。",
+      "tags": [
+        "学术突破",
+        "基础模型",
+        "自我改进"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-11-04/online-supermarket-unicorn-rohlik-weighs-prague-ipo-ceo-says",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-04 13:48:27",
+      "impact_score": 127.5
+    }
+  ],
+  "summary": "今日从174条原始信息中精选出16条国内动态和16条国际动态，其中9条为高重要性。 重点关注：后摩智能低调完成数十亿元B轮融资，端侧大模型AI芯片进入规模化兑现期；360参与发起《智能体发展自律公约》，助力构建可信智能体生态；虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上。",
+  "statistics": {
+    "raw_domestic": 25,
+    "raw_international": 149,
+    "raw_total": 174,
+    "final_domestic": 16,
+    "final_international": 16
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "11月4日消息，后摩智能完成数十亿元B轮融资，由产业资本和国有资本联合押注，公司端侧AI芯片进入规模化商业落地阶段。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "11月4日消息，360与中国信通院、华为等共同发布《智能体发展自律公约》，提出八条自律措施，聚焦智能体信任体系与安全防护。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "11月4日消息，虎鲸文娱集团正式上线行业首个AI影视制作与管理平台“鲸锐AI”，可使AI视频单分钟成本节省30%以上。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "11月4日消息，蚂蚁集团参与建设的智能体身份注册与解析平台在乌镇发布，旨在解决智能体跨域协作中的身份确认与权限管理问题。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "11月4日消息，蚂蚁灵光AI助手新增微信读书、夸克网盘、哈啰打车等连接器服务，开放生态已打通40项外部连接器。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "11月4日消息，美国总统特朗普签署行政令，要求政府机构对“超级智能”相关项目进行忠诚度审查，多家科技公司被迫表态配合。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "11月4日消息，美国AI推理初创公司Fal完成13亿美元融资，估值翻倍至160亿美元，由Bessemer领投，反映市场对AI推理需求激增。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "11月4日消息，谷歌宣布计划在马来西亚投资150亿美元扩建数据中心和云业务，以满足人工智能热潮带来的数字基础设施需求。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "11月4日消息，Meta首次发行欧元债券获得创纪录的530亿欧元认购，用于支持人工智能领域的巨额投资。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "11月4日消息，OpenAI聘请美国前陆军部长丹·德里斯科尔担任新设立的国家安全职务，负责国家安全现代化相关工作。",
+      "importance": "高"
+    }
+  ]
+}
