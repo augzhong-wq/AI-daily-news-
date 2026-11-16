@@ -1,0 +1,585 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16 18:09:58",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+      "summary": "11月16日消息，阿里巴巴发布全新一代基座大模型Qwen4-Max，智能体及编程能力进阶，迈向真实全场景应用。",
+      "importance": "高",
+      "reason": "中国头部科技公司发布旗舰大模型，属于重大产品发布，对AI产业格局有显著影响。",
+      "tags": [
+        "大模型",
+        "产品发布",
+        "阿里巴巴"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/tDhzNl3D84AjopSh.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-16 04:08:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 2,
+      "title": "模型选择自由！千问办公上线Qwen4、Kimi-K3.1、GLM-5.3等10款模型",
+      "summary": "11月16日消息，千问办公上线Qwen4-Max、Kimi-K3.1、GLM-5.3等10款模型，个人和企业用户可自由选择，满足个性化Agent需求。",
+      "importance": "高",
+      "reason": "中国AI办公平台首次大规模集成多款三方大模型，体现模型生态开放趋势，对办公场景AI应用有重要推动。",
+      "tags": [
+        "AI办公",
+        "模型集成",
+        "千问"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/JDoXug7VZqSjkQrQ.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-16 04:00:00",
+      "impact_score": 240.0
+    },
+    {
+      "index": 3,
+      "title": "百度世界2026｜让金融AI用得起、更专业，度小满“轩辕”探索中小机构落地新路径",
+      "summary": "11月16日消息，百度世界2026大会发布文心大模型5.5 Flash预览版、词元所交易平台及天池1024卡超节点等成果，推动金融AI在中小机构落地。",
+      "importance": "高",
+      "reason": "百度年度大会发布多项AI产品与基础设施，涉及大模型、芯片、智能体，属于重大产品发布与战略布局。",
+      "tags": [
+        "百度",
+        "文心大模型",
+        "金融AI"
+      ],
+      "url": "https://www.leiphone.com/category/ai/b2VJ0YUl2gN5nNie.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-16 07:24:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 4,
+      "title": "豆包工作独家上线“工作台”功能，首批覆盖金融、医疗、教育等21个专业场景",
+      "summary": "11月16日消息，豆包工作独家上线“工作台”功能，首批覆盖金融、医疗、教育等21个专业场景，降低专业场景AI使用门槛。",
+      "importance": "高",
+      "reason": "字节跳动旗下AI办公产品推出行业首个多场景专业工作台，推动AI办公职业化，属于重要产品发布。",
+      "tags": [
+        "豆包",
+        "AI办公",
+        "专业场景"
+      ],
+      "url": "https://www.qbitai.com/2026/11/510486.html",
+      "source": "量子位",
+      "original_pub_date": "2026-11-16 07:51:57",
+      "impact_score": 150.0
+    },
+    {
+      "index": 5,
+      "title": "龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元",
+      "summary": "11月16日消息，通研院孵化的AGI芯片公司通芯智能集结龙芯、海光老兵，半年内连续完成数亿元融资，致力于AGI芯片研发。",
+      "importance": "高",
+      "reason": "中国AGI芯片初创公司获得大额融资，团队背景深厚，属于重大商业动态与芯片领域突破。",
+      "tags": [
+        "AGI芯片",
+        "融资",
+        "通研院"
+      ],
+      "url": "https://www.qbitai.com/2026/11/510369.html",
+      "source": "量子位",
+      "original_pub_date": "2026-11-16 03:07:39",
+      "impact_score": 150.0
+    },
+    {
+      "index": 6,
+      "title": "平均年龄25岁，00后小伙带队拿下首届蚂蚁灵波具身大模型挑战赛最高分",
+      "summary": "11月16日消息，蚂蚁灵波首届具身大模型挑战赛总决赛结果出炉，平均年龄25岁的TARS战队获得一等奖，展现中国具身智能青年人才实力。",
+      "importance": "中",
+      "reason": "蚂蚁集团主办具身大模型挑战赛，推动具身智能技术交流与人才培养，属于国内AI生态重要活动。",
+      "tags": [
+        "具身智能",
+        "蚂蚁集团",
+        "竞赛"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/hnSL5YwUtQjerTRK.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-16 08:59:00",
+      "impact_score": 140.0
+    },
+    {
+      "index": 7,
+      "title": "余承东发布新款问界M8：38万元起售，全系预埋L3架构",
+      "summary": "11月16日消息，余承东发布新款问界M8，38万元起售，全系预埋L3级自动驾驶架构，并明确华为与车企分工。",
+      "importance": "中",
+      "reason": "华为智能汽车解决方案重要产品发布，涉及L3自动驾驶架构，属于国内AI+汽车领域重大动态。",
+      "tags": [
+        "华为",
+        "智能汽车",
+        "自动驾驶"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/QP6ok2UwM4JBsMEx.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-16 11:21:00",
+      "impact_score": 135.0
+    },
+    {
+      "index": 8,
+      "title": "启境GT7 Ultra舒享版纯电/增程正式上新！首付6.66万起，拿下L3级架构猎装",
+      "summary": "11月16日消息，广汽与华为联合打造的启境GT7 Ultra舒享版正式上新，标配L3级自动驾驶架构，限时权益价22.19万元起。",
+      "importance": "中",
+      "reason": "华为与广汽合作车型上新，推动L3级自动驾驶架构进入20万级市场，属于国内智能汽车重要动态。",
+      "tags": [
+        "华为",
+        "广汽",
+        "L3自动驾驶"
+      ],
+      "url": "https://www.qbitai.com/2026/11/510436.html",
+      "source": "量子位",
+      "original_pub_date": "2026-11-16 07:26:33",
+      "impact_score": 135.0
+    },
+    {
+      "index": 9,
+      "title": "会畅科技发布任务管理原生 Agent 矩阵 软硬件协同深耕企业执行场景",
+      "summary": "11月16日消息，会畅科技发布白泽任务管理OS与会畅超光桌面AI助理终端，首次提出“以任务为AI原生组织最小协作单元”，软硬件协同深耕企业执行场景。",
+      "importance": "中",
+      "reason": "国内企业发布任务管理原生Agent矩阵，推动AI原生组织落地，属于重要产品发布。",
+      "tags": [
+        "AI Agent",
+        "企业服务",
+        "会畅科技"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/cKZQPQOnwbz4y30h.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-16 05:33:00",
+      "impact_score": 135.0
+    },
+    {
+      "index": 10,
+      "title": "众筹超500万美元，全球首款多地形跟拍机器人Beni线下首发",
+      "summary": "11月16日消息，妙动科技打造的多地形跟拍机器人Beni在深圳线下首发，此前海外众筹超500万美元，成为Kickstarter消费级机器人众筹金额历史第一。",
+      "importance": "中",
+      "reason": "中国公司打造的消费级机器人创众筹纪录并线下首发，体现中国AI硬件创新与商业化能力。",
+      "tags": [
+        "消费机器人",
+        "众筹",
+        "妙动科技"
+      ],
+      "url": "https://www.qbitai.com/2026/11/510416.html",
+      "source": "量子位",
+      "original_pub_date": "2026-11-16 05:05:22",
+      "impact_score": 127.5
+    },
+    {
+      "index": 11,
+      "title": "26.99万元起，腾势N8正式上市：首搭易三方Evo，纯电续航1003公里",
+      "summary": "11月16日消息，腾势N8正式上市，首搭易三方Evo、天神之眼5.0辅助驾驶系统，并引入AI超级智能体迪迪虾，纯电续航1003公里。",
+      "importance": "中",
+      "reason": "比亚迪旗下腾势新车上市，搭载多项AI技术及AI智能体，属于国内智能汽车与AI融合重要动态。",
+      "tags": [
+        "比亚迪",
+        "智能汽车",
+        "AI智能体"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/OCFaX1WjrKRkcFm5.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-16 09:54:00",
+      "impact_score": 120.0
+    },
+    {
+      "index": 12,
+      "title": "华为Mate X8官宣第二代灵珑屏，折叠屏手机进入大焕新时代？",
+      "summary": "11月16日消息，华为终端官宣Mate X8将搭载第二代灵珑屏，屏幕尺寸进一步升级，预示折叠屏体验全面进阶。",
+      "importance": "低",
+      "reason": "华为折叠屏手机屏幕技术升级，属于消费电子领域AI相关硬件迭代，重要性相对较低。",
+      "tags": [
+        "华为",
+        "折叠屏",
+        "硬件发布"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/vBMqo9G7ViFbsPER.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-16 02:39:00",
+      "impact_score": 120.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "OpenAI Explored $5 Billion–Plus Acquisition of Startup That Decodes How AI ‘Thinks’",
+      "summary": "11月16日消息，OpenAI探索以超50亿美元收购AI可解释性初创公司Goodfire，旨在理解AI模型行为逻辑并应对安全漏洞。",
+      "importance": "高",
+      "reason": "OpenAI作为海外AI巨头，探索超50亿美元重大并购，涉及AI安全与可解释性核心技术，属重大商业动态与安全伦理交叉事件。",
+      "tags": [
+        "OpenAI",
+        "收购",
+        "AI可解释性",
+        "AI安全"
+      ],
+      "url": "https://www.theinformation.com/articles/controversial-ai-interpretability-research-caught-sam-altmans-eye",
+      "source": "The Information",
+      "original_pub_date": "2026-11-16 15:01:04",
+      "impact_score": 435.0
+    },
+    {
+      "index": 2,
+      "title": "The Controversial AI Interpretability Research that Caught Sam Altman’s Eye",
+      "summary": "11月16日消息，OpenAI与Goodfire就收购或合作展开谈判，CEO奥特曼特别关注研究员尼克·卡马拉塔颇具争议的AI可解释性工作。",
+      "importance": "高",
+      "reason": "涉及OpenAI重大收购谈判及关键研究人员，反映AI可解释性领域争议与战略布局，属重大商业与学术交叉动态。",
+      "tags": [
+        "OpenAI",
+        "Goodfire",
+        "AI可解释性",
+        "奥特曼"
+      ],
+      "url": "https://www.theinformation.com/articles/openai-explored-5-billion-plus-acquisition-startup-decodes-ai-thinks",
+      "source": "The Information",
+      "original_pub_date": "2026-11-16 14:00:58",
+      "impact_score": 420.0
+    },
+    {
+      "index": 3,
+      "title": "Nvidia’s CEO Search Draws Fire With Bessent’s Shakeup Call",
+      "summary": "11月16日消息，英伟达罢免黄仁勋后压力加剧，美财长贝森特敦促公司进行“戏剧性”领导层改组并说明AI芯片出口管制合规情况。",
+      "importance": "高",
+      "reason": "英伟达作为全球AI芯片龙头，CEO罢免引发美国政府高层介入，涉及出口管制合规与领导层重组，属重大政策与商业动态。",
+      "tags": [
+        "英伟达",
+        "CEO罢免",
+        "出口管制",
+        "美国政府"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/altman-says-ai-industry-will-be-fine-after-huang-s-ouster",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-16 17:51:57",
+      "impact_score": 277.5
+    },
+    {
+      "index": 4,
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "summary": "11月16日消息，英伟达间谍丑闻后美国国会两党支持收紧AI芯片出口规则，并推动多项法案要求加强管制。",
+      "importance": "高",
+      "reason": "美国国会推动AI芯片出口管制立法，属重大政策法规动态，对全球AI芯片供应链有深远影响。",
+      "tags": [
+        "美国国会",
+        "出口管制",
+        "AI芯片",
+        "立法"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-11-16/nvidia-ceo-search-draws-fire-with-bessent-s-shakeup-call-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-16 16:26:58",
+      "impact_score": 277.5
+    },
+    {
+      "index": 5,
+      "title": "Altman Says AI Industry ‘Will Be Fine’ After Huang’s Ouster",
+      "summary": "11月16日消息，OpenAI CEO奥特曼表示，尽管英伟达CEO黄仁勋被罢免引发不确定性，但AI行业“将安然无恙”。",
+      "importance": "高",
+      "reason": "奥特曼作为海外AI领军人物对行业重大人事变动的公开表态，反映行业信心与走向，属重要商业动态。",
+      "tags": [
+        "OpenAI",
+        "奥特曼",
+        "英伟达",
+        "行业信心"
+      ],
+      "url": "https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-11-16 18:02:42",
+      "impact_score": 262.5
+    },
+    {
+      "index": 6,
+      "title": "Nvidia board not considering reinstating Jensen Huang as chief executive",
+      "summary": "11月16日消息，英伟达董事会不考虑恢复黄仁勋CEO职务，此前其因与新加坡客户高管婚外情辞职。",
+      "importance": "高",
+      "reason": "英伟达董事会明确排除黄仁勋回归，属重大公司治理与人事动态，影响全球AI芯片龙头领导层稳定。",
+      "tags": [
+        "英伟达",
+        "董事会",
+        "黄仁勋",
+        "人事变动"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/thoma-bravo-s-proofpoint-launches-2-billion-debt-deal-for-m-a",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-16 17:14:10",
+      "impact_score": 240.0
+    },
+    {
+      "index": 7,
+      "title": "Huang Allies Encourage Nvidia Comeback as Bessent Pushes Board to Look Outside",
+      "summary": "11月16日消息，黄仁勋亲信非正式推动其重返英伟达CEO职位，而美财长贝森特则施压董事会寻求外部人选。",
+      "importance": "高",
+      "reason": "英伟达CEO继任之争涉及内部亲信与政府施压，属重大公司治理与政策交叉动态。",
+      "tags": [
+        "英伟达",
+        "黄仁勋",
+        "CEO继任",
+        "美国政府"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-11-16 13:00:00",
+      "impact_score": 229.5
+    },
+    {
+      "index": 8,
+      "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+      "summary": "11月16日消息，黄仁勋与盟友讨论重返英伟达CEO职位，此前其因与疑似中国间谍婚外情辞职，科技界支持者游说董事会恢复其职务。",
+      "importance": "高",
+      "reason": "黄仁勋可能重返英伟达，涉及国家安全与公司治理，属重大商业与安全动态。",
+      "tags": [
+        "英伟达",
+        "黄仁勋",
+        "重返CEO",
+        "国家安全"
+      ],
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-11-15 20:43:49",
+      "impact_score": 214.5
+    },
+    {
+      "index": 9,
+      "title": "Thousands of Nvidia Staff Sign Petition to Bring Back Huang",
+      "summary": "11月16日消息，超10万人签名请愿英伟达董事会恢复黄仁勋职务，含5248名现任员工及马斯克等名人。",
+      "importance": "高",
+      "reason": "大规模员工与名人请愿反映英伟达内部动荡，属重大公司治理与行业动态。",
+      "tags": [
+        "英伟达",
+        "请愿",
+        "黄仁勋",
+        "员工"
+      ],
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-11-15 00:08:07",
+      "impact_score": 214.5
+    },
+    {
+      "index": 10,
+      "title": "Chinese AI Stocks Plunge on Fears of Tougher U.S. Export Controls",
+      "summary": "11月16日消息，受英伟达CEO黄仁勋辞职后美国可能收紧出口管制影响，中国AI公司MiniMax和Z.ai股价分别暴跌18%和13%。",
+      "importance": "高",
+      "reason": "新闻主体涉及美国出口管制政策对市场的影响，属国际政策动态，虽涉及中国公司但核心事件为美国政策预期。",
+      "tags": [
+        "出口管制",
+        "中国AI股",
+        "英伟达",
+        "市场反应"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-11-16/bofa-s-moynihan-on-ipo-pipeline-ai-consumer-strength-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-16 14:33:11",
+      "impact_score": 210.0
+    },
+    {
+      "index": 11,
+      "title": "US is Falling Behind on AI Buildout Needs: Midha",
+      "summary": "11月16日消息，Anthropic创始投资人米达表示美国算力建设速度落后于中国，并对英伟达临时CEO科莱特·克雷斯领导力表示乐观。",
+      "importance": "中",
+      "reason": "海外投资人评论美国AI算力建设与中美竞争，属国际动态与行业观点。",
+      "tags": [
+        "美国",
+        "算力建设",
+        "Anthropic",
+        "中美竞争"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-11-16/us-is-falling-behind-on-ai-buildout-needs-midha-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-16 16:39:09",
+      "impact_score": 180.0
+    },
+    {
+      "index": 12,
+      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "summary": "11月16日消息，OpenAI发布新图像分类器并在ChatGPT中增加警告机制，以打击儿童性虐待材料，违规账户将被封禁24小时。",
+      "importance": "中",
+      "reason": "OpenAI作为海外AI巨头发布安全产品功能，属重大产品发布与安全伦理动态。",
+      "tags": [
+        "OpenAI",
+        "图像分类器",
+        "CSAM",
+        "AI安全"
+      ],
+      "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-11-15 19:03:41",
+      "impact_score": 180.0
+    },
+    {
+      "index": 13,
+      "title": "Apple launches new app to study how people use AI for health",
+      "summary": "11月16日消息，苹果推出新应用研究人们如何利用AI解答日常医疗问题，探索AI在健康领域的应用。",
+      "importance": "中",
+      "reason": "苹果作为海外科技巨头发布AI健康研究应用，属重大产品发布与商业动态。",
+      "tags": [
+        "苹果",
+        "AI健康",
+        "应用发布",
+        "研究"
+      ],
+      "url": "https://www.theinformation.com/briefings/huang-weighs-nvidia-comeback-bessent-pushes-board-look-outside",
+      "source": "The Information",
+      "original_pub_date": "2026-11-15 20:19:24",
+      "impact_score": 173.0
+    },
+    {
+      "index": 14,
+      "title": "Google Parent to Take Part in $3 Billion in Prepaid Energy Deals",
+      "summary": "11月16日消息，谷歌母公司Alphabet计划参与总计30亿美元的预付能源交易，以满足AI数据中心能源需求。",
+      "importance": "中",
+      "reason": "谷歌母公司参与大额能源交易以支持AI基础设施，属重大商业动态与AI算力布局。",
+      "tags": [
+        "谷歌",
+        "Alphabet",
+        "能源交易",
+        "AI基础设施"
+      ],
+      "url": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
+      "source": "Wired AI",
+      "original_pub_date": "2026-11-16 16:12:51",
+      "impact_score": 158.0
+    },
+    {
+      "index": 15,
+      "title": "Nvidia Backs ‘Genius Grant’ Winner's Push for Cost-Efficient AI",
+      "summary": "11月16日消息，英伟达投资斯坦福专家创立的五个月大初创公司Noeri，参与1.1亿美元融资，助力企业低成本定制AI产品。",
+      "importance": "中",
+      "reason": "英伟达参与AI初创公司大额融资，属重大商业动态与投资布局。",
+      "tags": [
+        "英伟达",
+        "Noeri",
+        "融资",
+        "AI定制"
+      ],
+      "url": "https://www.theinformation.com/briefings/chinese-ai-stocks-plunge-fears-tougher-u-s-export-controls",
+      "source": "The Information",
+      "original_pub_date": "2026-11-16 09:57:46",
+      "impact_score": 158.0
+    },
+    {
+      "index": 16,
+      "title": "Plural raises €1bn fund to back European tech start-ups",
+      "summary": "11月16日消息，总部位于伦敦的Plural宣布设立10亿欧元基金，支持欧洲科技初创企业，为该地区最大规模风投基金之一。",
+      "importance": "中",
+      "reason": "欧洲风投设立10亿欧元基金支持科技初创，属重大商业动态与欧洲AI生态发展。",
+      "tags": [
+        "Plural",
+        "欧洲",
+        "风投基金",
+        "科技初创"
+      ],
+      "url": "https://www.theinformation.com/articles/nvidias-earnings-deck-anthropics-public-debut",
+      "source": "The Information",
+      "original_pub_date": "2026-11-15 23:00:54",
+      "impact_score": 158.0
+    },
+    {
+      "index": 17,
+      "title": "Anthropic IPO Is Delaying Some Deals, Moynihan Says",
+      "summary": "11月16日消息，美国银行CEO莫伊尼汉表示，Anthropic预期IPO导致部分交易推迟至明年初，资本市场活动波动。",
+      "importance": "中",
+      "reason": "Anthropic作为海外AI巨头IPO影响资本市场，属重大商业动态。",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "美国银行",
+        "资本市场"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-11-15 19:15:43",
+      "impact_score": 158.0
+    },
+    {
+      "index": 18,
+      "title": "Anthropic’s IPO is the next big test for AI",
+      "summary": "11月16日消息，Anthropic的IPO成为AI行业下一个重大考验，即使最强大的前沿实验室也需服从公开市场力量。",
+      "importance": "中",
+      "reason": "Anthropic IPO被视为AI行业风向标，属重大商业动态与市场趋势。",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "AI行业",
+        "公开市场"
+      ],
+      "url": "https://www.theinformation.com/briefings/thousands-nvidia-staff-sign-petition-bring-back-huang",
+      "source": "The Information",
+      "original_pub_date": "2026-11-15 01:23:24",
+      "impact_score": 158.0
+    },
+    {
+      "index": 19,
+      "title": "Biggest IPOs this year lose investors money as AI frenzy fades",
+      "summary": "11月16日消息，今年十大IPO平均下跌超20%，AI热潮消退导致投资者亏损，结束连续四年上涨趋势。",
+      "importance": "中",
+      "reason": "反映AI投资热潮消退与IPO市场表现，属重大商业动态与市场趋势。",
+      "tags": [
+        "IPO",
+        "AI热潮",
+        "市场表现",
+        "投资者"
+      ],
+      "url": "https://www.ft.com/content/26e52d2a-b259-4283-af83-e2c75d67a2fc?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-11-16 05:00:21",
+      "impact_score": 150.0
+    }
+  ],
+  "summary": "今日从160条原始信息中精选出12条国内动态和19条国际动态，其中15条为高重要性。 重点关注：阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景；模型选择自由！千问办公上线Qwen4、Kimi-K3.1、GLM-5.3等10款模型；百度世界2026｜让金融AI用得起、更专业，度小满“轩辕”探索中小机构落地新路径。",
+  "statistics": {
+    "raw_domestic": 24,
+    "raw_international": 136,
+    "raw_total": 160,
+    "final_domestic": 12,
+    "final_international": 19
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "11月16日消息，阿里巴巴发布全新一代基座大模型Qwen4-Max，智能体及编程能力进阶，迈向真实全场景应用。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "11月16日消息，千问办公上线Qwen4-Max、Kimi-K3.1、GLM-5.3等10款模型，个人和企业用户可自由选择，满足个性化Agent需求。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "11月16日消息，百度世界2026大会发布文心大模型5.5 Flash预览版、词元所交易平台及天池1024卡超节点等成果，推动金融AI在中小机构落地。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "11月16日消息，豆包工作独家上线“工作台”功能，首批覆盖金融、医疗、教育等21个专业场景，降低专业场景AI使用门槛。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "11月16日消息，通研院孵化的AGI芯片公司通芯智能集结龙芯、海光老兵，半年内连续完成数亿元融资，致力于AGI芯片研发。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "11月16日消息，OpenAI探索以超50亿美元收购AI可解释性初创公司Goodfire，旨在理解AI模型行为逻辑并应对安全漏洞。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "11月16日消息，OpenAI与Goodfire就收购或合作展开谈判，CEO奥特曼特别关注研究员尼克·卡马拉塔颇具争议的AI可解释性工作。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "11月16日消息，英伟达罢免黄仁勋后压力加剧，美财长贝森特敦促公司进行“戏剧性”领导层改组并说明AI芯片出口管制合规情况。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "11月16日消息，英伟达间谍丑闻后美国国会两党支持收紧AI芯片出口规则，并推动多项法案要求加强管制。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "11月16日消息，OpenAI CEO奥特曼表示，尽管英伟达CEO黄仁勋被罢免引发不确定性，但AI行业“将安然无恙”。",
+      "importance": "高"
+    }
+  ]
+}
