@@ -1,0 +1,178 @@
+======================================================================
+AI每日动态 - 2026-11-17
+生成时间: 2026-11-17 17:29:28
+数据来源: 从 197 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、11月17日消息，阿里云在香港峰会上推出千问大模型等新举措，连续六年位居香港IaaS市场份额第一，企业客户AI服务启用率超95%，推动AI在金融、政务、传媒等领域落地。
+2、11月17日消息，豆包工作独家上线“工作台”功能，首批覆盖金融、医疗、教育等21个专业场景，提供预配置的AI技能和工具，降低专业场景使用门槛，提升工作效率。
+3、11月17日消息，材料科学智能体MatOS正式开源，能筛材料、找配方、开发新模型，大幅提高材料研发任务成功率，拿下多项科研任务。
+4、11月17日消息，腾讯优图实验室研究总监、专家研究员孙星已离职，曾主导视频评测基准Video-MME、全模态模型VITA等项目，后续去向未知。
+5、11月17日消息，启境汽车正式推出GT7 Ultra舒享版增程和纯电双车型，限时权益价22.19万元与23.19万元，标配L3级自动驾驶架构，由广汽与华为乾崑联合打造。
+
+国际动态：
+1、11月17日消息，美国AI公司Anthropic的顾问已向部分投资者透露，其即将进行的IPO估值可能定在约1.5万亿美元，暗示最终定价可能高于预期区间或增加发行股份数量，市场需求至少达到发行量的六倍。
+2、11月17日消息，美国投资机构Altimeter创始人Brad Gerstner表示，计划在Anthropic的IPO中投资50亿美元，这将是其有史以来在IPO中最大规模的投资，是此前单笔IPO投资额的5倍。
+3、11月17日消息，英伟达支持的法国机器人初创公司Genesis AI以35亿美元估值完成新一轮融资，投资者正加速涌入机器人领域，该公司成为欧洲AI机器人赛道的重要参与者。
+4、11月17日消息，美国AI网络安全初创公司Corma在产品推出仅三个月后，便完成了由NEA领投的1.25亿美元A轮融资，估值达到10亿美元，成为新晋独角兽。
+5、11月17日消息，美国司法部和商务部表示正在调查新加坡数据中心公司Megaspeed，该公司与英伟达CEO黄仁勋辞职事件有关联，此前有报道称调查去年曾被中止。
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 11月17日消息，阿里云在香港峰会上推出千问大模型等新举措，连续六年位居香港IaaS市场份额第一，企业客户AI服务启用率超95%，推动AI在金融、政务、传媒等领域落地。
+   📋 入选理由: 阿里云作为中国云服务巨头，在香港市场取得领先地位并推动AI落地，属于重大商业动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/ai/b2VJ0YUl2gN5nNie.html
+   🏷️ 标签: 阿里云, AI渗透率, 香港市场
+
+2、🔥 11月17日消息，豆包工作独家上线“工作台”功能，首批覆盖金融、医疗、教育等21个专业场景，提供预配置的AI技能和工具，降低专业场景使用门槛，提升工作效率。
+   📋 入选理由: 字节跳动旗下豆包推出重要产品功能，属于重大产品发布。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/qyieFYqM3EQhE1Hu.html
+   🏷️ 标签: 豆包, AI工作台, 专业场景
+
+3、🔥 11月17日消息，材料科学智能体MatOS正式开源，能筛材料、找配方、开发新模型，大幅提高材料研发任务成功率，拿下多项科研任务。
+   📋 入选理由: 中国团队开源材料科学智能体，属于重大学术/技术突破。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/CorporateServices/7flnC8myrlPgPbPs.html
+   🏷️ 标签: MatOS, 开源, 材料科学
+
+4、📌 11月17日消息，腾讯优图实验室研究总监、专家研究员孙星已离职，曾主导视频评测基准Video-MME、全模态模型VITA等项目，后续去向未知。
+   📋 入选理由: 腾讯AI实验室核心人员变动，属于重要商业动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/hnSL5YwUtQjerTRK.html
+   🏷️ 标签: 腾讯优图, 人事变动, AI研究
+
+5、📌 11月17日消息，启境汽车正式推出GT7 Ultra舒享版增程和纯电双车型，限时权益价22.19万元与23.19万元，标配L3级自动驾驶架构，由广汽与华为乾崑联合打造。
+   📋 入选理由: 广汽与华为合作车型上新，涉及L3级自动驾驶，属于重要产品发布。
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/11/510652.html
+   🏷️ 标签: 启境汽车, 华为, L3自动驾驶
+
+6、📌 11月17日消息，腾势N8正式上市，推出纯电和插混版本，售价26.99万—32.99万元，首搭易三方Evo、第二代刀片电池及天神之眼5.0辅助驾驶系统，纯电续航达1003公里。
+   📋 入选理由: 比亚迪旗下腾势发布新车型，搭载多项AI技术，属于重要产品发布。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/zaobao/QP6ok2UwM4JBsMEx.html
+   🏷️ 标签: 腾势, 比亚迪, 智能驾驶
+
+7、📌 11月17日消息，闲鱼在联合国气候变化大会上分享AI促进闲置流通的实践，通过AI辅助调整商品信息和价格，大幅缩短交易时间，推动绿色低碳生活。
+   📋 入选理由: 中国公司闲鱼在国际场合展示AI应用，属于重要商业动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/cKZQPQOnwbz4y30h.html
+   🏷️ 标签: 闲鱼, AI, 循环经济
+
+8、📌 11月17日消息，网传360集团副总裁卜思南涉贪腐被带走调查，本人回应不实；英伟达董事会称未考虑让黄仁勋复任CEO；网易《哈利波特：魔法觉醒》手游宣布明年3月停止运营。
+   📋 入选理由: 涉及360集团高管传闻及网易游戏停运，属于国内公司重要动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/CorporateServices/ndF7IsEHBffZkbzy.html
+   🏷️ 标签: 360, 网易, 人事变动
+
+9、📌 11月17日消息，蚂蚁灵波首届具身大模型挑战赛总决赛结果出炉，平均年龄25岁的TARS战队获得一等奖，赛事通过48小时真机比拼考验机器人能力。
+   📋 入选理由: 蚂蚁集团举办具身大模型挑战赛，属于国内AI学术/商业活动。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/OCFaX1WjrKRkcFm5.html
+   🏷️ 标签: 蚂蚁灵波, 具身大模型, 挑战赛
+
+10、📌 11月17日消息，雷峰网报道多家企业因AI投入未达预期而削减预算，创业者反映AI开销大但收入利润未同步增长，引发对AI企业应用效果的反思。
+   📋 入选理由: 反映国内企业AI应用现状，属于行业趋势分析。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/transportation/9YeGaaNjyBi0zkQ4.html
+   🏷️ 标签: 企业AI, 预算削减, 智能组织
+
+11、📌 11月17日消息，物理AI热度从机器人本体向产业链扩散，英伟达提出“三台计算机”概念，其数据中心业务收入同比增长117%，计算基础设施成为关键。
+   📋 入选理由: 分析物理AI趋势，涉及英伟达但主体为行业趋势，属于国内产业观察。
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/11/510695.html
+   🏷️ 标签: 物理AI, 计算基础设施, 英伟达
+
+12、📌 11月17日消息，李沐加盟的Aimotion公司瞄准“产业级世界模型”，致力于AI技术研发。
+   📋 入选理由: 李沐作为国内AI知名学者加盟新公司，属于重要商业动态。
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/11/510493.html
+   🏷️ 标签: 李沐, Aimotion, 世界模型
+
+13、📌 11月17日消息，光轮智能推出物理AI强化学习仿真环境RoboFinals RL Envs，为机器人学习提供新工具。
+   📋 入选理由: 国内公司推出物理AI仿真环境，属于重要产品发布。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/fZwDw188Li4SuyQM.html
+   🏷️ 标签: 光轮智能, 强化学习, 仿真环境
+
+14、📄 11月17日消息，智源研究院联合多家高校推出悟界·PhysCapBench，首个覆盖三大领域统一评测视频Caption物理信息的基准，助力物理AI基模构建。
+   📋 入选理由: 智源研究院发布评测基准，属于学术研究进展。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/zaobao/ksECYyYOXDL6IQ2q.html
+   🏷️ 标签: 智源研究院, 物理AI, 评测基准
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 11月17日消息，美国AI公司Anthropic的顾问已向部分投资者透露，其即将进行的IPO估值可能定在约1.5万亿美元，暗示最终定价可能高于预期区间或增加发行股份数量，市场需求至少达到发行量的六倍。
+   📋 入选理由: Anthropic作为全球头部AI公司，其IPO估值高达1.5万亿美元，是AI行业重大商业动态，影响巨大。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/articles/controversial-ai-interpretability-research-caught-sam-altmans-eye
+   🏷️ 标签: Anthropic, IPO, 估值, 美国
+
+2、🔥 11月17日消息，美国投资机构Altimeter创始人Brad Gerstner表示，计划在Anthropic的IPO中投资50亿美元，这将是其有史以来在IPO中最大规模的投资，是此前单笔IPO投资额的5倍。
+   📋 入选理由: 50亿美元投资Anthropic IPO，是重大商业动态，反映资本对AI头部公司的强烈信心。
+   📰 来源: Science Magazine | 🔗 https://www.science.org/content/article/chinese-gene-therapy-researchers-fired-after-probe-child-s-death
+   🏷️ 标签: Anthropic, IPO, 投资, 美国
+
+3、🔥 11月17日消息，英伟达支持的法国机器人初创公司Genesis AI以35亿美元估值完成新一轮融资，投资者正加速涌入机器人领域，该公司成为欧洲AI机器人赛道的重要参与者。
+   📋 入选理由: 英伟达支持的法国AI机器人公司大额融资，属于重大商业动态，且涉及欧洲AI产业。
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/e265542c-25d9-4a82-8cb7-e4a4b641cdda?syn-25a6b1a6=1
+   🏷️ 标签: Genesis AI, 融资, 机器人, 法国, 英伟达
+
+4、🔥 11月17日消息，美国AI网络安全初创公司Corma在产品推出仅三个月后，便完成了由NEA领投的1.25亿美元A轮融资，估值达到10亿美元，成为新晋独角兽。
+   📋 入选理由: AI安全领域初创公司快速跻身独角兽，反映AI安全赛道热度，属于重大商业动态。
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-11-17/read-jensen-huang-s-statement-offering-a-return-as-nvidia-ceo
+   🏷️ 标签: Corma, 网络安全, 融资, 美国
+
+5、🔥 11月17日消息，美国司法部和商务部表示正在调查新加坡数据中心公司Megaspeed，该公司与英伟达CEO黄仁勋辞职事件有关联，此前有报道称调查去年曾被中止。
+   📋 入选理由: 美国政府对海外AI相关公司展开调查，涉及出口管制和国家安全，属于重大政策法规动态。
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-11-17/huang-is-willing-to-return-as-nvidia-ceo-if-board-allows-it
+   🏷️ 标签: Megaspeed, DOJ, 调查, 新加坡, 美国
+
+6、🔥 11月17日消息，美国前总统特朗普表示，前英伟达CEO黄仁勋与据称是中国间谍的Alice Huang的婚外情并未威胁国家安全，这与情报官员的结论相矛盾。
+   📋 入选理由: 涉及美国前总统对国家安全事件的表态，与AI芯片巨头英伟达高层变动相关，具有政策与安全影响。
+   📰 来源: MIT Technology Review | 🔗 https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/
+   🏷️ 标签: 特朗普, 黄仁勋, 国家安全, 美国
+
+7、🔥 11月17日消息，英伟达在黄仁勋离职后首次重大举措是成立新的常设委员会，对国家安全政策、出口管制合规和全球贸易风险进行董事会级别监督。
+   📋 入选理由: 英伟达作为全球AI芯片龙头，其治理结构调整涉及出口管制和国家安全，属于重大政策与商业动态。
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/424e5ab0-517e-4f8e-a286-df7c67fa05a6?syn-25a6b1a6=1
+   🏷️ 标签: 英伟达, 国家安全, 出口管制, 美国
+
+8、🔥 11月17日消息，在黄仁勋辞去英伟达CEO之前，AMD等竞争对手的AI芯片已开始赢得客户，黄仁勋的离职可能加剧客户转向AMD和谷歌等替代方案的趋势。
+   📋 入选理由: AI芯片市场竞争格局变化，涉及AMD、谷歌和英伟达，属于重大商业动态。
+   📰 来源: MIT Technology Review | 🔗 https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/
+   🏷️ 标签: AMD, 谷歌, 英伟达, AI芯片, 美国
+
+9、🔥 11月17日消息，英伟达机器人负责人Deepu Talla表示，OpenAI的Astra模型在理解物理世界任务上表现出色，是机器人领域的突破，有助于推动机器人技术发展。
+   📋 入选理由: OpenAI模型获英伟达高管认可，涉及重大产品发布和学术突破，属于国际AI动态。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/articles/openais-astra-boon-robotics-says-nvidia-robotics-chief-deepu-talla
+   🏷️ 标签: OpenAI, Astra, 机器人, 英伟达, 美国
+
+10、📌 11月17日消息，OpenAI总裁Greg Brockman推动公司转向网络安全领域，并解雇了首席营收官Denise Dresser，引发关于AI安全战略的内部争议。
+   📋 入选理由: OpenAI高层人事变动和战略调整，涉及AI安全，属于重要商业与安全动态。
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/
+   🏷️ 标签: OpenAI, Brockman, 网络安全, AI安全, 美国
+
+11、📌 11月17日消息，OpenAI CEO Sam Altman对AI初创公司Goodfire的研究员Nick Cammarata的可解释性研究特别感兴趣，OpenAI正与Goodfire洽谈收购或合作事宜。
+   📋 入选理由: OpenAI对AI可解释性研究的关注及潜在收购，涉及重要商业动态和学术突破。
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/articles/2026-11-17/nvidia-backed-genesis-ai-raises-funds-at-3-5-billion-valuation
+   🏷️ 标签: OpenAI, Goodfire, 可解释性, 收购, 美国
+
+12、📌 11月17日消息，美国初创公司First Person Labs结束隐身模式，推出高度个性化AI产品，由两位博士生于七个月前创立，旨在让AI模型更精准地记忆用户偏好。
+   📋 入选理由: AI个性化领域新创公司出现，属于商业动态，但影响力相对较小。
+   📰 来源: arXiv AI | 🔗 https://arxiv.org/abs/2611.19116
+   🏷️ 标签: First Person Labs, 个性化AI, 初创, 美国
+
+13、📌 11月17日消息，Silicon Data创始人兼CEO Carmen Li表示，算力期货可以为金融家和AI公司提供对冲GPU成本波动和供应风险的工具，帮助管理AI基础设施投资风险。
+   📋 入选理由: 算力期货创新金融工具，涉及AI基础设施风险管理，属于商业动态。
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/
+   🏷️ 标签: 算力期货, GPU, 风险管理, 美国
+
+14、📄 11月17日消息，OpenAI CEO Sam Altman再次回应其关于个人电脑内存购买的争议言论，表示希望每个人都能为自己的电脑购买大量内存，认为家庭动手改造是好事。
+   📋 入选理由: Sam Altman个人言论，涉及AI硬件需求，但重要性较低。
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/
+   🏷️ 标签: Sam Altman, 内存, OpenAI, 美国
+
+
+======================================================================
+📊 今日总结: 今日从197条原始信息中精选出14条国内动态和14条国际动态，其中12条为高重要性。 重点关注：阿里云连续六年香港IaaS第一，企业客户AI渗透率达95%；豆包工作独家上线“工作台”功能，首批覆盖金融、医疗、教育等21个专业场景；材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率。
+======================================================================
