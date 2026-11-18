@@ -1,0 +1,570 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18 17:03:53",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "可灵AI发布Kling Image 4.0：原生8K超高清、组图直出，刷新专业图像生成新高度",
+      "summary": "11月18日消息，可灵AI发布Kling Image 4.0图像创作模型，支持原生8K超高清生成、单图2000字文字生成及一次生成最多10张连贯组图，聚焦影视、广告等专业场景。",
+      "importance": "高",
+      "reason": "国内AI公司重大产品发布，图像生成能力突破，支持原生8K和组图直出，对专业创作领域有显著影响。",
+      "tags": [
+        "可灵AI",
+        "图像生成",
+        "产品发布"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/ukrIJ082d0MIuodR.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-18 05:31:00",
+      "impact_score": 300.0
+    },
+    {
+      "index": 2,
+      "title": "豆包工作日活突破 800 万，企业客户 ARR 突破 20 亿元",
+      "summary": "11月18日消息，豆包工作宣布上线三个月日活突破800万，企业客户年度经常性收入突破20亿元，并接入Kimi、GLM、DeepSeek等第三方模型。",
+      "importance": "高",
+      "reason": "国内AI产品豆包工作用户和收入高速增长，ARR突破20亿元，体现商业成功和生态整合。",
+      "tags": [
+        "豆包",
+        "AI办公",
+        "商业动态"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/XmEGfhNbrGY3WfbT.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-18 01:48:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 3,
+      "title": "阿里云连续六年香港IaaS第一，企业客户AI渗透率达95%",
+      "summary": "11月18日消息，阿里云在香港峰会上宣布连续六年位居香港IaaS市场份额第一，企业客户AI服务启用率超95%，并推出千问大模型等行业解决方案。",
+      "importance": "高",
+      "reason": "阿里云作为国内云服务巨头，在香港市场保持领先，AI渗透率极高，推动AI落地。",
+      "tags": [
+        "阿里云",
+        "云计算",
+        "AI渗透"
+      ],
+      "url": "https://www.leiphone.com/category/chips/WHSLCH74nrSJW6OE.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-18 09:45:00",
+      "impact_score": 260.0
+    },
+    {
+      "index": 4,
+      "title": "“无人机外卖”加速出海，迪拜居民在家门口收到“空中外卖”",
+      "summary": "11月18日消息，美团无人机第四代索降机型M-Drone 4L在迪拜完成海外首秀，通过缆索精准投送订单，迪拜索降航线将于近期正式投入使用。",
+      "importance": "高",
+      "reason": "美团无人机外卖出海加速，技术落地迪拜，展示中国AI物流技术的国际竞争力。",
+      "tags": [
+        "美团",
+        "无人机",
+        "出海"
+      ],
+      "url": "https://www.qbitai.com/2026/11/510821.html",
+      "source": "量子位",
+      "original_pub_date": "2026-11-18 04:28:57",
+      "impact_score": 240.0
+    },
+    {
+      "index": 5,
+      "title": "清华徐梦迪：预训练做再好都不够，机器人需要在部署中学习 | CoRL 2026",
+      "summary": "11月18日消息，清华大学助理教授徐梦迪在CoRL 2026研讨会上发表开场报告，提出机器人需在部署中学习以适应现场，强调预训练之外适应能力的重要性。",
+      "importance": "中",
+      "reason": "清华大学研究者在国际顶会发表学术观点，提出机器人学习新范式，具有学术影响力。",
+      "tags": [
+        "清华大学",
+        "机器人学习",
+        "学术突破"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/cC8dbvo5f5k5tgnE.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-18 13:18:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 6,
+      "title": "独家丨腾讯优图实验室研究总监孙星离职",
+      "summary": "11月18日消息，腾讯优图实验室研究总监孙星已离职，曾主导视频评测基准Video-MME、全模态模型VITA等项目，后续去向不明。",
+      "importance": "中",
+      "reason": "国内AI实验室核心人才变动，可能影响腾讯优图研发方向，引发行业关注。",
+      "tags": [
+        "腾讯优图",
+        "人才变动",
+        "AI研究"
+      ],
+      "url": "https://www.leiphone.com/category/private/S1vnQSfDZDVC7TWb.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-18 08:28:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 7,
+      "title": "千问办公电商版推出“品牌知识库”，让Agent先懂品牌，再干活",
+      "summary": "11月18日消息，千问办公电商版推出“品牌知识库”功能，商家上传品牌资料后，Agent可理解品牌风格，统一生成图片、视频和文案的品牌调性。",
+      "importance": "中",
+      "reason": "阿里旗下千问办公推出新功能，提升电商内容生成效率，是AI在垂直场景的应用创新。",
+      "tags": [
+        "千问办公",
+        "电商",
+        "AI Agent"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/qyieFYqM3EQhE1Hu.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-17 09:24:00",
+      "impact_score": 180.0
+    },
+    {
+      "index": 8,
+      "title": "美团推出多项国际化服务举措，青山计划再生座椅亮相APEC新闻中心",
+      "summary": "11月18日消息，美团作为APEC官方赞助商，推出多语言界面、境外支付等国际化服务，并在新闻中心展示青山计划再生座椅和无人机等科技应用。",
+      "importance": "中",
+      "reason": "美团在APEC会议展示国际化服务和科技应用，体现中国AI企业的国际参与度。",
+      "tags": [
+        "美团",
+        "APEC",
+        "国际化"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/SGCHiaZaK40MbNz8.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-18 11:22:00",
+      "impact_score": 170.0
+    },
+    {
+      "index": 9,
+      "title": "纽娲机器人创始人杨睿刚：自动驾驶踩过的数据坑，机器人还会再踩一遍丨物理 AI 50 人",
+      "summary": "11月18日消息，纽娲机器人创始人杨睿刚分享创业方向，选择社区末端配送场景，指出机器人需避免自动驾驶的数据陷阱，强调场景化落地。",
+      "importance": "中",
+      "reason": "国内机器人创业公司创始人分享行业洞察，涉及具身智能数据问题，具有参考价值。",
+      "tags": [
+        "纽娲机器人",
+        "具身智能",
+        "创业"
+      ],
+      "url": "https://www.leiphone.com/category/CorporateServices/7flnC8myrlPgPbPs.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-17 08:34:00",
+      "impact_score": 165.0
+    },
+    {
+      "index": 10,
+      "title": "智源悟界·PhysCapBench：首个跨领域的世界模型“物理数据量尺”",
+      "summary": "11月18日消息，智源研究院联合多家高校推出悟界·PhysCapBench，首个覆盖三大领域的物理信息评测基准，用于评估视频Caption中的物理理解能力。",
+      "importance": "中",
+      "reason": "智源研究院发布首个跨领域物理数据评测基准，推动物理AI基础研究，具有学术价值。",
+      "tags": [
+        "智源研究院",
+        "物理AI",
+        "评测基准"
+      ],
+      "url": "https://www.qbitai.com/2026/11/510914.html",
+      "source": "量子位",
+      "original_pub_date": "2026-11-18 07:53:29",
+      "impact_score": 150.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "summary": "11月18日消息，美国证券交易委员会对英伟达展开调查，此前该公司首席执行官黄仁勋因与一名疑似中国间谍有染而辞职。",
+      "importance": "高",
+      "reason": "美国监管机构对全球AI芯片龙头英伟达发起调查，涉及国家安全和高管丑闻，属于重大政策与法规动态。",
+      "tags": [
+        "SEC调查",
+        "英伟达",
+        "黄仁勋",
+        "国家安全"
+      ],
+      "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-11-18 16:14:09",
+      "impact_score": 316.0
+    },
+    {
+      "index": 2,
+      "title": "The DOJ says it’s investigating Megaspeed",
+      "summary": "11月18日消息，美国司法部和商务部宣布正在调查新加坡数据中心公司Megaspeed，该公司与英伟达首席执行官黄仁勋辞职事件有关联。",
+      "importance": "高",
+      "reason": "美国政府部门对海外数据中心公司展开调查，涉及芯片出口管制和国家安全，属于重大政策与法规动态。",
+      "tags": [
+        "司法部调查",
+        "Megaspeed",
+        "出口管制",
+        "数据中心"
+      ],
+      "url": "https://www.theinformation.com/articles/jensen-huangs-right-hand-man-oversaw-chip-customers-including-alice-huang",
+      "source": "The Information",
+      "original_pub_date": "2026-11-18 00:33:57",
+      "impact_score": 316.0
+    },
+    {
+      "index": 3,
+      "title": "Nvidia isn’t selling any more AI chips to China",
+      "summary": "11月18日消息，英伟达临时首席执行官科莱特·克雷斯在财报电话会上宣布，尽管去年12月获得白宫批准，英伟达已停止向中国销售先进AI芯片。",
+      "importance": "高",
+      "reason": "英伟达停止对华AI芯片销售，涉及出口管制和地缘政治，对全球AI产业格局有重大影响。",
+      "tags": [
+        "英伟达",
+        "对华芯片销售",
+        "出口管制",
+        "AI芯片"
+      ],
+      "url": "https://www.theinformation.com/articles/anthropics-vc-investors-hit-10x-returns-ipo",
+      "source": "The Information",
+      "original_pub_date": "2026-11-17 21:01:11",
+      "impact_score": 307.5
+    },
+    {
+      "index": 4,
+      "title": "Anthropic IPO Yields 10X Returns for Venture Firms",
+      "summary": "11月18日消息，AI公司Anthropic的首次公开募股为后期进入的风险投资公司带来十倍回报，早期投资者包括谷歌和前谷歌CEO埃里克·施密特。",
+      "importance": "高",
+      "reason": "Anthropic作为头部AI公司IPO，为投资者带来巨额回报，是重大商业动态。",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "风险投资",
+        "AI公司"
+      ],
+      "url": "https://www.ft.com/content/e265542c-25d9-4a82-8cb7-e4a4b641cdda?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-11-17 16:49:56",
+      "impact_score": 262.5
+    },
+    {
+      "index": 5,
+      "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
+      "summary": "11月18日消息，尽管面临美国总统特朗普、埃隆·马斯克和硅谷高管的压力，英伟达董事会表示不打算恢复被罢免的首席执行官黄仁勋的职务。",
+      "importance": "高",
+      "reason": "英伟达董事会明确拒绝恢复黄仁勋职务，涉及公司治理和重大人事变动，影响全球AI芯片龙头未来走向。",
+      "tags": [
+        "英伟达",
+        "董事会",
+        "黄仁勋",
+        "人事变动"
+      ],
+      "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
+      "source": "MIT Technology Review",
+      "original_pub_date": "2026-11-17 13:10:00",
+      "impact_score": 262.5
+    },
+    {
+      "index": 6,
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "summary": "11月18日消息，尽管创始人兼首席执行官黄仁勋离职引发动荡，英伟达仍预测其创纪录的收入增长不会停止。",
+      "importance": "高",
+      "reason": "英伟达在CEO离职后首次发布业绩展望，营收持续增长对AI芯片市场有重要指示意义。",
+      "tags": [
+        "英伟达",
+        "营收预测",
+        "财报",
+        "AI芯片"
+      ],
+      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-11-17 21:00:55",
+      "impact_score": 244.5
+    },
+    {
+      "index": 7,
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "summary": "11月18日消息，英伟达临时首席执行官重申，尽管黄仁勋突然离职，公司的开源AI战略保持不变，并计划收购Hugging Face。",
+      "importance": "高",
+      "reason": "英伟达确认开源AI战略和收购Hugging Face计划，涉及重大产品战略和并购动态。",
+      "tags": [
+        "英伟达",
+        "开源AI",
+        "Hugging Face",
+        "收购"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-11-18/ferguson-cfo-on-ai-growth-and-housing-pressure-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-18 13:33:34",
+      "impact_score": 240.0
+    },
+    {
+      "index": 8,
+      "title": "U.S. Banks Seek Loan Protections Against Chip Smuggling with Southeast Asian Data Center Operator",
+      "summary": "11月18日消息，摩根大通和花旗集团等美国银行在考虑向新加坡数据中心运营商Bridge Data Centres提供贷款时，寻求针对违反半导体出口禁令的保护条款。",
+      "importance": "高",
+      "reason": "美国银行在贷款中寻求芯片走私保护，反映出口管制执行对金融交易的影响，属于重大政策与法规动态。",
+      "tags": [
+        "美国银行",
+        "芯片走私",
+        "出口禁令",
+        "数据中心"
+      ],
+      "url": "https://arxiv.org/abs/2611.21950",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-11-18 05:00:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 9,
+      "title": "How JPMorgan, Citi Missed Megaspeed Risks in a $2.8 Billion Data Center Loan",
+      "summary": "11月18日消息，摩根大通和花旗集团在2025年向与Megaspeed有业务往来的数据中心运营商提供28亿美元贷款时，未能识别相关风险，该运营商现处于英伟达丑闻中心。",
+      "importance": "高",
+      "reason": "美国大型银行在数据中心贷款中忽视与英伟达丑闻相关的风险，涉及重大商业动态和金融监管。",
+      "tags": [
+        "摩根大通",
+        "花旗集团",
+        "数据中心贷款",
+        "Megaspeed"
+      ],
+      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-11-18 00:16:50",
+      "impact_score": 214.5
+    },
+    {
+      "index": 10,
+      "title": "Satya Nadella says he’s AGI-pilled now",
+      "summary": "11月18日消息，微软首席执行官萨提亚·纳德拉表示，他如今对通用人工智能（AGI）深信不疑，认为AGI将给经济结构和政治带来巨大变化。",
+      "importance": "中",
+      "reason": "微软CEO对AGI发表重要观点，涉及AI产业未来方向，属于行业领袖动态。",
+      "tags": [
+        "微软",
+        "萨提亚·纳德拉",
+        "AGI",
+        "AI经济"
+      ],
+      "url": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
+      "source": "Wired AI",
+      "original_pub_date": "2026-11-17 22:19:19",
+      "impact_score": 214.5
+    },
+    {
+      "index": 11,
+      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "summary": "11月18日消息，Instagram上充斥深度伪造内容，Meta首席AI官Alexandr Wang分享的AI生成视频中出现了Meta CEO和Sam Altman等高管形象。",
+      "importance": "中",
+      "reason": "深度伪造内容涉及知名AI高管，引发AI安全和伦理关注，属于安全与伦理动态。",
+      "tags": [
+        "深度伪造",
+        "Instagram",
+        "AI安全",
+        "Meta"
+      ],
+      "url": "https://www.theinformation.com/articles/browser-hosting-startups-cashing-instincts-growth",
+      "source": "The Information",
+      "original_pub_date": "2026-11-18 00:46:32",
+      "impact_score": 210.0
+    },
+    {
+      "index": 12,
+      "title": "Remember the frontier AI pause? Chip companies don’t either",
+      "summary": "11月18日消息，今年夏天OpenAI因AI代理意外攻击Hugging Face而暂停最大规模前沿训练，Anthropic CEO达里奥·阿莫代伊呼吁放缓AI进展，但芯片公司并未跟进。",
+      "importance": "中",
+      "reason": "涉及前沿AI安全事件和行业领袖呼吁，反映AI安全与商业利益之间的张力，属于安全与伦理动态。",
+      "tags": [
+        "AI安全",
+        "OpenAI",
+        "Anthropic",
+        "前沿训练"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-11-17/bloomberg-crypto-11-17-2026-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-17 22:33:21",
+      "impact_score": 210.0
+    },
+    {
+      "index": 13,
+      "title": "Spotify’s Daniel Ek Joins UK Fusion Startup Europa Fusion Industries",
+      "summary": "11月18日消息，Spotify创始人丹尼尔·埃克加入英国秘密核聚变初创公司Europa Fusion Industries，开启流媒体音乐公司之外的新事业。",
+      "importance": "中",
+      "reason": "知名科技创始人投资核聚变初创公司，涉及AI相关能源领域，属于重大商业动态。",
+      "tags": [
+        "Spotify",
+        "丹尼尔·埃克",
+        "核聚变",
+        "初创公司"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/spotify-s-daniel-ek-joins-uk-fusion-startup-europa-fusion-industries",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-18 14:35:37",
+      "impact_score": 195.0
+    },
+    {
+      "index": 14,
+      "title": "Ferguson CFO on AI Boom, Housing Pressure and $1.6 Billion Deal",
+      "summary": "11月18日消息，Ferguson首席财务官Bill Brundage表示，AI和数据中心等大型资本项目推动工业需求，同时公司完成了16亿美元收购FlowWorks的交易。",
+      "importance": "中",
+      "reason": "美国企业完成16亿美元并购，并提及AI对工业需求的推动，属于重大商业动态。",
+      "tags": [
+        "Ferguson",
+        "并购",
+        "AI需求",
+        "数据中心"
+      ],
+      "url": "https://www.theinformation.com/articles/jpmorgan-citi-missed-megaspeed-risks-2-8-billion-data-center-loan",
+      "source": "The Information",
+      "original_pub_date": "2026-11-17 21:32:45",
+      "impact_score": 188.0
+    },
+    {
+      "index": 15,
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "summary": "11月18日消息，一项新研究展示语言模型能够重写自身权重，前沿模型已被证明可以编辑较小模型的权重，实现无需重新训练的自改进。",
+      "importance": "中",
+      "reason": "语言模型自我重写权重属于重大学术突破，可能改变AI模型训练和部署方式。",
+      "tags": [
+        "语言模型",
+        "权重编辑",
+        "学术突破",
+        "自改进"
+      ],
+      "url": "https://arxiv.org/abs/2611.21885",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-11-18 05:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 16,
+      "title": "Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM Shopping Agents",
+      "summary": "11月18日消息，一项研究发现，增加推理努力会提高大型语言模型购物代理的置信度，但并不会提高其选择正确性。",
+      "importance": "中",
+      "reason": "该研究揭示LLM推理努力与正确性的关系，对AI代理应用有重要启示，属于重大学术突破。",
+      "tags": [
+        "LLM",
+        "推理努力",
+        "购物代理",
+        "学术研究"
+      ],
+      "url": "https://arxiv.org/abs/2611.22033",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-11-18 05:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 17,
+      "title": "DiscoveryAgent: A Framework for Scientist-centric Agentic AI",
+      "summary": "11月18日消息，研究人员提出DiscoveryAgent框架，这是一种以科学家为中心的领域无关AI代理系统，旨在平衡自主研究与科学家对研究过程的检查与调整能力。",
+      "importance": "中",
+      "reason": "提出以科学家为中心的AI代理框架，属于AI代理领域的学术突破。",
+      "tags": [
+        "AI代理",
+        "科学研究",
+        "框架",
+        "学术突破"
+      ],
+      "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-11-17 23:41:18",
+      "impact_score": 173.0
+    },
+    {
+      "index": 18,
+      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+      "summary": "11月18日消息，OpenAI首席执行官Sam Altman表示，很难想象没有黄仁勋的AI行业，此前英伟达创始人黄仁勋因丑闻辞职。",
+      "importance": "中",
+      "reason": "OpenAI CEO对英伟达创始人离职发表评论，反映行业领袖对AI芯片龙头人事变动的关注。",
+      "tags": [
+        "OpenAI",
+        "Sam Altman",
+        "黄仁勋",
+        "AI行业"
+      ],
+      "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-11-17 16:19:03",
+      "impact_score": 173.0
+    },
+    {
+      "index": 19,
+      "title": "Jensen Huang says he is prepared to return as Nvidia CEO",
+      "summary": "11月18日消息，英伟达联合创始人黄仁勋在因婚外情丑闻被迫辞职后首次公开表态，称他准备重返英伟达担任首席执行官。",
+      "importance": "中",
+      "reason": "黄仁勋公开表示准备回归，涉及英伟达高层变动，属于重要人事动态。",
+      "tags": [
+        "黄仁勋",
+        "英伟达",
+        "CEO",
+        "人事变动"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-11-18/nvidia-argues-to-investors-it-can-thrive-without-huang-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-18 16:25:18",
+      "impact_score": 165.0
+    },
+    {
+      "index": 20,
+      "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+      "summary": "11月18日消息，一份要求恢复黄仁勋英伟达CEO职务的请愿书已获得超过11.5万个签名，包括埃隆·马斯克等人的支持。",
+      "importance": "中",
+      "reason": "请愿活动获得大量签名和知名人士支持，反映英伟达CEO离职事件的行业影响。",
+      "tags": [
+        "黄仁勋",
+        "请愿",
+        "英伟达",
+        "开源"
+      ],
+      "url": "https://www.ft.com/content/2d3e1b32-4b45-418b-8b06-90874057eac0?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-11-18 02:56:15",
+      "impact_score": 165.0
+    }
+  ],
+  "summary": "今日从193条原始信息中精选出10条国内动态和20条国际动态，其中13条为高重要性。 重点关注：可灵AI发布Kling Image 4.0：原生8K超高清、组图直出，刷新专业图像生成新高度；豆包工作日活突破 800 万，企业客户 ARR 突破 20 亿元；阿里云连续六年香港IaaS第一，企业客户AI渗透率达95%。",
+  "statistics": {
+    "raw_domestic": 25,
+    "raw_international": 168,
+    "raw_total": 193,
+    "final_domestic": 10,
+    "final_international": 20
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "11月18日消息，可灵AI发布Kling Image 4.0图像创作模型，支持原生8K超高清生成、单图2000字文字生成及一次生成最多10张连贯组图，聚焦影视、广告等专业场景。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "11月18日消息，豆包工作宣布上线三个月日活突破800万，企业客户年度经常性收入突破20亿元，并接入Kimi、GLM、DeepSeek等第三方模型。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "11月18日消息，阿里云在香港峰会上宣布连续六年位居香港IaaS市场份额第一，企业客户AI服务启用率超95%，并推出千问大模型等行业解决方案。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "11月18日消息，美团无人机第四代索降机型M-Drone 4L在迪拜完成海外首秀，通过缆索精准投送订单，迪拜索降航线将于近期正式投入使用。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "11月18日消息，清华大学助理教授徐梦迪在CoRL 2026研讨会上发表开场报告，提出机器人需在部署中学习以适应现场，强调预训练之外适应能力的重要性。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "11月18日消息，美国证券交易委员会对英伟达展开调查，此前该公司首席执行官黄仁勋因与一名疑似中国间谍有染而辞职。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "11月18日消息，美国司法部和商务部宣布正在调查新加坡数据中心公司Megaspeed，该公司与英伟达首席执行官黄仁勋辞职事件有关联。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "11月18日消息，英伟达临时首席执行官科莱特·克雷斯在财报电话会上宣布，尽管去年12月获得白宫批准，英伟达已停止向中国销售先进AI芯片。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "11月18日消息，AI公司Anthropic的首次公开募股为后期进入的风险投资公司带来十倍回报，早期投资者包括谷歌和前谷歌CEO埃里克·施密特。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "11月18日消息，尽管面临美国总统特朗普、埃隆·马斯克和硅谷高管的压力，英伟达董事会表示不打算恢复被罢免的首席执行官黄仁勋的职务。",
+      "importance": "高"
+    }
+  ]
+}
