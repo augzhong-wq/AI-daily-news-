@@ -1,0 +1,647 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19 17:12:01",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "豆包工作日活突破 800 万，企业客户 ARR 突破 20 亿元",
+      "summary": "11月19日消息，字节跳动旗下豆包工作宣布上线三个月工作日活跃用户突破800万，企业客户年度经常性收入突破20亿元，并接入Kimi、GLM、DeepSeek等第三方模型。",
+      "importance": "高",
+      "reason": "字节跳动AI产品重大商业突破，用户和收入数据亮眼，体现国内AI生产力工具商业化加速。",
+      "tags": [
+        "字节跳动",
+        "豆包",
+        "AI产品",
+        "商业化"
+      ],
+      "url": "https://www.leiphone.com/category/ai/AfdiA9NBN3TJrgDL.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-19 09:07:00",
+      "impact_score": 360.0
+    },
+    {
+      "index": 2,
+      "title": "阿里云外部收入增长64%，增速创近六年新高",
+      "summary": "11月19日消息，阿里巴巴发布财报显示阿里云外部客户收入同比增长64%，AI相关产品收入连续第13个季度三位数增长，增速创近六年新高。",
+      "importance": "高",
+      "reason": "阿里云AI业务高速增长，反映国内AI云服务需求爆发，对产业格局有重要影响。",
+      "tags": [
+        "阿里巴巴",
+        "阿里云",
+        "AI收入",
+        "财报"
+      ],
+      "url": "https://www.leiphone.com/category/academic/6GxO2SjZl8UPTGhH.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-19 08:23:00",
+      "impact_score": 225.0
+    },
+    {
+      "index": 3,
+      "title": "阿里财报：国际站GMV持续双位数增长，Accio付费企业数翻倍",
+      "summary": "11月19日消息，阿里巴巴发布财报显示阿里国际站GMV持续双位数增长，全球电商AI工作台Accio付费企业数达10万，较上季度增长100%。",
+      "importance": "高",
+      "reason": "阿里AI商业化在跨境电商领域取得显著进展，付费企业数翻倍体现AI产品市场认可。",
+      "tags": [
+        "阿里巴巴",
+        "国际站",
+        "Accio",
+        "AI商业化"
+      ],
+      "url": "https://www.leiphone.com/category/private/wIgMWmjlB5GTKg6e.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-19 10:09:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 4,
+      "title": "华为Mate X8官宣两大功能：小艺慧记+虚拟触控板，生产力再进阶",
+      "summary": "11月19日消息，华为终端发布Mate X8预热视频，推出小艺慧记和虚拟触控板两大功能，聚焦职场办公和单手用机场景，提升大折叠屏生产力体验。",
+      "importance": "高",
+      "reason": "华为旗舰产品AI功能创新，体现国内终端AI应用落地，对消费市场有重要影响。",
+      "tags": [
+        "华为",
+        "Mate X8",
+        "小艺慧记",
+        "AI功能"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/c9oojTZh4VSNL1dX.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-19 11:05:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 5,
+      "title": "百图生科正式发布AI药物安全性评价系统，从虚拟细胞走向虚拟猴，为药物研发带来全新助力",
+      "summary": "11月19日消息，百图生科发布AI药物安全性评价系统，结合虚拟细胞模型和虚拟猴预测模型，将AI预测延伸至动物体内，已与超30家CRO和实验机构合作。",
+      "importance": "高",
+      "reason": "国内AI制药领域重要产品发布，推动药物研发流程智能化，具有行业应用价值。",
+      "tags": [
+        "百图生科",
+        "AI制药",
+        "药物安全性评价",
+        "虚拟猴"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/jKfDXWFPiBxkfVGt.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-19 07:39:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 6,
+      "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
+      "summary": "11月19日消息，安谋科技（中国）举办Arm Cortex-M CPU新品说明会，深度解析Cortex-M42并发布“星辰100e”AIoT原型平台，助力嵌入式AI设计。",
+      "importance": "高",
+      "reason": "安谋科技（中国）发布AIoT平台，推动国内嵌入式AI芯片生态发展，对物联网AI应用有积极意义。",
+      "tags": [
+        "安谋科技",
+        "AIoT",
+        "Cortex-M42",
+        "嵌入式AI"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/cC8dbvo5f5k5tgnE.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-18 13:18:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 7,
+      "title": "“无人机外卖”加速出海，迪拜居民在家门口收到“空中外卖”",
+      "summary": "11月19日消息，美团无人机第四代索降机型M-Drone 4L在迪拜完成海外首次亮相，迪拜美团无人机索降航线将于近期正式投用，中国无人机外卖技术加速出海。",
+      "importance": "中",
+      "reason": "美团无人机技术出海，展示中国AI物流创新实力，对国际化拓展有示范效应。",
+      "tags": [
+        "美团",
+        "无人机外卖",
+        "出海",
+        "迪拜"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/5DmohtTAlmiheVD3.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-19 03:36:00",
+      "impact_score": 205.0
+    },
+    {
+      "index": 8,
+      "title": "诺亦腾机器人入选 The Information 2026 全球最具潜力50家初创企业榜单",
+      "summary": "11月19日消息，诺亦腾机器人入选The Information 2026全球最具潜力50家初创企业榜单，位列亚洲分区第一，估值超5亿美元，年营收突破1000万美元。",
+      "importance": "中",
+      "reason": "中国机器人初创企业获国际认可，体现国内AI机器人领域创新潜力。",
+      "tags": [
+        "诺亦腾机器人",
+        "初创企业",
+        "榜单",
+        "机器人"
+      ],
+      "url": "https://www.leiphone.com/category/ai/wctgzdX4CN2RVxCm.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-19 09:08:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 9,
+      "title": "对话西湖大学于开丞：通用语言模型再强，物理世界也「等不起」",
+      "summary": "11月19日消息，西湖大学成立西湖世界模型研究中心，校长施一公亲自站台，推动世界模型交叉科研平台建设，探索物理世界AI应用。",
+      "importance": "中",
+      "reason": "国内高校成立世界模型研究中心，体现学术机构对前沿AI方向的布局，有学术影响力。",
+      "tags": [
+        "西湖大学",
+        "世界模型",
+        "研究中心",
+        "学术"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/SGCHiaZaK40MbNz8.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-18 11:22:00",
+      "impact_score": 170.0
+    },
+    {
+      "index": 10,
+      "title": "拼多多发布Q3财报，“新十年高质量发展”一周年，供需两侧实现提质增效",
+      "summary": "11月19日消息，拼多多发布2026年第三季度财报，营收1083亿元，净利润295亿元，受益于“新十年高质量发展”战略，供需两侧质效升级明显。",
+      "importance": "中",
+      "reason": "拼多多财报体现国内电商平台高质量发展，虽非纯AI新闻，但涉及AI赋能供应链，有一定相关性。",
+      "tags": [
+        "拼多多",
+        "财报",
+        "高质量发展",
+        "电商"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/UlpahlWOHi0OeI7Y.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-19 06:25:00",
+      "impact_score": 150.0
+    },
+    {
+      "index": 11,
+      "title": "AI基建大潮方兴未艾，联想集团最佳财季诞生！",
+      "summary": "11月19日消息，联想集团公布2026/27财年第二季度业绩，受益于AI基建大潮，取得最佳财季表现，AI生态链业务增长显著。",
+      "importance": "中",
+      "reason": "联想集团AI基础设施业务表现突出，反映国内AI算力需求旺盛，对产业有参考价值。",
+      "tags": [
+        "联想集团",
+        "AI基建",
+        "财报",
+        "最佳财季"
+      ],
+      "url": "https://www.qbitai.com/2026/11/511079.html",
+      "source": "量子位",
+      "original_pub_date": "2026-11-19 04:02:39",
+      "impact_score": 150.0
+    },
+    {
+      "index": 12,
+      "title": "阿里樊路远离场，虎鲸文娱去向何方？",
+      "summary": "11月19日消息，阿里虎鲸文娱CEO樊路远离职，知情人士称其将聚焦AI领域创业，引发对大厂文娱业务在AI时代走向的讨论。",
+      "importance": "中",
+      "reason": "阿里高管离职转向AI创业，反映AI人才流动趋势，对行业有一定启示。",
+      "tags": [
+        "阿里巴巴",
+        "樊路远",
+        "离职",
+        "AI创业"
+      ],
+      "url": "https://www.qbitai.com/2026/11/510914.html",
+      "source": "量子位",
+      "original_pub_date": "2026-11-18 07:53:29",
+      "impact_score": 150.0
+    },
+    {
+      "index": 13,
+      "title": "闪耀APEC的中国智造：大疆手持影像技术，成为全球媒体生产力标配",
+      "summary": "11月19日消息，大疆Osmo Pocket 4P在APEC峰会成为全球记者标配，其手持影像技术助力新闻采编轻量化，展现中国智造实力。",
+      "importance": "中",
+      "reason": "大疆产品在国际场合广泛应用，体现中国AI影像技术全球影响力。",
+      "tags": [
+        "大疆",
+        "APEC",
+        "手持影像",
+        "中国智造"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/cdP5NzdCcD8j0BB5.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-19 11:38:00",
+      "impact_score": 145.0
+    },
+    {
+      "index": 14,
+      "title": "好清晰！最新国产AI画的8K图，放这么大大大大也不糊！",
+      "summary": "11月19日消息，国产AI模型Kling Image 4.0发布，可生成8K高清图像，放大后依然清晰，展现国内AI图像生成技术突破。",
+      "importance": "中",
+      "reason": "国产AI图像生成模型性能提升，体现国内多模态AI技术进展。",
+      "tags": [
+        "Kling Image",
+        "AI图像",
+        "8K",
+        "国产模型"
+      ],
+      "url": "https://www.qbitai.com/2026/11/511258.html",
+      "source": "量子位",
+      "original_pub_date": "2026-11-19 08:43:10",
+      "impact_score": 142.5
+    },
+    {
+      "index": 15,
+      "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+      "summary": "11月19日消息，国产AI工具助力个人创作者制作科幻剧，单集播放量达千万，实现“一个人就是一个剧组”，展现中国AI视频生成应用潜力。",
+      "importance": "中",
+      "reason": "国产AI工具在视频创作领域落地，降低创作门槛，体现AI应用普及化趋势。",
+      "tags": [
+        "AI视频",
+        "国产工具",
+        "科幻剧",
+        "创作者"
+      ],
+      "url": "https://www.qbitai.com/2026/11/511088.html",
+      "source": "量子位",
+      "original_pub_date": "2026-11-19 04:51:31",
+      "impact_score": 142.5
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "U.S. Commerce Department Rushed to Clear Nvidia H200 Exports to China",
+      "summary": "11月19日消息，美国商务部官员Jeffrey Kessler施压下属加速批准英伟达H200图形处理器对华出口，部分案例中直接指示员工加快审批流程。",
+      "importance": "高",
+      "reason": "涉及美国出口管制政策重大调整，直接影响AI芯片贸易格局，属于重大政策与法规。",
+      "tags": [
+        "出口管制",
+        "英伟达",
+        "H200",
+        "美国商务部"
+      ],
+      "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-11-18 16:14:09",
+      "impact_score": 316.0
+    },
+    {
+      "index": 2,
+      "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
+      "summary": "11月19日消息，Anthropic以1070亿美元估值完成创纪录IPO，投资者将评估其AI安全战略及公众对数据中心日益增长的愤怒是否影响公司增长。",
+      "importance": "高",
+      "reason": "AI巨头Anthropic创纪录IPO，涉及千亿美元级融资与AI安全争议，属于重大商业动态。",
+      "tags": [
+        "IPO",
+        "Anthropic",
+        "AI安全",
+        "融资"
+      ],
+      "url": "https://www.ft.com/content/97912585-2412-496c-a224-78e69328bcdb?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-11-19 14:39:18",
+      "impact_score": 315.0
+    },
+    {
+      "index": 3,
+      "title": "Zino: Anthropic is Most Important IPO That I've Seen",
+      "summary": "11月19日消息，Anthropic以1073亿美元IPO及私募配售打破SpaceX纪录，成为史上最大规模IPO，其上市将AI投资热潮焦点从工具制造商转向模型实验室。",
+      "importance": "高",
+      "reason": "刷新全球IPO纪录，标志AI投资风向转变，属于重大商业动态。",
+      "tags": [
+        "IPO",
+        "Anthropic",
+        "融资纪录",
+        "AI投资"
+      ],
+      "url": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-11-18 19:07:29",
+      "impact_score": 290.0
+    },
+    {
+      "index": 4,
+      "title": "Anthropic raises $81bn in record IPO",
+      "summary": "11月19日消息，AI巨头Anthropic以1.5万亿美元估值完成810亿美元创纪录IPO，股票将于周四开始交易。",
+      "importance": "高",
+      "reason": "810亿美元融资规模创历史纪录，估值达1.5万亿美元，属于重大商业动态。",
+      "tags": [
+        "IPO",
+        "Anthropic",
+        "估值",
+        "融资"
+      ],
+      "url": "https://www.theinformation.com/articles/u-s-commerce-department-rushed-clear-nvidia-h200-exports-china",
+      "source": "The Information",
+      "original_pub_date": "2026-11-19 02:34:39",
+      "impact_score": 264.0
+    },
+    {
+      "index": 5,
+      "title": "Anthropic Raises $81 Billion in Upsized IPO",
+      "summary": "11月19日消息，Anthropic以每股83美元定价完成810亿美元IPO，超出70至78美元营销区间，共售出9.564亿股，七位联合创始人售出2360万股。",
+      "importance": "高",
+      "reason": "IPO定价超预期区间，融资规模扩大，属于重大商业动态。",
+      "tags": [
+        "IPO",
+        "Anthropic",
+        "定价",
+        "融资"
+      ],
+      "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+      "source": "Wired AI",
+      "original_pub_date": "2026-11-19 12:00:00",
+      "impact_score": 245.0
+    },
+    {
+      "index": 6,
+      "title": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
+      "summary": "11月19日消息，Anthropic在纳斯达克上市首日开盘价达111美元，较83美元IPO发行价上涨33%，此次IPO募集逾800亿美元新资金。",
+      "importance": "高",
+      "reason": "上市首日大涨33%，市场反应强烈，属于重大商业动态。",
+      "tags": [
+        "IPO",
+        "Anthropic",
+        "纳斯达克",
+        "上市"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-11-19/zino-anthropic-is-most-important-ipo-that-i-ve-seen-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-19 16:46:05",
+      "impact_score": 240.0
+    },
+    {
+      "index": 7,
+      "title": "Nscale warns of its exposure to suppliers facing US blacklist",
+      "summary": "11月19日消息，英伟达支持的初创公司Nscale警告其与可能被列入华盛顿实体清单的供应商存在关联，350亿美元IPO计划因此受到影响。",
+      "importance": "高",
+      "reason": "涉及美国实体清单制裁风险及巨额IPO受阻，属于重大政策与商业动态。",
+      "tags": [
+        "实体清单",
+        "Nscale",
+        "IPO",
+        "出口管制"
+      ],
+      "url": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-11-19 07:04:26",
+      "impact_score": 240.0
+    },
+    {
+      "index": 8,
+      "title": "Anthropic’s Safety Pledges Questioned by Tech Leaders, Scientists",
+      "summary": "11月19日消息，科技领袖与科学家联合签署“厌世声明”公开信，质疑Anthropic对AI安全的承诺，Humane Intelligence首席执行官Rumman Chowdhury就此表达关切。",
+      "importance": "高",
+      "reason": "AI安全承诺遭公开质疑，涉及重大伦理争议，属于安全与伦理动态。",
+      "tags": [
+        "AI安全",
+        "Anthropic",
+        "伦理争议",
+        "公开信"
+      ],
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-11-18 23:17:28",
+      "impact_score": 229.5
+    },
+    {
+      "index": 9,
+      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+      "summary": "11月19日消息，OpenAI首席执行官Sam Altman表示难以想象没有黄仁勋的AI行业，此前英伟达创始人黄仁勋因包括与疑似中国间谍有染在内的多起丑闻于上周卸任。",
+      "importance": "高",
+      "reason": "英伟达创始人卸任引发行业巨头表态，涉及AI产业核心人物变动，属于重大商业动态。",
+      "tags": [
+        "黄仁勋",
+        "英伟达",
+        "OpenAI",
+        "人事变动"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-11-18 18:34:15",
+      "impact_score": 229.5
+    },
+    {
+      "index": 10,
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "summary": "11月19日消息，微软首席执行官Satya Nadella对黄仁勋卸任后的英伟达表示信心，支持临时首席执行官Colette Kress的领导。",
+      "importance": "中",
+      "reason": "科技巨头CEO公开表态支持英伟达过渡期，属于重要商业动态。",
+      "tags": [
+        "英伟达",
+        "微软",
+        "人事变动",
+        "CEO"
+      ],
+      "url": "https://www.theinformation.com/briefings/anthropic-prices-ipo-83-share",
+      "source": "The Information",
+      "original_pub_date": "2026-11-18 21:51:21",
+      "impact_score": 225.0
+    },
+    {
+      "index": 11,
+      "title": "Nvidia Holds Its First All Hands After Jensen Huang’s Departure",
+      "summary": "11月19日消息，英伟达在黄仁勋离职后首次召开全体员工大会，前销售主管Jay Puri及其继任者Nick出席并发言。",
+      "importance": "中",
+      "reason": "英伟达高层变动后的首次全员会议，反映公司过渡进展，属于重要商业动态。",
+      "tags": [
+        "英伟达",
+        "人事变动",
+        "全员大会"
+      ],
+      "url": "https://www.theinformation.com/articles/bret-taylors-sierra-talks-raise-30-billion-valuation",
+      "source": "The Information",
+      "original_pub_date": "2026-11-18 19:47:45",
+      "impact_score": 225.0
+    },
+    {
+      "index": 12,
+      "title": "Nvidia is 'Biggest Case of Industrial Espionage' in US Stock Market History, Says George Noble",
+      "summary": "11月19日消息，George Noble称英伟达是美国股市史上最大工业间谍案，英伟达在黄仁勋离职后首次财报中上调明年销售预期并承诺改善关键材料获取。",
+      "importance": "中",
+      "reason": "涉及英伟达重大争议指控及财报动态，属于重要商业与安全事件。",
+      "tags": [
+        "英伟达",
+        "工业间谍",
+        "财报",
+        "争议"
+      ],
+      "url": "https://www.theinformation.com/briefings/nvidia-holds-first-hands-jensen-huangs-departure",
+      "source": "The Information",
+      "original_pub_date": "2026-11-18 17:59:30",
+      "impact_score": 214.5
+    },
+    {
+      "index": 13,
+      "title": "Bret Taylor’s Sierra in Talks to Raise at $30 Billion Valuation",
+      "summary": "11月19日消息，前Salesforce联席首席执行官Bret Taylor创立的AI客服初创公司Sierra正洽谈以约300亿美元估值融资，较此前150亿美元估值近乎翻倍。",
+      "importance": "中",
+      "reason": "AI初创公司大额融资，估值翻倍，属于重要商业动态。",
+      "tags": [
+        "融资",
+        "Sierra",
+        "估值",
+        "AI客服"
+      ],
+      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-11-19 16:59:23",
+      "impact_score": 210.0
+    },
+    {
+      "index": 14,
+      "title": "Meta Pauses New Stock Plan Amid Legal Challenge",
+      "summary": "11月19日消息，Meta Platforms因股东诉讼暂停发行新类别C股的计划，该计划旨在为AI支出筹集更多资金。",
+      "importance": "中",
+      "reason": "Meta因法律挑战暂停AI融资计划，属于重要商业与法律动态。",
+      "tags": [
+        "Meta",
+        "股票计划",
+        "诉讼",
+        "AI支出"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-11-19/nvidia-is-least-of-ai-bulls-problems-says-noble-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-19 16:03:38",
+      "impact_score": 210.0
+    },
+    {
+      "index": 15,
+      "title": "U.S. Banks Seek Loan Protections Against Chip Smuggling with Southeast Asian Data Center Operator",
+      "summary": "11月19日消息，摩根大通和花旗等美国银行在考虑向新加坡数据中心运营商Bridge Data Centres提供贷款时，寻求针对违反半导体出口禁令的贷款保护。",
+      "importance": "中",
+      "reason": "涉及美国银行对芯片走私风险的防范，反映出口管制执行影响，属于重要政策与商业动态。",
+      "tags": [
+        "出口禁令",
+        "芯片走私",
+        "银行",
+        "数据中心"
+      ],
+      "url": "https://www.theinformation.com/articles/will-anthropics-ipo-lead-exodus-anthropic-employees",
+      "source": "The Information",
+      "original_pub_date": "2026-11-19 15:01:18",
+      "impact_score": 210.0
+    },
+    {
+      "index": 16,
+      "title": "Exclusive: TikTok to Appear at House Meeting Over National Security Concerns",
+      "summary": "11月19日消息，TikTok将于12月15日出席美国众议院中国问题特别委员会公开圆桌会议，就中国对其算法的影响及数据保护问题接受质询。",
+      "importance": "中",
+      "reason": "涉及美国国会国家安全审查及TikTok数据安全争议，属于重要政策与安全动态。",
+      "tags": [
+        "TikTok",
+        "国家安全",
+        "国会听证",
+        "数据安全"
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-11-19 14:25:37",
+      "impact_score": 210.0
+    },
+    {
+      "index": 17,
+      "title": "Tech lawsuits defined 2026 — and lawmakers want more",
+      "summary": "11月19日消息，美国参议院司法小组委员会举行听证会，呼吁在2026年底前通过针对深度伪造创作者及阻止用户诉讼的在线平台的新保护立法。",
+      "importance": "中",
+      "reason": "美国立法机构推动深度伪造与平台责任新法规，属于重要政策与法规动态。",
+      "tags": [
+        "深度伪造",
+        "立法",
+        "平台责任",
+        "美国参议院"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-11-19/tech-leaders-experts-question-anthropic-safety-pledges-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-19 13:54:57",
+      "impact_score": 210.0
+    },
+    {
+      "index": 18,
+      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+      "summary": "11月19日消息，Anthropic首席执行官Dario Amodei在纳斯达克敲钟演讲中重申，无论商业或政治压力如何，公司都将坚持有节奏地推进AI发展。",
+      "importance": "中",
+      "reason": "Anthropic CEO公开承诺AI发展节奏，涉及AI安全与商业平衡，属于重要商业与伦理动态。",
+      "tags": [
+        "Anthropic",
+        "AI安全",
+        "Dario Amodei",
+        "纳斯达克"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-delivers-wall-street-windfall-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-19 16:03:57",
+      "impact_score": 195.0
+    },
+    {
+      "index": 19,
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "summary": "11月19日消息，微软首席执行官Satya Nadella解释为何在10月向6万名员工提供买断方案，称此举与AI转型相关但并非预期方式。",
+      "importance": "中",
+      "reason": "微软大规模人员调整反映AI对劳动力影响，属于重要商业动态。",
+      "tags": [
+        "微软",
+        "裁员",
+        "AI转型",
+        "Satya Nadella"
+      ],
+      "url": "https://www.cnbc.com/2026/11/19/anthropic-lifts-nasdaq-futures-and-tech-stocks-ahead-of-its-record-breaking-ipo.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-11-19 12:30:29",
+      "impact_score": 185.0
+    }
+  ],
+  "summary": "今日从210条原始信息中精选出15条国内动态和19条国际动态，其中15条为高重要性。 重点关注：豆包工作日活突破 800 万，企业客户 ARR 突破 20 亿元；阿里云外部收入增长64%，增速创近六年新高；阿里财报：国际站GMV持续双位数增长，Accio付费企业数翻倍。",
+  "statistics": {
+    "raw_domestic": 27,
+    "raw_international": 183,
+    "raw_total": 210,
+    "final_domestic": 15,
+    "final_international": 19
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "11月19日消息，字节跳动旗下豆包工作宣布上线三个月工作日活跃用户突破800万，企业客户年度经常性收入突破20亿元，并接入Kimi、GLM、DeepSeek等第三方模型。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "11月19日消息，阿里巴巴发布财报显示阿里云外部客户收入同比增长64%，AI相关产品收入连续第13个季度三位数增长，增速创近六年新高。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "11月19日消息，阿里巴巴发布财报显示阿里国际站GMV持续双位数增长，全球电商AI工作台Accio付费企业数达10万，较上季度增长100%。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "11月19日消息，华为终端发布Mate X8预热视频，推出小艺慧记和虚拟触控板两大功能，聚焦职场办公和单手用机场景，提升大折叠屏生产力体验。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "11月19日消息，百图生科发布AI药物安全性评价系统，结合虚拟细胞模型和虚拟猴预测模型，将AI预测延伸至动物体内，已与超30家CRO和实验机构合作。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "11月19日消息，美国商务部官员Jeffrey Kessler施压下属加速批准英伟达H200图形处理器对华出口，部分案例中直接指示员工加快审批流程。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "11月19日消息，Anthropic以1070亿美元估值完成创纪录IPO，投资者将评估其AI安全战略及公众对数据中心日益增长的愤怒是否影响公司增长。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "11月19日消息，Anthropic以1073亿美元IPO及私募配售打破SpaceX纪录，成为史上最大规模IPO，其上市将AI投资热潮焦点从工具制造商转向模型实验室。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "11月19日消息，AI巨头Anthropic以1.5万亿美元估值完成810亿美元创纪录IPO，股票将于周四开始交易。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "11月19日消息，Anthropic以每股83美元定价完成810亿美元IPO，超出70至78美元营销区间，共售出9.564亿股，七位联合创始人售出2360万股。",
+      "importance": "高"
+    }
+  ]
+}
