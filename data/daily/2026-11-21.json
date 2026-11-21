@@ -1,0 +1,480 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21 15:59:37",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+      "summary": "11月21日消息，华为云基于昇腾算力训练出双榜SOTA的具身世界模型，并宣布开放整套底座，推动具身智能竞争进入多维战场。",
+      "importance": "高",
+      "reason": "华为云重大技术突破与生态开放，涉及国产算力与具身智能，影响力大。",
+      "tags": [
+        "华为云",
+        "昇腾",
+        "具身智能",
+        "世界模型",
+        "开放生态"
+      ],
+      "url": "https://www.qbitai.com/2026/11/511610.html",
+      "source": "量子位",
+      "original_pub_date": "2026-11-20 08:04:58",
+      "impact_score": 285.0
+    },
+    {
+      "index": 2,
+      "title": "给万卡国产芯装个“超级外挂”！清华团队要造最强国产Token工厂",
+      "summary": "11月21日消息，清华团队联合华为昇腾，计划五年冲刺十万卡，打造最强国产Token工厂，为万卡国产芯提供超级外挂。",
+      "importance": "高",
+      "reason": "清华团队与华为昇腾合作，涉及国产算力基础设施重大突破。",
+      "tags": [
+        "清华",
+        "华为昇腾",
+        "国产芯片",
+        "Token工厂"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/sFbtCLZ06plyUxPF.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-20 06:40:00",
+      "impact_score": 270.0
+    },
+    {
+      "index": 3,
+      "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+      "summary": "11月21日消息，DeepSeek V1作者创业项目曝光，推出专为本地部署设计的开源Agent，引发行业关注。",
+      "importance": "高",
+      "reason": "DeepSeek核心作者创业，开源Agent项目，具有技术影响力。",
+      "tags": [
+        "DeepSeek",
+        "开源",
+        "Agent",
+        "创业"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/r1chb5ofkWYaKjMn.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-20 02:58:00",
+      "impact_score": 230.0
+    },
+    {
+      "index": 4,
+      "title": "独家｜前京东健康市场营销部总经理王丁虓加入面壁智能，担任品牌公关负责人",
+      "summary": "11月21日消息，前京东健康市场营销部总经理王丁虓加入面壁智能，担任品牌公关负责人，助力公司品牌建设。",
+      "importance": "中",
+      "reason": "面壁智能重要人事任命，涉及品牌公关负责人，有一定行业影响。",
+      "tags": [
+        "面壁智能",
+        "人事任命",
+        "品牌公关"
+      ],
+      "url": "https://www.leiphone.com/category/weiwu/ptAnAiMGqEOX65EI.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-20 10:09:00",
+      "impact_score": 215.0
+    },
+    {
+      "index": 5,
+      "title": "独家丨影石研究院首度公开：字节旧将亓鲁任负责人",
+      "summary": "11月21日消息，影石创新董事亓鲁出任影石研究院中心负责人兼首席AI官，负责算法及人工智能领域研发工作。",
+      "importance": "中",
+      "reason": "影石研究院负责人任命，涉及AI研发领导，值得关注。",
+      "tags": [
+        "影石",
+        "研究院",
+        "首席AI官",
+        "人事"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/TVtcS88CGW5q5JDk.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-20 07:47:00",
+      "impact_score": 180.0
+    },
+    {
+      "index": 6,
+      "title": "灵光开放生态再扩容：新增企业微信、腾讯文档等7项连接能力，累计支持54项外部服务",
+      "summary": "11月21日消息，蚂蚁集团旗下AI助手灵光宣布开放生态扩容，新增企业微信、腾讯文档等7项连接能力，累计支持54项外部服务。",
+      "importance": "中",
+      "reason": "蚂蚁集团AI助手生态扩展，覆盖办公、生活、出行场景，商业动态重要。",
+      "tags": [
+        "蚂蚁集团",
+        "灵光",
+        "开放生态",
+        "AI助手"
+      ],
+      "url": "https://www.leiphone.com/category/weiwu/o4pLV3X7mPE6sfxq.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-20 02:01:00",
+      "impact_score": 140.0
+    },
+    {
+      "index": 7,
+      "title": "当 Kling Image 4.0 自己出设计方案，生图的门槛又变了！",
+      "summary": "11月21日消息，可灵推出Kling Image 4.0，能够自己出设计方案，降低生图门槛，提升商业视觉生成能力。",
+      "importance": "中",
+      "reason": "可灵发布重要图像生成模型升级，涉及AI生图商业应用。",
+      "tags": [
+        "可灵",
+        "Kling Image",
+        "图像生成",
+        "AI设计"
+      ],
+      "url": "https://www.qbitai.com/2026/11/511779.html",
+      "source": "量子位",
+      "original_pub_date": "2026-11-21 06:35:59",
+      "impact_score": 135.0
+    },
+    {
+      "index": 8,
+      "title": "独家丨荣耀、腾讯背景团队创业做 AI 交互吊坠，已获李泽湘早期投资",
+      "summary": "11月21日消息，荣耀前高级算法工程师肖裕炜创立AI交互硬件公司KnowVoice，已获李泽湘早期投资，正在孵化AI交互吊坠。",
+      "importance": "中",
+      "reason": "AI硬件创业公司获知名投资人支持，涉及AI交互设备。",
+      "tags": [
+        "KnowVoice",
+        "AI硬件",
+        "创业投资",
+        "李泽湘"
+      ],
+      "url": "https://www.qbitai.com/2026/11/511570.html",
+      "source": "量子位",
+      "original_pub_date": "2026-11-21 06:32:31",
+      "impact_score": 135.0
+    },
+    {
+      "index": 9,
+      "title": "灵掌机器人太空灵巧手亮相世界智能制造博览会",
+      "summary": "11月21日消息，灵掌机器人携全系列9款灵巧手产品亮相世界智能制造博览会，展示工业制造、太空任务等场景解决方案。",
+      "importance": "低",
+      "reason": "国内机器人公司产品展示，涉及灵巧手与具身智能，但影响力相对较小。",
+      "tags": [
+        "灵掌机器人",
+        "灵巧手",
+        "智能制造",
+        "具身智能"
+      ],
+      "url": "https://www.qbitai.com/2026/11/511679.html",
+      "source": "量子位",
+      "original_pub_date": "2026-11-20 08:59:15",
+      "impact_score": 135.0
+    },
+    {
+      "index": 10,
+      "title": "大二「天才少女」刚拿下 ACM 最佳论文，立陷造假疑云，通讯作者独家回应",
+      "summary": "11月21日消息，国内大二学生获ACM MM最佳论文后陷入造假疑云，通讯作者独家回应，事件引发学术圈广泛关注。",
+      "importance": "低",
+      "reason": "国内学术争议事件，涉及AI论文诚信，但非产业重大动态。",
+      "tags": [
+        "ACM MM",
+        "学术造假",
+        "最佳论文",
+        "争议"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/eqi19Azefys58IT4.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-20 08:35:00",
+      "impact_score": 135.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "summary": "11月21日消息，Anthropic七位创始人在创纪录的IPO中合计套现近20亿美元，公司募资近1050亿美元。",
+      "importance": "高",
+      "reason": "创纪录IPO，涉及巨额资金和AI头部公司，属于重大商业动态。",
+      "tags": [
+        "IPO",
+        "Anthropic",
+        "融资"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/cognition-in-talks-for-75-billion-value-with-new-funding",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-20 20:47:55",
+      "impact_score": 240.0
+    },
+    {
+      "index": 2,
+      "title": "Cognition in Talks for $75 Billion Value With New Funding",
+      "summary": "11月21日消息，AI编程初创公司Cognition正以750亿美元估值进行新一轮融资谈判，距上次融资仅两个月。",
+      "importance": "高",
+      "reason": "高估值融资谈判，反映AI编程赛道热度，属于重大商业动态。",
+      "tags": [
+        "融资",
+        "Cognition",
+        "估值"
+      ],
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-11-20 00:43:50",
+      "impact_score": 230.0
+    },
+    {
+      "index": 3,
+      "title": "Nvidia faces US regulator’s probe into its accounting",
+      "summary": "11月21日消息，美国证券交易委员会对英伟达的会计问题展开调查，加剧了这家芯片巨头在CEO黄仁勋辞职后的困境。",
+      "importance": "高",
+      "reason": "监管机构对AI芯片龙头展开调查，属于重大政策与法规事件。",
+      "tags": [
+        "英伟达",
+        "SEC调查",
+        "监管"
+      ],
+      "url": "https://www.theinformation.com/articles/anthropic-upstaged-openai-road-blockbuster-ipo",
+      "source": "The Information",
+      "original_pub_date": "2026-11-20 14:18:33",
+      "impact_score": 225.0
+    },
+    {
+      "index": 4,
+      "title": "AIs Can Now Outperform Humans at Week-Length Tasks, AI Nonprofit Finds",
+      "summary": "11月21日消息，AI非营利组织METR发现包括OpenAI GPT-6 Astra在内的最新模型能完成人类需一周的任务，能力每3.6个月翻倍。",
+      "importance": "高",
+      "reason": "重大学术突破，AI能力超越人类周级任务，具有里程碑意义。",
+      "tags": [
+        "学术突破",
+        "METR",
+        "GPT-6"
+      ],
+      "url": "https://www.theinformation.com/articles/anthropics-vc-investors-letting-go",
+      "source": "The Information",
+      "original_pub_date": "2026-11-20 00:41:24",
+      "impact_score": 225.0
+    },
+    {
+      "index": 5,
+      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "summary": "11月21日消息，英伟达在CEO黄仁勋离职风波后发布财报，增长健康，但宣布停止在中国销售H200芯片并驳回相关指控。",
+      "importance": "高",
+      "reason": "涉及英伟达出口管制调整和CEO丑闻后续，属于重大政策与商业动态。",
+      "tags": [
+        "英伟达",
+        "H200",
+        "出口管制"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-11-20/hindlian-advisory-ceo-on-ai-anthropic-market-sell-off-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-20 22:58:38",
+      "impact_score": 195.0
+    },
+    {
+      "index": 6,
+      "title": "European Digital Infrastructure Consortium launches today to strengthen digital sovereignty in education",
+      "summary": "11月21日消息，欧盟委员会与八个成员国启动欧洲数字基础设施联盟教育项目，以加强教育领域数字主权。",
+      "importance": "高",
+      "reason": "欧盟重大政策举措，涉及数字主权和AI教育基础设施。",
+      "tags": [
+        "欧盟",
+        "数字主权",
+        "政策"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-11-20/scribe-ceo-jennifer-smith-on-ai-usage-in-the-workplace-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-20 22:38:25",
+      "impact_score": 195.0
+    },
+    {
+      "index": 7,
+      "title": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
+      "summary": "11月21日消息，特朗普表示与中国领导人讨论了黄仁勋，美财长贝森特称英伟达芯片出口政策未变。",
+      "importance": "高",
+      "reason": "涉及美国对华芯片出口政策和中美高层对话，属于重大政策动态。",
+      "tags": [
+        "特朗普",
+        "英伟达",
+        "出口政策"
+      ],
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-11-20 14:55:44",
+      "impact_score": 173.0
+    },
+    {
+      "index": 8,
+      "title": "Jensen Huang to testify publicly before Senate banking panel, Chairman Scott says",
+      "summary": "11月21日消息，前英伟达CEO黄仁勋将就涉嫌中国间谍关联公开出席参议院银行委员会作证。",
+      "importance": "高",
+      "reason": "美国国会听证涉及AI芯片公司安全审查，属于重大政策与安全事件。",
+      "tags": [
+        "黄仁勋",
+        "参议院听证",
+        "安全"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-11-21/gta-6-the-blockbuster-that-is-changing-gaming-forever-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-21 15:03:50",
+      "impact_score": 165.0
+    },
+    {
+      "index": 9,
+      "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+      "summary": "11月21日消息，美国众议员马斯特称商务部批准向中国公司销售超87.9万颗AI芯片，国会推动收紧出口管制立法。",
+      "importance": "高",
+      "reason": "涉及美国对华AI芯片出口管制政策及立法动向。",
+      "tags": [
+        "出口管制",
+        "AI芯片",
+        "国会"
+      ],
+      "url": "https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-11-20 21:58:08",
+      "impact_score": 165.0
+    },
+    {
+      "index": 10,
+      "title": "AMD dives on short seller report of alleged China exposure",
+      "summary": "11月21日消息，AMD因做空报告称其固件出现在黑名单中国公司而股价跌超7%，AMD表示遵守美国法律。",
+      "importance": "中",
+      "reason": "涉及美国芯片公司对华出口合规问题，属于重要商业与政策动态。",
+      "tags": [
+        "AMD",
+        "做空报告",
+        "中国 exposure"
+      ],
+      "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html",
+      "source": "CNBC Tech",
+      "original_pub_date": "2026-11-20 14:59:38",
+      "impact_score": 165.0
+    },
+    {
+      "index": 11,
+      "title": "CrowdStrike in Talks to Buy Zscaler",
+      "summary": "11月21日消息，CrowdStrike正谈判收购市值320亿美元的网络安全公司Zscaler，AI威胁推动安全领域并购潮。",
+      "importance": "中",
+      "reason": "重大并购谈判，涉及AI安全领域整合，属于重要商业动态。",
+      "tags": [
+        "并购",
+        "CrowdStrike",
+        "网络安全"
+      ],
+      "url": "https://www.ft.com/content/b1b2e948-ff5e-48c4-bc3e-f8e75c9e4af1?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-11-20 15:23:38",
+      "impact_score": 162.5
+    },
+    {
+      "index": 12,
+      "title": "SpaceX Closes $32 Billion Debt Deal at Steep Yields",
+      "summary": "11月21日消息，SpaceX完成320亿美元债务交易以获取英伟达芯片，收益率超8%，凸显投资者对AI支出回报的担忧。",
+      "importance": "中",
+      "reason": "大额债务融资用于AI芯片，反映AI投资风险，属于重要商业动态。",
+      "tags": [
+        "SpaceX",
+        "债务融资",
+        "英伟达芯片"
+      ],
+      "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+      "source": "Wired AI",
+      "original_pub_date": "2026-11-20 19:52:21",
+      "impact_score": 158.0
+    },
+    {
+      "index": 13,
+      "title": "White House replaces top cyber security official",
+      "summary": "11月21日消息，白宫更换最高网络安全官员，Kirsten Davies从五角大楼接替Sean Cairncross。",
+      "importance": "中",
+      "reason": "美国政府网络安全人事变动，涉及AI安全政策执行。",
+      "tags": [
+        "白宫",
+        "网络安全",
+        "人事"
+      ],
+      "url": "https://digital-strategy.ec.europa.eu/en/news/european-digital-infrastructure-consortium-launches-today-strengthen-digital-sovereignty-education",
+      "source": "EU AI Policy",
+      "original_pub_date": "2026-11-20 10:30:00",
+      "impact_score": 150.0
+    },
+    {
+      "index": 14,
+      "title": "Google DeepMind’s Henry Shevlin: ‘This is the most important part of being human’",
+      "summary": "11月21日消息，谷歌DeepMind内部哲学家Henry Shevlin探讨意识问题及作为AI代理的感受。",
+      "importance": "低",
+      "reason": "涉及AI意识与伦理的学术讨论，属于安全与伦理动态。",
+      "tags": [
+        "DeepMind",
+        "AI意识",
+        "伦理"
+      ],
+      "url": "https://www.ft.com/content/6f807d57-f0ea-4251-9f4d-75a6edc8d49a?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-11-21 05:00:26",
+      "impact_score": 142.5
+    },
+    {
+      "index": 15,
+      "title": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters",
+      "summary": "11月21日消息，亚马逊SageMaker HyperPod推出全球推理网关，实现跨区域集群的单一端点推理路由和自动故障转移。",
+      "importance": "低",
+      "reason": "亚马逊云服务产品发布，属于海外公司重要产品动态。",
+      "tags": [
+        "亚马逊",
+        "SageMaker",
+        "产品发布"
+      ],
+      "url": "https://www.theinformation.com/briefings/ais-can-now-outperform-humans-week-length-tasks-ai-nonprofit-finds",
+      "source": "The Information",
+      "original_pub_date": "2026-11-20 18:00:44",
+      "impact_score": 132.0
+    }
+  ],
+  "summary": "今日从117条原始信息中精选出10条国内动态和15条国际动态，其中12条为高重要性。 重点关注：昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来；给万卡国产芯装个“超级外挂”！清华团队要造最强国产Token工厂；刚刚，DeepSeek V1作者创业项目曝光：开源Agent。",
+  "statistics": {
+    "raw_domestic": 26,
+    "raw_international": 91,
+    "raw_total": 117,
+    "final_domestic": 10,
+    "final_international": 15
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "11月21日消息，华为云基于昇腾算力训练出双榜SOTA的具身世界模型，并宣布开放整套底座，推动具身智能竞争进入多维战场。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "11月21日消息，清华团队联合华为昇腾，计划五年冲刺十万卡，打造最强国产Token工厂，为万卡国产芯提供超级外挂。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "11月21日消息，DeepSeek V1作者创业项目曝光，推出专为本地部署设计的开源Agent，引发行业关注。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "11月21日消息，前京东健康市场营销部总经理王丁虓加入面壁智能，担任品牌公关负责人，助力公司品牌建设。",
+      "importance": "中"
+    },
+    {
+      "index": 5,
+      "summary": "11月21日消息，影石创新董事亓鲁出任影石研究院中心负责人兼首席AI官，负责算法及人工智能领域研发工作。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "11月21日消息，Anthropic七位创始人在创纪录的IPO中合计套现近20亿美元，公司募资近1050亿美元。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "11月21日消息，AI编程初创公司Cognition正以750亿美元估值进行新一轮融资谈判，距上次融资仅两个月。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "11月21日消息，美国证券交易委员会对英伟达的会计问题展开调查，加剧了这家芯片巨头在CEO黄仁勋辞职后的困境。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "11月21日消息，AI非营利组织METR发现包括OpenAI GPT-6 Astra在内的最新模型能完成人类需一周的任务，能力每3.6个月翻倍。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "11月21日消息，英伟达在CEO黄仁勋离职风波后发布财报，增长健康，但宣布停止在中国销售H200芯片并驳回相关指控。",
+      "importance": "高"
+    }
+  ]
+}
