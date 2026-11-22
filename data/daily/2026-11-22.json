@@ -1,0 +1,369 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22 16:04:40",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "工信部发布人工智能产业发展指导意见",
+      "summary": "11月22日消息，工业和信息化部发布《关于促进人工智能产业高质量发展的指导意见》，提出到2027年人工智能核心产业规模超过万亿元的目标。",
+      "importance": "高",
+      "reason": "重大政策与法规，工信部发布AI产业指导意见，设定万亿产业规模目标，对国内AI产业发展具有重要指导意义。",
+      "tags": [
+        "政策法规",
+        "人工智能",
+        "产业规模"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/qb1uol6hKvK6pRgF.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-22 10:15:00",
+      "impact_score": 360.0
+    },
+    {
+      "index": 2,
+      "title": "中国科学院发布大模型评测报告",
+      "summary": "11月22日消息，中国科学院发布国产大模型能力评测报告，对主流大模型在多个维度进行了全面评估，为行业发展提供参考。",
+      "importance": "高",
+      "reason": "重大学术突破，中国科学院发布国产大模型评测报告，为行业提供权威评估参考，推动大模型技术发展。",
+      "tags": [
+        "学术突破",
+        "大模型",
+        "评测报告"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-21 03:47:00",
+      "impact_score": 120.0
+    },
+    {
+      "index": 3,
+      "title": "特朗普表态：英伟达Blackwell芯片可对华销售，但有个条件；OpenAI被曝入局智能手机赛道；DeepSeek第二轮千亿融资落地，31家出资方入局",
+      "summary": "11月22日消息，DeepSeek完成第二轮千亿融资，31家出资方入股梁文锋搭建的持股平台，同时字节跳动拟追加5亿美元微软云服务合同。",
+      "importance": "高",
+      "reason": "重大商业动态，DeepSeek千亿融资落地，涉及国内AI公司大额融资，同时字节跳动追加云服务合同，属于国内动态。",
+      "tags": [
+        "融资",
+        "DeepSeek",
+        "字节跳动"
+      ],
+      "url": "https://www.leiphone.com/category/transportation/fhogNEQ0PWQ74TGa.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-22 12:55:00",
+      "impact_score": 105.0
+    },
+    {
+      "index": 4,
+      "title": "当 Kling Image 4.0 自己出设计方案，生图的门槛又变了！",
+      "summary": "11月22日消息，可灵推出Kling Image 4.0图像生成模型，针对商业场景中的文字呈现和局部修改难题进行优化，提升生图模型实用性。",
+      "importance": "中",
+      "reason": "重大产品发布，国内公司可灵发布新一代图像生成模型，针对商业场景优化，属于国内AI产品动态。",
+      "tags": [
+        "产品发布",
+        "图像生成",
+        "可灵"
+      ],
+      "url": "https://www.leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-21 02:59:00",
+      "impact_score": 105.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Nvidia Board Faces a Governance Reckoning",
+      "summary": "11月22日消息，英伟达董事会因CEO黄仁勋离职暴露公司治理问题，面临外部压力要求其回归，同时接受调查和潜在股东诉讼。",
+      "importance": "高",
+      "reason": "涉及英伟达重大治理危机，影响全球AI芯片龙头稳定。",
+      "tags": [
+        "英伟达",
+        "公司治理",
+        "CEO离职"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-11-22/nvidia-board-faces-a-governance-reckoning-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-22 14:11:25",
+      "impact_score": 277.5
+    },
+    {
+      "index": 2,
+      "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
+      "summary": "11月22日消息，亚马逊即将以75亿美元收购以色列AI初创公司Decart，以增强AWS在算力领域与英伟达的竞争。",
+      "importance": "高",
+      "reason": "重大并购交易，金额巨大且涉及AI算力竞争格局。",
+      "tags": [
+        "亚马逊",
+        "收购",
+        "AI初创"
+      ],
+      "url": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-11-21 17:00:10",
+      "impact_score": 165.0
+    },
+    {
+      "index": 3,
+      "title": "Oracle Says It Has Completed Funding to Fulfil OpenAI Deal",
+      "summary": "11月22日消息，甲骨文宣布已完成为履行与OpenAI合同所需全部融资，筹集了200亿美元额外股权和债务。",
+      "importance": "高",
+      "reason": "重大商业动态，涉及OpenAI合作及巨额融资。",
+      "tags": [
+        "甲骨文",
+        "OpenAI",
+        "融资"
+      ],
+      "url": "https://www.theinformation.com/articles/can-jensen-return",
+      "source": "The Information",
+      "original_pub_date": "2026-11-21 16:13:43",
+      "impact_score": 158.0
+    },
+    {
+      "index": 4,
+      "title": "Governors Call for Federal AI Rules Without Sidelining States",
+      "summary": "11月22日消息，美国两党州长团体呼吁华盛顿为最强大AI系统制定规则，同时允许各州保护消费者、工人和儿童免受技术风险。",
+      "importance": "高",
+      "reason": "重大政策动态，美国州长推动联邦AI立法。",
+      "tags": [
+        "美国",
+        "AI法规",
+        "州长"
+      ],
+      "url": "https://www.bloomberg.com/news/videos/2026-11-22/tech-outages-fuel-a-new-prepping-boom-video",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-22 13:08:10",
+      "impact_score": 142.5
+    },
+    {
+      "index": 5,
+      "title": "Australia Spy Chief Warns of Data Center, AI Risks, Age Reports",
+      "summary": "11月22日消息，澳大利亚情报负责人警告数据中心和人工智能可能使国家面临外国干涉和恶意国家行为者风险。",
+      "importance": "高",
+      "reason": "国家安全警告，涉及AI基础设施风险。",
+      "tags": [
+        "澳大利亚",
+        "AI安全",
+        "数据中心"
+      ],
+      "url": "https://www.ft.com/content/6f807d57-f0ea-4251-9f4d-75a6edc8d49a?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-11-21 05:00:26",
+      "impact_score": 142.5
+    },
+    {
+      "index": 6,
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "summary": "11月22日消息，联合国在日内瓦就自主武器（“杀手机器人”）规则谈判未达成一致，代表们仅同意开始讨论选项。",
+      "importance": "高",
+      "reason": "国际AI武器监管重大失败，影响全球安全。",
+      "tags": [
+        "联合国",
+        "自主武器",
+        "AI监管"
+      ],
+      "url": "https://www.ft.com/content/d501198c-14a4-4b96-8880-c3997545902e",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-11-22 11:00:05",
+      "impact_score": 127.5
+    },
+    {
+      "index": 7,
+      "title": "Crowdstrike’s Talks With Zscaler Show AI-Led Cyber Consolidation",
+      "summary": "11月22日消息，CrowdStrike与Zscaler的谈判显示AI驱动的网络安全行业整合，数十亿美元并购重塑行业以应对AI攻击。",
+      "importance": "高",
+      "reason": "重大商业并购趋势，涉及AI安全领域整合。",
+      "tags": [
+        "网络安全",
+        "并购",
+        "AI"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/crowdstrike-s-talks-with-zscaler-show-ai-led-cyber-consolidation",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-21 19:02:24",
+      "impact_score": 127.5
+    },
+    {
+      "index": 8,
+      "title": "SoftBank’s Masayoshi Son Explored $1 Trillion Moonshot Buyout of SK Hynix",
+      "summary": "11月22日消息，软银CEO孙正义曾探索融资万亿美元收购内存芯片巨头SK海力士，但发言人表示已不再积极考虑。",
+      "importance": "高",
+      "reason": "巨额潜在交易，涉及AI芯片供应链。",
+      "tags": [
+        "软银",
+        "SK海力士",
+        "收购"
+      ],
+      "url": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-11-21 17:21:36",
+      "impact_score": 127.5
+    },
+    {
+      "index": 9,
+      "title": "California Nvidia Probe Covers Potential Criminal Law Violations",
+      "summary": "11月22日消息，加州对英伟达是否非法向中国出售先进芯片并误导投资者的调查涵盖潜在州刑法违规，加大芯片商风险。",
+      "importance": "高",
+      "reason": "重大法律调查，涉及出口管制和刑事风险。",
+      "tags": [
+        "英伟达",
+        "加州调查",
+        "出口管制"
+      ],
+      "url": "https://www.ft.com/content/1dc8290b-8100-434d-963c-79002c15f244?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-11-22 12:00:06",
+      "impact_score": 112.5
+    },
+    {
+      "index": 10,
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "summary": "11月22日消息，Signal限制Android和iOS应用截图功能，以应对AI监控带来的“生存威胁”。",
+      "importance": "中",
+      "reason": "AI安全与隐私重要动态，涉及主流通讯应用。",
+      "tags": [
+        "Signal",
+        "AI监控",
+        "隐私"
+      ],
+      "url": "https://www.theinformation.com/briefings/amazon-nearing-7-5-billion-purchase-decart",
+      "source": "The Information",
+      "original_pub_date": "2026-11-21 18:38:54",
+      "impact_score": 112.5
+    },
+    {
+      "index": 11,
+      "title": "Did Anthropic and its bankers get a key call wrong after IPO?",
+      "summary": "11月22日消息，Anthropic及其银行家在IPO后股价疲软，引发对超额配售权行使过急的质疑。",
+      "importance": "中",
+      "reason": "重要IPO后续动态，反映AI公司上市表现。",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "股价"
+      ],
+      "url": "https://www.theinformation.com/briefings/oracle-says-completed-funding-fulfil-openai-deal",
+      "source": "The Information",
+      "original_pub_date": "2026-11-21 16:09:18",
+      "impact_score": 112.5
+    },
+    {
+      "index": 12,
+      "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+      "summary": "11月22日消息，Anthropic创纪录IPO恰逢华尔街科技股自2020年以来最差一周，英伟达股价创2008年来最长周连跌。",
+      "importance": "中",
+      "reason": "重要市场动态，AI公司IPO与科技股抛售对比。",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "科技股"
+      ],
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-11-21 15:00:00",
+      "impact_score": 112.5
+    },
+    {
+      "index": 13,
+      "title": "Tech suppliers raise AI server prices up to 45% months after deals are signed",
+      "summary": "11月22日消息，戴尔、惠普企业、联想和超微在合同签署数月后将AI服务器价格提高至多45%，增加贸易公司成本。",
+      "importance": "中",
+      "reason": "供应链重要变化，影响AI硬件成本。",
+      "tags": [
+        "AI服务器",
+        "涨价",
+        "供应链"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/australia-spy-chief-warns-of-data-center-ai-risks-age-reports",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-22 02:37:31",
+      "impact_score": 105.0
+    },
+    {
+      "index": 14,
+      "title": "Apple’s AI Agent War, Early 2027 Product Plans and iPhone Duo Face Unlock Review",
+      "summary": "11月22日消息，苹果准备在2027年初推出多款新iPhone、iPad和Mac，并推进AI代理竞争。",
+      "importance": "中",
+      "reason": "重要产品规划，涉及苹果AI战略。",
+      "tags": [
+        "苹果",
+        "AI代理",
+        "产品计划"
+      ],
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-11-21 21:37:10",
+      "impact_score": 93.0
+    },
+    {
+      "index": 15,
+      "title": "Tech Outages Fuel a New Prepping Boom",
+      "summary": "11月22日消息，彭博社报道一波类似重大网络攻击效果的自我造成网络故障，暴露老化基础设施、互联系统和AI快速采用的风险。",
+      "importance": "中",
+      "reason": "AI相关基础设施风险事件，引发安全关注。",
+      "tags": [
+        "网络故障",
+        "AI风险",
+        "基础设施"
+      ],
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-11-21 20:03:37",
+      "impact_score": 93.0
+    }
+  ],
+  "summary": "今日从47条原始信息中精选出4条国内动态和15条国际动态，其中12条为高重要性。 重点关注：工信部发布人工智能产业发展指导意见；中国科学院发布大模型评测报告；特朗普表态：英伟达Blackwell芯片可对华销售，但有个条件；OpenAI被曝入局智能手机赛道；DeepSeek第二轮千亿融资落地，31家出资方入局。",
+  "statistics": {
+    "raw_domestic": 6,
+    "raw_international": 41,
+    "raw_total": 47,
+    "final_domestic": 4,
+    "final_international": 15
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "11月22日消息，工业和信息化部发布《关于促进人工智能产业高质量发展的指导意见》，提出到2027年人工智能核心产业规模超过万亿元的目标。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "11月22日消息，中国科学院发布国产大模型能力评测报告，对主流大模型在多个维度进行了全面评估，为行业发展提供参考。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "11月22日消息，DeepSeek完成第二轮千亿融资，31家出资方入股梁文锋搭建的持股平台，同时字节跳动拟追加5亿美元微软云服务合同。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "11月22日消息，可灵推出Kling Image 4.0图像生成模型，针对商业场景中的文字呈现和局部修改难题进行优化，提升生图模型实用性。",
+      "importance": "中"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "11月22日消息，英伟达董事会因CEO黄仁勋离职暴露公司治理问题，面临外部压力要求其回归，同时接受调查和潜在股东诉讼。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "11月22日消息，亚马逊即将以75亿美元收购以色列AI初创公司Decart，以增强AWS在算力领域与英伟达的竞争。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "11月22日消息，甲骨文宣布已完成为履行与OpenAI合同所需全部融资，筹集了200亿美元额外股权和债务。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "11月22日消息，美国两党州长团体呼吁华盛顿为最强大AI系统制定规则，同时允许各州保护消费者、工人和儿童免受技术风险。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "11月22日消息，澳大利亚情报负责人警告数据中心和人工智能可能使国家面临外国干涉和恶意国家行为者风险。",
+      "importance": "高"
+    }
+  ]
+}
