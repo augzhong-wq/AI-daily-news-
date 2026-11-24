@@ -1,0 +1,148 @@
+======================================================================
+AI每日动态 - 2026-11-24
+生成时间: 2026-11-24 19:26:11
+数据来源: 从 190 条原始信息中精选
+======================================================================
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📋 精简版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+国内动态：
+1、11月24日消息，蚂蚁百灵开源医疗健康预测模型LingSante Pulse，可统一处理多种生理信号并预测未来六年内150种疾病风险，预测可靠性较此前最优模型提升约42%。
+2、11月24日消息，蚂蚁阿福发布新版App，上线实时视频“看健康”功能，升级AI健康管家，并推出AI健康手环和戒指，同时开源百灵医疗健康模型家族，加速打通AI健康服务闭环。
+3、11月24日消息，蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，并宣布向全球开源核心引擎AI数据库，旨在统一管理多模态数据，为Agent提供业务上下文。
+4、11月24日消息，蚂蚁OceanBase发布湖库一体AI数据平台OceanLake并开源核心引擎OceanSeek，CTO杨传辉解读湖库一体、在离线一体、Agent友好三大关键能力。
+5、11月24日消息，蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源，推动中国AI数据平台加速崛起。
+
+国际动态：
+1、11月24日消息，美国商务部将新加坡云计算与AI基础设施公司Megaspeed列入实体清单，认定其构成国家安全风险，限制其获取先进AI芯片的能力。
+2、11月24日消息，美国网络安全公司CrowdStrike同意以439亿美元全股票交易收购Zscaler，成为网络安全领域史上最大并购，整合端点安全与零信任网络访问两大业务。
+3、11月24日消息，美国企业客户体验AI公司Sierra完成17.5亿美元F轮融资，估值在六个月内翻倍至300亿美元，显示市场对AI客户体验需求激增。
+4、11月24日消息，亚马逊以约75亿美元收购Decart，旨在通过软件优化提升其Trainium芯片效率，缩小与英伟达在AI芯片领域的差距。
+5、11月24日消息，美国AI公司Anthropic股价跌破IPO发行价，上市后表现疲软，可能对AI初创企业估值形成压力。
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║                         📰 完整版报告                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+【国内动态】
+--------------------------------------------------
+1、🔥 11月24日消息，蚂蚁百灵开源医疗健康预测模型LingSante Pulse，可统一处理多种生理信号并预测未来六年内150种疾病风险，预测可靠性较此前最优模型提升约42%。
+   📋 入选理由: 中国公司蚂蚁开源重大医疗AI模型，属重大学术与产品突破。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/medigital/P6Ota0mqLwk8wsN2.html
+   🏷️ 标签: 开源, 医疗AI, 疾病预测
+
+2、🔥 11月24日消息，蚂蚁阿福发布新版App，上线实时视频“看健康”功能，升级AI健康管家，并推出AI健康手环和戒指，同时开源百灵医疗健康模型家族，加速打通AI健康服务闭环。
+   📋 入选理由: 蚂蚁集团重大产品发布与生态布局，属国内AI健康领域重要动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/lVVGnHDROrkdwJLp.html
+   🏷️ 标签: 产品发布, AI健康, 开源
+
+3、🔥 11月24日消息，蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，并宣布向全球开源核心引擎AI数据库，旨在统一管理多模态数据，为Agent提供业务上下文。
+   📋 入选理由: 蚂蚁OceanBase重大产品发布与开源，属国内AI基础设施重要动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/vo7BI6hIy3wL6Mi4.html
+   🏷️ 标签: 产品发布, AI数据平台, 开源
+
+4、🔥 11月24日消息，蚂蚁OceanBase发布湖库一体AI数据平台OceanLake并开源核心引擎OceanSeek，CTO杨传辉解读湖库一体、在离线一体、Agent友好三大关键能力。
+   📋 入选理由: 蚂蚁OceanBase重大产品发布与技术解读，属国内AI数据基础设施重要动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/HXbRi8ascVBkUsJP.html
+   🏷️ 标签: 产品发布, AI数据平台, 技术解读
+
+5、🔥 11月24日消息，蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源，推动中国AI数据平台加速崛起。
+   📋 入选理由: 蚂蚁OceanBase重大产品发布与开源，属国内AI数据平台重要动态。
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/11/512330.html
+   🏷️ 标签: 产品发布, 开源, AI数据平台
+
+6、🔥 11月24日消息，百度文心5.5 Flash Preview正式开源，采用Apache 2.0协议，为开发者提供免费商用的大模型选择。
+   📋 入选理由: 百度重大模型开源，属国内AI产品发布重要动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/zaobao/Ao31dQuXPBTU7qpK.html
+   🏷️ 标签: 开源, 大模型, 百度
+
+7、📌 11月24日消息，豆包工作宣布接入多款第三方大模型并下调消耗倍率，超八成日常办公任务可免费完成，同时推出新用户会员及签到额度等优惠。
+   📋 入选理由: 字节跳动旗下豆包重大产品优惠与生态扩展，属国内AI商业动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/ICe6gznRO80vcMxl.html
+   🏷️ 标签: 产品动态, 大模型, 免费
+
+8、📌 11月24日消息，百度智能云联合香港特区政府及多家企业发起香港前沿科技产业发展联盟，聚焦人工智能、智能装备等领域，助力具身智能企业拓展全球市场。
+   📋 入选理由: 百度智能云重大战略合作，属国内AI产业生态动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/SWU1FnevSoIn4MNM.html
+   🏷️ 标签: 战略合作, 具身智能, 大湾区
+
+9、📌 11月24日消息，华金证券正式接入千问办公，打造“投研、投管、投监”三位一体AI工作台，沉淀73个专业AI技能，将盘前研究准备时间从2小时压缩至10分钟以内。
+   📋 入选理由: 阿里千问办公重大商业落地案例，属国内AI企业应用动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/uFuwhvMHGUY0Qeu0.html
+   🏷️ 标签: 商业落地, AI办公, 证券
+
+10、📌 11月24日消息，中国建设报社发布《住房公积金智能化应用创新案例集》，17个地方案例中10个采用支付宝民生办事AI全场景解决方案，覆盖政策咨询、办事引导等场景。
+   📋 入选理由: 支付宝参与政务AI建设，属国内AI政务应用重要动态。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/ubwFeDsrkrcQf1BB.html
+   🏷️ 标签: 政务AI, 支付宝, 案例发布
+
+11、📌 11月24日消息，蚂蚁OceanBase披露2026年经营进展，专有云政企客户数首次与金融客户持平，已服务22个省级数字政府和约三分之一央企核心系统。
+   📋 入选理由: 蚂蚁OceanBase政企业务重大进展，属国内AI数据基础设施商业动态。
+   📰 来源: 量子位 | 🔗 https://www.qbitai.com/2026/11/512305.html
+   🏷️ 标签: 政企服务, 数据底座, 商业进展
+
+12、📌 11月24日消息，雷峰早报汇总：英伟达恢复黄仁勋CEO职务；DeepSeek最新估值或达6078亿元；蚂蚁开源医疗AI模型家族；智谱发布新一代大模型GLM-5.4。
+   📋 入选理由: 包含DeepSeek估值、智谱发布GLM-5.4等国内AI重要动态，但为早报汇总。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/znn4Mo8Qqn4i7HES.html
+   🏷️ 标签: 早报, 估值, 大模型
+
+13、📌 11月24日消息，雷峰早报汇总：华为星芒限时售价5499元起，总经理刘赫回应定价高称选择创新优先；英伟达H200芯片对华出口政策出现反复。
+   📋 入选理由: 包含华为产品定价与回应等国内动态，但为早报汇总。
+   📰 来源: AI科技评论 | 🔗 https://www.leiphone.com/category/industrynews/b7Pw487MPHsDMSyR.html
+   🏷️ 标签: 早报, 华为, 芯片
+
+
+【国际动态】
+--------------------------------------------------
+1、🔥 11月24日消息，美国商务部将新加坡云计算与AI基础设施公司Megaspeed列入实体清单，认定其构成国家安全风险，限制其获取先进AI芯片的能力。
+   📋 入选理由: 美国政府对海外AI相关公司实施出口管制，属于重大政策与法规动态。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/briefings/trump-administration-will-add-nvidia-linked-megaspeed-trade-blacklist
+   🏷️ 标签: 实体清单, 出口管制, 国家安全
+
+2、🔥 11月24日消息，美国网络安全公司CrowdStrike同意以439亿美元全股票交易收购Zscaler，成为网络安全领域史上最大并购，整合端点安全与零信任网络访问两大业务。
+   📋 入选理由: 美国公司间超大规模并购，涉及AI安全领域，属于重大商业动态。
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-11-24/kunst-founder-exceptionalism-has-a-cost-video
+   🏷️ 标签: 并购, 网络安全, AI安全
+
+3、🔥 11月24日消息，美国企业客户体验AI公司Sierra完成17.5亿美元F轮融资，估值在六个月内翻倍至300亿美元，显示市场对AI客户体验需求激增。
+   📋 入选理由: 美国AI初创公司大额融资，估值快速翻倍，属于重大商业动态。
+   📰 来源: Financial Times Tech | 🔗 https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?syn-25a6b1a6=1
+   🏷️ 标签: 融资, AI客户体验, 估值
+
+4、🔥 11月24日消息，亚马逊以约75亿美元收购Decart，旨在通过软件优化提升其Trainium芯片效率，缩小与英伟达在AI芯片领域的差距。
+   📋 入选理由: 美国科技巨头重大收购，涉及AI芯片竞争格局，属于重大商业动态。
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-11-24/bloomberg-tech-11-24-2026-video
+   🏷️ 标签: 收购, AI芯片, 亚马逊
+
+5、📌 11月24日消息，美国AI公司Anthropic股价跌破IPO发行价，上市后表现疲软，可能对AI初创企业估值形成压力。
+   📋 入选理由: 美国AI公司IPO后股价破发，反映市场对AI初创估值担忧，属于重要商业动态。
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-11-24/nvidia-s-huang-to-face-scrutiny-on-capitol-hill-video
+   🏷️ 标签: IPO, 估值, AI初创
+
+6、📌 11月24日消息，马斯克旗下xAI的三位创始成员联合创立新AI公司，目标是通过人工智能预测未来事件，已启动初步研发。
+   📋 入选理由: 美国AI领域新初创公司成立，由知名团队创办，属于商业动态。
+   📰 来源: Bloomberg Technology | 🔗 https://www.bloomberg.com/news/videos/2026-11-24/durability-of-ai-demand-continues-says-hpe-ceo-neri-video
+   🏷️ 标签: 初创公司, AI预测, xAI
+
+7、📌 11月24日消息，英伟达前CEO黄仁勋的深度伪造视频在Instagram上广泛传播，其中一段在伊维萨岛派对的视频观看量近600万次，引发AI伦理关注。
+   📋 入选理由: 涉及美国公司高管的AI深度伪造事件，属于安全与伦理动态。
+   📰 来源: The Verge AI | 🔗 https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang
+   🏷️ 标签: 深度伪造, AI伦理, 英伟达
+
+8、📌 11月24日消息，OpenAI计划将网络安全业务规模扩大至超过编程业务，但具体路线图仍不清晰，市场对其战略执行存疑。
+   📋 入选理由: 美国AI领军企业OpenAI的业务战略动向，属于重要商业动态。
+   📰 来源: The Information | 🔗 https://www.theinformation.com/articles/nvidia-reinstates-jensen-huang
+   🏷️ 标签: OpenAI, 网络安全, 战略
+
+9、📄 11月24日消息，Kyndryl CEO马丁·施罗特指出，许多企业在AI试点后难以规模化，缺乏现代基础设施和适应新工作方式的团队，阻碍AI部署。
+   📋 入选理由: 美国企业高管对AI规模化挑战的评论，属于行业观察。
+   📰 来源: TechCrunch AI | 🔗 https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/
+   🏷️ 标签: AI规模化, 基础设施, 企业应用
+
+
+======================================================================
+📊 今日总结: 今日从190条原始信息中精选出13条国内动态和9条国际动态，其中10条为高重要性。 重点关注：蚂蚁开源医疗健康预测模型，根据睡眠数据可预测未来六年150种疾病风险；从“望闻问切”到开源模型，蚂蚁阿福加速打通AI健康服务闭环；蚂蚁OceanBase发布AI数据平台：统一管理多模态数据，为Agent提供业务上下文。
+======================================================================
