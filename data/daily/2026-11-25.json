@@ -1,0 +1,594 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25 18:32:14",
+  "domestic": [
+    {
+      "index": 1,
+      "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
+      "summary": "11月25日消息，九章云极在深圳发布物理AI工厂与生态开放计划，旨在以算力推动物理AI从实验室走向真实场景，加速产业落地。",
+      "importance": "高",
+      "reason": "九章云极是中国AI基础设施企业，发布物理AI工厂属于重大产品与生态战略，对国内物理AI发展有重要影响。",
+      "tags": [
+        "九章云极",
+        "物理AI",
+        "生态开放"
+      ],
+      "url": "https://www.qbitai.com/2026/11/512582.html",
+      "source": "量子位",
+      "original_pub_date": "2026-11-25 14:21:20",
+      "impact_score": 285.0
+    },
+    {
+      "index": 2,
+      "title": "九章云极开放两大接口，携手伙伴共建物理AI产业生态",
+      "summary": "11月25日消息，九章云极宣布开放Physical AI Infra API和Physical AI Dev API两大接口，并联合二十余家伙伴成立极光物理AI产业生态联盟，降低研发协同成本。",
+      "importance": "高",
+      "reason": "九章云极是中国公司，开放接口和成立产业联盟属于重大生态合作，推动物理AI产业协作。",
+      "tags": [
+        "九章云极",
+        "API开放",
+        "产业联盟"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/GMIW0ZLuJPyQHSR4.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-25 11:04:00",
+      "impact_score": 285.0
+    },
+    {
+      "index": 3,
+      "title": "芯片研发上云后，沐曦和火山引擎一起走进更多AI应用现场",
+      "summary": "11月25日消息，沐曦股份与火山引擎合作将科学计算迁移至云上，测试效率提升40%，并联合探索GPU算力与智能体平台行业方案，深化产业生态合作。",
+      "importance": "高",
+      "reason": "沐曦和火山引擎均为中国公司，合作涉及芯片研发上云和AI应用落地，属于重大商业动态。",
+      "tags": [
+        "沐曦",
+        "火山引擎",
+        "云计算"
+      ],
+      "url": "https://www.leiphone.com/category/chips/omZ0PFr6zVtmUnap.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-25 13:56:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 4,
+      "title": "千问Go全面开放免费代打电话服务，支持订餐厅、找快递、寻失物",
+      "summary": "11月25日消息，千问Go全面开放免费代打电话服务，用户授权后AI可代为联系餐厅、酒店、快递等，并设有安全防护机制筛查风险请求。",
+      "importance": "高",
+      "reason": "千问是阿里巴巴旗下产品，全面开放代打电话服务属于重大产品发布，面向大众用户，影响广泛。",
+      "tags": [
+        "千问",
+        "AI助手",
+        "免费服务"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/qpNTm1Kc6QN6mVY3.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-25 10:20:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 5,
+      "title": "AI加速酒店从标准化到'千店千策'，中国饭店协会联合千问办公发布酒旅行业白皮书",
+      "summary": "11月25日消息，中国饭店协会联合千问办公发布酒旅行业白皮书，指出AI正渗入行业全链条管理，通过千店千策协助酒店转型个性化经营。",
+      "importance": "高",
+      "reason": "中国饭店协会和千问办公均为中国主体，白皮书发布属于行业重要报告，推动AI在酒旅行业应用。",
+      "tags": [
+        "千问办公",
+        "酒旅行业",
+        "白皮书"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/L9rc3Khgc8pFgYtD.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-25 02:28:00",
+      "impact_score": 210.0
+    },
+    {
+      "index": 6,
+      "title": "新希望乳业'产供销服'全领域接入千问办公",
+      "summary": "11月25日消息，新希望乳业在生产经营、供应链、财务、销售等领域全面接入千问办公，牛群结构预测时间由一周缩短至分钟级，误差不到3%。",
+      "importance": "高",
+      "reason": "新希望乳业和千问办公均为中国主体，全面接入AI办公属于重大商业应用案例，展示AI提效成果。",
+      "tags": [
+        "新希望乳业",
+        "千问办公",
+        "AI应用"
+      ],
+      "url": "https://www.leiphone.com/category/weiwu/4Hb8s6tRcpRrICqZ.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-25 10:19:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 7,
+      "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
+      "summary": "11月25日消息，智元推出行业首个开放具身智能生态技术体系AIMA，其灵心平台一年孵化超3万个机器人智能体，降低开发门槛。",
+      "importance": "高",
+      "reason": "智元是中国具身智能公司，发布开放生态技术体系并孵化大量智能体，属于重大产品与生态进展。",
+      "tags": [
+        "智元",
+        "具身智能",
+        "AIMA"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/PiVtVm8Sy8CGtTb1.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-25 09:32:00",
+      "impact_score": 195.0
+    },
+    {
+      "index": 8,
+      "title": "AI能力突飞猛进，企业为何还没释放数据生产力？",
+      "summary": "11月25日消息，蚂蚁OceanBase在北京举行AI数据大会，与会专家指出企业需重视私有数据与底层基础设施，以释放AI生产力。",
+      "importance": "高",
+      "reason": "蚂蚁集团是中国公司，OceanBase举办AI数据大会，聚焦企业数据生产力，属于重要行业活动。",
+      "tags": [
+        "蚂蚁OceanBase",
+        "AI数据",
+        "企业转型"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/H4iZNCKzlaIQCei3.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-25 09:22:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 9,
+      "title": "九章云极携手多方战略合作，物理AI工厂生态协作走进真实场景",
+      "summary": "11月25日消息，九章云极与深圳龙华区工信局、清程智汇、怡亚通等签署物理AI工厂项目战略合作协议，并与佳都科技、数字政通签署算力产业协同协议。",
+      "importance": "高",
+      "reason": "九章云极是中国公司，与多方签署战略合作，推动物理AI工厂落地，属于重大商业合作动态。",
+      "tags": [
+        "九章云极",
+        "战略合作",
+        "物理AI"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/rfxUGiq3uRAZJslx.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-25 06:51:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 10,
+      "title": "多模型协同落地，浙江人形NAVIAI提升长序列任务作业稳定性",
+      "summary": "11月25日消息，浙江人形机器人创新中心推出SPIRE 2.0全链路任务对齐具身智能体系，以多模型协同提升机器人在复杂物理环境中的长序列任务稳定性。",
+      "importance": "高",
+      "reason": "浙江人形是中国研究机构，发布具身智能新体系，属于重大学术与产品突破。",
+      "tags": [
+        "浙江人形",
+        "具身智能",
+        "SPIRE 2.0"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/vJY0MGRzRVddA3AW.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-25 07:06:00",
+      "impact_score": 180.0
+    },
+    {
+      "index": 11,
+      "title": "逐际动力与商汤大装置达成合作，以高质量算力全面支撑机器人仿真训练与测试",
+      "summary": "11月25日消息，逐际动力与商汤大装置达成合作，以高质量算力全面支撑机器人仿真训练与测试，贯通具身智能研发流程。",
+      "importance": "高",
+      "reason": "逐际动力和商汤均为中国公司，合作涉及具身智能算力支撑，属于重要商业合作。",
+      "tags": [
+        "逐际动力",
+        "商汤",
+        "具身智能"
+      ],
+      "url": "https://www.qbitai.com/2026/11/512715.html",
+      "source": "量子位",
+      "original_pub_date": "2026-11-25 14:32:57",
+      "impact_score": 150.0
+    },
+    {
+      "index": 12,
+      "title": "中国算力采购信心指数启动 九章云极核心共建算力市场先行指标",
+      "summary": "11月25日消息，中国经济信息社新华指数研究院宣布启动中国算力采购信心指数，九章云极作为核心共建单位参与指数体系搭建，提供市场先行指标。",
+      "importance": "高",
+      "reason": "中国经济信息社和九章云极均为中国主体，启动算力采购信心指数属于行业重要指标建设，影响算力市场决策。",
+      "tags": [
+        "九章云极",
+        "算力指数",
+        "新华指数"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/4Q0TOJ3F8a95ZXGq.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-25 06:49:00",
+      "impact_score": 150.0
+    },
+    {
+      "index": 13,
+      "title": "元材新界发布FrontierMat：330道真实研发难题难住GPT-6 Astra，自研跨尺度材料大模型登顶",
+      "summary": "11月25日消息，元材新界发布跨尺度材料大模型FrontierMat，在330道真实研发难题上表现超越GPT-6 Astra，登顶材料研发基准。",
+      "importance": "中",
+      "reason": "元材新界是中国公司，发布材料大模型并取得SOTA，属于重大学术与产品突破，但影响力稍逊于前几条。",
+      "tags": [
+        "元材新界",
+        "材料大模型",
+        "FrontierMat"
+      ],
+      "url": "https://www.leiphone.com/category/chips/JWelmQaWCBCTOJi3.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-25 13:59:00",
+      "impact_score": 135.0
+    },
+    {
+      "index": 14,
+      "title": "独家丨哥大博士创业做眼动追踪，已获1800万种子轮融资",
+      "summary": "11月25日消息，观格科技完成1800万元种子轮融资，并获香港理工大学技术许可，公司专注传感技术和AI算法，应用于XR装置。",
+      "importance": "中",
+      "reason": "观格科技是中国创业公司，融资属于商业动态，但金额未达10亿，重要性中等。",
+      "tags": [
+        "观格科技",
+        "融资",
+        "眼动追踪"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/KnGzlsg6xlU9Nnpk.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-25 13:51:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 15,
+      "title": "拓竹P3C发布：旗舰同源，多色多材料打印走向大众时代",
+      "summary": "11月25日消息，拓竹发布第三代3D打印机P3C，标准套装售价7999元，搭载多头闪切系统等三大核心技术，将旗舰级多色多材料能力带给更多用户。",
+      "importance": "中",
+      "reason": "拓竹是中国公司，发布消费级3D打印机，属于产品发布，但AI相关性较低，重要性中等。",
+      "tags": [
+        "拓竹",
+        "3D打印",
+        "P3C"
+      ],
+      "url": "https://www.leiphone.com/category/zaobao/1ER4gdHHQ4gNFpKi.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-25 10:39:00",
+      "impact_score": 130.0
+    },
+    {
+      "index": 16,
+      "title": "大疆Osmo Action 6以旗舰影像拓展街拍，Action系列双11销量份额超八成",
+      "summary": "11月25日消息，大疆推出Osmo Action 6街拍大师套装，双11期间Action系列销量份额达83.3%，位居运动相机品类第一。",
+      "importance": "中",
+      "reason": "大疆是中国公司，发布运动相机新品并公布销售数据，属于产品与商业动态，但AI属性较弱。",
+      "tags": [
+        "大疆",
+        "运动相机",
+        "Osmo Action 6"
+      ],
+      "url": "https://www.qbitai.com/2026/11/512515.html",
+      "source": "量子位",
+      "original_pub_date": "2026-11-25 07:46:52",
+      "impact_score": 127.5
+    },
+    {
+      "index": 17,
+      "title": "冻薪、加班、砍休息时长！大众汽车降本连招惹怒工会：员工抬着棺材威胁罢工；黄仁勋：英伟达不需要接班人计划；红果短剧上线「时间锁」",
+      "summary": "11月25日消息，红果短剧上线时间锁功能，同时阿里巴巴回应新加坡子公司被列入美实体清单，长城汽车魏建军自曝压力大。",
+      "importance": "中",
+      "reason": "新闻涉及中国公司阿里巴巴、长城汽车、红果短剧等，但内容较杂，AI相关性一般，重要性中等。",
+      "tags": [
+        "阿里巴巴",
+        "红果短剧",
+        "实体清单"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/Cnxqgh4z73YfXvCm.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-25 10:44:00",
+      "impact_score": 120.0
+    },
+    {
+      "index": 18,
+      "title": "阿维塔06T Max先锋版上新，限时权益后19.99万元",
+      "summary": "11月25日消息，阿维塔06T Max先锋版正式上新，官方售价21.99万元，限时权益后19.99万元，标配华为激光雷达与分布式电驱。",
+      "importance": "中",
+      "reason": "阿维塔是中国公司，新车发布属于商业动态，但AI相关性较低，重要性中等。",
+      "tags": [
+        "阿维塔",
+        "新车发布",
+        "华为"
+      ],
+      "url": "https://www.leiphone.com/category/ai/12hVnzl8xc2Hblwx.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-25 07:12:00",
+      "impact_score": 115.0
+    },
+    {
+      "index": 19,
+      "title": "搭载线控数字底盘，第三代唐售价18.79万-21.99万元",
+      "summary": "11月25日消息，比亚迪王朝网第三代唐上市，售价18.79万至21.99万元，顶配可选装线控数字底盘，实现转向与制动电信号控制。",
+      "importance": "中",
+      "reason": "比亚迪是中国公司，新车上市属于商业动态，但AI相关性较低，重要性中等。",
+      "tags": [
+        "比亚迪",
+        "第三代唐",
+        "线控底盘"
+      ],
+      "url": "https://www.qbitai.com/2026/11/512683.html",
+      "source": "量子位",
+      "original_pub_date": "2026-11-25 14:20:24",
+      "impact_score": 112.5
+    },
+    {
+      "index": 20,
+      "title": "我以为这是摄影作品，你告诉我这是最新的国产AI？！",
+      "summary": "11月25日消息，商汤发布SenseNova U1.6模型，生成图像质量接近摄影作品，展示国产AI在视觉生成领域的进步。",
+      "importance": "中",
+      "reason": "商汤是中国公司，发布新模型属于产品动态，但新闻标题较模糊，重要性中等。",
+      "tags": [
+        "商汤",
+        "SenseNova",
+        "图像生成"
+      ],
+      "url": "https://www.leiphone.com/category/chips/G3lWNUyVJphxOTU2.html",
+      "source": "AI科技评论",
+      "original_pub_date": "2026-11-25 14:01:00",
+      "impact_score": 105.0
+    }
+  ],
+  "international": [
+    {
+      "index": 1,
+      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+      "summary": "11月25日消息，亚马逊以约75亿美元收购Decart，旨在通过软件优化提升其Trainium芯片效率，缩小与英伟达的算力差距。",
+      "importance": "高",
+      "reason": "重大并购，涉及AI芯片竞争格局，金额巨大。",
+      "tags": [
+        "亚马逊",
+        "Decart",
+        "收购",
+        "AI芯片"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/elevenlabs-in-early-talks-for-2027-funding-at-33-billion-value",
+      "source": "Bloomberg Technology",
+      "original_pub_date": "2026-11-25 18:24:57",
+      "impact_score": 240.0
+    },
+    {
+      "index": 2,
+      "title": "ElevenLabs in Early Talks for 2027 Funding at $33 Billion Value",
+      "summary": "11月25日消息，AI语音公司ElevenLabs正就2027年融资进行初步谈判，目标估值达330亿美元，凸显语音AI赛道热度。",
+      "importance": "高",
+      "reason": "大额融资谈判，估值极高，反映AI语音领域资本活跃。",
+      "tags": [
+        "ElevenLabs",
+        "融资",
+        "估值",
+        "AI语音"
+      ],
+      "url": "https://www.theinformation.com/articles/big-companies-sucking-fundraising-oxygen-room",
+      "source": "The Information",
+      "original_pub_date": "2026-11-24 23:31:24",
+      "impact_score": 210.0
+    },
+    {
+      "index": 3,
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "summary": "11月25日消息，Anthropic股价跌破83美元发行价，上市后表现疲软，可能对AI初创企业估值构成压力。",
+      "importance": "高",
+      "reason": "AI明星公司IPO后破发，影响行业估值预期。",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "股价",
+        "估值"
+      ],
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-11-24 18:30:42",
+      "impact_score": 210.0
+    },
+    {
+      "index": 4,
+      "title": "The investigations facing Nvidia and Jensen Huang",
+      "summary": "11月25日消息，英伟达及CEO黄仁勋面临联邦、州当局、国会和股东的多项调查，涉及国家安全与公司治理问题。",
+      "importance": "高",
+      "reason": "重大监管调查，涉及芯片巨头与国家安全。",
+      "tags": [
+        "英伟达",
+        "黄仁勋",
+        "调查",
+        "监管"
+      ],
+      "url": "https://ainowinstitute.org/news/press/too-big-to-fire-jensen-huang-is-back-at-nvidia-questions-loom-over-ai-boom-u-s-china-relations",
+      "source": "AI Now Institute",
+      "original_pub_date": "2026-11-24 16:48:31",
+      "impact_score": 210.0
+    },
+    {
+      "index": 5,
+      "title": "Chinese AI Firms Confront Dire Future as U.S. Tightens Access to Chips and Tokens",
+      "summary": "11月25日消息，美国商务部新规收紧芯片与令牌获取渠道，中国AI模型开发商面临严峻未来，依赖路径被切断。",
+      "importance": "高",
+      "reason": "美国出口管制升级，影响中国AI产业，属国际政策动态。",
+      "tags": [
+        "美国商务部",
+        "出口管制",
+        "中国AI",
+        "芯片"
+      ],
+      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-11-24 15:51:07",
+      "impact_score": 210.0
+    },
+    {
+      "index": 6,
+      "title": "Brussels presses porn sites to introduce tougher age checks",
+      "summary": "11月25日消息，欧盟委员会敦促成人网站实施更严格的年龄验证，以避免即将到来的罚款，相关网站寻求达成协议。",
+      "importance": "中",
+      "reason": "欧盟监管动态，涉及AI年龄验证技术应用。",
+      "tags": [
+        "欧盟",
+        "年龄验证",
+        "监管",
+        "罚款"
+      ],
+      "url": "https://arxiv.org/abs/2611.31346",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-11-25 05:00:00",
+      "impact_score": 200.0
+    },
+    {
+      "index": 7,
+      "title": "Signal joins United Airlines, banks in limiting AI agents over customer risks",
+      "summary": "11月25日消息，Signal加入美联航和摩根大通行列，限制AI代理的使用以降低客户风险，反映企业对AI安全的担忧。",
+      "importance": "中",
+      "reason": "海外企业限制AI代理，体现AI安全与伦理动态。",
+      "tags": [
+        "Signal",
+        "AI代理",
+        "安全",
+        "客户风险"
+      ],
+      "url": "https://arxiv.org/abs/2611.31475",
+      "source": "arXiv AI",
+      "original_pub_date": "2026-11-25 05:00:00",
+      "impact_score": 185.0
+    },
+    {
+      "index": 8,
+      "title": "Jensen Huang deepfakes are the hot new AI slop",
+      "summary": "11月25日消息，英伟达前CEO黄仁勋的深度伪造视频在Instagram获近600万播放，成为热门AI垃圾内容，引发安全担忧。",
+      "importance": "中",
+      "reason": "深度伪造事件，涉及AI安全与伦理。",
+      "tags": [
+        "深度伪造",
+        "黄仁勋",
+        "AI安全",
+        "虚假信息"
+      ],
+      "url": "https://www.ft.com/content/b68742ac-f7b9-4aca-b4d9-48245e749b60?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-11-25 11:25:34",
+      "impact_score": 180.0
+    },
+    {
+      "index": 9,
+      "title": "MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake",
+      "summary": "11月25日消息，研究人员发布MOZAIC音视频深度伪造基准，可区分伪造片段依赖图像、声音还是编码痕迹，提升检测能力。",
+      "importance": "中",
+      "reason": "学术突破，提供细粒度深度伪造检测基准。",
+      "tags": [
+        "深度伪造",
+        "基准",
+        "学术",
+        "检测"
+      ],
+      "url": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
+      "source": "Financial Times Tech",
+      "original_pub_date": "2026-11-24 21:11:37",
+      "impact_score": 180.0
+    },
+    {
+      "index": 10,
+      "title": "What People Choose Not to Say: A Multimodal Benchmark for Fine-Grained Information Manipulation in Conversations",
+      "summary": "11月25日消息，研究者提出多模态基准，用于细粒度评估对话中的信息操纵行为，超越粗粒度情感识别。",
+      "importance": "低",
+      "reason": "学术论文，关注对话信息操纵，属AI安全伦理研究。",
+      "tags": [
+        "多模态",
+        "信息操纵",
+        "基准",
+        "学术"
+      ],
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "source": "TechCrunch AI",
+      "original_pub_date": "2026-11-25 00:12:02",
+      "impact_score": 173.0
+    },
+    {
+      "index": 11,
+      "title": "SpatialCraft: Evolving Procedural Intelligence from Experience and Skills for Spatial Reasoning Agents",
+      "summary": "11月25日消息，研究者提出SpatialCraft框架，通过经验与技能进化空间推理智能体的程序化智能，减少对外部工具的依赖。",
+      "importance": "低",
+      "reason": "学术突破，提升空间推理智能体能力。",
+      "tags": [
+        "空间推理",
+        "智能体",
+        "学术",
+        "框架"
+      ],
+      "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+      "source": "The Verge AI",
+      "original_pub_date": "2026-11-24 16:30:00",
+      "impact_score": 173.0
+    },
+    {
+      "index": 12,
+      "title": "A ‘Mathathon’ reimagines math in the age of AI",
+      "summary": "11月25日消息，一场数学马拉松活动重新构想AI时代的数学研究，探讨数学家与AI如何共存合作。",
+      "importance": "低",
+      "reason": "学术活动，反映AI对数学研究的影响。",
+      "tags": [
+        "数学",
+        "AI",
+        "学术",
+        "合作"
+      ],
+      "url": "https://www.theinformation.com/articles/openais-roadmap-making-cyber-bigger-coding-remains-blurry",
+      "source": "The Information",
+      "original_pub_date": "2026-11-24 15:01:30",
+      "impact_score": 173.0
+    }
+  ],
+  "summary": "今日从172条原始信息中精选出20条国内动态和12条国际动态，其中17条为高重要性。 重点关注：算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划；九章云极开放两大接口，携手伙伴共建物理AI产业生态；芯片研发上云后，沐曦和火山引擎一起走进更多AI应用现场。",
+  "statistics": {
+    "raw_domestic": 26,
+    "raw_international": 146,
+    "raw_total": 172,
+    "final_domestic": 20,
+    "final_international": 12
+  },
+  "domestic_brief": [
+    {
+      "index": 1,
+      "summary": "11月25日消息，九章云极在深圳发布物理AI工厂与生态开放计划，旨在以算力推动物理AI从实验室走向真实场景，加速产业落地。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "11月25日消息，九章云极宣布开放Physical AI Infra API和Physical AI Dev API两大接口，并联合二十余家伙伴成立极光物理AI产业生态联盟，降低研发协同成本。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "11月25日消息，沐曦股份与火山引擎合作将科学计算迁移至云上，测试效率提升40%，并联合探索GPU算力与智能体平台行业方案，深化产业生态合作。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "11月25日消息，千问Go全面开放免费代打电话服务，用户授权后AI可代为联系餐厅、酒店、快递等，并设有安全防护机制筛查风险请求。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "11月25日消息，中国饭店协会联合千问办公发布酒旅行业白皮书，指出AI正渗入行业全链条管理，通过千店千策协助酒店转型个性化经营。",
+      "importance": "高"
+    }
+  ],
+  "international_brief": [
+    {
+      "index": 1,
+      "summary": "11月25日消息，亚马逊以约75亿美元收购Decart，旨在通过软件优化提升其Trainium芯片效率，缩小与英伟达的算力差距。",
+      "importance": "高"
+    },
+    {
+      "index": 2,
+      "summary": "11月25日消息，AI语音公司ElevenLabs正就2027年融资进行初步谈判，目标估值达330亿美元，凸显语音AI赛道热度。",
+      "importance": "高"
+    },
+    {
+      "index": 3,
+      "summary": "11月25日消息，Anthropic股价跌破83美元发行价，上市后表现疲软，可能对AI初创企业估值构成压力。",
+      "importance": "高"
+    },
+    {
+      "index": 4,
+      "summary": "11月25日消息，英伟达及CEO黄仁勋面临联邦、州当局、国会和股东的多项调查，涉及国家安全与公司治理问题。",
+      "importance": "高"
+    },
+    {
+      "index": 5,
+      "summary": "11月25日消息，美国商务部新规收紧芯片与令牌获取渠道，中国AI模型开发商面临严峻未来，依赖路径被切断。",
+      "importance": "高"
+    }
+  ]
+}
